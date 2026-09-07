@@ -1,0 +1,2422 @@
+{
+  "editionId": "e_UCH1839",
+  "workId": "w_UCH",
+  "editionCode": "UCH1839",
+  "editionIdentifierYear": "1839",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "Die Union Choral Harmonie / The Union Choral Harmony",
+    "publicationYear": "1839"
+  },
+  "states": [],
+  "scholarlyRecord": null,
+  "sources": [],
+  "relationships": [],
+  "publicationStatus": null,
+  "internalNote": "Built from Kevin's own per-song extraction CSV (UCH1839_complete_271_tunes.csv), 271 songs, pages 1-192 - the tenth edition, with additions and improvements, of Henry C. Eyer's bilingual German/English tunebook. Stereotyped by John Fagan, Philadelphia; copyright entered 1839 by Eyer in the clerk's office of the eastern district of Pennsylvania - confirmed directly from the title and copyright pages. No explicit publisher statement appears anywhere in the supplied pages (only the stereotyper), so publisher is left unset here and on the Library's own edition record rather than guessed. Kevin confirmed directly that page 192 is the true end of the book; earlier drafts of this extraction's own tracking record (an uploaded extraction-state snapshot) had marked the book incomplete at page 170, before the remaining pages were supplied - that snapshot is now superseded by this 271-song CSV. Real numbering irregularities in the book's own printed catalog numbers are preserved as printed, not corrected: Funeral Thought and Eternity both carry No. 53; Contemplation (p.42) duplicates Friendship's own No. 76; no tune carries No. 74 at all; Clifford (No. 148) and Pebmarsh (No. 145) appear out of sequence; David's Lamentation/Come Ye Disconsolate both carry No. 206, and Claremont/New York both carry No. 208. Two visual/layout notes from the extraction are preserved in the data itself: page 24 places Mahony (No. 37) above Calvary (No. 36), and page 57's own upper portion concludes the prior tune (Transport) rather than starting a new one, so Exhortation is keyed to 57 despite not beginning at the top of the page. The extraction's own reconciliation of the book's German first-line and English tune-title indexes against these final tune pages has not been separately confirmed; this is a first-pass build from the completed extraction CSV alone.",
+  "songs": {
+    "1t": {
+      "title": "Alpha",
+      "meter": "6.6.6.6",
+      "timeSignature": "C",
+      "firstLine": "Meine Zufriedenheit",
+      "verseCount": 3,
+      "catalogCode": "No. 1"
+    },
+    "1b": {
+      "title": "Lamentation",
+      "meter": "11.11.8.11",
+      "timeSignature": "C",
+      "firstLine": "Ach Gott! erhör mein Seufzen und Wehklagen",
+      "verseCount": 2,
+      "catalogCode": "No. 2"
+    },
+    "2t": {
+      "title": "Linville",
+      "meter": "7.8.7.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Liebster Jesu! wir sind hier",
+      "verseCount": 4,
+      "catalogCode": "No. 3"
+    },
+    "2b": {
+      "title": "Hope",
+      "meter": "8.7.8.7.3.3.7",
+      "timeSignature": "C",
+      "firstLine": "Meine Hoffnung stehet feste",
+      "verseCount": 4,
+      "catalogCode": "No. 4"
+    },
+    "3t": {
+      "title": "Consolation",
+      "meter": "6.6.5.6.6.5.7.8.6",
+      "timeSignature": "C",
+      "firstLine": "Meine Seel ist stille",
+      "verseCount": 4,
+      "catalogCode": "No. 5"
+    },
+    "3b": {
+      "title": "Distress",
+      "meter": "4.4.7.7.6.6",
+      "timeSignature": "C",
+      "firstLine": "O Traurigkeit! O Herzeleid!",
+      "verseCount": 2,
+      "catalogCode": "No. 6"
+    },
+    "4t": {
+      "title": "Alma",
+      "meter": "7.7.7.7",
+      "timeSignature": "C",
+      "firstLine": "Gott sey Dank in aller Welt",
+      "verseCount": 2,
+      "historicalNote": "Advents-Lied.",
+      "catalogCode": "No. 7"
+    },
+    "4b": {
+      "title": "Supremacy",
+      "meter": "8.6.8.6",
+      "timeSignature": "C",
+      "firstLine": "Du Gott bist über alles Herr",
+      "verseCount": 2,
+      "catalogCode": "No. 8"
+    },
+    "5t": {
+      "title": "Freeburg",
+      "meter": "8.3.3.6.8.3.3.6",
+      "timeSignature": "C",
+      "firstLine": "Warum soll ich mich denn grämen?",
+      "verseCount": 2,
+      "catalogCode": "No. 9"
+    },
+    "5b": {
+      "title": "Centre",
+      "meter": "8.7.8.8.4",
+      "timeSignature": "C",
+      "firstLine": "Gelobet seyst du, Jesus Christ",
+      "verseCount": 2,
+      "catalogCode": "No. 10"
+    },
+    "6": {
+      "title": "Columbia",
+      "meter": "8.7.8.7.8.7.7.8.7.7",
+      "timeSignature": "C",
+      "firstLine": "Sollt' ich meinem Gott nicht singen?",
+      "verseCount": 4,
+      "catalogCode": "No. 11"
+    },
+    "7": {
+      "title": "Confidence",
+      "meter": "8.7.8.7.8.8.8.4.8",
+      "timeSignature": "C",
+      "firstLine": "Allein zu dir, Herr Jesu Christ",
+      "verseCount": 6,
+      "catalogCode": "No. 12"
+    },
+    "8t": {
+      "title": "Evening",
+      "meter": "7.6.7.6.7.7.6",
+      "timeSignature": "C",
+      "firstLine": "Herr Jesu, Gnaden-Sonne",
+      "verseCount": 4,
+      "catalogCode": "No. 13"
+    },
+    "8b": {
+      "title": "Bridegroom",
+      "meter": "5.5.8.8.5.5",
+      "timeSignature": "C",
+      "firstLine": "Seelen-Bräutigam",
+      "verseCount": 2,
+      "catalogCode": "No. 14"
+    },
+    "9": {
+      "title": "Meditation",
+      "meter": "8.7.8.7.8.8.7.8.8.8.7",
+      "timeSignature": "C",
+      "firstLine": "Ein Lämmlein geht, und trägt die Schuld",
+      "verseCount": 4,
+      "catalogCode": "No. 15"
+    },
+    "10t": {
+      "title": "New Berlin",
+      "meter": "8.7.8.7.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Allein Gott in der Höh sey Ehr",
+      "verseCount": 4,
+      "catalogCode": "No. 16"
+    },
+    "10b": {
+      "title": "Mifflinburg",
+      "meter": "8.7.8.7.8.8.7",
+      "timeSignature": "C",
+      "firstLine": "Aus tiefer Noth schrey ich zu dir",
+      "verseCount": 4,
+      "catalogCode": "No. 17"
+    },
+    "11": {
+      "title": "Lewisburg",
+      "meter": "8.7.8.7.8.8.7",
+      "timeSignature": "C",
+      "firstLine": "Es ist das Heil uns kommen her",
+      "verseCount": 6,
+      "catalogCode": "No. 18"
+    },
+    "12": {
+      "title": "Jerusalem",
+      "meter": "8.9.8.8.9.8.6.6.4.8.8",
+      "timeSignature": "C",
+      "firstLine": "Wachet auf! so ruft die Stimme",
+      "verseCount": 7,
+      "catalogCode": "No. 19"
+    },
+    "13t": {
+      "title": "Spring",
+      "meter": "8.7.8.7.7.7",
+      "timeSignature": "C",
+      "firstLine": "Ach Gott und Herr",
+      "verseCount": 2,
+      "catalogCode": "No. 20"
+    },
+    "13b": {
+      "title": "Autumn",
+      "meter": "8.7.8.7.7.7",
+      "timeSignature": "C",
+      "firstLine": "Rosen welken und verschwinden",
+      "verseCount": 3,
+      "catalogCode": "No. 21"
+    },
+    "14t": {
+      "title": "Comfort",
+      "meter": "6.6.5.6.6.5.7.8.6",
+      "timeSignature": "C",
+      "firstLine": "Jesus meine Freude",
+      "verseCount": 4,
+      "catalogCode": "No. 22"
+    },
+    "14b": {
+      "title": "Conscience",
+      "meter": "8.7.7.8.7.7",
+      "timeSignature": "C",
+      "firstLine": "Ach! was soll ich Sünder machen",
+      "verseCount": 2,
+      "catalogCode": "No. 23"
+    },
+    "15": {
+      "title": "Confession",
+      "meter": "8.8.7.8.8.7.8.8",
+      "timeSignature": "C",
+      "firstLine": "Mein Glaub ist meines Lebens Ruh",
+      "verseCount": 7,
+      "catalogCode": "No. 24"
+    },
+    "16t": {
+      "title": "Asylum",
+      "meter": "8.7.8.7.6.5.5.6.7",
+      "timeSignature": "C",
+      "firstLine": "Ein feste Burg ist unser Gott",
+      "verseCount": 4,
+      "historicalNote": "“Luther.” is printed at the upper right of the heading; the attribution role is not specified.",
+      "catalogCode": "No. 25"
+    },
+    "16b": {
+      "title": "Ephrata",
+      "meter": "8.7.8.7.8.8",
+      "timeSignature": "C",
+      "firstLine": "Mir nach, spricht Christus, unser Held",
+      "verseCount": 4,
+      "catalogCode": "No. 26"
+    },
+    "17": {
+      "title": "Morning Star",
+      "meter": "8.8.7.8.8.7.2.2.4.4.4",
+      "timeSignature": "C",
+      "firstLine": "O Heil'ger Geist! kehr bey uns ein",
+      "verseCount": 7,
+      "catalogCode": "No. 27"
+    },
+    "18": {
+      "title": "Needful",
+      "meter": "8.7.8.7.12.12.11.11",
+      "timeSignature": "C; 3/2",
+      "firstLine": "Eins ist Noth, ach Herr! dies eine",
+      "verseCount": 6,
+      "catalogCode": "No. 28"
+    },
+    "19t": {
+      "title": "Richfield",
+      "meter": "8.8.7.8.7",
+      "timeSignature": "C",
+      "firstLine": "In dich hab ich gehoffet, Herr!",
+      "verseCount": 2,
+      "catalogCode": "No. 29"
+    },
+    "19b": {
+      "title": "Hamburg",
+      "meter": "8.7.8.7.4.4.7",
+      "timeSignature": "C",
+      "firstLine": "Sieh, hier bin ich, Ehren-König",
+      "verseCount": 4,
+      "catalogCode": "No. 30"
+    },
+    "20t": {
+      "title": "Penn's",
+      "meter": "8.6.8.6.4.4.6.4.4.6",
+      "timeSignature": "C",
+      "firstLine": "Was mich auf dieser Welt betrübt",
+      "verseCount": 4,
+      "catalogCode": "No. 30*"
+    },
+    "20b": {
+      "title": "Pittsburg",
+      "meter": "7.6.7.6",
+      "timeSignature": "C",
+      "firstLine": "Christus, der ist mein Leben",
+      "verseCount": 2,
+      "catalogCode": "No. 30**"
+    },
+    "21t": {
+      "title": "Halle",
+      "meter": "6.7.6.7.6.6.6.6",
+      "timeSignature": "C",
+      "firstLine": "O Gott, du frommer Gott",
+      "verseCount": 4,
+      "catalogCode": "No. 31"
+    },
+    "21b": {
+      "title": "Northampton",
+      "meter": "8.7.8.7.4.4.7.7",
+      "timeSignature": "C",
+      "firstLine": "Was Gott thut, das ist wohl gethan",
+      "verseCount": 4,
+      "catalogCode": "No. 32"
+    },
+    "22t": {
+      "title": "Middleburg",
+      "meter": "9.10.9.10.10.10",
+      "timeSignature": "C",
+      "firstLine": "Dir, dir, Jehovah, will ich singen",
+      "verseCount": 4,
+      "catalogCode": "No. 33"
+    },
+    "22b": {
+      "title": "Frankfort",
+      "meter": "9.8.9.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Wer weiß, wie nahe mir mein Ende",
+      "verseCount": 4,
+      "catalogCode": "No. 34"
+    },
+    "23": {
+      "title": "Northumberland",
+      "meter": "9.8.9.8.9.8.9.8",
+      "timeSignature": "C",
+      "firstLine": "Wie groß ist des Allmächt'gen Güte",
+      "verseCount": 8,
+      "catalogCode": "No. 35"
+    },
+    "24t": {
+      "title": "Mahony",
+      "meter": "7.6.7.6.7.6.7.6",
+      "timeSignature": "C",
+      "firstLine": "Ein von Gott gebohrner Christ",
+      "verseCount": 4,
+      "catalogCode": "No. 37"
+    },
+    "24b": {
+      "title": "Calvary",
+      "meter": "8.7.8.7.7.7.8.7",
+      "timeSignature": "C",
+      "firstLine": "Dort auf jenem Todtenhügel",
+      "verseCount": 5,
+      "catalogCode": "No. 36"
+    },
+    "25t": {
+      "title": "West Point",
+      "meter": "8.7.8.7.8.8.7",
+      "timeSignature": "C",
+      "firstLine": "Wenn ich, o Schöpfer, deine Macht",
+      "verseCount": 4,
+      "historicalNote": "Lobgesang auf die Schöpfung.",
+      "catalogCode": "No. 38"
+    },
+    "25b": {
+      "title": "Hudson",
+      "meter": "4.4.7.4.4.7",
+      "timeSignature": "C",
+      "firstLine": "Gott will's machen, Daß die Sachen",
+      "verseCount": 2,
+      "catalogCode": "No. 39"
+    },
+    "26t": {
+      "title": "Saints",
+      "meter": "6.7.6.7.6.6.6.6",
+      "timeSignature": "C",
+      "firstLine": "Spar deine Buße nicht",
+      "verseCount": 4,
+      "catalogCode": "No. 40"
+    },
+    "26b": {
+      "title": "Fear",
+      "meter": "7.6.7.6.8.7.6",
+      "timeSignature": "C",
+      "firstLine": "Von Furcht dahin gerissen",
+      "verseCount": 4,
+      "catalogCode": "No. 41"
+    },
+    "27t": {
+      "title": "Rhinebeck",
+      "meter": "6.6.7.7.7.7",
+      "timeSignature": "C",
+      "firstLine": "Auf meinen lieben Gott",
+      "verseCount": 2,
+      "catalogCode": "No. 42"
+    },
+    "27b": {
+      "title": "Germany",
+      "meter": "9.8.9.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Wer nur den lieben Gott läßt walten",
+      "verseCount": 4,
+      "catalogCode": "No. 43"
+    },
+    "28t": {
+      "title": "Victor of Death",
+      "meter": "8.7.8.7.7.8.7.7",
+      "timeSignature": "C",
+      "firstLine": "Preis dem Todes Ueberwinder",
+      "verseCount": 4,
+      "historicalNote": "Osterlied.",
+      "catalogCode": "No. 44"
+    },
+    "28b": {
+      "title": "Perry",
+      "meter": "8.7.8.7.8.8.7",
+      "timeSignature": "C",
+      "firstLine": "Mein Herzens-Jesu, meine Lust",
+      "verseCount": 4,
+      "catalogCode": "No. 45"
+    },
+    "29t": {
+      "title": "With What Fervor of Devotion",
+      "meter": "8.7.8.7.8.8.7.7",
+      "timeSignature": "C",
+      "firstLine": "Womit soll ich dich wohl loben",
+      "verseCount": 4,
+      "catalogCode": "No. 46"
+    },
+    "29b": {
+      "title": "Magdeburg",
+      "meter": "7.6.7.6.3.3.6.6",
+      "timeSignature": "C",
+      "firstLine": "Mache dich mein Geist bereit",
+      "verseCount": 4,
+      "catalogCode": "No. 47"
+    },
+    "30t": {
+      "title": "Goodness",
+      "meter": "8.8.7.7",
+      "timeSignature": "C",
+      "firstLine": "Gieb, o Gott! mir Kraft und Willen",
+      "verseCount": 2,
+      "historicalNote": "Gebet-Lied.",
+      "catalogCode": "No. 48"
+    },
+    "30b": {
+      "title": "Lentz",
+      "meter": "8.7.8.7.8.8",
+      "timeSignature": "C",
+      "firstLine": "Zeuch mich, zeuch mich mit den Armen",
+      "verseCount": 4,
+      "catalogCode": "No. 49"
+    },
+    "31t": {
+      "title": "Reflection",
+      "meter": "7.6.7.6.7.6.7.6",
+      "timeSignature": "C",
+      "firstLine": "Bedenke, Mensch! das Ende",
+      "verseCount": 4,
+      "catalogCode": "No. 50"
+    },
+    "31b": {
+      "title": "Spire",
+      "meter": "8.7.8.7.8.8.7",
+      "timeSignature": "C",
+      "firstLine": "Es ist gewißlich an der Zeit",
+      "verseCount": 4,
+      "catalogCode": "No. 51"
+    },
+    "32t": {
+      "title": "Presburg",
+      "meter": "8.7.8.7.7.7.8.8",
+      "timeSignature": "C",
+      "firstLine": "Freu dich sehr, o meine Seele",
+      "verseCount": 4,
+      "catalogCode": "No. 52"
+    },
+    "32b": {
+      "title": "Funeral Thought",
+      "meter": "8.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Nun laßt uns den Leib begraben",
+      "verseCount": 2,
+      "catalogCode": "No. 53"
+    },
+    "33t": {
+      "title": "Eternity",
+      "meter": "8.8.7.8.8.7.8.8",
+      "timeSignature": "C",
+      "firstLine": "O Ewigkeit, du Donnerwort",
+      "verseCount": 4,
+      "catalogCode": "No. 53"
+    },
+    "33b": {
+      "title": "Innocence",
+      "meter": "11.11.11.5",
+      "timeSignature": "C",
+      "firstLine": "Herzliebster Jesu! du hast nichts verbrochen",
+      "musicAttribution": {
+        "credit": "P. J. D."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 54"
+    },
+    "34t": {
+      "title": "Kempis",
+      "meter": "8.7.8.7.8.8.7.7",
+      "timeSignature": "C",
+      "firstLine": "Alle Menschen müssen sterben",
+      "verseCount": 4,
+      "catalogCode": "No. 55"
+    },
+    "34b": {
+      "title": "Lord Jesus Fountain of My Life",
+      "meter": "8.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Herr Jesu Christ! mein's Lebens Licht",
+      "verseCount": 2,
+      "catalogCode": "No. 56"
+    },
+    "35t": {
+      "title": "Saxony",
+      "meter": "7.8.7.8.7.7",
+      "timeSignature": "C",
+      "firstLine": "Jesus, meine Zuversicht",
+      "verseCount": 4,
+      "catalogCode": "No. 57"
+    },
+    "35b": {
+      "title": "Praise Ye the Lord",
+      "meter": "14.14.4.7.8",
+      "timeSignature": "3/2",
+      "firstLine": "Lobe den Herren",
+      "verseCount": 4,
+      "catalogCode": "No. 58"
+    },
+    "36t": {
+      "title": "Noon",
+      "meter": "6.7.6.7.6.6.6.6",
+      "timeSignature": "C",
+      "firstLine": "Nun danket alle Gott",
+      "verseCount": 4,
+      "catalogCode": "No. 59"
+    },
+    "36b": {
+      "title": "Morning",
+      "meter": "7.6.7.6.6.7.7.6",
+      "timeSignature": "C",
+      "firstLine": "Aus meines Herzens Grunde",
+      "verseCount": 4,
+      "catalogCode": "No. 60"
+    },
+    "37t": {
+      "title": "Night",
+      "meter": "8.7.8.7.7.7.8.8",
+      "timeSignature": "C",
+      "firstLine": "Werde munter, mein Gemüthe",
+      "verseCount": 4,
+      "catalogCode": "No. 61"
+    },
+    "37b": {
+      "title": "Wells",
+      "meter": "8.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Ach! bleib bei uns, Herr Jesu Christ",
+      "verseCount": 2,
+      "catalogCode": "No. 61*"
+    },
+    "38t": {
+      "title": "Compensation",
+      "meter": "9.8.9.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Nach einer Prüfung kurzer Tage",
+      "verseCount": 4,
+      "catalogCode": "No. 62"
+    },
+    "38b": {
+      "title": "Decoration",
+      "meter": "9.6.5.7.4",
+      "timeSignature": "C",
+      "firstLine": "Auferstehn, ja auferstehn wirst du",
+      "verseCount": 2,
+      "catalogCode": "No. 63"
+    },
+    "39t": {
+      "title": "Devotion",
+      "meter": "9.8.9.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Komm betend oft und mit Vergnügen",
+      "verseCount": 4,
+      "historicalNote": "Ermunterung zum fleißigen Gebet.",
+      "catalogCode": "No. 64"
+    },
+    "39b": {
+      "title": "Zion Church",
+      "meter": "7.7.6.7.7.8",
+      "timeSignature": "C",
+      "firstLine": "Nun ruhet in den Wäldern",
+      "verseCount": 2,
+      "catalogCode": "No. 65"
+    },
+    "40t": {
+      "title": "Antwerp",
+      "meter": "8.7.8.7.7.7",
+      "timeSignature": "C",
+      "firstLine": "Gott des Himmels und der Erden",
+      "verseCount": 4,
+      "catalogCode": "No. 66"
+    },
+    "40b": {
+      "title": "Beaver",
+      "meter": "7.7.7.7",
+      "timeSignature": "C",
+      "firstLine": "Wach auf, mein Herz, und singe",
+      "verseCount": 2,
+      "catalogCode": "No. 67"
+    },
+    "41t": {
+      "title": "Weimar",
+      "meter": "8.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Herr Jesu Christ! dich zu uns wend",
+      "verseCount": 1,
+      "catalogCode": "No. 68"
+    },
+    "41b": {
+      "title": "Old Hundred",
+      "meter": "8.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "O Jesu Christ! Du wahres Licht!",
+      "musicAttribution": {
+        "credit": "M. Luther"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 69"
+    },
+    "42": {
+      "title": "Contemplation",
+      "firstLine": "Hier steh' ich unter Gottes Himmel",
+      "verseCount": 3,
+      "historicalNote": "Betrachtung des Sternen-Himmels.",
+      "catalogCode": "No. 76"
+    },
+    "43t": {
+      "title": "Animation",
+      "meter": "7.6.7.6.7.6.7.6",
+      "timeSignature": "C",
+      "firstLine": "Ich soll zum Leben dringen",
+      "verseCount": 1,
+      "catalogCode": "No. 71"
+    },
+    "43b": {
+      "title": "Sensation",
+      "meter": "8.7.8.7",
+      "timeSignature": "3/4",
+      "firstLine": "Mein erst Gefühl sey Preis und Dank!",
+      "verseCount": 1,
+      "catalogCode": "No. 72"
+    },
+    "44": {
+      "title": "Vigor",
+      "meter": "7.6.7.6.7.8.7.6.6.9.5.6.7.5",
+      "timeSignature": "C",
+      "firstLine": "Stärk uns, Mittler, dein sind wir!",
+      "verseCount": 4,
+      "historicalNote": "Confirmations-Lied.",
+      "catalogCode": "No. 73"
+    },
+    "46": {
+      "title": "Supremacy",
+      "meter": "9.9.8.9.9.8.9.8.9.8",
+      "timeSignature": "3/2",
+      "firstLine": "Herr! dir ist Niemand zu vergleichen",
+      "verseCount": 3,
+      "historicalNote": "Größe Gottes.",
+      "catalogCode": "No. 75"
+    },
+    "47": {
+      "title": "Friendship",
+      "meter": "9.8.9.8.9.9.8.9.9.8",
+      "timeSignature": "C",
+      "firstLine": "Wie wohl ist mir, o Freund der Seele",
+      "verseCount": 2,
+      "catalogCode": "No. 76"
+    },
+    "48t": {
+      "title": "Place of Rest",
+      "meter": "5.5.9.6.5.6.5",
+      "timeSignature": "2/4",
+      "firstLine": "Im Grabe ist Ruh'",
+      "verseCount": 4,
+      "historicalNote": "Das Grab.",
+      "catalogCode": "No. 77"
+    },
+    "48b": {
+      "title": "Tranquility of Soul",
+      "meter": "5.6.5.6.5.5.9",
+      "timeSignature": "3/4",
+      "firstLine": "Wie sie so sanft ruhn, alle die Seligen!",
+      "verseCount": 3,
+      "historicalNote": "Der Gottes-Acker.",
+      "catalogCode": "No. 78"
+    },
+    "49": {
+      "title": "Ode on Science",
+      "meter": "L. M.",
+      "timeSignature": "Ɔ",
+      "firstLine": "Auf, Christen, auf, und freuet euch",
+      "musicAttribution": {
+        "credit": "Lumper"
+      },
+      "catalogCode": "No. 79"
+    },
+    "51t": {
+      "title": "Russia",
+      "meter": "L. M.",
+      "timeSignature": "Ɔ",
+      "firstLine": "Wenn wir in höchsten Nöthen seyn",
+      "musicAttribution": {
+        "credit": "Reed"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 80"
+    },
+    "51b": {
+      "title": "Adeste Fideles",
+      "meter": "8.8.8.5.5.8",
+      "timeSignature": "2/4",
+      "firstLine": "Fern sey mein Leben jederzeit",
+      "verseCount": 2,
+      "catalogCode": "No. 81"
+    },
+    "52": {
+      "title": "Huntingdon",
+      "meter": "L. M.",
+      "timeSignature": "Ɔ",
+      "firstLine": "Wie sicher lebt der Mensch, der Staub",
+      "verseCount": 2,
+      "catalogCode": "No. 82"
+    },
+    "53t": {
+      "title": "New Sabbath",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "firstLine": "Du unbegreiflich höchstes Gut",
+      "verseCount": 2,
+      "catalogCode": "No. 83"
+    },
+    "53b": {
+      "title": "Sterling",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Dies ist der Tag, den Gott gemacht",
+      "verseCount": 2,
+      "historicalNote": "Ancient Chant.",
+      "catalogCode": "No. 84"
+    },
+    "54t": {
+      "title": "Alferton",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Erhöre mich, Herr, wenn ich bet",
+      "musicAttribution": {
+        "credit": "W. Beastall"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 85"
+    },
+    "54b": {
+      "title": "Newry",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Heut ist des Herren Ruhetag",
+      "verseCount": 2,
+      "catalogCode": "No. 86"
+    },
+    "55t": {
+      "title": "Windham",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Der Spötter Strom reißt viele fort",
+      "musicAttribution": {
+        "credit": "Reed"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 87"
+    },
+    "55b": {
+      "title": "Portugal",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "firstLine": "Ich glaub' an Gott, der Vater heißt",
+      "musicAttribution": {
+        "credit": "Thorley"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 88"
+    },
+    "56t": {
+      "title": "Brookfield",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "firstLine": "Herr Jesu Christe, Gottes Sohn",
+      "verseCount": 2,
+      "catalogCode": "No. 89"
+    },
+    "56b": {
+      "title": "Transport",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "firstLine": "Nach dir, O Herr, verlanget mich",
+      "verseCount": 2,
+      "catalogCode": "No. 90"
+    },
+    "57": {
+      "title": "Exhortation",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Jetzt ist noch Zeit, besinne dich",
+      "musicAttribution": {
+        "credit": "Doolittle"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 91"
+    },
+    "58t": {
+      "title": "Pottsville",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Gottlob! ich weiß nun wohl wohin",
+      "musicAttribution": {
+        "credit": "J. Eyer"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 92"
+    },
+    "58b": {
+      "title": "German Hymn",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Gelobet seyst du, Jesu Christ",
+      "musicAttribution": {
+        "credit": "Pleyel"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 93"
+    },
+    "59t": {
+      "title": "New Year",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "O Vater! kindlich beten wir",
+      "musicAttribution": {
+        "credit": "J. Eyer"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 94"
+    },
+    "59b": {
+      "title": "Williamstown",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Welch eine Welt voll Seligkeit",
+      "verseCount": 1,
+      "catalogCode": "No. 95"
+    },
+    "60": {
+      "title": "Invitation",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Für deinen Thron tret ich hiemit",
+      "musicAttribution": {
+        "credit": "Kimball"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 96"
+    },
+    "61": {
+      "title": "Voice of Nature",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Ich komme vor dein Angesicht",
+      "verseCount": 1,
+      "catalogCode": "No. 97"
+    },
+    "62t": {
+      "title": "West Hanover",
+      "meter": "L. M.",
+      "timeSignature": "Ɔ",
+      "firstLine": "Die Liebe zeigt ohn' Heuchelei",
+      "musicAttribution": {
+        "credit": "J. Eyer"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 98"
+    },
+    "62b": {
+      "title": "Moreton",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "firstLine": "Herr Jesu Christe, Gottes Sohn",
+      "verseCount": 2,
+      "catalogCode": "No. 99"
+    },
+    "63t": {
+      "title": "Cambridge",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Wie bist du mir so innig gut",
+      "verseCount": 1,
+      "catalogCode": "No. 100"
+    },
+    "63b": {
+      "title": "Wandering Thought",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Ich komme vor dein Angesicht",
+      "musicAttribution": {
+        "credit": "J. Eyer"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 101"
+    },
+    "64": {
+      "title": "Sherburne",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Singt unserm Gott ein neues Lied",
+      "musicAttribution": {
+        "credit": "Reed"
+      },
+      "verseCount": 3,
+      "catalogCode": "No. 102"
+    },
+    "65t": {
+      "title": "Malinda",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "firstLine": "Was ist das Leben dieser Zeit?",
+      "verseCount": 2,
+      "catalogCode": "No. 103"
+    },
+    "65b": {
+      "title": "Savannah",
+      "meter": "8.8.8.8",
+      "timeSignature": "C",
+      "firstLine": "Welch eine Welt voll Seligkeit",
+      "verseCount": 2,
+      "catalogCode": "No. 104"
+    },
+    "66t": {
+      "title": "Sunday",
+      "meter": "6.6.4.6.6.6.4",
+      "timeSignature": "3/4",
+      "firstLine": "Ehret Gott in der Höh'",
+      "verseCount": 1,
+      "catalogCode": "No. 105"
+    },
+    "66b": {
+      "title": "Bedford",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Du bists dem Ehr' und Ruhm gebührt",
+      "verseCount": 1,
+      "catalogCode": "No. 106"
+    },
+    "67t": {
+      "title": "Plymouth",
+      "meter": "8.6.8.6",
+      "timeSignature": "C",
+      "firstLine": "O Gott, in deinen Werken groß",
+      "musicAttribution": {
+        "credit": "Tansur"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 107"
+    },
+    "67b": {
+      "title": "Winter",
+      "meter": "8.6.8.6",
+      "timeSignature": "Ɔ",
+      "firstLine": "Es lebe Gott allein in mir",
+      "musicAttribution": {
+        "credit": "Reed"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 108"
+    },
+    "68t": {
+      "title": "New Jerusalem",
+      "meter": "C. M.",
+      "timeSignature": "Ɔ",
+      "firstLine": "Als Hirten saßen in der Nacht",
+      "musicAttribution": {
+        "credit": "Ingalls"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 109"
+    },
+    "68b": {
+      "title": "Fiducia",
+      "meter": "C. M.",
+      "timeSignature": "Ɔ",
+      "firstLine": "Kein Tag soll froher mir vergehen",
+      "verseCount": 2,
+      "catalogCode": "No. 110"
+    },
+    "69t": {
+      "title": "Salvation",
+      "meter": "8.6.8.6.8.6.8.6",
+      "timeSignature": "C",
+      "firstLine": "Ich bin nun Gott dein Eigenthum",
+      "musicAttribution": {
+        "credit": "Boyd"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 111"
+    },
+    "69b": {
+      "title": "Exhortation",
+      "meter": "8.6.8.6",
+      "timeSignature": "C",
+      "firstLine": "Wie seelig bin ich, wenn mein Geist",
+      "verseCount": 1,
+      "catalogCode": "No. 112"
+    },
+    "70": {
+      "title": "Pleasant Valley",
+      "meter": "C. M.",
+      "timeSignature": "3/2; C; 3/2",
+      "firstLine": "Geh, müder Leib, zu deiner Ruh",
+      "verseCount": 1,
+      "catalogCode": "No. 113"
+    },
+    "71": {
+      "title": "Repentance",
+      "meter": "8.6.8.6.8.6.8.6",
+      "timeSignature": "C",
+      "firstLine": "Es lebe Gott allein in mir",
+      "musicAttribution": {
+        "credit": "Peck"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 114"
+    },
+    "72t": {
+      "title": "Samantha",
+      "meter": "11.8.11.8.11.8.11.8",
+      "timeSignature": "2/4",
+      "firstLine": "Gott ist getreu",
+      "verseCount": 1,
+      "catalogCode": "No. 115"
+    },
+    "72b": {
+      "title": "Winchester",
+      "meter": "7.7.7.7",
+      "timeSignature": "2/4",
+      "firstLine": "Herzens Jesu, Siegesfürst",
+      "verseCount": 1,
+      "catalogCode": "No. 116"
+    },
+    "73": {
+      "title": "Spiritual Victory",
+      "meter": "C. M. D.",
+      "timeSignature": "2/4; C; 6/4; C; 2/4",
+      "firstLine": "Singt Christen, singt dem großen Herrn",
+      "musicAttribution": {
+        "credit": "J. Eyer"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 117"
+    },
+    "74t": {
+      "title": "Jehovah's Praise",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Mein Heiland habe auf mich acht",
+      "verseCount": 2,
+      "catalogCode": "No. 118"
+    },
+    "74b": {
+      "title": "Grafton",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Der Tag, wie bald er mir verschwand",
+      "musicAttribution": {
+        "credit": "Stone"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 119"
+    },
+    "76t": {
+      "title": "Twenty-Fourth",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Singt unserm Gott ein neues Lied",
+      "scriptureReference": "Ps. 98",
+      "verseCount": 2,
+      "catalogCode": "No. 120"
+    },
+    "76b": {
+      "title": "Liberty",
+      "meter": "C. M.",
+      "timeSignature": "Ɔ",
+      "firstLine": "Kein Tag soll froher mir vergehn",
+      "verseCount": 1,
+      "catalogCode": "No. 121"
+    },
+    "77": {
+      "title": "Moravian Hymn",
+      "meter": "C. M. D.",
+      "timeSignature": "C",
+      "firstLine": "Als Hirten saßen in der Nacht",
+      "verseCount": 1,
+      "catalogCode": "No. 122"
+    },
+    "78t": {
+      "title": "Annapolis",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Herr laß mich wandeln, wo ich bin",
+      "musicAttribution": {
+        "credit": "J. Cole"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 123"
+    },
+    "78b": {
+      "title": "Piety",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Wir wallen hier als Pilgrime",
+      "musicAttribution": {
+        "credit": "T. Clark"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 124"
+    },
+    "79": {
+      "title": "St. Martin's",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "firstLine": "Nach deinem Rath, Herr, leite mich",
+      "musicAttribution": {
+        "credit": "J. Smith"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 125"
+    },
+    "80t": {
+      "title": "Mount Pleasant",
+      "meter": "C. M.",
+      "timeSignature": "Ɔ",
+      "firstLine": "Wir danken dir Herr Jesu Christ",
+      "musicAttribution": {
+        "credit": "Leach"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 126"
+    },
+    "80b": {
+      "title": "Warwick",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Wie groß und mächtig bist du Herr",
+      "musicAttribution": {
+        "credit": "Stanly"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 127"
+    },
+    "81t": {
+      "title": "Arlington",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "firstLine": "Gott, Sünder rufst du ja zu dir",
+      "musicAttribution": {
+        "credit": "Dr. Arne"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 128"
+    },
+    "81b": {
+      "title": "Medfield",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Dankt ihm dem großen Menschenfreund",
+      "musicAttribution": {
+        "credit": "Mather"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 129"
+    },
+    "82t": {
+      "title": "Devizes",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Gott deiner Hand befehl ich mich",
+      "musicAttribution": {
+        "credit": "I. Tuker"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 130"
+    },
+    "82b": {
+      "title": "Malden",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Ich singe meiner Seele Lust",
+      "musicAttribution": {
+        "credit": "T. Clark"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 131"
+    },
+    "83t": {
+      "title": "China",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "firstLine": "Was in kein menschlich Herz noch kam",
+      "verseCount": 2,
+      "catalogCode": "No. 132"
+    },
+    "83b": {
+      "title": "Communion",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "firstLine": "Gott sorgt für uns! o singt ihm Dank",
+      "verseCount": 1,
+      "catalogCode": "No. 133"
+    },
+    "84t": {
+      "title": "Northfield",
+      "meter": "C. M.",
+      "timeSignature": "Ɔ",
+      "firstLine": "Mein Leib und Seele freuet sich",
+      "musicAttribution": {
+        "credit": "Ingalls"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 134"
+    },
+    "84b": {
+      "title": "Rainbow",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Mein Gott, das Herz ich bringe dir",
+      "musicAttribution": {
+        "credit": "Swan"
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 135"
+    },
+    "85t": {
+      "title": "Georgia",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Weil Jesus lebt so leben wir",
+      "verseCount": 2,
+      "catalogCode": "No. 136"
+    },
+    "85b": {
+      "title": "Virginia",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Lobt Gott ihr Christen allzugleich",
+      "musicAttribution": {
+        "credit": "Brunson"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 137"
+    },
+    "86t": {
+      "title": "Harrisburg",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "O Mensch von dieser eitlen Erd'!",
+      "musicAttribution": {
+        "credit": "J. Eyer"
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 138"
+    },
+    "86b": {
+      "title": "Sabbath",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Sind wir vor deinem Angesicht",
+      "verseCount": 2,
+      "catalogCode": "No. 139"
+    },
+    "87t": {
+      "title": "Damascus",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Hier ist das Ziel, hier ist der Ort",
+      "musicAttribution": {
+        "credit": "Shoel."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 140"
+    },
+    "87b": {
+      "title": "Walsal",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Verwirf, o Herr, mein Flehen nicht",
+      "musicAttribution": {
+        "credit": "H. Pursel."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 141"
+    },
+    "88": {
+      "title": "Milford",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Der Herr hoch aufgefahren ist",
+      "musicAttribution": {
+        "credit": "Stevenson."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 142"
+    },
+    "89": {
+      "title": "Brattle Street",
+      "meter": "C. M. D.",
+      "timeSignature": "2/4",
+      "firstLine": "Ich hab' mich deinem Schutz vertraut",
+      "musicAttribution": {
+        "credit": "Pleyer."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 143"
+    },
+    "90t": {
+      "title": "Clifford",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Ich bin, o Gott, dein Eigenthum",
+      "verseCount": 1,
+      "catalogCode": "No. 148"
+    },
+    "90b": {
+      "title": "Pebmarsh",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "firstLine": "Wie groß und mächtig bist du Herr",
+      "musicAttribution": {
+        "credit": "J. Burkitt."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 145"
+    },
+    "91": {
+      "title": "Mile's Lane",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Ihm huldiget des Himmels Heer",
+      "musicAttribution": {
+        "credit": "Dr. W. Shurbsole."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 146"
+    },
+    "92t": {
+      "title": "Ashley",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "firstLine": "Singt unserm Gott ein neues Lied",
+      "musicAttribution": {
+        "credit": "Chetham."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 147"
+    },
+    "92b": {
+      "title": "Praise",
+      "meter": "8.8.8.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Lob und Ehre Gott dem Vater",
+      "verseCount": 1,
+      "catalogCode": "No. 147*"
+    },
+    "93t": {
+      "title": "Bath Chapel",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "firstLine": "Mein Geist erstaunt, Allmächtiger",
+      "musicAttribution": {
+        "credit": "Milgrove."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 148"
+    },
+    "93b": {
+      "title": "Irish",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "firstLine": "Verwirf, o Herr, mein Flehen nicht",
+      "musicAttribution": {
+        "credit": "Williams."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 149"
+    },
+    "94t": {
+      "title": "Enfield",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Es lebe Gott allein in mir",
+      "verseCount": 2,
+      "catalogCode": "No. 150"
+    },
+    "94b": {
+      "title": "Rochester",
+      "meter": "C. M.",
+      "timeSignature": "Ɔ",
+      "firstLine": "Gott ist mein Hort! Und auf sein Wort",
+      "verseCount": 1,
+      "catalogCode": "No. 151"
+    },
+    "95t": {
+      "title": "Selinsgrove",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Hat Gott uns nicht von Jugend auf",
+      "musicAttribution": {
+        "credit": "H. C. E."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 152"
+    },
+    "95b": {
+      "title": "Sunbury",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "O Jesus mein",
+      "musicAttribution": {
+        "credit": "Rev. J. P. Shindel."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 153"
+    },
+    "96": {
+      "title": "Christmas Hymn",
+      "meter": "C. M.",
+      "timeSignature": "6/8",
+      "firstLine": "Als Hirten saßen in der Nacht",
+      "verseCount": 2,
+      "catalogCode": "No. 154"
+    },
+    "97t": {
+      "title": "Lingham",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "firstLine": "Wohl auf, mein Herze, sey getrost",
+      "musicAttribution": {
+        "credit": "Walker."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 155"
+    },
+    "97b": {
+      "title": "Aylesbury",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Wo soll ich fliehen hin?",
+      "musicAttribution": {
+        "credit": "Chetham."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 156"
+    },
+    "98t": {
+      "title": "Cranbrook",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Für alles sey gepreist",
+      "verseCount": 1,
+      "catalogCode": "No. 157"
+    },
+    "98b": {
+      "title": "Dover",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Herr nimm von mir die Last",
+      "musicAttribution": {
+        "credit": "Williams."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 158"
+    },
+    "99t": {
+      "title": "Hants",
+      "meter": "6.6.8.6.",
+      "timeSignature": "C",
+      "firstLine": "Gott hat die Welt geliebt",
+      "verseCount": 2,
+      "catalogCode": "No. 159"
+    },
+    "99b": {
+      "title": "Froome",
+      "meter": "6.6.8.6.",
+      "timeSignature": "3/4",
+      "firstLine": "Vergangen ist die Nacht",
+      "musicAttribution": {
+        "credit": "J. Husband."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 160"
+    },
+    "100t": {
+      "title": "Dauphin",
+      "meter": "6.6.8.6.",
+      "timeSignature": "C",
+      "firstLine": "Herr Zebaoth! dein Wort",
+      "verseCount": 1,
+      "catalogCode": "No. 161"
+    },
+    "100b": {
+      "title": "America",
+      "meter": "6.6.8.6.",
+      "timeSignature": "C",
+      "firstLine": "Vergangen ist die Nacht",
+      "musicAttribution": {
+        "credit": "Whetmore."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 162"
+    },
+    "101t": {
+      "title": "Bloomsburg",
+      "meter": "6.6.8.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Auf, auf! mein Herz, und sing!",
+      "musicAttribution": {
+        "credit": "J. Eyer."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 163"
+    },
+    "101b": {
+      "title": "Lisbon",
+      "meter": "6.6.8.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Sag, was hilft diese Welt",
+      "musicAttribution": {
+        "credit": "Read."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 164"
+    },
+    "102t": {
+      "title": "Carrollton",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Ich singt mit froher Stimm",
+      "musicAttribution": {
+        "credit": "J. Eyer."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 165"
+    },
+    "102b": {
+      "title": "Evening Shade",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Sing Christ mit froher Stimm",
+      "musicAttribution": {
+        "credit": "S. Jenks."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 166"
+    },
+    "103t": {
+      "title": "Anticipation",
+      "meter": "S. M.",
+      "timeSignature": "3/4",
+      "firstLine": "Breit deine Kirche aus",
+      "musicAttribution": {
+        "credit": "R. Taylor."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 167"
+    },
+    "103b": {
+      "title": "Towanda",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Wohl dem, der Jesu treu",
+      "musicAttribution": {
+        "credit": "B. Austin."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 164"
+    },
+    "104t": {
+      "title": "Baltimore",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Ich singt mit froher Stimm",
+      "musicAttribution": {
+        "credit": "Cole."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 169"
+    },
+    "104b": {
+      "title": "Stafford",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Die Tugend kostet Müh",
+      "musicAttribution": {
+        "credit": "Reed."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 170"
+    },
+    "105t": {
+      "title": "Newton",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Der Herr, ein starker Held",
+      "musicAttribution": {
+        "credit": "I. Smith."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 171"
+    },
+    "105b": {
+      "title": "St. Thomas",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Mein Gott und Vater sey",
+      "musicAttribution": {
+        "credit": "A. Williams."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 172"
+    },
+    "106t": {
+      "title": "Sherland",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Ich fühle große Noth",
+      "musicAttribution": {
+        "credit": "Stanley."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 173"
+    },
+    "106b": {
+      "title": "Mount Airy",
+      "meter": "S. M.",
+      "timeSignature": "2/4",
+      "firstLine": "Für alles sey gepreist",
+      "musicAttribution": {
+        "credit": "J. Eyer."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 174"
+    },
+    "107t": {
+      "title": "Derby",
+      "meter": "8.8.8.8.8. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Gott! nur was gut ist, kommt von dir",
+      "verseCount": 1,
+      "catalogCode": "No. 175"
+    },
+    "107b": {
+      "title": "Townhead",
+      "meter": "7.7.7.3.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Bringen wir doch Gott dem Herrn",
+      "verseCount": 4,
+      "catalogCode": "No. 176"
+    },
+    "108": {
+      "title": "Romain",
+      "meter": "7.6.7.6.7.6.7.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Kommt Kinder! laßt uns singen",
+      "verseCount": 7,
+      "catalogCode": "No. 177"
+    },
+    "109": {
+      "title": "Greenville",
+      "meter": "8.7.8.7.8.8.7.7. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Nun, ihr meine lieben Kinder!",
+      "verseCount": 6,
+      "catalogCode": "No. 178"
+    },
+    "110": {
+      "title": "Schindel",
+      "meter": "9.8.9.8.8.8. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Ich habe nun den Grund gefunden",
+      "verseCount": 4,
+      "catalogCode": "No. 179"
+    },
+    "111": {
+      "title": "From Greenland's Icy Mountains",
+      "meter": "7.6.7.6.7.6.7.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Es rufen uns die Boten",
+      "verseCount": 4,
+      "catalogCode": "No. 180"
+    },
+    "112t": {
+      "title": "Tamworth",
+      "meter": "8.7.8.7.3.3.7. Sylben.",
+      "timeSignature": "3/4",
+      "firstLine": "Führe mich, du treuer Hirte",
+      "verseCount": 2,
+      "catalogCode": "No. 181"
+    },
+    "112b": {
+      "title": "Amity",
+      "meter": "6.6.8.6.6.8. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Wohl dem, der Jesu treu",
+      "verseCount": 1,
+      "catalogCode": "No. 182"
+    },
+    "113": {
+      "title": "Thanksgiving",
+      "meter": "8.8.8.8.8.8.8.8. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Wir opfern Gott dir heute Dank",
+      "verseCount": 4,
+      "catalogCode": "No. 183"
+    },
+    "114": {
+      "title": "Hotham",
+      "meter": "7.7.7.7.7.7.7.3.3.7. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Himmel, Erde, Luft und Meer",
+      "musicAttribution": {
+        "credit": "Maden."
+      },
+      "verseCount": 3,
+      "catalogCode": "No. 184"
+    },
+    "115": {
+      "title": "Middletown",
+      "meter": "7.7.7.7.7.7.7.7. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Jesu, Jesu! komm zu mir",
+      "musicAttribution": {
+        "credit": "Bull."
+      },
+      "verseCount": 3,
+      "catalogCode": "No. 185"
+    },
+    "116t": {
+      "title": "New Harmony",
+      "meter": "8.7.8.7.8.7.8.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Ich bin getrost und freue mich",
+      "musicAttribution": {
+        "credit": "J. Eyer."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 186"
+    },
+    "116b": {
+      "title": "Confirmation",
+      "meter": "8.7.8.7. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Gott des Himmels und der Erden",
+      "verseCount": 2,
+      "catalogCode": "No. 187"
+    },
+    "117": {
+      "title": "Silent Devotion",
+      "meter": "12.11.6.6.6.",
+      "timeSignature": "6/4",
+      "firstLine": "Mein stilles Gebete weiß nur der Prüfende",
+      "musicAttribution": {
+        "credit": "H. C. E."
+      },
+      "verseCount": 2,
+      "catalogCode": "No. 188"
+    },
+    "118": {
+      "title": "Home",
+      "meter": "5.6.5.6.5.6.5.6.5.5.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Die Pracht dieser Welt",
+      "verseCount": 6,
+      "catalogCode": "No. 189"
+    },
+    "119t": {
+      "title": "Amherst",
+      "meter": "6.6.6.6.4.4.8.8. Sylben.",
+      "timeSignature": "3/2",
+      "firstLine": "Mein Gott, verlass mich nicht",
+      "verseCount": 2,
+      "catalogCode": "No. 190"
+    },
+    "119b": {
+      "title": "Greenland",
+      "meter": "6.6.6.6.6.6.6.6. Sylben.",
+      "timeSignature": "6/4",
+      "firstLine": "O Gott im Himmelszelt!",
+      "verseCount": 2,
+      "catalogCode": "No. 191"
+    },
+    "120t": {
+      "title": "Bangor",
+      "meter": "8.6.8.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Jehovah! Hirte bist du mir",
+      "verseCount": 2,
+      "catalogCode": "No. 192"
+    },
+    "120b": {
+      "title": "Nashville",
+      "meter": "8.7.8.7.7.3.3.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Komm, o komm, du Geist des Lebens",
+      "verseCount": 4,
+      "catalogCode": "No. 193"
+    },
+    "121t": {
+      "title": "Providence",
+      "meter": "8.6.6.8.6.6.",
+      "timeSignature": "C",
+      "firstLine": "Wie sehr liebt Gott der Menschen Wohl!",
+      "verseCount": 1,
+      "catalogCode": "No. 194"
+    },
+    "121b": {
+      "title": "Veneration",
+      "meter": "8.6.8.6.6. Sylben.",
+      "timeSignature": "3/2",
+      "firstLine": "Dich, Gott, zu ehren, sey mein Ruhm",
+      "verseCount": 1,
+      "catalogCode": "No. 195"
+    },
+    "122": {
+      "title": "Joyful Sound",
+      "meter": "8.8.7.8.8.7.8.8.8.8.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Gedanke voller Seeligkeit!",
+      "verseCount": 4,
+      "catalogCode": "No. 196"
+    },
+    "123": {
+      "title": "Delight",
+      "timeSignature": "C",
+      "firstLine": "Gott! laß mich thun mit Fleiß",
+      "musicAttribution": {
+        "credit": "Coan."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 197"
+    },
+    "124t": {
+      "title": "Darley",
+      "meter": "8.8.8.8.8. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Nie komm es mir aus meinem Sinn",
+      "verseCount": 1,
+      "catalogCode": "No. 198"
+    },
+    "124b": {
+      "title": "Stonefield",
+      "meter": "8.8.8.8. Sylben.",
+      "timeSignature": "3/2",
+      "firstLine": "Herr! der du Erd und Himmel füllst",
+      "verseCount": 1,
+      "catalogCode": "No. 199"
+    },
+    "125": {
+      "title": "Berlin",
+      "meter": "9.8.9.8.9.8.9.8. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Wie groß ist des Allmächtigen Güte",
+      "textAttribution": {
+        "credit": "F. C. Lavater."
+      },
+      "verseCount": 8,
+      "catalogCode": "No. 200"
+    },
+    "126": {
+      "title": "Majesty",
+      "meter": "8.7.7.8.7.7.8.7.8.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Seht! wie majestätisch, mächtig",
+      "verseCount": 6,
+      "catalogCode": "No. 201"
+    },
+    "127": {
+      "title": "Creation",
+      "meter": "8.8.8.8.8.8. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Lobsingt dem Herrn, der seine Welt",
+      "musicAttribution": {
+        "credit": "Haydn."
+      },
+      "verseCount": 7,
+      "catalogCode": "No. 202"
+    },
+    "128": {
+      "title": "Symphony",
+      "meter": "10.10.4.6.10. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Du Geist des Herrn",
+      "verseCount": 3,
+      "catalogCode": "No. 203"
+    },
+    "129": {
+      "title": "Charlotte",
+      "meter": "8.7.8.7.8.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Großer Himmel, darf ich's nennen",
+      "verseCount": 4,
+      "catalogCode": "No. 204"
+    },
+    "130": {
+      "title": "Diana",
+      "meter": "7.6.7.6.7.6.7.6. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Wir werfen uns darnieder",
+      "verseCount": 4,
+      "catalogCode": "No. 205"
+    },
+    "131": {
+      "title": "David's Lamentation",
+      "timeSignature": "2/4",
+      "firstLine": "Als König David hatte vernommen",
+      "musicAttribution": {
+        "credit": "Billings."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 206"
+    },
+    "132": {
+      "title": "Come Ye Disconsolate",
+      "timeSignature": "C",
+      "firstLine": "Kommt nur, ihr Traurigen, Alle her zu mir!",
+      "verseCount": 3,
+      "catalogCode": "No. 206"
+    },
+    "133": {
+      "title": "Gospel Trumpet",
+      "meter": "8.8.8.8.8.4. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Herr Jesu, der du durch dein Blut",
+      "verseCount": 3,
+      "catalogCode": "No. 207"
+    },
+    "134": {
+      "title": "Claremont",
+      "timeSignature": "6/4",
+      "firstLine": "Hilf mir, o du treuer Gott",
+      "musicAttribution": {
+        "credit": "Temple."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 208"
+    },
+    "136": {
+      "title": "New York",
+      "timeSignature": "C",
+      "firstLine": "Sey nicht fern, o treuer Gott!",
+      "verseCount": 1,
+      "catalogCode": "No. 208"
+    },
+    "139": {
+      "title": "Advent",
+      "meter": "6.6.6.6.8.8.2.8. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Ihr Auserwählten jauchzt!",
+      "verseCount": 4,
+      "catalogCode": "No. 209"
+    },
+    "140": {
+      "title": "Christmas",
+      "timeSignature": "C",
+      "firstLine": "Wir singen dir, o Friede-Fürst!",
+      "verseCount": 1,
+      "catalogCode": "No. 210"
+    },
+    "142": {
+      "title": "Easter Anthem",
+      "timeSignature": "2/4",
+      "firstLine": "Der Herr er stund vom Grab!",
+      "verseCount": 1,
+      "catalogCode": "No. 211"
+    },
+    "144": {
+      "title": "Whitsuntide",
+      "meter": "8.7.7.8.7.7.8.8.4.4.4.3.7.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Hört ein Wind vom Himmels-Throne",
+      "verseCount": 3,
+      "catalogCode": "No. 212"
+    },
+    "145t": {
+      "title": "Matthias",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "firstLine": "Der Herr, mein Hirt und Heil",
+      "musicAttribution": {
+        "credit": "Stanley."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 213"
+    },
+    "145b": {
+      "title": "Costellow",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Hilf Gott, daß ja die Kinderzucht",
+      "verseCount": 1,
+      "catalogCode": "No. 214"
+    },
+    "146t": {
+      "title": "Timsbury",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Erinn're dich, mein Geist erfreut",
+      "musicAttribution": {
+        "credit": "J. Smith."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 215"
+    },
+    "146b": {
+      "title": "Gilgal",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Das Amt der Lehrer, Herr, ist dein",
+      "verseCount": 1,
+      "catalogCode": "No. 216"
+    },
+    "147t": {
+      "title": "Dunlap's Creek",
+      "meter": "8.6.8.6.",
+      "timeSignature": "3/4",
+      "firstLine": "Allein Gott in der Höh sey Preis",
+      "verseCount": 1,
+      "catalogCode": "No. 217"
+    },
+    "147b": {
+      "title": "Bridgewater",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "firstLine": "Hier bin ich, Herr! du rufest mir",
+      "verseCount": 1,
+      "catalogCode": "No. 218"
+    },
+    "148": {
+      "title": "Greenwich",
+      "meter": "L. M. D.",
+      "timeSignature": "C",
+      "firstLine": "Groß ist, ihr Eltern! eure Pflicht!",
+      "musicAttribution": {
+        "credit": "Mead."
+      },
+      "verseCount": 1,
+      "catalogCode": "No. 219"
+    },
+    "149": {
+      "title": "The Gospel Banner",
+      "meter": "7.6.7.6.7.6.7.6.7.6.",
+      "timeSignature": "2/4",
+      "firstLine": "Wohl dem, der in der Jugend",
+      "verseCount": 1,
+      "catalogCode": "No. 220"
+    },
+    "150": {
+      "title": "Friendship",
+      "meter": "8.7.8.7.8.8.8.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Die Zeiten, Freunde sind dahin",
+      "verseCount": 5,
+      "catalogCode": "No. 221"
+    },
+    "151": {
+      "title": "Allentown",
+      "meter": "8.7.8.7.4.4.7.7.",
+      "timeSignature": "C",
+      "firstLine": "Auf Gott, und nicht auf meinen Rath",
+      "verseCount": 6,
+      "catalogCode": "No. 222"
+    },
+    "152t": {
+      "title": "Sicilian Hymn",
+      "meter": "8.7.8.7.4.4.7. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Stark und majestätisch prächtig",
+      "verseCount": 2,
+      "catalogCode": "No. 223"
+    },
+    "152b": {
+      "title": "Band of Love",
+      "meter": "9.8.9.8.8.8. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Wie schön ist doch das Band der Liebe",
+      "verseCount": 4,
+      "catalogCode": "No. 224"
+    },
+    "153": {
+      "title": "Sehnsucht",
+      "meter": "7.6.7.6.7.6.7.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Dir wünsch ich anzuhangen",
+      "verseCount": 3,
+      "catalogCode": "No. 225"
+    },
+    "154": {
+      "title": "There's Nothing True But Heaven",
+      "meter": "8.6.8.6.4.4.4.4.6.6.6.",
+      "timeSignature": "6/8",
+      "firstLine": "Die Welt ist voll von Eitelkeit!",
+      "textAttribution": {
+        "credit": "P. J. D."
+      },
+      "verseCount": 3,
+      "catalogCode": "No. 226"
+    },
+    "155": {
+      "title": "Watchman! Tell Us of the Night",
+      "timeSignature": "3/4",
+      "firstLine": "Zur gemeinen Wohlfahrt sey",
+      "verseCount": 3,
+      "catalogCode": "No. 227"
+    },
+    "156": {
+      "title": "Friedensburg",
+      "meter": "8.8.7.8.8.7.",
+      "timeSignature": "3/4",
+      "firstLine": "Ermuntr're, Seele, dich und sey",
+      "verseCount": 6,
+      "catalogCode": "No. 228"
+    },
+    "157": {
+      "title": "Cattawisa",
+      "meter": "8.8.7.8.8.7. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Unser Geist ist voll Entzücken",
+      "musicAttribution": {
+        "credit": "P. J. D."
+      },
+      "verseCount": 5,
+      "catalogCode": "No. 229"
+    },
+    "158": {
+      "title": "Eaton",
+      "meter": "8.8.8.8.8.8. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Ich freue meines Lebens mich",
+      "verseCount": 7,
+      "catalogCode": "No. 230"
+    },
+    "159": {
+      "title": "Conservation",
+      "meter": "8.8.8.8.8.8. Sylben.",
+      "timeSignature": "3/4",
+      "firstLine": "Gott! deine weise Macht erhält",
+      "verseCount": 9,
+      "catalogCode": "No. 231"
+    },
+    "160": {
+      "title": "Lord Dismiss Us With Thy Blessing",
+      "meter": "8.7.8.7.8.7.8.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Weltbeherrscher! Macht und Stärke",
+      "verseCount": 1,
+      "catalogCode": "No. 232"
+    },
+    "162t": {
+      "title": "Milton",
+      "meter": "8.6.8.6.8.6.",
+      "timeSignature": "3/2",
+      "firstLine": "Gott! deine Güte dringet mich",
+      "verseCount": 1,
+      "catalogCode": "No. 233"
+    },
+    "162b": {
+      "title": "Ganges",
+      "meter": "8.8.6.8.8.6.",
+      "timeSignature": "2/4",
+      "firstLine": "Mit frohem Herzen weihen wir",
+      "verseCount": 1,
+      "catalogCode": "No. 234"
+    },
+    "163": {
+      "title": "Benevento",
+      "meter": "7.7.7.7.7.7.7.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Ohne Rast und unverweilt",
+      "verseCount": 4,
+      "catalogCode": "No. 235"
+    },
+    "164": {
+      "title": "Elevation",
+      "meter": "8.8.7.8.7.8.7.8.8.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Von dem Staub, den ich bewohne",
+      "verseCount": 3,
+      "catalogCode": "No. 236"
+    },
+    "165t": {
+      "title": "Coleshill",
+      "meter": "8.6.8.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Mein Gott! das Herz ich bringe dir",
+      "verseCount": 1,
+      "catalogCode": "No. 237"
+    },
+    "165b": {
+      "title": "Evening Hymn",
+      "meter": "8.6.8.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Nun sich der Tag geendet hat",
+      "verseCount": 1,
+      "catalogCode": "No. 238"
+    },
+    "166t": {
+      "title": "Standish",
+      "meter": "8.6.8.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Auf! Seele, auf, und säume nicht",
+      "verseCount": 1,
+      "catalogCode": "No. 239"
+    },
+    "166b": {
+      "title": "Mear",
+      "meter": "8.6.8.6.6. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Lobt Gott, ihr Christen, allzugleich",
+      "verseCount": 1,
+      "catalogCode": "No. 240"
+    },
+    "167t": {
+      "title": "Hermitage",
+      "meter": "8.8.8.8.",
+      "timeSignature": "C",
+      "firstLine": "Kommt, bringet Ehre, Dank und Ruhm",
+      "verseCount": 1,
+      "catalogCode": "No. 241"
+    },
+    "167b": {
+      "title": "Handel",
+      "meter": "8.7.8.8. Sylben.",
+      "timeSignature": "3/2",
+      "firstLine": "Kommt! lasset uns preisen den Herrn!",
+      "verseCount": 1,
+      "catalogCode": "No. 242"
+    },
+    "168": {
+      "title": "Bethlehem",
+      "meter": "8.7.7.8.8.7.7.3.8.7.7.16.16. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Liebster Jesu! liebstes Leben!",
+      "verseCount": 1,
+      "catalogCode": "No. 243"
+    },
+    "169": {
+      "title": "Good Friday",
+      "meter": "7.8.7.8.7.7.8.",
+      "timeSignature": "C",
+      "firstLine": "O Lamm Gottes! unschuldig",
+      "verseCount": 2,
+      "catalogCode": "No. 244"
+    },
+    "170": {
+      "title": "Goschenhopen",
+      "meter": "7.7.6.7.7.8.",
+      "timeSignature": "C",
+      "firstLine": "Wie qualvoll sind die Schrecken",
+      "verseCount": 6,
+      "catalogCode": "No. 245"
+    },
+    "171": {
+      "title": "Humour",
+      "meter": "6.5.6.5.",
+      "timeSignature": "6/8",
+      "firstLine": "Zu des Lebens Freuden",
+      "verseCount": 9,
+      "catalogCode": "No. 1"
+    },
+    "172": {
+      "title": "Joyfulness",
+      "meter": "8.7.8.7.8.7.8.7.8.8.7.7.8.8.8. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Freude, schöner Götterfunken",
+      "verseCount": 7,
+      "catalogCode": "No. 2"
+    },
+    "174": {
+      "title": "The Happy Pair",
+      "meter": "8.7.8.7.8.7.8.7. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Beglückt durch dich",
+      "verseCount": 5,
+      "catalogCode": "No. 3"
+    },
+    "175": {
+      "title": "Consolation",
+      "timeSignature": "3/4",
+      "firstLine": "Es kann doch nicht alles so bleiben",
+      "verseCount": 8,
+      "catalogCode": "No. 4"
+    },
+    "176": {
+      "title": "Triumph",
+      "timeSignature": "C",
+      "firstLine": "Auf! auf ihr Christen und seyd stark!",
+      "verseCount": 9,
+      "catalogCode": "No. 5"
+    },
+    "177": {
+      "title": "Desire for Home",
+      "timeSignature": "C",
+      "firstLine": "Herz! mein Herz! warum so traurig?",
+      "verseCount": 6,
+      "catalogCode": "No. 6"
+    },
+    "178": {
+      "title": "Testifying of Joy",
+      "timeSignature": "6/8",
+      "firstLine": "Schön ist's! schön ist's auf Gottes Welt",
+      "verseCount": 3,
+      "catalogCode": "No. 7"
+    },
+    "179": {
+      "title": "Sabbatism",
+      "meter": "11.8.11.8.11.8.11.8.",
+      "timeSignature": "C",
+      "firstLine": "O Tag des Herrn, du heil'ger Tag der Wonne",
+      "verseCount": 1,
+      "catalogCode": "No. 8"
+    },
+    "180": {
+      "title": "Isle of Beauty",
+      "meter": "8.7.8.7.8.7.8.7. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "O wie herrlich! o wie labend!",
+      "verseCount": 3,
+      "catalogCode": "No. 9"
+    },
+    "181": {
+      "title": "Elysium",
+      "meter": "11.12.11.12.11.12.11.12.",
+      "timeSignature": "C",
+      "firstLine": "Kennst du das Land, das bey den Erden Leiden",
+      "verseCount": 6,
+      "catalogCode": "No. 10"
+    },
+    "182": {
+      "title": "Lord's Prayer",
+      "meter": "8.8.8.8.8. Sylben.",
+      "timeSignature": "3/4",
+      "firstLine": "Du, deß sich alle Himmel freun",
+      "textAttribution": {
+        "credit": "Barbauld."
+      },
+      "verseCount": 9,
+      "catalogCode": "No. 11"
+    },
+    "183": {
+      "title": "I Will Arise and Go to My Father",
+      "meter": "irregulär.",
+      "timeSignature": "3/4",
+      "firstLine": "Auf will ich nun von Sünden stehn!",
+      "verseCount": 1,
+      "catalogCode": "No. 12"
+    },
+    "184": {
+      "title": "The Last Beam Is Shining",
+      "meter": "11.11.10.11.12.10.5.5.11.",
+      "timeSignature": "C",
+      "firstLine": "Prachtvoll und herrlich verschwand uns die Sonne",
+      "verseCount": 2,
+      "catalogCode": "No. 13"
+    },
+    "185": {
+      "title": "Man",
+      "meter": "9.8.9.8.9.8.9.8. Sylben.",
+      "timeSignature": "C",
+      "firstLine": "Was ist der Mensch? halb Thier, halb Engel",
+      "verseCount": 7,
+      "catalogCode": "No. 14"
+    },
+    "186": {
+      "title": "The Fourth of July",
+      "meter": "7.6.7.6.7.6.7.6.",
+      "timeSignature": "3/8",
+      "firstLine": "Was nahe ist und ferne",
+      "textAttribution": {
+        "credit": "C. Zoller."
+      },
+      "verseCount": 7,
+      "catalogCode": "No. 15"
+    },
+    "187": {
+      "title": "Protection",
+      "meter": "8.8.8.8.8.8. Sylben.",
+      "timeSignature": "2/4",
+      "firstLine": "Gott lebet noch, drum sorg ich nicht!",
+      "verseCount": 4,
+      "catalogCode": "No. 16"
+    },
+    "188t": {
+      "title": "Veritas",
+      "meter": "8.8.8.8. Sylben.",
+      "timeSignature": "3/4",
+      "firstLine": "Wer Wahrheit über alles schätzt",
+      "verseCount": 3,
+      "catalogCode": "No. 17"
+    },
+    "188b": {
+      "title": "Palestine",
+      "meter": "12.9.12.9.12.9.12.9. Sylben.",
+      "timeSignature": "3/4",
+      "firstLine": "Es versetzt sich mein Geist in das gelobte Land",
+      "verseCount": 1,
+      "catalogCode": "No. 18"
+    },
+    "190": {
+      "title": "Via Crucis, Via Lucis",
+      "timeSignature": "C; 6/8; C; 6/8",
+      "firstLine": "Durch Nacht zum Licht! und wenn das grause Dunkel",
+      "verseCount": 4,
+      "catalogCode": "No. 19"
+    },
+    "192": {
+      "title": "Omega",
+      "meter": "6.5.6.5.6.5.6.5. Sylben.",
+      "timeSignature": "6/8",
+      "firstLine": "Freund! ich bin zufrieden",
+      "verseCount": 6,
+      "historicalNote": "The tune header prints No. 20; the English title index prints No. 21.",
+      "catalogCode": "No. 20"
+    }
+  }
+}

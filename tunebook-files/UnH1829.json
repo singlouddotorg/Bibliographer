@@ -1,0 +1,1149 @@
+{
+  "editionId": "e_UnH1829",
+  "workId": "w_UnH",
+  "editionCode": "UnH1829",
+  "editionIdentifierYear": "1829",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "Union Harmony; or, Music Made Easy"
+  },
+  "states": [],
+  "scholarlyRecord": null,
+  "sources": [],
+  "relationships": [],
+  "publicationStatus": null,
+  "internalNote": "Built from Kevin's own per-song extraction CSV (union_harmony_final.csv), 143 songs, pages 17-142. Publication year deliberately left blank throughout (edition record, book-level facts, and here): the copyright/deposit page states the date as the \"Twentieth day of April\" in the \"fifty-third year of the Independence of the United States of America,\" not a printed Gregorian year - per the extraction guide, this isn't converted into a year and asserted as printed evidence. The existing Work record's own firstEditionYear (\"1829\") appears to already be this same calculation from an earlier import; the Edition Code here (UnH1829) reuses that same year strictly as a practical identifier, not as a re-assertion that 1829 is a confirmed, printed fact - Kevin's own explicit choice, confirmed directly rather than assumed. The title page also names J. Robinson as printer; this is not folded into the publisher field, per Kevin's own instruction, and is recorded separately in the edition's own printer field instead. Five page numbers within the range (125, 130, 131, 139, 140) have no song entry - consistent with real pages with nothing to extract (illustration, blank, or advertisement pages), not a gap in the extraction. No index cross-check has been done against this book's own printed index yet - this is a first-pass build from the extraction CSV alone.",
+  "songs": {
+    "17": {
+      "title": "Harmony",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Great is the Lord, his works of might,",
+      "verseCount": 1
+    },
+    "18t": {
+      "title": "Hungerford",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Come ye that know and fear the Lord,",
+      "verseCount": 1
+    },
+    "18b": {
+      "title": "Kingston",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "God moves in a mysterious way,",
+      "verseCount": 1
+    },
+    "19t": {
+      "title": "Medfield",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Indulgent Father, how divine,",
+      "verseCount": 1
+    },
+    "19b": {
+      "title": "Bellfield",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "Father, how wide thy glory shines!",
+      "verseCount": 1
+    },
+    "20t": {
+      "title": "Warwick",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "E Major",
+      "firstLine": "How precious is the book divine!",
+      "verseCount": 1
+    },
+    "20b": {
+      "title": "Greencastle",
+      "meter": "C.M.",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "firstLine": "Indulgent Father, how divine,",
+      "verseCount": 1
+    },
+    "21": {
+      "title": "Gabriel",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "Shepherds rejoice; lift up your eyes,",
+      "verseCount": 4
+    },
+    "22": {
+      "title": "Wheeling",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "B♭ Major",
+      "firstLine": "Father of mercies, in thy word,",
+      "verseCount": 4
+    },
+    "23": {
+      "title": "Warren",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "Early my God, without delay,",
+      "verseCount": 1
+    },
+    "24": {
+      "title": "Edenton",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "When any turn from Zion's way,",
+      "verseCount": 3
+    },
+    "25": {
+      "title": "Felicity",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "O happy is the man who hears",
+      "verseCount": 1
+    },
+    "26": {
+      "title": "Heavenly Joy",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Come Lord, and warm each languid heart,",
+      "verseCount": 4
+    },
+    "27": {
+      "title": "Annapolis",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "When I can read my title clear,",
+      "verseCount": 4
+    },
+    "28": {
+      "title": "Sabbath",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "This is the day the Lord hath made,",
+      "verseCount": 1
+    },
+    "29": {
+      "title": "Halvergate",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "Great God, to thee our grateful tongues,",
+      "verseCount": 4
+    },
+    "30": {
+      "title": "Canterbury",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "O God! my heart is fully bent",
+      "verseCount": 1
+    },
+    "31t": {
+      "title": "Bath Chapel",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "O 'twas a joyful sound to hear,",
+      "verseCount": 1
+    },
+    "31b": {
+      "title": "Cambridge",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "How vast must their advantage be,",
+      "verseCount": 1
+    },
+    "32t": {
+      "title": "Bromsgrove",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "What shall I render to my God",
+      "verseCount": 1
+    },
+    "32b": {
+      "title": "Palestine",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "O 'twas the dawn of heav'nly day,",
+      "verseCount": 1
+    },
+    "33t": {
+      "title": "Ross Chapel",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "God of our fathers! by whose hand",
+      "verseCount": 1
+    },
+    "33b": {
+      "title": "Kemp",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "Awake, my soul, stretch ev'ry nerve,",
+      "verseCount": 1
+    },
+    "34": {
+      "title": "Clifford",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "To Zion's hill I lift my eyes,",
+      "verseCount": 1
+    },
+    "35": {
+      "title": "Missionary",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Great God, the nations of the earth",
+      "verseCount": 4
+    },
+    "36": {
+      "title": "Millennium",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "O'er mountain tops the mount of God",
+      "verseCount": 1
+    },
+    "37": {
+      "title": "Hibernia",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "Let all the earth with shouts of joy,",
+      "verseCount": 1
+    },
+    "38": {
+      "title": "Judea",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "While shepherds watch'd their flocks by night,",
+      "verseCount": 1
+    },
+    "39": {
+      "title": "Paradise",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Father of mercy, God of love,",
+      "verseCount": 1
+    },
+    "40": {
+      "title": "Pentecost",
+      "meter": "C.M.",
+      "timeSignature": "3/2",
+      "key": "A Major",
+      "firstLine": "He's come! let every knee be bent,",
+      "verseCount": 4
+    },
+    "41": {
+      "title": "Inspiration",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "D Major",
+      "firstLine": "Now shall my inward joys arise,",
+      "verseCount": 1
+    },
+    "42": {
+      "title": "St. Sebastian",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "Hark! 'tis the Prophet of the skies",
+      "verseCount": 4
+    },
+    "43": {
+      "title": "Maysville",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "While thee I seek, protecting Power,",
+      "verseCount": 4
+    },
+    "44": {
+      "title": "Advent",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "D Major",
+      "firstLine": "The Lord has thro' th' astonish'd world,",
+      "verseCount": 4
+    },
+    "45": {
+      "title": "Alabama",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "With cheerful notes let all the earth,",
+      "verseCount": 1
+    },
+    "46": {
+      "title": "Mount Carmel",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "Awake my soul, stretch ev'ry nerve,",
+      "verseCount": 4
+    },
+    "47": {
+      "title": "Marietta",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "The Lord himself, the mighty Lord,",
+      "verseCount": 2
+    },
+    "48": {
+      "title": "Geneva",
+      "meter": "C.M.",
+      "timeSignature": "3/2",
+      "key": "E flat Major",
+      "firstLine": "When all thy mercies, O my God,",
+      "verseCount": 5
+    },
+    "49": {
+      "title": "Salem",
+      "meter": "C.M.",
+      "timeSignature": "3/4",
+      "key": "A Major",
+      "firstLine": "Ye humble souls, approach your God,",
+      "verseCount": 4
+    },
+    "50": {
+      "title": "New Jordan",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "There is a land of pure delight,",
+      "verseCount": 2
+    },
+    "51": {
+      "title": "Gethsemane",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "F Minor",
+      "firstLine": "Behold the Saviour of mankind,",
+      "verseCount": 1
+    },
+    "52t": {
+      "title": "Augusta",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "firstLine": "Joy is a fruit that will not grow",
+      "verseCount": 1
+    },
+    "52b": {
+      "title": "Penitence",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "firstLine": "How oft, alas! this wretched heart,",
+      "verseCount": 1
+    },
+    "53": {
+      "title": "Pilmore",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "firstLine": "Alas, what hourly dangers rise!",
+      "verseCount": 1
+    },
+    "54": {
+      "title": "Calvary",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "key": "D Minor",
+      "firstLine": "From whence these direful omens round,",
+      "verseCount": 1
+    },
+    "55t": {
+      "title": "Overbury",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "From all that dwell below the skies,",
+      "verseCount": 1
+    },
+    "55b": {
+      "title": "Kenyon College",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "My soul inspir'd with sacred love,",
+      "verseCount": 1
+    },
+    "56t": {
+      "title": "Ebenezer",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "O may thy love inspire my song,",
+      "verseCount": 1
+    },
+    "56b": {
+      "title": "Tewkesbury",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "Come gracious Spirit heav'nly dove,",
+      "verseCount": 1
+    },
+    "57t": {
+      "title": "Sunday",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "Lord, how delightful 'tis to see",
+      "verseCount": 1
+    },
+    "57b": {
+      "title": "Alexandria",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Glory to thee, my God this night,",
+      "verseCount": 1
+    },
+    "58t": {
+      "title": "Broadland",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "Thine earthly sabbaths, Lord we love,",
+      "verseCount": 1
+    },
+    "58b": {
+      "title": "Davenport",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Thou only sov'reign of my heart,",
+      "verseCount": 1
+    },
+    "59t": {
+      "title": "Plymouth",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "All glorious God what hymns of praise,",
+      "verseCount": 1
+    },
+    "59b": {
+      "title": "Morning",
+      "meter": "L.M.",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "firstLine": "God of the morning at whose voice,",
+      "verseCount": 1
+    },
+    "60": {
+      "title": "All Saints",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Jesus shall reign where'er the sun",
+      "verseCount": 1
+    },
+    "61": {
+      "title": "Emmanuel",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "D Major",
+      "firstLine": "God, in the gospel of his Son,",
+      "verseCount": 4
+    },
+    "62": {
+      "title": "Peru",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "How blest the sacred tie that binds,",
+      "verseCount": 4
+    },
+    "63t": {
+      "title": "Alfreton",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "From all that dwell below the skies,",
+      "verseCount": 1
+    },
+    "63b": {
+      "title": "Rockland",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "D Major",
+      "firstLine": "O render thanks to God above,",
+      "verseCount": 1
+    },
+    "64": {
+      "title": "Triumph",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "D Major",
+      "firstLine": "Triumphant Zion lift thy head,",
+      "verseCount": 4
+    },
+    "65": {
+      "title": "Hinton",
+      "meter": "L.M.",
+      "timeSignature": "2/4",
+      "key": "D Major",
+      "firstLine": "All glorious God what hymns of praise,",
+      "verseCount": 4
+    },
+    "66t": {
+      "title": "Seabury",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "firstLine": "Shew pity Lord, O Lord forgive,",
+      "verseCount": 1
+    },
+    "66b": {
+      "title": "Supplication",
+      "meter": "L.M.",
+      "timeSignature": "3/2",
+      "key": "E Minor",
+      "firstLine": "O thou that hear'st when sinners cry,",
+      "verseCount": 1
+    },
+    "67": {
+      "title": "Derby",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "firstLine": "O that my load of sin were gone,",
+      "verseCount": 1
+    },
+    "68t": {
+      "title": "Inglis",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "I love thy kingdom, Lord,",
+      "verseCount": 1
+    },
+    "68b": {
+      "title": "Louisville",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Blest is the tie that binds",
+      "verseCount": 1
+    },
+    "69": {
+      "title": "Switzerland",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "Now let our voices join, To form a sacred song;",
+      "verseCount": 4
+    },
+    "70": {
+      "title": "Whitfield",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "Come, ye that love the Lord, And let your joys be known;",
+      "verseCount": 5
+    },
+    "71t": {
+      "title": "Quebec",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "Welcome sweet day of rest, That saw the Lord arise;",
+      "verseCount": 1
+    },
+    "71b": {
+      "title": "Allerton",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "Jesus, thou friend divine, Our Saviour and our King;",
+      "verseCount": 1
+    },
+    "72t": {
+      "title": "Aurora",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "How beauteous are their feet Who stand on Zion's hill;",
+      "verseCount": 1
+    },
+    "72b": {
+      "title": "Gambier",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Ah, how shall fallen man Be just before his God!",
+      "verseCount": 1
+    },
+    "73": {
+      "title": "Grace",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "Grace! 'tis a charming sound! Harmonious to the ear,",
+      "verseCount": 4
+    },
+    "74": {
+      "title": "Washington",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Soldiers of Christ arise, And put your armour on;",
+      "verseCount": 4
+    },
+    "75": {
+      "title": "Baltimore",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "To God the only wise, Our Saviour and our King,",
+      "verseCount": 3
+    },
+    "76t": {
+      "title": "Iconium",
+      "meter": "S.M.",
+      "timeSignature": "3/2",
+      "key": "E Minor",
+      "firstLine": "And will the Judge descend? And must the dead arise?",
+      "verseCount": 1
+    },
+    "76b": {
+      "title": "Chester",
+      "meter": "S.M.",
+      "timeSignature": "3/4",
+      "key": "A Minor",
+      "firstLine": "The day is past and gone, The coming shades appear;",
+      "verseCount": 1
+    },
+    "77t": {
+      "title": "Addison",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "firstLine": "A charge to keep I have, A God to glorify;",
+      "verseCount": 1
+    },
+    "77b": {
+      "title": "Langdon",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "key": "G Minor",
+      "firstLine": "Jesus my strength my hope, On thee I cast my care,",
+      "verseCount": 1
+    },
+    "78": {
+      "title": "Williamsburg",
+      "meter": "8 8 6",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "Begin my soul th'exalted lay, Let each enraptur'd thought obey, And praise th'Almighty King;",
+      "verseCount": 1
+    },
+    "79": {
+      "title": "Harford",
+      "meter": "8.8.6.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "Although the vine its fruit deny,",
+      "verseCount": 3
+    },
+    "80": {
+      "title": "Bath",
+      "meter": "Old 113th Metre",
+      "timeSignature": "4/4",
+      "key": "E Major",
+      "firstLine": "Ye saints and servants of the Lord,",
+      "verseCount": 1
+    },
+    "81": {
+      "title": "Columbia",
+      "meter": "113th Metre",
+      "timeSignature": "4/4",
+      "key": "D Major",
+      "firstLine": "Ye that delight to serve the Lord,",
+      "verseCount": 1
+    },
+    "82": {
+      "title": "Shelburn",
+      "meter": "112th Metre",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "My soul thy great Creator praise;",
+      "verseCount": 1
+    },
+    "83": {
+      "title": "Medina",
+      "meter": "112th Metre",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "As, panting in the sultry beam,",
+      "verseCount": 1
+    },
+    "84": {
+      "title": "Providence",
+      "meter": "112th Metre",
+      "timeSignature": "4/4; 3/4",
+      "key": "D Major",
+      "firstLine": "The Lord my pasture shall prepare,",
+      "verseCount": 3
+    },
+    "85": {
+      "title": "Burlington",
+      "meter": "148th Metre",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "In loud exalted strains, The King of Glory praise;",
+      "verseCount": 1
+    },
+    "86": {
+      "title": "Berkley",
+      "meter": "148th Metre",
+      "timeSignature": "2/4",
+      "key": "E Major",
+      "firstLine": "We give immortal praise, To God the Father's love,",
+      "verseCount": 1
+    },
+    "87": {
+      "title": "Radcliffe",
+      "meter": "148th Metre",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Come let our voices join,",
+      "verseCount": 5
+    },
+    "88": {
+      "title": "Oporto",
+      "meter": "4 lines, 10.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Rise, crown'd with light, imperial Salem, rise,",
+      "verseCount": 4
+    },
+    "89": {
+      "title": "Walworth",
+      "meter": "6 lines 10, or 115th Metre",
+      "timeSignature": "4/4",
+      "key": "D Major",
+      "firstLine": "Not to our names, thou only just and true,",
+      "verseCount": 1
+    },
+    "90": {
+      "title": "Cecil",
+      "meter": "7.6.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "Hail! to the Lord's Anointed, Great David's greater Son;",
+      "verseCount": 3
+    },
+    "91": {
+      "title": "Calcutta",
+      "meter": "7.6.",
+      "timeSignature": "2/4",
+      "key": "A Major",
+      "firstLine": "From Greenland's icy mountains,",
+      "verseCount": 1
+    },
+    "92t": {
+      "title": "Pilgrims",
+      "meter": "4 lines, 7.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Children of the heav'nly King,",
+      "verseCount": 1
+    },
+    "92b": {
+      "title": "Wilmer",
+      "meter": "4 lines, 7.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "To thy temple I repair;",
+      "verseCount": 1
+    },
+    "93t": {
+      "title": "Atterbury",
+      "meter": "4 lines, 7.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Christ the Lord is ris'n to-day,",
+      "verseCount": 1
+    },
+    "93b": {
+      "title": "Sunday School Hymn",
+      "meter": "4 lines, 7.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Glory to the Father give,",
+      "verseCount": 4
+    },
+    "94": {
+      "title": "Asia",
+      "meter": "4 lines, 7.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Keep me Saviour near thy side,",
+      "verseCount": 4
+    },
+    "95": {
+      "title": "Songs of Praise",
+      "meter": "4 lines, 7.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "Songs of praise the angels sang;",
+      "verseCount": 4
+    },
+    "96": {
+      "title": "Anna's Lute",
+      "meter": "4 lines, 7.",
+      "timeSignature": "2/4",
+      "key": "D Major",
+      "firstLine": "Sing, my soul, his wond'rous love,",
+      "verseCount": 4
+    },
+    "97": {
+      "title": "Hotham",
+      "meter": "8 lines, 7.",
+      "timeSignature": "4/4",
+      "key": "E flat Major",
+      "firstLine": "Jesus, Saviour of my soul,",
+      "verseCount": 1
+    },
+    "98": {
+      "title": "Gratitude",
+      "meter": "6 lines, 7.",
+      "timeSignature": "3/4; 2/4",
+      "key": "F Major",
+      "firstLine": "Praise to God, immortal praise,",
+      "verseCount": 4
+    },
+    "99": {
+      "title": "Malmsbury",
+      "meter": "4 lines, 8.7.",
+      "timeSignature": "2/4",
+      "key": "A Major",
+      "firstLine": "Hail, thou long expected Jesus,",
+      "verseCount": 1
+    },
+    "100": {
+      "title": "Morley",
+      "meter": "6 lines, 7.",
+      "timeSignature": "6/8",
+      "key": "F Major",
+      "firstLine": "Rock of ages! cleft for me,",
+      "verseCount": 3
+    },
+    "101t": {
+      "title": "Mariners",
+      "meter": "4 lines, 8.7.",
+      "timeSignature": "2/4",
+      "key": "F Major",
+      "firstLine": "Saviour, source of ev'ry blessing,",
+      "verseCount": 1
+    },
+    "101b": {
+      "title": "Reading",
+      "meter": "4 lines, 8.7.",
+      "timeSignature": "3/4",
+      "key": "B flat Major",
+      "firstLine": "Guide me, O thou great Jehovah,",
+      "verseCount": 4
+    },
+    "102": {
+      "title": "Latour",
+      "meter": "8 lines, 8.7.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Lo! the bright and rosy morn,",
+      "verseCount": 3
+    },
+    "103": {
+      "title": "Bozra",
+      "meter": "8.7. Peculiar.",
+      "timeSignature": "4/4",
+      "key": "E flat Major",
+      "firstLine": "Who is this that comes from Edom,",
+      "verseCount": 3
+    },
+    "104": {
+      "title": "Covington",
+      "meter": "8.7. Peculiar.",
+      "timeSignature": "2/4",
+      "key": "C Major",
+      "firstLine": "One there is above all others,",
+      "verseCount": 3
+    },
+    "105": {
+      "title": "Westborough",
+      "meter": "8.7.4.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Yes, we trust the day is breaking;",
+      "verseCount": 3
+    },
+    "106": {
+      "title": "Hanbury",
+      "meter": "8.7.4.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Lord dismiss us with thy blessing,",
+      "verseCount": 2
+    },
+    "107": {
+      "title": "Kershaw",
+      "meter": "8.7.4.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "firstLine": "Day of judgment! day of wonders!",
+      "verseCount": 2
+    },
+    "108": {
+      "title": "Lancaster",
+      "meter": "104th Metre",
+      "timeSignature": "6/4",
+      "key": "F Major",
+      "firstLine": "Ye servants of God, Your master proclaim,",
+      "verseCount": 2
+    },
+    "109": {
+      "title": "Bloomfield",
+      "meter": "104th Metre",
+      "timeSignature": "3/2",
+      "key": "A Major",
+      "firstLine": "How wondrous and great Thy works, God of praise!",
+      "verseCount": 2
+    },
+    "110": {
+      "title": "Allendale",
+      "meter": "8 lines, 8.",
+      "timeSignature": "3/2",
+      "key": "E flat Major",
+      "firstLine": "How cheerful along the gay mead, The daisy and cowslip appear;",
+      "verseCount": 2
+    },
+    "111": {
+      "title": "Goshen",
+      "meter": "4 lines, 8.",
+      "timeSignature": "3/2",
+      "key": "E flat Major",
+      "firstLine": "Inspirer and hearer of pray'r, Thou shepherd and guardian of thine,",
+      "verseCount": 1
+    },
+    "112": {
+      "title": "Heber",
+      "meter": "4 l. 8.",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "firstLine": "Be joyful in God, all ye lands of the earth,",
+      "verseCount": 1
+    },
+    "113": {
+      "title": "Majesty",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "The God of Abram praise, Who reigns enthron'd above;",
+      "verseCount": 1
+    },
+    "114": {
+      "title": "Athens",
+      "meter": "11s.",
+      "timeSignature": "3/4",
+      "key": "A Major",
+      "firstLine": "How firm a foundation, ye saints of the Lord,",
+      "verseCount": 4
+    },
+    "115": {
+      "title": "Corinth",
+      "meter": "11s.",
+      "timeSignature": "3/2",
+      "key": "A Major",
+      "firstLine": "I would not live alway: I ask not to stay",
+      "verseCount": 4
+    },
+    "116": {
+      "title": "Hagerstown",
+      "timeSignature": "4/4",
+      "key": "E flat Major",
+      "firstLine": "Sing to the Lord a new made song;",
+      "textAttribution": {
+        "credit": "T. & B."
+      },
+      "scriptureReference": "Ps. 96",
+      "verseCount": 1
+    },
+    "117": {
+      "title": "Trinity",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "firstLine": "Come, thou almighty King, Help us thy name to sing, Help us to praise!",
+      "verseCount": 1
+    },
+    "118": {
+      "title": "Johns",
+      "meter": "8 lines, 7 & 6.",
+      "timeSignature": "2/4",
+      "key": "A Major",
+      "firstLine": "Rise, my soul, and stretch thy wings, Thy better portion trace;",
+      "verseCount": 1
+    },
+    "119": {
+      "title": "Carmel",
+      "meter": "7.6.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Since I've known a Saviour's name,",
+      "verseCount": 3
+    },
+    "120": {
+      "title": "Friendship",
+      "meter": "122d Metre",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "firstLine": "How pleas'd and blest was I,",
+      "verseCount": 2
+    },
+    "121": {
+      "title": "Christmas Hymn",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Lift up your heads in joyful hope,",
+      "verseCount": 4
+    },
+    "122": {
+      "title": "Staunton",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "firstLine": "All hail the pow'r of Jesus' name!",
+      "verseCount": 4
+    },
+    "123": {
+      "title": "Jubilee",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "Blow ye the trumpet blow,",
+      "verseCount": 1
+    },
+    "124": {
+      "title": "Coronation",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Hosannah to our conq'ring King,",
+      "verseCount": 2
+    },
+    "126": {
+      "title": "Autumn",
+      "meter": "8.7.",
+      "timeSignature": "3/8",
+      "key": "A Major",
+      "firstLine": "See the leaves around us falling,",
+      "verseCount": 4
+    },
+    "127": {
+      "title": "Malta",
+      "timeSignature": "2/4",
+      "key": "A Major",
+      "firstLine": "With my substance I will honor",
+      "verseCount": 3
+    },
+    "128": {
+      "title": "Home",
+      "timeSignature": "2/4",
+      "key": "F Major",
+      "firstLine": "Gay pleasures and palaces mention them not,",
+      "verseCount": 1
+    },
+    "129": {
+      "title": "The Voice of Peace",
+      "timeSignature": "3/4",
+      "key": "E Major",
+      "firstLine": "Sweet as the Shepherd's tuneful reed,",
+      "verseCount": 3
+    },
+    "132": {
+      "title": "Felton",
+      "meter": "8.7.4.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "I will praise the Lord, most holy!",
+      "verseCount": 4
+    },
+    "133": {
+      "title": "Grenada",
+      "timeSignature": "2/4",
+      "key": "B flat Major",
+      "firstLine": "Far, far o'er hill and dell,",
+      "verseCount": 2
+    },
+    "134": {
+      "title": "Salisbury",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "firstLine": "Save me from my foes,",
+      "verseCount": 3
+    },
+    "135": {
+      "title": "Highgate",
+      "meter": "10.11.",
+      "timeSignature": "3/4",
+      "key": "F Major",
+      "firstLine": "All glory and praise",
+      "verseCount": 4
+    },
+    "136": {
+      "title": "Heavenly Wisdom",
+      "timeSignature": "6/8",
+      "key": "A Major",
+      "firstLine": "O happy is the man who hears",
+      "verseCount": 3
+    },
+    "137": {
+      "title": "Bannockburn",
+      "timeSignature": "4/4",
+      "key": "B flat Major",
+      "firstLine": "Lord of mercy and of might,",
+      "verseCount": 4
+    },
+    "138": {
+      "title": "Charity Hymn",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "firstLine": "Lord of life, all praise excelling,",
+      "verseCount": 3
+    },
+    "141": {
+      "title": "The Star of the East",
+      "timeSignature": "6/8",
+      "key": "B flat Major",
+      "firstLine": "Brightest and best of the sons of the morning!",
+      "verseCount": 2
+    },
+    "142": {
+      "title": "The Voice of Free Grace",
+      "timeSignature": "3/4",
+      "key": "B flat Major",
+      "firstLine": "The voice of free grace cries escape to the mountain,",
+      "verseCount": 4
+    }
+  }
+}

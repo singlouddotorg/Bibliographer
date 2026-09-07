@@ -1,0 +1,3779 @@
+{
+  "editionId": "e_ShH2012",
+  "workId": "w_ShH",
+  "editionCode": "ShH2012",
+  "editionIdentifierYear": "2012",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "The Shenandoah Harmony",
+    "subtitle": "A Collection of Shape-Note Tunes, Ancient and Modern, for Singing Groups Large or Small",
+    "commonName": "Shenandoah Harmony",
+    "workCode": "ShH",
+    "shmhaCode": "ShH",
+    "compiler": "John delRe",
+    "publisher": "The Shenandoah Harmony Publishing Co.",
+    "placePublished": "Boyce, VA",
+    "publicationYear": "2012",
+    "shapeSystem": "4-shape"
+  },
+  "songs": {
+    "2": {
+      "title": "Rhode Island",
+      "firstLine": "My God thy boundless love we praise",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "8": {
+      "title": "Sweet Messenger",
+      "firstLine": "One night as I lay musing",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SWPH"
+      }
+    },
+    "10": {
+      "title": "Something New",
+      "firstLine": "Since man by sin has lost his God",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "11": {
+      "title": "Exultation - Come away to the skies",
+      "firstLine": "Come away to the skies my beloved arise",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "14": {
+      "title": "Missionary's Farewell",
+      "firstLine": "In the deserts let me labor",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "15": {
+      "title": "Converse",
+      "firstLine": "Im tired of visits modes and forms",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "16": {
+      "title": "Martial Trumpet",
+      "firstLine": "They who long in sin have lain",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "17": {
+      "title": "Lord is Great",
+      "firstLine": "The Lord is great ye host of heavn adore him",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CUH"
+      }
+    },
+    "19": {
+      "title": "Woodbury",
+      "firstLine": "Happy the city where their sons",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "20": {
+      "title": "Heavenly Union",
+      "firstLine": "Come saints and sinners hear me tell",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "21": {
+      "title": "Tender Thought",
+      "firstLine": "Arise my tender thoughts arise",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "23": {
+      "title": "Wesley",
+      "firstLine": "With inward pain my heartstrings sound",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "25": {
+      "title": "Damascus",
+      "firstLine": "We are passing away from this beautiful earth",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NMT"
+      }
+    },
+    "26": {
+      "title": "Dying Penitent",
+      "firstLine": "As on the cross the Savior hung",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "VAH"
+      }
+    },
+    "27": {
+      "title": "Brookfield",
+      "firstLine": "Twas on that dark that doleful night",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SMA"
+      }
+    },
+    "29": {
+      "title": "Hatfield",
+      "firstLine": "Naked as from the earth we came",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "CMS"
+      }
+    },
+    "30": {
+      "title": "Few Happy Matches",
+      "firstLine": "Say mighty love and teach my song",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "31": {
+      "title": "Bruce's Address",
+      "firstLine": "Soldiers of the cross arise",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "32": {
+      "title": "Sutton New",
+      "firstLine": "Save me O God the swelling floods",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "33": {
+      "title": "Florilla",
+      "firstLine": "Sinners hear the Saviors call",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "34": {
+      "title": "Solemn Thought",
+      "firstLine": "Remember sinful youth you must die",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "35": {
+      "title": "Rose Tree",
+      "firstLine": "There is a land of pleasure",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "36": {
+      "title": "Our Journey Home",
+      "firstLine": "Jesus full of all compassion",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "37": {
+      "title": "Spiritual Sailor",
+      "firstLine": "The people called Christians",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "38": {
+      "title": "Rome",
+      "firstLine": "Farewell honors empty pride",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "39": {
+      "title": "Williamstown",
+      "firstLine": "Show pity Lord O Lord forgive",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "40": {
+      "title": "Road's Town",
+      "firstLine": "Blessed are the sons of God",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "41": {
+      "title": "Flower",
+      "firstLine": "The finest flowr that eer was known",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SWPH"
+      }
+    },
+    "42": {
+      "title": "Blooming Wilderness",
+      "firstLine": "The Prince of salvation is coming prepare",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "44": {
+      "title": "Burial",
+      "firstLine": "Not a drum beat was heard not a funeral note",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "45": {
+      "title": "Hiding Place",
+      "firstLine": "Hail sovreign love which first began",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "46": {
+      "title": "Conquering Soldier",
+      "firstLine": "O when shall I see Jesus",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KHst"
+      }
+    },
+    "47": {
+      "title": "Psalm 46",
+      "firstLine": "The Lord hath eyes to give the blind",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AH"
+      }
+    },
+    "48": {
+      "title": "Captain Kidd",
+      "firstLine": "Thro all the world below",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "JTH"
+      }
+    },
+    "49": {
+      "title": "Marietta",
+      "firstLine": "Well might the sun in darkness hide",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "50": {
+      "title": "Frewsburgh",
+      "firstLine": "To shepherds as they watchd by night",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "51": {
+      "title": "Sussex",
+      "firstLine": "The man that views his guilt and sin",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "VAH"
+      }
+    },
+    "52": {
+      "title": "David's Victory",
+      "firstLine": "Hark my soul It is the Lord",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "53": {
+      "title": "Lisbon - Farewell, dear brethren of the Lord",
+      "firstLine": "Farewell dear brethren of the Lord",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "54": {
+      "title": "Walworth",
+      "firstLine": "Christians awake salute this happy morn",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "TC"
+      }
+    },
+    "55": {
+      "title": "Ball Hill",
+      "firstLine": "Come dear friend and dont neglect it",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SH"
+      }
+    },
+    "56": {
+      "title": "Maryville",
+      "firstLine": "Salvation through our dying God",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "57": {
+      "title": "New Orleans",
+      "firstLine": "Why do we mourn departing friends",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "58": {
+      "title": "Saints' Repose",
+      "firstLine": "Death is to us a sweet repose",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "61": {
+      "title": "Wabash",
+      "firstLine": "Tis winter now the fallen snow",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "62": {
+      "title": "Rapturous Scene",
+      "firstLine": "Wrapt in the silence of the night",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "63": {
+      "title": "Coldwater",
+      "firstLine": "Hail scenes of felicity transport and joy",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "64": {
+      "title": "Foster",
+      "firstLine": "I hear the voice of woe",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AMM"
+      }
+    },
+    "66": {
+      "title": "Night of the Grave",
+      "firstLine": "Tis night and the landscape is lovely no more",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "67": {
+      "title": "Greenfield",
+      "firstLine": "God is our refuge in distress",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "68": {
+      "title": "Ward",
+      "firstLine": "In all my vast concerns with thee",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "69": {
+      "title": "Alstead",
+      "firstLine": "Hosanna with a cheerful sound",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "BH"
+      }
+    },
+    "71": {
+      "title": "Hickman",
+      "firstLine": "O God why hast thou thus",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "72": {
+      "title": "Salvation",
+      "firstLine": "A fierce unrest seethes at the core",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "73": {
+      "title": "Exultation - Burst, ye em’rald gates, and bring",
+      "firstLine": "Burst ye emrald gates and bring",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "VAH"
+      }
+    },
+    "74": {
+      "title": "Come On, My Fellow-Pilgrims",
+      "firstLine": "Come on my fellow-pilgrims come",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "BFWC"
+      }
+    },
+    "75": {
+      "title": "Farewell",
+      "firstLine": "My friends I bid you all farewell",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SM"
+      }
+    },
+    "77": {
+      "title": "Collins",
+      "firstLine": "O hearken sinners we have cause",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH58"
+      }
+    },
+    "78": {
+      "title": "Stafford",
+      "firstLine": "Come Holy Spirit come",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AH"
+      }
+    },
+    "79": {
+      "title": "Heck",
+      "firstLine": "Ye sons of earth prepare the plow",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "80": {
+      "title": "Pomerania",
+      "firstLine": "When peace like a river attendeth my way",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "81": {
+      "title": "Shepherd's Star",
+      "firstLine": "Hail the blest morn when the great mediator",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "82": {
+      "title": "Indian Philosopher",
+      "firstLine": "Awakd by Sinais awful sound",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "PCM"
+      }
+    },
+    "84": {
+      "title": "Lamberton",
+      "firstLine": "Is this the kind return",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "85": {
+      "title": "Harvest Field",
+      "firstLine": "This is a field this world below",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "86": {
+      "title": "Song of Moses",
+      "firstLine": "Almighty love inspires my heart with sacred fire",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "87": {
+      "title": "Babylonian Captivity",
+      "firstLine": "Poor child of sorrow fashioned from the clay",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "88": {
+      "title": "Warwick",
+      "firstLine": "The voice of my beloved sounds",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "90": {
+      "title": "Wedlock",
+      "firstLine": "Mixtures of joy and sorrow",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "91": {
+      "title": "Redemption - Come friends and relations",
+      "firstLine": "Come friends and relations lets join heart and hand",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MH"
+      }
+    },
+    "92": {
+      "title": "Staunton",
+      "firstLine": "Awake our souls and bless his name",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "93": {
+      "title": "Mosley",
+      "firstLine": "O Zion afflicted with wave upon wave",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "94": {
+      "title": "Rickmansworth",
+      "firstLine": "Man has a soul of vast desires",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WR1"
+      }
+    },
+    "95": {
+      "title": "Boundless Love",
+      "firstLine": "Begin my soul thexalted lay",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "98": {
+      "title": "Markham",
+      "firstLine": "O Lord give me a heart thats pure",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "99": {
+      "title": "Hartford",
+      "firstLine": "Like sheep we went astray",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MNH"
+      }
+    },
+    "100": {
+      "title": "John Adkins' Farewell",
+      "firstLine": "Mid scenes of confusion and creature complaints",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "101": {
+      "title": "Madness",
+      "firstLine": "Madness by nature reigns within",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "102": {
+      "title": "Holy City",
+      "firstLine": "There is a holy city",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "103": {
+      "title": "Babe of Bethlehem",
+      "firstLine": "Ye nations all on you I call",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "105": {
+      "title": "Petition",
+      "firstLine": "Let me go to my home in the far distant west",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "106": {
+      "title": "Bunker Hill - Why should vain mortals tremble",
+      "firstLine": "Why should vain mortals tremble at the sight of",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "107": {
+      "title": "Exalted Hope",
+      "firstLine": "Blest are the souls that hear and know",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "108": {
+      "title": "Amazing Grace",
+      "firstLine": "Amazing grace how sweet the sound",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "109": {
+      "title": "Zion's Walls",
+      "firstLine": "Come fathers and mothers come sisters and brothers",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "110": {
+      "title": "Justice",
+      "firstLine": "The God of glory sends his summons forth",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "111": {
+      "title": "Hark, Hark",
+      "firstLine": "Hark Hark what news the angels bring",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "112": {
+      "title": "Better Days Coming",
+      "firstLine": "The glorious time is rolling on",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "113": {
+      "title": "Sweet Harmony",
+      "firstLine": "This blessing is mine through favor divine",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "114": {
+      "title": "Youthful Blessings",
+      "firstLine": "May God His richest blessings give",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH58"
+      }
+    },
+    "115": {
+      "title": "Complaint - Ah! whither should I go",
+      "firstLine": "Ah whither should I go",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "VAH"
+      }
+    },
+    "116": {
+      "title": "Eden of Love",
+      "firstLine": "How sweet to reflect on the joys that await me",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "117": {
+      "title": "Buckfield",
+      "firstLine": "When strangers stand and hear me tell",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "118": {
+      "title": "Lochleven",
+      "firstLine": "Far from mortal cares retreating",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SM"
+      }
+    },
+    "121": {
+      "title": "Hermon",
+      "firstLine": "Through every age eternal God",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "122": {
+      "title": "Russell",
+      "firstLine": "Ye humble souls complain no more",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "123": {
+      "title": "Intercession",
+      "firstLine": "In evry dark distressful hour",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "CUH"
+      }
+    },
+    "124": {
+      "title": "Gone to Rest",
+      "firstLine": "Our loving one has gone to rest",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WSH"
+      }
+    },
+    "125": {
+      "title": "Islington",
+      "firstLine": "This lifes a dream an empty show",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "126": {
+      "title": "Shoreham",
+      "firstLine": "In the full choir a broken string",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "127": {
+      "title": "Pembroke",
+      "firstLine": "How pleasd and blest was I",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "128": {
+      "title": "Cross For You and Me",
+      "firstLine": "Must Jesus bear the cross alone",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "BFWC"
+      }
+    },
+    "130": {
+      "title": "Absent Love",
+      "firstLine": "Hark how thy saints unite their cries",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "131": {
+      "title": "Zion's Call",
+      "firstLine": "To God well cry and hell defy",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "132": {
+      "title": "Star in the East",
+      "firstLine": "Hail the blest morn see the great Mediator",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "133": {
+      "title": "Shouting Pilgrim",
+      "firstLine": "I love to live rejoicing",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "JTH"
+      }
+    },
+    "136": {
+      "title": "Perfect Love",
+      "firstLine": "How oft in life I count the cost",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH58"
+      }
+    },
+    "137": {
+      "title": "To That Land",
+      "firstLine": "A little longer here below",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "Rev"
+      }
+    },
+    "138": {
+      "title": "Spring",
+      "firstLine": "When snows descend and robe the fields",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "TH"
+      }
+    },
+    "139": {
+      "title": "Hull",
+      "firstLine": "We celebrate the praise today",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SufH"
+      }
+    },
+    "142": {
+      "title": "Douglasville",
+      "firstLine": "Eternal Sun of righteousness",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "143": {
+      "title": "Consolation New",
+      "firstLine": "Come on my partners in distress",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "144": {
+      "title": "Mountain",
+      "firstLine": "When some kind shepherd from his fold",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "145": {
+      "title": "Etheridge",
+      "firstLine": "Sweet angels beckon me away",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "146": {
+      "title": "Samanthra",
+      "firstLine": "His voice as the sound of a dulcimer sweet",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "147": {
+      "title": "River of Jordan",
+      "firstLine": "My soul is happy while I sing",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "148": {
+      "title": "Malotten",
+      "firstLine": "We sing the glories of thy love",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "StJAH"
+      }
+    },
+    "149": {
+      "title": "Reflection",
+      "firstLine": "No sleep nor slumber to his eyes",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "150": {
+      "title": "Templeton",
+      "firstLine": "Drooping souls no longer grieve",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "151": {
+      "title": "Thorn",
+      "firstLine": "He saved me from the dreadful deep",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "152": {
+      "title": "Royal Proclamation",
+      "firstLine": "Hear the royal proclamation",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "153": {
+      "title": "Carmel",
+      "firstLine": "Why should we be affrighted",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SM"
+      }
+    },
+    "154": {
+      "title": "Venus",
+      "firstLine": "Behold the lofty sky",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AH"
+      }
+    },
+    "155": {
+      "title": "Castine",
+      "firstLine": "My God permit my tongue",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MNH"
+      }
+    },
+    "156": {
+      "title": "Female Convict",
+      "firstLine": "O sleep not my babe for the morn of tomorrow",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "157": {
+      "title": "Nuremburg",
+      "firstLine": "Once I thought my mountain strong",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "160": {
+      "title": "Admiration",
+      "firstLine": "Infinite grace almighty charms",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "161": {
+      "title": "Harvest Hymn",
+      "firstLine": "The fields are all white the harvest is near",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "162": {
+      "title": "All Is Well",
+      "firstLine": "Whats this that steals upon my frame",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "163": {
+      "title": "My Brethren All",
+      "firstLine": "My brethren all on you I call",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MCH"
+      }
+    },
+    "164": {
+      "title": "Plainfield",
+      "firstLine": "Let him to whom we now belong",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "165": {
+      "title": "Doleful Sound",
+      "firstLine": "Hark from the tombs a doleful sound",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "166": {
+      "title": "Voorheesville",
+      "firstLine": "Lord shall the wicked still deride",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "167": {
+      "title": "Bondage",
+      "firstLine": "Along the banks where Babels current flows",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NEH"
+      }
+    },
+    "168": {
+      "title": "New Durham",
+      "firstLine": "Hark from the tombs a doleful sound",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "169": {
+      "title": "Okefenokee",
+      "firstLine": "Now from the garden to the cross",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "170": {
+      "title": "Amboy",
+      "firstLine": "O come come with me to the old churchyard",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "PBH"
+      }
+    },
+    "171": {
+      "title": "Catalina",
+      "firstLine": "Cold mountains and the midnight air",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "172": {
+      "title": "St. James",
+      "firstLine": "O may we all in Christ be one",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "173": {
+      "title": "Jacob's Well",
+      "firstLine": "At Jacobs well a stranger sought",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "UH"
+      }
+    },
+    "174": {
+      "title": "Faithful Soldier",
+      "firstLine": "Sometimes a light surprises",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "175": {
+      "title": "Changing Seasons",
+      "firstLine": "When winter is over and spring is begun",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "176": {
+      "title": "Worthy the Lamb",
+      "firstLine": "Glory to God on high Let earth and skies reply",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SWPH"
+      }
+    },
+    "177": {
+      "title": "Coromandel",
+      "firstLine": "Thy words the raging winds control",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AMM"
+      }
+    },
+    "178": {
+      "title": "Effort",
+      "firstLine": "Lord I am come thy promise is my plea",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "179": {
+      "title": "Separation",
+      "firstLine": "Our cheerful voices let us raise",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "JTH"
+      }
+    },
+    "180": {
+      "title": "Glory Shone Around",
+      "firstLine": "While shepherds watchd their flocks by night",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "BFWC"
+      }
+    },
+    "181": {
+      "title": "Good Physician",
+      "firstLine": "How lost was my condition",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "182": {
+      "title": "Swain",
+      "firstLine": "When on my beloved I gaze",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "183": {
+      "title": "Paris",
+      "firstLine": "This spacious earth is all the Lords",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MIM"
+      }
+    },
+    "184": {
+      "title": "Sinai",
+      "firstLine": "Lord when thou didst ascend on high",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "186": {
+      "title": "Worlds Beyond the Sky",
+      "firstLine": "O could our thoughts and wishes fly",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH58"
+      }
+    },
+    "187": {
+      "title": "Bright Season",
+      "firstLine": "In the bright season of thy youth",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MCM"
+      }
+    },
+    "188": {
+      "title": "Lewisburgh",
+      "firstLine": "Sweet is the day of sacred rest",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AH"
+      }
+    },
+    "190": {
+      "title": "Harewell",
+      "firstLine": "Come Christians be valiant our Jesus is near us",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MCH"
+      }
+    },
+    "191": {
+      "title": "Richmond",
+      "firstLine": "My beloved haste away",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SMA"
+      }
+    },
+    "192": {
+      "title": "Bunker Hill - We are expos’d all day to die",
+      "firstLine": "We are exposd all day to die",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "193": {
+      "title": "Solitude in the Grove",
+      "firstLine": "O were I like a featherd dove",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "194": {
+      "title": "Despair - Deep in a cold, a joyless cell",
+      "firstLine": "Deep in a cold a joyless cell",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AMM"
+      }
+    },
+    "195": {
+      "title": "Hudson Valley",
+      "firstLine": "Awake my soul to meet the day",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "196": {
+      "title": "Turtle Dove",
+      "firstLine": "Hark dont you hear the turtle dove",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "197": {
+      "title": "Sixty-Five South",
+      "firstLine": "O come and to his temple haste",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "198": {
+      "title": "Newport",
+      "firstLine": "I send the joys of earth away",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "199": {
+      "title": "Carlisle",
+      "firstLine": "Deep in our hearts let us record",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "200": {
+      "title": "Attention",
+      "firstLine": "Hark from the tombs a doleful sound",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "FH"
+      }
+    },
+    "201": {
+      "title": "Diana",
+      "firstLine": "To thee in youths bright morning",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "UCH"
+      }
+    },
+    "202": {
+      "title": "Morpheus",
+      "firstLine": "Death with his warrant in his hand",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MC1"
+      }
+    },
+    "203": {
+      "title": "Forster",
+      "firstLine": "Ye weary heavy ladend souls",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "204": {
+      "title": "Wake Up",
+      "firstLine": "Wake up wake up ye drowsy sleeper",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "205": {
+      "title": "Marion",
+      "firstLine": "I have a loving old father at home",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "206": {
+      "title": "Experience",
+      "firstLine": "Come all ye saints and sinners near",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "207": {
+      "title": "Friendship - When shall we meet again?",
+      "firstLine": "When shall we meet again?",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "208": {
+      "title": "Interrogation",
+      "firstLine": "Shall we go on to sin",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "209": {
+      "title": "Consolation - Why do we mourn departing friends",
+      "firstLine": "Why do we mourn departing friends",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NFH"
+      }
+    },
+    "210": {
+      "title": "Amanda",
+      "firstLine": "Death like an overflowing stream",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "211": {
+      "title": "Despair - O now Amanda’s dead and gone",
+      "firstLine": "O now Amandas dead and gone",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "PhH"
+      }
+    },
+    "212": {
+      "title": "Augusta",
+      "firstLine": "O God our help in ages past",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "213": {
+      "title": "Machias",
+      "firstLine": "How pleasant tis to see",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MNH"
+      }
+    },
+    "214": {
+      "title": "Northborough",
+      "firstLine": "Behold the splendor hear the shout",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SufH"
+      }
+    },
+    "216": {
+      "title": "Southborough",
+      "firstLine": "Now let our lips with holy fear",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "217": {
+      "title": "Juniata",
+      "firstLine": "Jesus I love thy charming name",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "220": {
+      "title": "Morning Star",
+      "firstLine": "How splendid shines the morning star",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "221": {
+      "title": "Friendship - Friendship to ev’ry willing mind",
+      "firstLine": "Friendship to evry willing mind",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AMMisc"
+      }
+    },
+    "222": {
+      "title": "Funeral Hymn",
+      "firstLine": "My lifes a shade my days",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NUH"
+      }
+    },
+    "223": {
+      "title": "America - When God reveal’d his gracious name",
+      "firstLine": "When God reveald his gracious name",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MC2"
+      }
+    },
+    "224": {
+      "title": "Preparation",
+      "firstLine": "Awake arise behold thou hast",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "BSH"
+      }
+    },
+    "225": {
+      "title": "Surprise",
+      "firstLine": "Our life contains a thousand springs",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "BSH"
+      }
+    },
+    "226": {
+      "title": "Thorny Desert",
+      "firstLine": "Dark and thorny is the desert",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "227": {
+      "title": "Berne",
+      "firstLine": "Hear me O Lord nor hide thy face",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "228": {
+      "title": "Milinda",
+      "firstLine": "In vain the wealthy mortals toil",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "229": {
+      "title": "Beggar",
+      "firstLine": "Id rather live a beggar",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "230": {
+      "title": "Somerset",
+      "firstLine": "Broad is the road that leads to death",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "CHarp"
+      }
+    },
+    "231": {
+      "title": "Olivet",
+      "firstLine": "The world recedes it disappears",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "232": {
+      "title": "Davisson's Retirement",
+      "firstLine": "Jesus and shall it ever be",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "233": {
+      "title": "Hosannah",
+      "firstLine": "Hosannah to Jesus Im filled with his praises",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KnH"
+      }
+    },
+    "234": {
+      "title": "Washington",
+      "firstLine": "Dismiss us with thy blessings Lord",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "235": {
+      "title": "Baltimore",
+      "firstLine": "Let all the earth their voices raise",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "VH2"
+      }
+    },
+    "238": {
+      "title": "Dover",
+      "firstLine": "My soul thy great Creator praise",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "239": {
+      "title": "Voice to the Shepherds",
+      "firstLine": "From regions of love lo an angel descended",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MCM"
+      }
+    },
+    "240": {
+      "title": "Sons of War",
+      "firstLine": "Ye careless sons of Adams race",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SWPH"
+      }
+    },
+    "242": {
+      "title": "Boulder",
+      "firstLine": "God will arise in all His might",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "243": {
+      "title": "Balm in Gilead",
+      "firstLine": "Father I stretch my hands to Thee",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "HOA"
+      }
+    },
+    "244": {
+      "title": "Concert",
+      "firstLine": "Death shall not destroy my comfort",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MC2"
+      }
+    },
+    "245": {
+      "title": "Boston",
+      "firstLine": "Methinks I see a heavnly host",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SMA"
+      }
+    },
+    "247": {
+      "title": "Crumbly",
+      "firstLine": "Through dangers thick and hells alarms",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "249": {
+      "title": "Spring Valley",
+      "firstLine": "Ill praise my maker with my breath",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "250": {
+      "title": "Carnsville",
+      "firstLine": "I love my blessed Savior",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SH"
+      }
+    },
+    "251": {
+      "title": "Jordan's Shore",
+      "firstLine": "On Jordans stormy banks I stand",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "252": {
+      "title": "New Bethlehem",
+      "firstLine": "While shepherds watchd their flocks by night",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SMS"
+      }
+    },
+    "253": {
+      "title": "My Native Land",
+      "firstLine": "Yes my native land I love thee",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "BFWC"
+      }
+    },
+    "254": {
+      "title": "Pennsylvania - The God of glory sends his summons",
+      "firstLine": "The God of glory sends his summons forth",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MNH"
+      }
+    },
+    "256": {
+      "title": "Windsor",
+      "firstLine": "Wide as the world is thy command",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MC1"
+      }
+    },
+    "257": {
+      "title": "Voice of Nature",
+      "firstLine": "The spacious firmament on high",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WR1"
+      }
+    },
+    "258": {
+      "title": "Lamentation - Millions of years may roll away",
+      "firstLine": "Millions of years may roll away",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "259": {
+      "title": "Mecklinburg",
+      "firstLine": "Bright scenes of glory strike my sense",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "262": {
+      "title": "Charlston",
+      "firstLine": "While shepherds watchd their flocks by night",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NEPS"
+      }
+    },
+    "263": {
+      "title": "Sudbury",
+      "firstLine": "What if the saint must die",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ContH"
+      }
+    },
+    "265": {
+      "title": "Evening Hymn",
+      "firstLine": "The day is past and gone",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "266": {
+      "title": "Austria",
+      "firstLine": "Is this the kind return",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "268": {
+      "title": "Tranquility",
+      "firstLine": "My God the spring of all my joys",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "269": {
+      "title": "Broad Street Ministry",
+      "firstLine": "Behold the blind their sight receive",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "270": {
+      "title": "Tender-Hearted Christian",
+      "firstLine": "Come all ye tender-hearted Christians",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SWPH"
+      }
+    },
+    "271": {
+      "title": "When Shall We All Meet Again",
+      "firstLine": "When shall we all meet again?",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "272": {
+      "title": "Sounding Joy",
+      "firstLine": "Joy to the earth the Savior reigns",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "273": {
+      "title": "Chockset",
+      "firstLine": "Draw us O God with sovreign grace",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "274": {
+      "title": "Zion",
+      "firstLine": "How did my heart rejoice to hear",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "278": {
+      "title": "Hauff",
+      "firstLine": "One day the heavnly Sower",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "279": {
+      "title": "Miles' Lane",
+      "firstLine": "All hail the powr of Jesus name",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AMM"
+      }
+    },
+    "280": {
+      "title": "Psalm 89",
+      "firstLine": "Think mighty God on feeble man",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "281": {
+      "title": "Psalm 25",
+      "firstLine": "I lift my soul to God",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "282": {
+      "title": "Pennsylvania - When shall thy lovely face be seen?",
+      "firstLine": "When shall thy lovely face be seen?",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AH"
+      }
+    },
+    "284": {
+      "title": "Bethesda Pool",
+      "firstLine": "Beside the gospel pool",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "285": {
+      "title": "Eternity",
+      "firstLine": "Firm as a rock thy truth must stand",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "286": {
+      "title": "Turner",
+      "firstLine": "Come holy spirit heavnly dove",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MNH"
+      }
+    },
+    "287": {
+      "title": "Kittery",
+      "firstLine": "Our Father who in heaven art",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SufH"
+      }
+    },
+    "290": {
+      "title": "Harmony",
+      "firstLine": "Say mighty love and teach my song",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "292": {
+      "title": "Joyful Noise",
+      "firstLine": "Hence from my soul sad thoughts be gone",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "293": {
+      "title": "Celestial Watering",
+      "firstLine": "Savior visit thy plantation",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "294": {
+      "title": "Anthem from Isaiah 45:3",
+      "firstLine": "And I will give thee",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "296": {
+      "title": "Unitia",
+      "firstLine": "O tell me no more of this worlds vain store",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "297": {
+      "title": "Night Thought",
+      "firstLine": "How can I sleep when angels sing",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "302": {
+      "title": "Paradise - How long, dear Savior, O, how long",
+      "firstLine": "How long dear Savior O how long",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "BSH"
+      }
+    },
+    "303": {
+      "title": "Cumberland - Come all ye happy race",
+      "firstLine": "Come all ye happy race",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MCH"
+      }
+    },
+    "304": {
+      "title": "Mortality - Stoop down my thoughts",
+      "firstLine": "Stoop down my thoughts that used to rise",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "305": {
+      "title": "Tho' Dark Be My Way",
+      "firstLine": "Tho dark be my way since he is my guide",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "306": {
+      "title": "Buonaparte",
+      "firstLine": "Buonaparte is afar",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "307": {
+      "title": "Jolly Soldier",
+      "firstLine": "I once was a seaman stout and bold",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "308": {
+      "title": "Pastoral Elegy",
+      "firstLine": "What sorrowful sounds do I hear",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MH"
+      }
+    },
+    "309": {
+      "title": "Overton",
+      "firstLine": "Brethren with pleasure let us part",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "310": {
+      "title": "Wigan",
+      "firstLine": "The Lord my Shepherd is",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "HSH"
+      }
+    },
+    "311": {
+      "title": "Greenpoint",
+      "firstLine": "When brighter suns and milder skies",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "312": {
+      "title": "Hermit",
+      "firstLine": "Tis night and the landscape is lovely no more",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "313": {
+      "title": "Olive Shade",
+      "firstLine": "Father who in the olive shade",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "318": {
+      "title": "Soldier's Return",
+      "firstLine": "Bright scenes of glory strike my sense",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MCH"
+      }
+    },
+    "319": {
+      "title": "Salutation",
+      "firstLine": "Good morning brother pilgrim",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "320": {
+      "title": "Wellington",
+      "firstLine": "While sorrows encompass me round",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "322": {
+      "title": "Parrish",
+      "firstLine": "Ye weary heavy laden souls",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "323": {
+      "title": "Abingdon",
+      "firstLine": "The wondring world inquires to know",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CUH"
+      }
+    },
+    "324": {
+      "title": "Scotland",
+      "firstLine": "Awake our souls away our fears",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AH"
+      }
+    },
+    "328": {
+      "title": "Joyful Sound",
+      "firstLine": "Jesus our God ascends on high",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "FH"
+      }
+    },
+    "329": {
+      "title": "Majesty",
+      "firstLine": "When God our leader shines in arms",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "JNEH"
+      }
+    },
+    "332": {
+      "title": "Bonnie Doon",
+      "firstLine": "When marshald on the nightly plain",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "333": {
+      "title": "True Happiness",
+      "firstLine": "O how happy are they",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "334": {
+      "title": "Gethsemane",
+      "firstLine": "Great High Priest we see thee stooping",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "335": {
+      "title": "Rockingham",
+      "firstLine": "Thus saith the mercy of the Lord",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "336": {
+      "title": "Devotion",
+      "firstLine": "Fly fly me riches fly me cares",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "338": {
+      "title": "Meek",
+      "firstLine": "Im happy Im happy O wondrous account",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "339": {
+      "title": "Begone Unbelief",
+      "firstLine": "Begone unbelief my Savior is near",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "342": {
+      "title": "Mount Olive",
+      "firstLine": "The King of saints how fair his face",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MS"
+      }
+    },
+    "350": {
+      "title": "Gardiner",
+      "firstLine": "On lines of life our bodies hang",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "351": {
+      "title": "Hallowell",
+      "firstLine": "Prepare me gracious God",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "TH"
+      }
+    },
+    "352": {
+      "title": "Cumberland - The God of glory sends his summons",
+      "firstLine": "The God of glory sends his summons forth",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CtH"
+      }
+    },
+    "358": {
+      "title": "Dance in the Sky",
+      "firstLine": "Come sinners I beg you break free from your hell",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "359": {
+      "title": "Christian's Delight",
+      "firstLine": "Young people all now at the ball",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "360": {
+      "title": "Mount Calvary",
+      "firstLine": "The son of man they did betray",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "361": {
+      "title": "Georgia - Return, O God of love, return",
+      "firstLine": "Return O God of love return",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "362": {
+      "title": "Westminster",
+      "firstLine": "Thou great and sovreign Lord of all",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "363": {
+      "title": "Constrained by Love",
+      "firstLine": "Constraind by love we come",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "366": {
+      "title": "Harper's Lament (or Runie's Farewell)",
+      "firstLine": "Time speeds away away away",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "367": {
+      "title": "Hymn of the Dunkers",
+      "firstLine": "Wake sisters wake the daystar shines",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "368": {
+      "title": "Will You Go",
+      "firstLine": "Were travling home to heavn above",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SH"
+      }
+    },
+    "369": {
+      "title": "Worthington",
+      "firstLine": "Thee we adore eternal name",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "370": {
+      "title": "Cowling",
+      "firstLine": "And now my soul another year",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "371": {
+      "title": "Landaff",
+      "firstLine": "Before the flying clouds",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "JTH"
+      }
+    },
+    "372": {
+      "title": "Candler Park",
+      "firstLine": "Ye boundless realms of joy",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "373": {
+      "title": "Weeping Mary",
+      "firstLine": "Are there anybody here like Mary a-weeping",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "376": {
+      "title": "Friendship - Thy wrath lies heavy on my soul",
+      "firstLine": "Thy wrath lies heavy on my soul",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "377": {
+      "title": "Glasgow",
+      "firstLine": "This lifes a dream an empty show",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "380": {
+      "title": "Autumn",
+      "firstLine": "See the leaves around us falling",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AH"
+      }
+    },
+    "381": {
+      "title": "Abenaki",
+      "firstLine": "What poor despised company",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "382": {
+      "title": "Grafton",
+      "firstLine": "Jesus the vision of thy face",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "384": {
+      "title": "Agatite",
+      "firstLine": "A blooming paradise of joy",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "385": {
+      "title": "Soda",
+      "firstLine": "When all thy mercies O my God",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "386": {
+      "title": "Georgia - Hark, hark what news the angels bring",
+      "firstLine": "Hark hark what news the angels bring",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "RH"
+      }
+    },
+    "387": {
+      "title": "Christmas Hymn",
+      "firstLine": "In Bethlehem city in Judah it was",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "388": {
+      "title": "Judea",
+      "firstLine": "A virgin unspotted the prophet foretold",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SMA"
+      }
+    },
+    "389": {
+      "title": "Angel's Hymn - Hark, ye mortals, hear the trumpet",
+      "firstLine": "Hark ye mortals hear the trumpet",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "390": {
+      "title": "Ohio",
+      "firstLine": "Ill praise my maker with my breath",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC1"
+      }
+    },
+    "392": {
+      "title": "Solitude New",
+      "firstLine": "My refuge is the God of love",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "393": {
+      "title": "He Hath Done All Things Well",
+      "firstLine": "Now in a song of grateful praise",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "394": {
+      "title": "Christian's Triumph",
+      "firstLine": "If ever I loved sure I love thee my Lord",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MCM"
+      }
+    },
+    "395": {
+      "title": "Camden",
+      "firstLine": "With all my powers of heart and tongue",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "396": {
+      "title": "Sylvia",
+      "firstLine": "Let music roll in mournful strains",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "397": {
+      "title": "Namur",
+      "firstLine": "O Lord our languid souls inspire",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "PCM"
+      }
+    },
+    "398": {
+      "title": "Election Hymn",
+      "firstLine": "Join join in tuneful strains",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "399": {
+      "title": "Humble Penitent",
+      "firstLine": "Stay thou insulted spirit stay",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "400": {
+      "title": "Moreen",
+      "firstLine": "Oft I am told the muse will prove",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NEH"
+      }
+    },
+    "401": {
+      "title": "Hallelujah",
+      "firstLine": "He comes he comes the judge severe",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH2"
+      }
+    },
+    "402": {
+      "title": "Buzzard's Glory",
+      "firstLine": "When rising from the bed of death",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "403": {
+      "title": "Hicks' Farewell",
+      "firstLine": "The time is swiftly rolling on",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "406": {
+      "title": "Complaint - Save us, O Lord, aloud we pray",
+      "firstLine": "Save us O Lord aloud we pray",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "407": {
+      "title": "Woburn",
+      "firstLine": "Firm was my health my day was bright",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "410": {
+      "title": "Trumble",
+      "firstLine": "The promise of my Fathers love",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "411": {
+      "title": "Missouri",
+      "firstLine": "O land of rest for thee I sigh",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WSH"
+      }
+    },
+    "412": {
+      "title": "America - From all that dwell below the skies",
+      "firstLine": "From all that dwell below the skies",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "TH"
+      }
+    },
+    "413": {
+      "title": "Marcia",
+      "firstLine": "As birds their infant brood protect",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "416": {
+      "title": "Psalm 136",
+      "firstLine": "Hast thou not givn thy word",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WR1"
+      }
+    },
+    "417": {
+      "title": "Friend",
+      "firstLine": "The Lord is leading me today",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "422": {
+      "title": "We'll Go On",
+      "firstLine": "I have some friends before me gone",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MCM"
+      }
+    },
+    "423": {
+      "title": "Brier Island",
+      "firstLine": "Ye tribes of Adam join",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "426": {
+      "title": "Sunday",
+      "firstLine": "The Lord of Sabbath let us praise",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "427": {
+      "title": "Judgment",
+      "firstLine": "Behold the Judge descends his guards are nigh",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WR1"
+      }
+    },
+    "428": {
+      "title": "Psalm 119",
+      "firstLine": "Had not thy word been my delight",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "429": {
+      "title": "Symyadda",
+      "firstLine": "O Jesus my Savior I know thou art mine",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "430": {
+      "title": "Providence",
+      "firstLine": "Rejoice the Lord is King",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WR1"
+      }
+    },
+    "431": {
+      "title": "North Providence",
+      "firstLine": "Come let us join our cheerful songs",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SMA"
+      }
+    },
+    "436": {
+      "title": "Dominion",
+      "firstLine": "Jesus shall reign whereer the sun",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "437": {
+      "title": "Exultation - When the last trumpet’s awful voice",
+      "firstLine": "When the last trumpets awful voice",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "440": {
+      "title": "Arinello",
+      "firstLine": "Come ye that love the Lord",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "441": {
+      "title": "Beside the Gospel Pool",
+      "firstLine": "Beside the gospel pool",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "442": {
+      "title": "East Needham",
+      "firstLine": "The little hills on evry side",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SM"
+      }
+    },
+    "448": {
+      "title": "Carol",
+      "firstLine": "While shepherds watchd their flocks by night",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HM"
+      }
+    },
+    "449": {
+      "title": "Edenton",
+      "firstLine": "Keep silence all created things",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "450": {
+      "title": "Lover's Lamentation",
+      "firstLine": "That awful day will surely come",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "452": {
+      "title": "Solitude",
+      "firstLine": "Come lead me to some lonely shade",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "453": {
+      "title": "Crucifixion - Behold, the Savior of mankind",
+      "firstLine": "Behold the Savior of mankind",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "BSH"
+      }
+    },
+    "456": {
+      "title": "Mortality - Our moments fly apace",
+      "firstLine": "Our moments fly apace",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "FH"
+      }
+    },
+    "457": {
+      "title": "Redemption - Glory to God on high",
+      "firstLine": "Glory to God on high And heavnly peace on earth",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "viii": {
+      "title": "When Jesus Wept",
+      "firstLine": "When Jesus wept the falling tear",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NEPS"
+      }
+    },
+    "1t": {
+      "title": "Dublin",
+      "firstLine": "Lord what is man poor feeble man",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "1b": {
+      "title": "Rockbridge",
+      "firstLine": "Sweet is the work my God my King",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "3t": {
+      "title": "Walk With God",
+      "firstLine": "O for a closer walk with God",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "3b": {
+      "title": "North Carolina",
+      "firstLine": "I sing a song which doth belong",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "4t": {
+      "title": "Knoxville",
+      "firstLine": "Rejoice my friends the Lord is King",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "4b": {
+      "title": "Gravity",
+      "firstLine": "O happy day that fixd my choice",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "BFWC"
+      }
+    },
+    "5t": {
+      "title": "Angel's Hymn - The lands that long in darkness lay",
+      "firstLine": "The lands that long in darkness lay",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "PCM"
+      }
+    },
+    "5b": {
+      "title": "Breaker",
+      "firstLine": "Stay thou insulted Spirit Stay",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "6t": {
+      "title": "Asbury",
+      "firstLine": "Behold the Savior of mankind",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "6b": {
+      "title": "Lisbon - Welcome sweet day of rest",
+      "firstLine": "Welcome sweet day of rest",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "7t": {
+      "title": "Supplication",
+      "firstLine": "O thou that hearst when sinners cry",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "7b": {
+      "title": "Winchester",
+      "firstLine": "My God accept my early vows",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MH"
+      }
+    },
+    "9t": {
+      "title": "Bray",
+      "firstLine": "Awake my heart arise my tongue",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "9b": {
+      "title": "Isle of Wight",
+      "firstLine": "Lord shall we part with gold for dross",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "12t": {
+      "title": "Liberty Hall",
+      "firstLine": "Death What a solemn word to all",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "12b": {
+      "title": "Stroudwater",
+      "firstLine": "Thy way O God is in the sea",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "PCM"
+      }
+    },
+    "13t": {
+      "title": "Bourbon",
+      "firstLine": "I cannot bear thine absence Lord",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "13b": {
+      "title": "Bethel",
+      "firstLine": "Let Zion and her sons rejoice",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "18t": {
+      "title": "Canaan",
+      "firstLine": "That glorious day is drawing nigh",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "JTH"
+      }
+    },
+    "18b": {
+      "title": "Song of Texas",
+      "firstLine": "O thou in whose presence my soul takes delight",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SH"
+      }
+    },
+    "22t": {
+      "title": "Afflicted Man",
+      "firstLine": "Behold thafflicted man",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MH"
+      }
+    },
+    "22b": {
+      "title": "Psalm 30",
+      "firstLine": "And am I born to die?",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "PCM"
+      }
+    },
+    "24t": {
+      "title": "Consolation - Once more, my soul, the rising day",
+      "firstLine": "Once more my soul the rising day",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "24b": {
+      "title": "Happiness",
+      "firstLine": "Is not thy name melodious still",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "28t": {
+      "title": "Heavenly Dove",
+      "firstLine": "Come holy spirit heavnly dove",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "28b": {
+      "title": "Peaceful Shore",
+      "firstLine": "At anchor laid remote from home",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "BFWC"
+      }
+    },
+    "43t": {
+      "title": "Barby",
+      "firstLine": "Begin my soul the lofty strain",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CUH"
+      }
+    },
+    "43b": {
+      "title": "Botetourt",
+      "firstLine": "Blest are the men of peace",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "60t": {
+      "title": "Versailles",
+      "firstLine": "Thy mercy my God is the theme of my song",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "JTH"
+      }
+    },
+    "60b": {
+      "title": "In Evil Long",
+      "firstLine": "In evil long I took delight",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "65t": {
+      "title": "Salem - Break off your fears, ye saints",
+      "firstLine": "Break off your fears ye saints and tell",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "65b": {
+      "title": "I Love the Holy Son of God",
+      "firstLine": "I love the holy son of God",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "70t": {
+      "title": "Imandra",
+      "firstLine": "I love thee my Savior I love thee my Lord",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "70b": {
+      "title": "Marcus Hook",
+      "firstLine": "Sweet is the memry of thy grace",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "76t": {
+      "title": "Doomsday",
+      "firstLine": "Behold with awful pomp",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "76b": {
+      "title": "Mount Watson",
+      "firstLine": "Death shall not destroy my comfort",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "OL"
+      }
+    },
+    "83t": {
+      "title": "Gospel Feast",
+      "firstLine": "Come sinners to the gospel feast",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SM"
+      }
+    },
+    "83b": {
+      "title": "Heavenly Spark",
+      "firstLine": "Come on my partners in distress",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KHst"
+      }
+    },
+    "89t": {
+      "title": "Stephens",
+      "firstLine": "From whence does this union arise",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "PBH"
+      }
+    },
+    "89b": {
+      "title": "Worship",
+      "firstLine": "Sleep downy sleep come close my eyes",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MH"
+      }
+    },
+    "96t": {
+      "title": "Summer",
+      "firstLine": "I would not live alway I ask not to stay",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "GOS"
+      }
+    },
+    "96b": {
+      "title": "Leaning on Jesus' Breast",
+      "firstLine": "O if my Lord would come and meet",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "BFWC"
+      }
+    },
+    "104t": {
+      "title": "Time is Winging Us Away",
+      "firstLine": "Time is winging us away",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SM"
+      }
+    },
+    "104b": {
+      "title": "Power",
+      "firstLine": "Teach my weak heart O gracious Lord",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "119t": {
+      "title": "Lamentation - Death, like an overflowing stream",
+      "firstLine": "Death like an overflowing stream",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "119b": {
+      "title": "Legacy",
+      "firstLine": "When in death I shall calm recline",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MH"
+      }
+    },
+    "120t": {
+      "title": "I Walked Abroad",
+      "firstLine": "I walked abroad one morning fair",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "120b": {
+      "title": "Kershaw",
+      "firstLine": "Lift your heads ye friends of Jesus",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "CHarp"
+      }
+    },
+    "129t": {
+      "title": "Hudson",
+      "firstLine": "When gracious Lord when shall it be",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CHarp"
+      }
+    },
+    "129b": {
+      "title": "Freta",
+      "firstLine": "Lord we come before thee now",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "134t": {
+      "title": "Pleasant Forest",
+      "firstLine": "Was it for crimes that I had done",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "134b": {
+      "title": "Lamentation - When we our wearied limbs to rest",
+      "firstLine": "When we our wearied limbs to rest",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "140t": {
+      "title": "Jehalah",
+      "firstLine": "God from his cloudy cistern pours",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "140b": {
+      "title": "Ten Thousand Charms",
+      "firstLine": "Come thou fount of evry blessing",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "158t": {
+      "title": "Farewell Hymn",
+      "firstLine": "Give ear to me ye sons of men",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "158b": {
+      "title": "Appletree",
+      "firstLine": "The tree of life my soul hath seen",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "218t": {
+      "title": "Redeeming Grace",
+      "firstLine": "Come all who love my Lord and master",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "218b": {
+      "title": "Roslin Castle",
+      "firstLine": "Behold the Rose of Sharon here",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MC1"
+      }
+    },
+    "236t": {
+      "title": "Wantage",
+      "firstLine": "My God the visits of thy face",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR1"
+      }
+    },
+    "236b": {
+      "title": "Maquoketa",
+      "firstLine": "How strange the works How great thy skill",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "241t": {
+      "title": "Sinner, Can You Hate the Savior",
+      "firstLine": "Now the Savior stands a-pleading",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "241b": {
+      "title": "Strizak",
+      "firstLine": "The sun and moon proclaim thy powr",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "246t": {
+      "title": "Palms of Victory",
+      "firstLine": "Come descend O heavenly Spirit",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "246b": {
+      "title": "Amelia",
+      "firstLine": "Tis joy enough my all in all",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "248t": {
+      "title": "Singing Pilgrim",
+      "firstLine": "Sin and the powrs of hell",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "Ph"
+      }
+    },
+    "248b": {
+      "title": "Triumph",
+      "firstLine": "Christians I am on my journey",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MCM"
+      }
+    },
+    "260t": {
+      "title": "Conflict",
+      "firstLine": "I am a stranger here below",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "PBH"
+      }
+    },
+    "260b": {
+      "title": "Bowen",
+      "firstLine": "I long to see the seasons come",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "264t": {
+      "title": "Animation",
+      "firstLine": "Lord vouchsafe to us thy blessing",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SWPH"
+      }
+    },
+    "264b": {
+      "title": "Millbrook",
+      "firstLine": "How long thou faithful God shall I",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "276t": {
+      "title": "Salem - Weak is the effort of my heart",
+      "firstLine": "Weak is the effort of my heart",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MCH"
+      }
+    },
+    "276b": {
+      "title": "Family Bible",
+      "firstLine": "How painfully pleasing the fond recollection",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "288t": {
+      "title": "Savannah",
+      "firstLine": "Ah lovely appearance of death",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SMA"
+      }
+    },
+    "288b": {
+      "title": "Mississippi",
+      "firstLine": "When Gabriels awful trump shall sound",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "298t": {
+      "title": "Little Marlborough",
+      "firstLine": "Lord what a feeble piece",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "298b": {
+      "title": "Balloon",
+      "firstLine": "Behold I fall before thy face",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "300t": {
+      "title": "Harmony Grove",
+      "firstLine": "There is a land of pure delight",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "VAH"
+      }
+    },
+    "300b": {
+      "title": "Livonia",
+      "firstLine": "Happy the man whose hopes rely",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "314t": {
+      "title": "Texas",
+      "firstLine": "Firm and unmoved are they",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "314b": {
+      "title": "Transport",
+      "firstLine": "Ye children of Jesus whore bound for the kingdom",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "316t": {
+      "title": "Pacolet",
+      "firstLine": "Shall men pretend to pleasure",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "316b": {
+      "title": "Fluvanna",
+      "firstLine": "Lord in the morning thou shalt hear",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "MNH"
+      }
+    },
+    "321t": {
+      "title": "Poor Pilgrim",
+      "firstLine": "I am a poor pilgrim of sorrow",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "321b": {
+      "title": "Vienna",
+      "firstLine": "Rise O Lord our God Hear our mournful cry",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "326t": {
+      "title": "We've No Abiding City Here",
+      "firstLine": "Weve no abiding city here",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "326b": {
+      "title": "Good Old Way",
+      "firstLine": "Lift up your hearts Immanuels friends",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "330t": {
+      "title": "Day of Judgment",
+      "firstLine": "The day of the Lord the day of salvation",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "330b": {
+      "title": "Judgment",
+      "firstLine": "The Lord the Judge before his throne",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "BFWC"
+      }
+    },
+    "340t": {
+      "title": "Princeton",
+      "firstLine": "Hail ye sighing sons of sorrow",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SVH"
+      }
+    },
+    "340b": {
+      "title": "Whitestown",
+      "firstLine": "Remember Lord our mortal state",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "344t": {
+      "title": "Suffering Savior",
+      "firstLine": "Alas and did my Saviour bleed?",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "344b": {
+      "title": "Springfield",
+      "firstLine": "Jesus drinks the bitter cup",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "346t": {
+      "title": "Warren",
+      "firstLine": "Children of the heavnly king",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SMA"
+      }
+    },
+    "346b": {
+      "title": "Sheffield",
+      "firstLine": "To our Almighty Maker God",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "BH"
+      }
+    },
+    "348t": {
+      "title": "Sovereign Grace",
+      "firstLine": "Tell me Savior from above",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SWPH"
+      }
+    },
+    "348b": {
+      "title": "Birmingham",
+      "firstLine": "Lord tis a pleasant thing to stand",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "354t": {
+      "title": "Solemnity",
+      "firstLine": "Twas on that dark that doleful night",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "354b": {
+      "title": "Montague",
+      "firstLine": "Now let our mournful songs record",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "356t": {
+      "title": "Liberty Tree",
+      "firstLine": "In chariots of light from the regions of day",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "CHarp"
+      }
+    },
+    "356b": {
+      "title": "Braintree",
+      "firstLine": "Deep in a cold and joyless cell",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "ColH"
+      }
+    },
+    "364t": {
+      "title": "Confidence",
+      "firstLine": "Arise my soul arise",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "364b": {
+      "title": "Stony Island",
+      "firstLine": "Come to Calvrys holy mountain",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "374t": {
+      "title": "Martyrs",
+      "firstLine": "The year rolls round and steals away",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "CPT"
+      }
+    },
+    "374b": {
+      "title": "Epiphonema",
+      "firstLine": "Sinners awake betimes ye fools be wise",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "378t": {
+      "title": "Sweet Heaven",
+      "firstLine": "Farewell my friends I must be gone",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "SouH"
+      }
+    },
+    "378b": {
+      "title": "Pleasant Valley",
+      "firstLine": "My soul lies cleaving to the dust",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "FH"
+      }
+    },
+    "404t": {
+      "title": "Paradise - I know that my Redeemer lives",
+      "firstLine": "I know that my Redeemer lives",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NHC"
+      }
+    },
+    "404b": {
+      "title": "Redeeming Love",
+      "firstLine": "Sweet rivers of redeeming love",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "408t": {
+      "title": "Bennington",
+      "firstLine": "Shepherds rejoice lift up your eyes",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WM"
+      }
+    },
+    "408b": {
+      "title": "Shepherds Arise",
+      "firstLine": "Shepherds arise Be not afraid",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "414t": {
+      "title": "Condescension",
+      "firstLine": "How condescending and how kind",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "414b": {
+      "title": "Poole",
+      "firstLine": "They that in ships with courage bold",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "WR1"
+      }
+    },
+    "418t": {
+      "title": "Rochester",
+      "firstLine": "Come children learn to fear the Lord",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "KH1"
+      }
+    },
+    "418b": {
+      "title": "Leicester",
+      "firstLine": "Not from the dust affliction grows",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "RH"
+      }
+    },
+    "420t": {
+      "title": "O Turn Ye",
+      "firstLine": "O turn ye O turn ye for why will ye die",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AV"
+      }
+    },
+    "420b": {
+      "title": "Bellevue",
+      "firstLine": "Ye tribes of Adam join",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "424t": {
+      "title": "Musgrove",
+      "firstLine": "O Musgrove he persuaded me",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SocH"
+      }
+    },
+    "424b": {
+      "title": "Walpole",
+      "firstLine": "O if my soul was formd for woe",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "NC1"
+      }
+    },
+    "432t": {
+      "title": "New Monmouth",
+      "firstLine": "Here I raise my Ebenezer",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "KH2"
+      }
+    },
+    "432b": {
+      "title": "Columbia",
+      "firstLine": "As down a lone valley with cedars oerspread",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "JTH"
+      }
+    },
+    "434t": {
+      "title": "French Broad",
+      "firstLine": "High oer the hills the mountains rise",
+      "key": "Minor",
+      "source": {
+        "citedAbbr": "CH"
+      }
+    },
+    "434b": {
+      "title": "Wilscot",
+      "firstLine": "Blest are the sons of peace",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "438t": {
+      "title": "Lovely Vine",
+      "firstLine": "Behold a lovely vine",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "ICH"
+      }
+    },
+    "438b": {
+      "title": "Shiloh",
+      "firstLine": "Methinks I see a heavnly host",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "SufH"
+      }
+    },
+    "443t": {
+      "title": "Crucifixion - Saw ye my Savior",
+      "firstLine": "Saw ye my Savior and God?",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "JTH"
+      }
+    },
+    "443b": {
+      "title": "Dayton",
+      "firstLine": "Be still and know that I am God",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "444t": {
+      "title": "Ye Objects of Sense",
+      "firstLine": "Ye objects of sense and enjoyments of time",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "NC"
+      }
+    },
+    "444b": {
+      "title": "Pomfret",
+      "firstLine": "O for an overcoming faith",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "AHR"
+      }
+    },
+    "446t": {
+      "title": "Dunlap's Creek",
+      "firstLine": "My God my portion and my love",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "BH"
+      }
+    },
+    "446b": {
+      "title": "Song of Praise",
+      "firstLine": "He sends his word and melts the snow",
+      "key": "Major",
+      "source": {
+        "citedAbbr": "MC2"
+      }
+    }
+  },
+  "states": [],
+  "sources": [],
+  "relationships": [],
+  "publicationStatus": "draft",
+  "internalNote": "Migrated from edition-indexes/ShH2012.json (the suite's older, book-scoped per-song enrichment format, now superseded by this Level 3 Tunebook File system) rather than freshly researched - the per-song fields here (meter, key, attribution, source, verse count) are exactly what that file already contained, verified field-for-field against the current Library before merging, not re-transcribed. No scholarlyRecord section (publication history, bibliography, historical notes) exists for this edition yet - unlike ScH1855/SoH1854, no dedicated research pass has been done for this book, so nothing has been invented to fill that gap. publicationStatus is \"draft\" for the same reason: real per-song data, but not yet reviewed as an assembled scholarly record.",
+  "scholarlyRecord": null
+}

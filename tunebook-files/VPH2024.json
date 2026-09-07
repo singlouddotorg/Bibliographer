@@ -1,0 +1,6457 @@
+{
+  "editionId": "e_VPH2024",
+  "workId": "w_VPH",
+  "editionCode": "VPH2024",
+  "editionIdentifierYear": "2024",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "The Valley Pocket Harmonist",
+    "subtitle": "A Collection of Shape-Note Tunes, Ancient and Modern, for Spiritual, Social, and Musical Singing Groups",
+    "commonName": "Valley Pocket Harmonist",
+    "workCode": "VPH",
+    "compiler": "John delRe",
+    "publisher": "The Shenandoah Harmony Publishing Co.",
+    "placePublished": "Boyce, VA",
+    "publicationYear": "2024",
+    "shapeSystem": "4-shape"
+  },
+  "songs": {
+    "1": {
+      "title": "Agur's Wish",
+      "firstLine": "Far from my heart and tents exclude",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "The Christian's Duty",
+        "year": "1791"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1997"
+      }
+    },
+    "2": {
+      "title": "Sonnet",
+      "firstLine": "Oh that day when freed from sinning",
+      "meter": "8, 7. D.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Robert Robinson",
+        "year": "1757"
+      },
+      "musicAttribution": {
+        "credit": "Arr. George Miller",
+        "year": "1833"
+      },
+      "source": {
+        "citedAbbr": "MCM"
+      }
+    },
+    "3": {
+      "title": "Attention",
+      "firstLine": "Hark! my soul, it is the Lord",
+      "meter": "7s.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "William Cowper",
+        "year": "1768"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ"
+      }
+    },
+    "4": {
+      "title": "Portsmouth",
+      "firstLine": "Come, sinners to the Gospel feast",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Charles Wesley",
+        "year": "1747"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ"
+      }
+    },
+    "5": {
+      "title": "General Roll Call, The",
+      "firstLine": "The judgment day will surely come",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "R. H. Whitlock",
+        "year": "1870"
+      },
+      "musicAttribution": {
+        "credit": "Arr. W. H. Diddle",
+        "year": "1870"
+      },
+      "source": {
+        "citedAbbr": "WVG"
+      }
+    },
+    "6": {
+      "title": "New Grace (Hallelujah)",
+      "firstLine": "Come, descend, O heav'nly Spirit",
+      "meter": "8, 7. D.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Thomas Rawson",
+        "year": "1790"
+      },
+      "musicAttribution": {
+        "credit": "Wyeth's Repository of Sacred Music, Part Second",
+        "year": "1813"
+      },
+      "source": {
+        "citedAbbr": "WR"
+      }
+    },
+    "7": {
+      "title": "Prodigal",
+      "firstLine": "Afflictions, tho' they seem severe",
+      "meter": "C. M. D.",
+      "timeSignature": "6/8",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Ananias Davisson",
+        "year": "1820"
+      }
+    },
+    "8": {
+      "title": "Agreement (Union)",
+      "firstLine": "Lo, what an entertaining sight",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Alexander Gillet",
+        "year": "1781"
+      },
+      "source": {
+        "citedAbbr": "PCM"
+      }
+    },
+    "9": {
+      "title": "Hiding Place",
+      "firstLine": "Hail, sov'reign love, that first began",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Jehoiada Brewer",
+        "year": "1776"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Ketcham Ms.",
+        "year": "1802"
+      },
+      "source": {
+        "citedAbbr": "KMs"
+      }
+    },
+    "10": {
+      "title": "Meeting of the Waters",
+      "firstLine": "There is not in this wide world a valley so sweet",
+      "meter": "12s.",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Thomas Moore",
+        "year": "1808"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Ananias Davisson",
+        "year": "1820"
+      },
+      "source": {
+        "citedAbbr": "SKH2"
+      }
+    },
+    "11": {
+      "title": "Kentucky",
+      "firstLine": "My soul would leave this heavy clay",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "Knoxville Harmony",
+        "year": "1840"
+      },
+      "source": {
+        "citedAbbr": "KHJ2"
+      }
+    },
+    "12": {
+      "title": "Knowledge of Jesus",
+      "firstLine": "Vain, delusive world adieu",
+      "meter": "7, 6. D.",
+      "timeSignature": "6/8",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Charles Wesley",
+        "year": "1742"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Ben Sachs-Hamilton, The Christian Harmony",
+        "year": "2018"
+      },
+      "source": {
+        "citedAbbr": "CHI"
+      }
+    },
+    "13": {
+      "title": "Wallace",
+      "firstLine": "If dust and ashes might presume",
+      "meter": "P. M.",
+      "timeSignature": "6/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Joseph Hart"
+      },
+      "musicAttribution": {
+        "credit": "J. Parks",
+        "year": "1847"
+      }
+    },
+    "14": {
+      "title": "Orleans",
+      "firstLine": "When for eternal worlds we steer",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "Leavitt, The Christian Lyre",
+        "year": "1831"
+      },
+      "musicAttribution": {
+        "credit": "Leah Velleman",
+        "year": "2015"
+      }
+    },
+    "15": {
+      "title": "New Grafton",
+      "firstLine": "Today, if you will hear his voice",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Miller, Kent’s Gospel Hymns",
+        "year": "1811"
+      },
+      "musicAttribution": {
+        "credit": "Christian Lyre (alto by D.L. Hunter)",
+        "year": "1831"
+      },
+      "source": {
+        "citedAbbr": "CL"
+      }
+    },
+    "16": {
+      "title": "Teach Me the Measure",
+      "firstLine": "Teach me the measure of my days",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer Jr., arr. D.L. Hunter",
+        "year": "1995, 2020"
+      }
+    },
+    "17": {
+      "title": "Messiah",
+      "firstLine": "The son of man they did betray",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Adams Grande",
+        "year": "1807"
+      },
+      "musicAttribution": {
+        "credit": "Wyeth’s Repository of Sacred Music, Part Second",
+        "year": "1813"
+      },
+      "source": {
+        "citedAbbr": "WR2"
+      }
+    },
+    "18": {
+      "title": "Shelbyville",
+      "firstLine": "How blest the sacred love that binds",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Anna Barbauld",
+        "year": "1792"
+      },
+      "musicAttribution": {
+        "credit": "Ketcham Ms. (alto by Rebecca Wright)",
+        "year": "1802"
+      },
+      "source": {
+        "citedAbbr": "KMs"
+      }
+    },
+    "19": {
+      "title": "House of the Lord",
+      "firstLine": "You may sing of the beauty of mountain and dale",
+      "meter": "12s.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "William Hunter",
+        "year": "1845"
+      },
+      "musicAttribution": {
+        "credit": "Arr. A. Lane, 1852; rev. J. Daily",
+        "year": "1918"
+      },
+      "source": {
+        "citedAbbr": "PBH"
+      }
+    },
+    "20": {
+      "title": "Fair Margaret",
+      "firstLine": "In mercy, Lord, remember me,",
+      "meter": "C. M. D.",
+      "timeSignature": "2/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "J. F. Hertzog (transl. J. C. Jacobi) and Thomas Moore"
+      },
+      "musicAttribution": {
+        "credit": "Traditional Air; arr. D. L. Hunter",
+        "year": "2018"
+      }
+    },
+    "21": {
+      "title": "Fiducia",
+      "firstLine": "Father, I long, I faint to see",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "J. Robertson",
+        "year": "1813"
+      },
+      "source": {
+        "citedAbbr": "MH"
+      }
+    },
+    "22": {
+      "title": "Happy Man, The",
+      "firstLine": "Good morning brother pilgrim,",
+      "meter": "7, 6. D.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Caleb Jarvis Taylor"
+      },
+      "musicAttribution": {
+        "credit": "Supplement to The Christian Melodist, c. 1828; arr. Patrick Friesen",
+        "year": "2023"
+      },
+      "source": {
+        "citedAbbr": "SCMF"
+      }
+    },
+    "23": {
+      "title": "Psalm 59",
+      "firstLine": "When God in wrath shall rise,",
+      "meter": "S. P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Timothy Dwight",
+        "year": "1800"
+      },
+      "musicAttribution": {
+        "credit": "Lucius Chapin",
+        "year": "1812"
+      },
+      "source": {
+        "citedAbbr": "LCMs"
+      }
+    },
+    "24": {
+      "title": "We'll March around Jerusalem",
+      "firstLine": "O sister will you meet me",
+      "meter": "7, 6.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Harp of Eden",
+        "year": "1850"
+      },
+      "musicAttribution": {
+        "credit": "Sacred Melodies for Social Worship, 1859; arr. D. L. Hunter",
+        "year": "2017"
+      },
+      "source": {
+        "citedAbbr": "SMSW"
+      }
+    },
+    "25": {
+      "title": "Garber",
+      "firstLine": "Lo! He cometh, countless trumpets",
+      "meter": "8s, 7s, 4.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Cennick"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1994"
+      }
+    },
+    "26": {
+      "title": "Revelee",
+      "firstLine": "There comes a ship a-sailing",
+      "meter": "7, 6.",
+      "timeSignature": "2/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "German Trad., c. 1470 (v.1-3); Traditional (chorus)",
+        "year": "1470"
+      },
+      "musicAttribution": {
+        "credit": "Virginia Traditional Air; arr. C. MacNeil",
+        "year": "2023"
+      }
+    },
+    "27": {
+      "title": "Watts' Lyre",
+      "firstLine": "Say, mighty Love, and teach my song,",
+      "meter": "C. P. M.",
+      "timeSignature": "6/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1706"
+      },
+      "musicAttribution": {
+        "credit": "Nicholson",
+        "year": "c. 1820"
+      },
+      "source": {
+        "citedAbbr": "JAMs"
+      }
+    },
+    "28": {
+      "title": "Quaker Courtship",
+      "firstLine": "There, on flow'ry hills of pleasure,",
+      "meter": "8, 7. D.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "Virginia Traditional; arr. D. L. Hunter",
+        "year": "2018"
+      }
+    },
+    "29": {
+      "title": "Nylsvley",
+      "firstLine": "The Lord of life this table spread",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "Rebecca Wright",
+        "year": "2015"
+      }
+    },
+    "30": {
+      "title": "Oakland",
+      "firstLine": "The Lord is the fountain of goodness and love",
+      "meter": "11s.",
+      "timeSignature": "2/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Barton W. Stone",
+        "year": "1815"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music, 1853 (alto by D.L. Hunter)",
+        "year": "1853"
+      }
+    },
+    "31": {
+      "title": "Bedford",
+      "firstLine": "To thee let my first off'rings rise,",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Anonymous, by 1797",
+        "year": "1797"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ"
+      }
+    },
+    "32": {
+      "title": "A Rest Remains",
+      "firstLine": "Lord, I believe a rest remains",
+      "meter": "C. M.",
+      "timeSignature": "4/4, 3/2",
+      "key": "B Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley",
+        "year": "1740"
+      },
+      "musicAttribution": {
+        "credit": "The Revivalist, 1869; arr. D.L. Hunter, 2017",
+        "year": "1869, 2017"
+      },
+      "source": {
+        "citedAbbr": "RH"
+      }
+    },
+    "33": {
+      "title": "Cincinnati",
+      "firstLine": "O God, how wide thy glories shine!",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1705"
+      },
+      "musicAttribution": {
+        "credit": "William Bradshaw, 1825 (alto by R. W. Hall)",
+        "year": "1825"
+      },
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "34": {
+      "title": "Angels' Song",
+      "firstLine": "He comes! he comes! the Judge severe",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Charles Wesley, 1758 (v.1); George Richards, 1755 (v.2)",
+        "year": "1758"
+      },
+      "musicAttribution": {
+        "credit": "Arr. James P. Carrell, 1821",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ"
+      }
+    },
+    "35": {
+      "title": "Manayunk",
+      "firstLine": "To God I cry'd with mournful voice,",
+      "meter": "C. M.",
+      "timeSignature": "6/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Emily Ross",
+        "year": "2023"
+      }
+    },
+    "36": {
+      "title": "Request, The (The Infant Request)",
+      "firstLine": "What mighty joys run thro' my heart",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "B Minor",
+      "textAttribution": {
+        "credit": "Sarah A. Jones, 1792 (v.1,2); Anonymous (v.A,B)",
+        "year": "1792"
+      },
+      "musicAttribution": {
+        "credit": "W. T. Webb, 1869; arr. D.L. Hunter, 2020",
+        "year": "1869, 2020"
+      },
+      "source": {
+        "citedAbbr": "OSH"
+      }
+    },
+    "37": {
+      "title": "Bath",
+      "firstLine": "Nature with open volume stands",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "A Book of Psalm Tunes, ed. 2, 1713; arr. Thomas Moore, 1750 (alto by C. Wolf)",
+        "year": "1713, 1750"
+      },
+      "source": {
+        "citedAbbr": "PCM"
+      }
+    },
+    "38": {
+      "title": "Judgment",
+      "firstLine": "And must I be to judgment brought",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley",
+        "year": "1763"
+      },
+      "musicAttribution": {
+        "credit": "Sacred Melodies for Social Worship, 1859; arr. D.L. Hunter, 2018",
+        "year": "1859, 2018"
+      },
+      "source": {
+        "citedAbbr": "SMSW"
+      }
+    },
+    "39": {
+      "title": "Conviction (Gossip)",
+      "firstLine": "Why do we waste on trifling cares",
+      "meter": "L. H. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Philip Doddridge",
+        "year": "1755"
+      },
+      "musicAttribution": {
+        "credit": "B. F. White, 1869 (alto by R. Banerji)",
+        "year": "1869"
+      },
+      "source": {
+        "citedAbbr": "OSH"
+      }
+    },
+    "40": {
+      "title": "Backslider",
+      "firstLine": "O, but where am I now?",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Moss",
+        "year": "1820"
+      },
+      "source": {
+        "citedAbbr": "SKH1"
+      }
+    },
+    "41": {
+      "title": "Oil of Grace",
+      "firstLine": "When descending from the sky,",
+      "meter": "7s, 6s.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Newton",
+        "year": "1779"
+      },
+      "musicAttribution": {
+        "credit": "Deerin Farrer; arr. D. L. Hunter",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "CMF"
+      }
+    },
+    "42": {
+      "title": "Invitation",
+      "firstLine": "Lord, vouch-safe to us thy blessing,",
+      "meter": "8s, 7s, 4.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Taylor's Collection",
+        "year": "1810"
+      },
+      "musicAttribution": {
+        "credit": "Oliver Brownson",
+        "year": "1783"
+      },
+      "source": {
+        "citedAbbr": "WR1"
+      }
+    },
+    "43": {
+      "title": "Malinda",
+      "firstLine": "Sleep at last has fled these eyes,",
+      "meter": "7s, 6s.",
+      "timeSignature": "6/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Madame Guyon",
+        "year": "1800"
+      },
+      "musicAttribution": {
+        "credit": "Arr. William Caldwell",
+        "year": "1834"
+      },
+      "source": {
+        "citedAbbr": "UHC"
+      }
+    },
+    "44": {
+      "title": "All Is Well",
+      "firstLine": "What's this that steals upon my frame,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Pious Songs",
+        "year": "1836"
+      },
+      "musicAttribution": {
+        "credit": "Andrew W. Johnson, 1847 (alto by D. L. Hunter)",
+        "year": "1847"
+      },
+      "source": {
+        "citedAbbr": "EHJ"
+      }
+    },
+    "45": {
+      "title": "In Guilt's Dark Dungeon",
+      "firstLine": "In guilt's dark dungeon when we lay,",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Joseph Hart"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr., 1995; arr. D. L. Hunter, 2020",
+        "year": "2020"
+      }
+    },
+    "46": {
+      "title": "Surp",
+      "firstLine": "Dismiss us with thy blessing, Lord,",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Joseph Hart",
+        "year": "1762"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1995"
+      }
+    },
+    "47": {
+      "title": "Jackson",
+      "firstLine": "Soon as the ev'ning shades appear,",
+      "meter": "L. M. D.",
+      "timeSignature": "6/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Joseph Addison",
+        "year": "1712"
+      },
+      "musicAttribution": {
+        "credit": "William Moore",
+        "year": "1823"
+      },
+      "source": {
+        "citedAbbr": "CHM"
+      }
+    },
+    "48": {
+      "title": "Hosannah",
+      "firstLine": "Hosannah to Jesus, I'm fill'd with his praises,",
+      "meter": "12. 11.",
+      "timeSignature": "3/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Mead's General Selection",
+        "year": "1811"
+      },
+      "musicAttribution": {
+        "credit": "Christian Melodist, 1828; arr. Rebecca Wright, 2020.",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "CMF"
+      }
+    },
+    "49": {
+      "title": "Berlin",
+      "firstLine": "Jesus, let thy pitying eye",
+      "meter": "P. M.",
+      "timeSignature": "6/8",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "A. Lane",
+        "year": "1847"
+      },
+      "source": {
+        "citedAbbr": "OH"
+      }
+    },
+    "51": {
+      "title": "January",
+      "firstLine": "Time by moments steals away,",
+      "meter": "7s.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "John Newton",
+        "year": "1779"
+      },
+      "musicAttribution": {
+        "credit": "Rachel Hall",
+        "year": "2016"
+      }
+    },
+    "52": {
+      "title": "Hallelujah",
+      "firstLine": "On the brink of fiery ruin,",
+      "meter": "8, 7.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Joseph Swain",
+        "year": "1781"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ"
+      }
+    },
+    "53": {
+      "title": "Sabbath Morning",
+      "firstLine": "Love and union, true foundation,",
+      "meter": "8, 7.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "The Sacred Melodeon",
+        "year": "1848"
+      },
+      "musicAttribution": {
+        "credit": "The Christian Lyre, 1831; arr. D. L. Hunter",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "MSC"
+      }
+    },
+    "54": {
+      "title": "Mytilene (Conversion)",
+      "firstLine": "When fierce, cold north winds roar aloud near the shore",
+      "meter": "11s.",
+      "timeSignature": "6/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Adapted from Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "John Steffy",
+        "year": "1836"
+      },
+      "source": {
+        "citedAbbr": "VHS"
+      }
+    },
+    "55": {
+      "title": "Vain Prosperity",
+      "firstLine": "No, I shall envy them no more,",
+      "meter": "C. M.",
+      "timeSignature": "2/2",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1994"
+      }
+    },
+    "56": {
+      "title": "Morning",
+      "firstLine": "Since life in sorrow must be spent,",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Jeanne-Marie Guyon",
+        "year": "1710"
+      },
+      "musicAttribution": {
+        "credit": "Sacred Melodies for Social Worship, 1859; arr. D. L. Hunter, 2017",
+        "year": "2017"
+      },
+      "source": {
+        "citedAbbr": "SMSW"
+      }
+    },
+    "57": {
+      "title": "Time Flies",
+      "firstLine": "Time speeds away, away, away!",
+      "meter": "L. M. D.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "William Knox"
+      },
+      "musicAttribution": {
+        "credit": "Arr. William Hauser",
+        "year": "1878"
+      },
+      "source": {
+        "citedAbbr": "OL"
+      }
+    },
+    "58": {
+      "title": "Carkeek",
+      "firstLine": "Life is a span, a fleeting hour,",
+      "meter": "8s, 6s.",
+      "timeSignature": "3/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Anne Steele",
+        "year": "1760"
+      },
+      "musicAttribution": {
+        "credit": "Kevin Barrans",
+        "year": "2013"
+      }
+    },
+    "59": {
+      "title": "Shepherd",
+      "firstLine": "The Shepherd sought his sheep,",
+      "meter": "S. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Horatius Bonar",
+        "year": "1843"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ"
+      }
+    },
+    "60": {
+      "title": "Vain World Adieu",
+      "firstLine": "Vain world adieu, I'm going home.",
+      "meter": "P. M.",
+      "timeSignature": "3/4, 4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Leavitt, The Christian Lyre",
+        "year": "1831"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr., 1995; arr. Richard Patterson, 2020",
+        "year": "2020"
+      }
+    },
+    "61": {
+      "title": "Earthly Home Adieu",
+      "firstLine": "On the banks beyond the stream,",
+      "meter": "7s.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "A Collection of Spiritual Hymns"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr., 1995 (alto by D. L. Hunter)",
+        "year": "1995"
+      }
+    },
+    "62": {
+      "title": "Prodigal",
+      "firstLine": "Far, far away from my loving father,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Gospel Songs",
+        "year": "1874"
+      },
+      "musicAttribution": {
+        "credit": "Arr. J. H. H., 1902; D. L. Hunter, 2019",
+        "year": "2019"
+      },
+      "source": {
+        "citedAbbr": "PBH"
+      }
+    },
+    "63": {
+      "title": "Jerusalem",
+      "firstLine": "O happy harbor of the saints,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Joseph Bromehead, by 1808; after F. B. P., 16th c.",
+        "year": "1808"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Valley Harmonist",
+        "year": "1836"
+      },
+      "source": {
+        "citedAbbr": "VHS"
+      }
+    },
+    "64": {
+      "title": "Hermon",
+      "firstLine": "Awake, Jerusalem, awake,",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell, 1821 (alto by C. MacNeil)",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ"
+      }
+    },
+    "65": {
+      "title": "No Coward Soul",
+      "firstLine": "No coward soul is mine,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Emily Brontë",
+        "year": "1846"
+      },
+      "musicAttribution": {
+        "credit": "Leah Velleman",
+        "year": "2015"
+      }
+    },
+    "66": {
+      "title": "Khabbaz",
+      "firstLine": "My savior, let me hear thy voice",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Philip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "Daniel L. Hunter",
+        "year": "2016"
+      }
+    },
+    "67": {
+      "title": "Jubilee (The Jubilee Trump)",
+      "firstLine": "What sound is this salutes my ear?",
+      "meter": "C. P. M.",
+      "timeSignature": "6/8",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "John Adams Granade"
+      },
+      "musicAttribution": {
+        "credit": "William Moore, 1825 (alto by C. MacNeil)",
+        "year": "1825"
+      },
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "68": {
+      "title": "Shawsville",
+      "firstLine": "Tho' num'rous hosts of mighty foes,",
+      "meter": "L. M.",
+      "timeSignature": "6/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Samuel Medley",
+        "year": "1782"
+      },
+      "musicAttribution": {
+        "credit": "Christopher Wolf",
+        "year": "2019"
+      }
+    },
+    "69": {
+      "title": "Harpeth",
+      "firstLine": "Though waves and storms go o'er my head,",
+      "meter": "8s.",
+      "timeSignature": "3/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Johann Rothe; transl. John Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Tennessee Harmony",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "JTH"
+      }
+    },
+    "70": {
+      "title": "Passover",
+      "firstLine": "Sinner, O why so thoughtless grown?",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ"
+      }
+    },
+    "71": {
+      "title": "Bower, The",
+      "firstLine": "Ye people who wonder at me and my ways,",
+      "meter": "11s.",
+      "timeSignature": "3/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Caleb Jarvis Taylor"
+      },
+      "musicAttribution": {
+        "credit": "Supplement to The Christian Melodist, ca. 1828; arr. D. L. Hunter, 2020",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "SCMF"
+      }
+    },
+    "72": {
+      "title": "New Orleans",
+      "firstLine": "If souls disembodied can know,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Anonymous",
+        "year": "1811"
+      },
+      "musicAttribution": {
+        "credit": "Leah Velleman and Lael Birch",
+        "year": "2019"
+      }
+    },
+    "73": {
+      "title": "Dvorah",
+      "firstLine": "When first the Lord that grace reveal’d",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "The Choice",
+        "year": "1833"
+      },
+      "musicAttribution": {
+        "credit": "Arr. D. L. Hunter",
+        "year": "2020"
+      }
+    },
+    "74": {
+      "title": "Wise Are They",
+      "firstLine": "Wise are they, and truly blest,",
+      "meter": "P. M.",
+      "timeSignature": "6/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer Jr., 1995; arr. D. L. Hunter, 2020",
+        "year": "1995; 2020"
+      }
+    },
+    "75": {
+      "title": "Fairview",
+      "firstLine": "O that my heart might dwell aloof",
+      "meter": "C. M.",
+      "timeSignature": "6/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Frances Maria Cowper",
+        "year": "1792"
+      },
+      "musicAttribution": {
+        "credit": "A. Lane, 1847 (alto by R. Wright)",
+        "year": "1847"
+      },
+      "source": {
+        "citedAbbr": "OH"
+      }
+    },
+    "76": {
+      "title": "New Salem",
+      "firstLine": "O why should I wander an alien from thee",
+      "meter": "11, 8.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Joseph Swain",
+        "year": "1791"
+      },
+      "musicAttribution": {
+        "credit": "Kentucky Harmonist, 1818 (alto by Ananias Davisson, 1820)",
+        "year": "1818"
+      },
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "77": {
+      "title": "Cumberland",
+      "firstLine": "When thro’ the deep waters I call you to go",
+      "meter": "11s.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Rippon's Selections",
+        "year": "1787"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Union Harmony",
+        "year": "1834"
+      },
+      "source": {
+        "citedAbbr": "UHC"
+      }
+    },
+    "78": {
+      "title": "As Thy Days",
+      "firstLine": "Afflicted saint, to Christ draw near",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "John Fawcett",
+        "year": "1799"
+      },
+      "musicAttribution": {
+        "credit": "Joshua Rush Barnett",
+        "year": "2019"
+      }
+    },
+    "79": {
+      "title": "God's Image",
+      "firstLine": "Come let us ascend, my companion and friend,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "John Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Simon Filbrun, 2005; arr. John Bayer Jr.",
+        "year": "2005"
+      }
+    },
+    "80": {
+      "title": "Oh, They Crucified My Savior",
+      "firstLine": "Oh, they crucified my savior",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Anonymous",
+        "year": "1859"
+      },
+      "musicAttribution": {
+        "credit": "Sacred Melodies for Social Worship, 1859; arr. Leah Velleman, 2020",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "SMSW"
+      }
+    },
+    "81": {
+      "title": "O, What a Band",
+      "firstLine": "We shall sleep, but not forever,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "Eb Major",
+      "textAttribution": {
+        "credit": "Chapel Melodies",
+        "year": "1868"
+      },
+      "musicAttribution": {
+        "credit": "Arr. D. L. Hunter",
+        "year": "2017"
+      },
+      "source": {
+        "citedAbbr": "WNS"
+      }
+    },
+    "82": {
+      "title": "Dukedom",
+      "firstLine": "Ye sons of pride, that hate the just",
+      "meter": "C. M.",
+      "timeSignature": "6/4",
+      "key": "F Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1994"
+      }
+    },
+    "83": {
+      "title": "Watchman",
+      "firstLine": "Ev'ry island, sea, and mountain",
+      "meter": "8s, 7s, 4.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "John Cennick",
+        "year": "1752"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ"
+      }
+    },
+    "84": {
+      "title": "Come Ye To the Waters",
+      "firstLine": "Our Jesus came into the world,",
+      "meter": "8, 7. (peculiar)",
+      "timeSignature": "6/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Camp Meeting Hymn Book",
+        "year": "1836"
+      },
+      "musicAttribution": {
+        "credit": "Southern and Western Pocket Harmonist",
+        "year": "1846"
+      },
+      "source": {
+        "citedAbbr": "SWPH"
+      }
+    },
+    "85": {
+      "title": "Easton",
+      "firstLine": "Eternal Spirit! we confess",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Daniel L. Hunter",
+        "year": "2019"
+      }
+    },
+    "86": {
+      "title": "On Heaven",
+      "firstLine": "A stranger, lonely, here I roam,",
+      "meter": "8s. 7s.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Charles Giles",
+        "year": "1834"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Deerin Farrer, 1828; rev. D. L. Hunter, 2020",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "CMF"
+      }
+    },
+    "87": {
+      "title": "Lebanon",
+      "firstLine": "From all that’s mortal, all that’s vain",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Samuel Medley",
+        "year": "1785"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ"
+      }
+    },
+    "88": {
+      "title": "Vanitas",
+      "firstLine": "How still and peaceful is the grave!",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Hugh Blair",
+        "year": "1745"
+      },
+      "musicAttribution": {
+        "credit": "Maxim Turner",
+        "year": "2016"
+      }
+    },
+    "89": {
+      "title": "Veneration",
+      "firstLine": "The call of the gospel resounds thro’ the land",
+      "meter": "11s.",
+      "timeSignature": "6/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Anonymous; Zion Songster",
+        "year": "1854"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Andrew W. Johnson",
+        "year": "1847"
+      },
+      "source": {
+        "citedAbbr": "EHJ2"
+      }
+    },
+    "90": {
+      "title": "Homer",
+      "firstLine": "’Twas sev’n great towns of Greece, ’tis said,",
+      "meter": "L. M.",
+      "timeSignature": "6/4",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "Thomas Ken",
+        "year": "1695"
+      },
+      "musicAttribution": {
+        "credit": "Catch that Catch Can, 1652 (v.A); School Rounds Book, 1852; arr. D. L. Hunter",
+        "year": "2017"
+      },
+      "source": {
+        "citedAbbr": "CTCC"
+      }
+    },
+    "91": {
+      "title": "Evening Star",
+      "firstLine": "The flaming sun is setting Serenely in the west;",
+      "meter": "7, 6. D.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "William Augustus Muhlenberg",
+        "year": "1825"
+      },
+      "musicAttribution": {
+        "credit": "D. P. Pond, 1859; arr. D. L. Hunter",
+        "year": "2018"
+      },
+      "source": {
+        "citedAbbr": "SMSW"
+      }
+    },
+    "92": {
+      "title": "Italy",
+      "firstLine": "Former friends, O, how I’ve sought them!",
+      "meter": "8, 7. D.",
+      "timeSignature": "6/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Selah Gridley",
+        "year": "1795"
+      },
+      "musicAttribution": {
+        "credit": "Arr. S. Crigler, 1847; D. L. Hunter",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "OH"
+      }
+    },
+    "93": {
+      "title": "Glory, Glory",
+      "firstLine": "Let us sail in grace’s ocean Float on that unbounded sea,",
+      "meter": "8, 7.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Thomas Rawson",
+        "year": "1791"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr., 1995 (alto by D. L. Hunter)"
+      }
+    },
+    "94": {
+      "title": "Maryland",
+      "firstLine": "How swift the torrent rolls That bears us to the sea;",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Philip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "William Billings",
+        "year": "1778"
+      },
+      "source": {
+        "citedAbbr": "WR1"
+      }
+    },
+    "95": {
+      "title": "Suffield",
+      "firstLine": "Vain race of mortals, see them move",
+      "meter": "C. M.",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "The Christian’s Duty",
+        "year": "1769"
+      },
+      "musicAttribution": {
+        "credit": "Oliver King",
+        "year": "1779"
+      },
+      "source": {
+        "citedAbbr": "KH"
+      }
+    },
+    "96": {
+      "title": "Regina's Song",
+      "firstLine": "On willows near to Babel’s flood,",
+      "meter": "C. M. D.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Lloyd’s Hymnal",
+        "year": "1841"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr. and Judy Hauff",
+        "year": "1995"
+      }
+    },
+    "97": {
+      "title": "Gardena",
+      "firstLine": "To Mercy, Pity, Peace, and Love I pray in my distress;",
+      "meter": "C. M. D.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "William Blake",
+        "year": "1789"
+      },
+      "musicAttribution": {
+        "credit": "Emily Ross",
+        "year": "2023"
+      }
+    },
+    "98": {
+      "title": "Yonder Bright Abode (Frog & Mouse)",
+      "firstLine": "A few more days on earth to spend,",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "The Southern Harmony (alt. v. Appendix)"
+      },
+      "musicAttribution": {
+        "credit": "Traditional; arr. Patrick Friesen, 2024",
+        "year": "2024"
+      },
+      "source": {
+        "citedAbbr": "VT"
+      }
+    },
+    "99": {
+      "title": "Sunday School Farewell",
+      "firstLine": "Farewell, dear friends, a long farewell",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "William Hauser",
+        "year": "1848"
+      },
+      "musicAttribution": {
+        "credit": "William Houser",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "100": {
+      "title": "Weevily Wheat",
+      "firstLine": "My God, what endless pleasures dwell",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Arr. G. DeZarn, 2014 (treble and alto by J. R. Barnett)",
+        "year": "2014"
+      }
+    },
+    "101": {
+      "title": "Paris",
+      "firstLine": "Eternity is just at hand;",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Anne Steele",
+        "year": "1760"
+      },
+      "musicAttribution": {
+        "credit": "Ketcham Ms.",
+        "year": "1802"
+      },
+      "source": {
+        "citedAbbr": "KMs"
+      }
+    },
+    "103": {
+      "title": "May",
+      "firstLine": "The icy chains that bound the earth",
+      "meter": "C. M. D.",
+      "timeSignature": "6/8",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "John Needham"
+      },
+      "musicAttribution": {
+        "credit": "John Wall Calcott c. 1790; arr. Virginia Sacred Musical Repository",
+        "year": "1818"
+      },
+      "source": {
+        "citedAbbr": "VSMR"
+      }
+    },
+    "106": {
+      "title": "Foundation",
+      "firstLine": "While passing a garden, I paused there to hear",
+      "meter": "P. M.",
+      "timeSignature": "3/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "George Miller, 1841 (alto by D. L. Hunter)",
+        "year": "1841"
+      },
+      "source": {
+        "citedAbbr": "MCM"
+      }
+    },
+    "107": {
+      "title": "Lamentation",
+      "firstLine": "Arise, my tender thoughts, arise,",
+      "meter": "L. M. D.",
+      "timeSignature": "6/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Philip Doddridge",
+        "year": "1739"
+      },
+      "musicAttribution": {
+        "credit": "The Methodist Camp-Meeting Song Book",
+        "year": "1833"
+      },
+      "source": {
+        "citedAbbr": "MCM"
+      }
+    },
+    "108": {
+      "title": "Bealle",
+      "firstLine": "Not from the dust affliction grows,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1998"
+      }
+    },
+    "109": {
+      "title": "Morning Hymn",
+      "firstLine": "In the morning you will hear my voice rais’d high,",
+      "meter": "P. M.",
+      "timeSignature": "3/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts, adapted"
+      },
+      "musicAttribution": {
+        "credit": "Dann Pell",
+        "year": "2020"
+      }
+    },
+    "110": {
+      "title": "Another's Sorrow",
+      "firstLine": "Can I see another’s woe,",
+      "meter": "7s. D.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "William Blake",
+        "year": "1789"
+      },
+      "musicAttribution": {
+        "credit": "Doron Henkin",
+        "year": "2017"
+      }
+    },
+    "111": {
+      "title": "Covington",
+      "firstLine": "Oh, here's my heart, and here's my hand,",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "A. M. Scott",
+        "year": "1838"
+      },
+      "source": {
+        "citedAbbr": "WDH"
+      }
+    },
+    "112": {
+      "title": "Heavenly Treasure",
+      "firstLine": "Religion! ‘Tis a glorious treasure,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Collection of Genuine Church Music"
+      },
+      "musicAttribution": {
+        "credit": "Collection of Genuine Church Music, ed. 3",
+        "year": "1842"
+      },
+      "source": {
+        "citedAbbr": "HSF"
+      }
+    },
+    "113": {
+      "title": "Little Bear Creek",
+      "firstLine": "In Sharon’s lovely Rose,",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "John Dobell",
+        "year": "1806"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr., 1997 (alto by C. MacNeil)",
+        "year": "1997"
+      }
+    },
+    "116": {
+      "title": "Faithful",
+      "firstLine": "Faithful to death!",
+      "meter": "P. M.",
+      "timeSignature": "6/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Faith Sides",
+        "year": "2019"
+      },
+      "musicAttribution": {
+        "credit": "Faith Sides",
+        "year": "2019"
+      }
+    },
+    "117": {
+      "title": "Morning Meditation",
+      "firstLine": "Tho’ the morn may be serene,",
+      "meter": "7s.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "S. G. Jones, 1859; arr. Rebecca Wright, 2020",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "SHA2"
+      }
+    },
+    "118": {
+      "title": "How I Want to Go",
+      "firstLine": "See the Christian, in that day,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "F Minor",
+      "textAttribution": {
+        "credit": "Billups’ Sweet Songster",
+        "year": "1854"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1994"
+      }
+    },
+    "119": {
+      "title": "Warning Voice",
+      "firstLine": "Stop, poor sinner, stop and think,",
+      "meter": "7, 6.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Newton",
+        "year": "1803"
+      },
+      "musicAttribution": {
+        "credit": "The Christian Lyre, 1831 (alto by Rebecca Wright)",
+        "year": "1831"
+      },
+      "source": {
+        "citedAbbr": "CL"
+      }
+    },
+    "120": {
+      "title": "Brooklyn",
+      "firstLine": "Death may dissolve my body now,",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "F Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1719"
+      },
+      "musicAttribution": {
+        "credit": "Nikos Pappas",
+        "year": "2018"
+      }
+    },
+    "121": {
+      "title": "Itinerant, The",
+      "firstLine": "My loving brothers tho’t it strange",
+      "meter": "L. M. D.",
+      "timeSignature": "6/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Enoch, 1868 (alto by Nikos Pappas)",
+        "year": "1868"
+      },
+      "source": {
+        "citedAbbr": "WVL"
+      }
+    },
+    "122": {
+      "title": "Evening Meditation",
+      "firstLine": "I’ll sing my Savior’s grace and his dear name I’ll praise,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "The Zion Songster",
+        "year": "1854"
+      },
+      "musicAttribution": {
+        "credit": "John Steffy, 1836 (alto by J. R. Barnett)",
+        "year": "1836"
+      },
+      "source": {
+        "citedAbbr": "VHS"
+      }
+    },
+    "123": {
+      "title": "New Sharon",
+      "firstLine": "“Wide, ye heav’nly gates, unfold,",
+      "meter": "7s. D.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Harriet Auber"
+      },
+      "musicAttribution": {
+        "credit": "Maxim Turner",
+        "year": "2023"
+      }
+    },
+    "124": {
+      "title": "Shining Shore",
+      "firstLine": "My days are gliding swiftly by,",
+      "meter": "8, 7. (peculiar)",
+      "timeSignature": "6/8",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "David Nelson, 1835 (v. 1, 2); Samuel C. Slothour (chorus)",
+        "year": "1835"
+      },
+      "musicAttribution": {
+        "credit": "Faith Anne Slothour (mel.); arr. Samuel C. Slothour, 2016",
+        "year": "2016"
+      }
+    },
+    "125": {
+      "title": "Lament (Blessed Mary)",
+      "firstLine": "With tears of anguish I lament",
+      "meter": "C. M. D.",
+      "timeSignature": "6/8",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Samuel Stennett"
+      },
+      "musicAttribution": {
+        "credit": "Axton",
+        "year": "1825"
+      },
+      "source": {
+        "citedAbbr": "CHM"
+      }
+    },
+    "126": {
+      "title": "Windows of Grace",
+      "firstLine": "I love the windows of thy grace,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Samuel C. Slothour, 1998 (alto by David Giusti)",
+        "year": "1998"
+      }
+    },
+    "127": {
+      "title": "Come to Zion",
+      "firstLine": "Come to Zion, come to Zion,",
+      "meter": "8, 7.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Pauline Bates",
+        "year": "1864 (v.1); Shaker Hymn (v.2)"
+      },
+      "musicAttribution": {
+        "credit": "arr. Constance Des Marais",
+        "year": "2020"
+      }
+    },
+    "128": {
+      "title": "Enquirer, The",
+      "firstLine": "Oh! that some kind soul would tell me,",
+      "meter": "8, 7.",
+      "timeSignature": "4/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "The Christian Harmony, 1805 (alto by Calum Woods)",
+        "year": "1805"
+      },
+      "musicAttribution": {
+        "credit": "The Christian Harmony, 1805",
+        "year": "1805"
+      },
+      "source": {
+        "citedAbbr": "CHI"
+      }
+    },
+    "129": {
+      "title": "Union (Experience)",
+      "firstLine": "Come saints and sinners hear me tell",
+      "meter": "P. M.",
+      "timeSignature": "6/8",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Mintz's Spiritual Song Book, 1805 (alt. v. Appendix)",
+        "year": "1805"
+      },
+      "musicAttribution": {
+        "credit": "The Revivalist, 1869; arr. D.L. Hunter, 2018",
+        "year": "2018"
+      },
+      "source": {
+        "citedAbbr": "RH"
+      }
+    },
+    "130": {
+      "title": "Bangor",
+      "firstLine": "How still and peaceful is the grave!",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Hugh Blair, 1745",
+        "year": "1745"
+      },
+      "musicAttribution": {
+        "credit": "William Tans'ur, 1735; arr. Evelyn Saylor & Marco Wessnigk",
+        "year": "2021"
+      },
+      "source": {
+        "citedAbbr": "WR1"
+      }
+    },
+    "131": {
+      "title": "Out in the Fields with God",
+      "firstLine": "The little cares that fretted me,",
+      "meter": "C. M. D.",
+      "timeSignature": "6/8",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "Elizabeth Barrett Browning"
+      },
+      "musicAttribution": {
+        "credit": "Jeff Gauthier and Claire Discenza",
+        "year": "2006"
+      }
+    },
+    "132": {
+      "title": "Hickman",
+      "firstLine": "Tell how you discoverd the state you were in,",
+      "meter": "11s.",
+      "timeSignature": "2/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Jacob Bower, 1842",
+        "year": "1842"
+      },
+      "musicAttribution": {
+        "credit": "Primitive Baptist Hymnal",
+        "year": "1902"
+      },
+      "source": {
+        "citedAbbr": "PBH"
+      }
+    },
+    "133": {
+      "title": "Annapolis",
+      "firstLine": "Hard lot of mine, my days are cast",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Isaac Watts, 1719",
+        "year": "1719"
+      },
+      "musicAttribution": {
+        "credit": "Thomas Ward",
+        "year": "2021"
+      }
+    },
+    "134": {
+      "title": "New Lisbon (The Betrayal)",
+      "firstLine": "Among the mountain trees,",
+      "meter": "S. H. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "T. J. Edmondson, 1845",
+        "year": "1845"
+      },
+      "musicAttribution": {
+        "credit": "John Henry, 1848; rev. Ohio Harmonist, ed. 2, 1852",
+        "year": "1852"
+      },
+      "source": {
+        "citedAbbr": "WMW"
+      }
+    },
+    "135": {
+      "title": "Christ in the Garden",
+      "firstLine": "While nature was sinking in silence to rest",
+      "meter": "11s.",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "Revival Melodies, 1842; arr. Jacob Kiakahi",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "MSC"
+      }
+    },
+    "136": {
+      "title": "Praise",
+      "firstLine": "Hallelujah! Hallelujah! Give praise, ye servants of God!",
+      "meter": "P. M.",
+      "timeSignature": "6/4",
+      "key": "B Minor",
+      "textAttribution": {
+        "credit": "Psalm 113, Doron Henkin, 1996",
+        "year": "1996"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Doron Henkin, 1996",
+        "year": "1996"
+      }
+    },
+    "137": {
+      "title": "Cheerful",
+      "firstLine": "While nature was sinking in stillness to rest,",
+      "meter": "11s.",
+      "timeSignature": "2/4",
+      "key": "B Minor",
+      "textAttribution": {
+        "credit": "Mrs. Edwin C. White"
+      },
+      "musicAttribution": {
+        "credit": "Southern Harmony, 1835 (alto by J. R. Barnett)",
+        "year": "1835"
+      },
+      "source": {
+        "citedAbbr": "SHW"
+      }
+    },
+    "138": {
+      "title": "County Down",
+      "firstLine": "Grace tills the soil and sows the seed,",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "John Newton, 1779",
+        "year": "1779"
+      },
+      "musicAttribution": {
+        "credit": "Traditional Air; arr. Ben Sachs-Hamilton, 2016",
+        "year": "2016"
+      }
+    },
+    "139": {
+      "title": "Weeping Mary",
+      "firstLine": "Come all ye mourning pilgrims now, The joyful news I’ll tell,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Hymns and Spiritual Songs for the Use of Christians, 1803",
+        "year": "1803"
+      },
+      "musicAttribution": {
+        "credit": "The Christian Harmony, 1805; arr. P. Friesen, 2018",
+        "year": "2018"
+      },
+      "source": {
+        "citedAbbr": "CHI"
+      }
+    },
+    "140": {
+      "title": "Union",
+      "firstLine": "When we are called to part,",
+      "meter": "S. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Fawcett"
+      },
+      "musicAttribution": {
+        "credit": "William Caldwell, 1834",
+        "year": "1834"
+      },
+      "source": {
+        "citedAbbr": "UHC"
+      }
+    },
+    "141": {
+      "title": "Kay",
+      "firstLine": "God of my life, through all my days,",
+      "meter": "L. M.",
+      "timeSignature": "6/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Philip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "John G. McCurry, 1853 (alto by Micah J. Walter)",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "SHM"
+      }
+    },
+    "142": {
+      "title": "Carolina",
+      "firstLine": "To what a stubborn frame",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Southern and Western Pocket Harmonist, 1846 (alto by D. L. Hunter)",
+        "year": "1846"
+      },
+      "source": {
+        "citedAbbr": "SWPH"
+      }
+    },
+    "143": {
+      "title": "Wolf Creek",
+      "firstLine": "Sinners, will you scorn the message",
+      "meter": "P. M.",
+      "timeSignature": "6/8",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Jonathan Allen"
+      },
+      "musicAttribution": {
+        "credit": "Nikos Pappas, 2000"
+      }
+    },
+    "144": {
+      "title": "Idumea",
+      "firstLine": "My God, my life, my love,",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Ananias Davisson, 1816",
+        "year": "1816"
+      },
+      "source": {
+        "citedAbbr": "KH"
+      }
+    },
+    "145": {
+      "title": "I am bound for the Kingdom",
+      "firstLine": "I long to gain the mountain’s height;",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Adams Granade, adapted"
+      },
+      "musicAttribution": {
+        "credit": "Allen M. Scott, 1838 (alto by J. Donaldson)",
+        "year": "1838"
+      },
+      "source": {
+        "citedAbbr": "WDH"
+      }
+    },
+    "146": {
+      "title": "Mount Calvary",
+      "firstLine": "Hearts of stone, relent, relent;",
+      "meter": "7s.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Stephen Jenks, arr. The Christian Lyre",
+        "year": "1803; arr. 1830"
+      },
+      "source": {
+        "citedAbbr": "SCM"
+      }
+    },
+    "147": {
+      "title": "Meeting is Over",
+      "firstLine": "Mothers, now our meeting is over, mothers we must part,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Jonathan Een Newton",
+        "year": "2019"
+      }
+    },
+    "148": {
+      "title": "Submission",
+      "firstLine": "Once more we come before thee, Lord,",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "The Methodist Camp-Meeting Song Book",
+        "year": "1833"
+      },
+      "source": {
+        "citedAbbr": "MCM"
+      }
+    },
+    "149": {
+      "title": "Humiliation",
+      "firstLine": "Jesus, full of all compassion,",
+      "meter": "8, 7. D.",
+      "timeSignature": "6/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Daniel Turner",
+        "year": "1792"
+      },
+      "musicAttribution": {
+        "credit": "John Steffy",
+        "year": "1836"
+      },
+      "source": {
+        "citedAbbr": "VHS"
+      }
+    },
+    "150": {
+      "title": "Mourning Souls",
+      "firstLine": "Poor mourning souls in deep distress",
+      "meter": "8, 7. D. (peculiar)",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "A Collection of Hymns for the Use of Christians, adapted",
+        "year": "1805"
+      },
+      "musicAttribution": {
+        "credit": "The Christian Harmony, arr. D. L. Hunter",
+        "year": "2019"
+      },
+      "source": {
+        "citedAbbr": "CHI"
+      }
+    },
+    "151": {
+      "title": "Assurance",
+      "firstLine": "Let those that sow in sadness wait",
+      "meter": "C. M. D.",
+      "timeSignature": "6/8",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Ira Caster Ms.",
+        "year": "c. 1850"
+      },
+      "source": {
+        "citedAbbr": "ICM"
+      }
+    },
+    "152": {
+      "title": "Port Royal",
+      "firstLine": "Glory to God on high! Let earth and skies reply,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "William Bradshaw",
+        "year": "1825"
+      },
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "153": {
+      "title": "Lion and Unicorn",
+      "firstLine": "No seas again shall sever,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Horatius Bonar (v. 1-3); Traditional (v. A)",
+        "year": "1856 (v. 1-3); N/A"
+      },
+      "musicAttribution": {
+        "credit": "Virginia Traditional; arr. C. MacNeil",
+        "year": "2019"
+      }
+    },
+    "154": {
+      "title": "Watchman's Voice, The",
+      "firstLine": "While watchmen blow the trumpet round,",
+      "meter": "L. M. D.",
+      "timeSignature": "3/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "The Southern Harmony",
+        "year": "1854"
+      },
+      "musicAttribution": {
+        "credit": "Arr. W. H. Diddle, 1868 (treble by G. F. DeZarn)",
+        "year": "1868"
+      },
+      "source": {
+        "citedAbbr": "WVL"
+      }
+    },
+    "155": {
+      "title": "Happy Land",
+      "firstLine": "Ye humble souls that seek the Lord,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Philip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "MSM"
+      }
+    },
+    "156": {
+      "title": "Pretty Peggy",
+      "firstLine": "I have some friends before me gone,",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Ottiwell Heginbotham, 1765, adapted (alt. v. Appendix)",
+        "year": "1765"
+      },
+      "musicAttribution": {
+        "credit": "Virginia Traditional; arr. D. L. Hunter",
+        "year": "2019"
+      }
+    },
+    "157": {
+      "title": "Want No More",
+      "firstLine": "Precious Bible, what a treasure,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "F Minor",
+      "textAttribution": {
+        "credit": "John Newton",
+        "year": "1780"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1994"
+      }
+    },
+    "158": {
+      "title": "Aurelius (Gospel Trumpet)",
+      "firstLine": "Should we ever cease from singing?",
+      "meter": "8, 7.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Epictetus",
+        "year": "85 CE"
+      },
+      "musicAttribution": {
+        "credit": "Gospel Trumpet, arr. Findlay",
+        "year": "1836"
+      },
+      "source": {
+        "citedAbbr": "VHS"
+      }
+    },
+    "159": {
+      "title": "Deliverance",
+      "firstLine": "On Earth we gain by losing,",
+      "meter": "7, 6. D.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Horatius Bonar"
+      },
+      "musicAttribution": {
+        "credit": "The Methodist Camp-Meeting Song Book",
+        "year": "1833"
+      },
+      "source": {
+        "citedAbbr": "MCM"
+      }
+    },
+    "160": {
+      "title": "Pilgrim's Consolation",
+      "firstLine": "A few more days of grief and woe,",
+      "meter": "8, 8, 8, 7.",
+      "timeSignature": "6/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Mead's General Selection",
+        "year": "1807"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "MSM"
+      }
+    },
+    "161": {
+      "title": "Shady Grove",
+      "firstLine": "I wish I had a golden harp",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Hans der Konig, adapted (v. 1-3); Traditional (v. A-C)"
+      },
+      "musicAttribution": {
+        "credit": "Traditional; arr. Marco Wessnigk",
+        "year": "2018"
+      }
+    },
+    "162": {
+      "title": "Walsal",
+      "firstLine": "Why should the children of a King",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Book of Psalmody, 1723; arr. W. Tans’ur, 1744 (alto by William Caldwell, 1834)",
+        "year": "1723; arr. 1744 (alto 1834)"
+      },
+      "source": {
+        "citedAbbr": "KH"
+      }
+    },
+    "163": {
+      "title": "Children of a King",
+      "firstLine": "What poor despised company",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Maxwell’s Collection of Hymns and Spiritual Songs",
+        "year": "1759"
+      },
+      "musicAttribution": {
+        "credit": "Dan Thoma",
+        "year": "2008"
+      }
+    },
+    "164": {
+      "title": "Emerald Gates",
+      "firstLine": "David’s city dimly lies",
+      "meter": "7s. D.",
+      "timeSignature": "6/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "William Wood"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Ananias Davisson",
+        "year": "1820"
+      },
+      "source": {
+        "citedAbbr": "SKH"
+      }
+    },
+    "165": {
+      "title": "Jonesborough",
+      "firstLine": "Pursue, my tho’ts, this pleasing theme,",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Susanna Harrison",
+        "year": "1780"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Axton and Moore",
+        "year": "1825"
+      },
+      "source": {
+        "citedAbbr": "HH"
+      }
+    },
+    "166": {
+      "title": "Casimire",
+      "firstLine": "Eternal Mind, who rul’st the fates",
+      "meter": "C. P. M.",
+      "timeSignature": "3/2",
+      "key": "F# Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Thomas Ward",
+        "year": "2020"
+      }
+    },
+    "167": {
+      "title": "Madison Place",
+      "firstLine": "Thus on the heav’nly hills",
+      "meter": "S. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Emily Ross",
+        "year": "2023"
+      }
+    },
+    "168": {
+      "title": "Advent",
+      "firstLine": "The Lord will come and not be slow,",
+      "meter": "C. M. D.",
+      "timeSignature": "6/8",
+      "key": "C Minor",
+      "textAttribution": {
+        "credit": "John Milton",
+        "year": "1648"
+      },
+      "musicAttribution": {
+        "credit": "Calum Woods",
+        "year": "2018"
+      }
+    },
+    "169": {
+      "title": "Harvest Home",
+      "firstLine": "Though in the outward church below",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "Lazarus B. McLain",
+        "year": "1836"
+      },
+      "source": {
+        "citedAbbr": "CHASW"
+      }
+    },
+    "170": {
+      "title": "Alphamadele",
+      "firstLine": "Our sins, alas! How strong they be!",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "James Sullivan Warren",
+        "year": "1855"
+      },
+      "source": {
+        "citedAbbr": "WMW"
+      }
+    },
+    "171": {
+      "title": "Here Is No Rest",
+      "firstLine": "Here o’er the earth as a stranger I roam,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Millennial Harp",
+        "year": "1843"
+      },
+      "musicAttribution": {
+        "credit": "Steven Brett",
+        "year": "2017"
+      }
+    },
+    "172": {
+      "title": "Little Worth",
+      "firstLine": "Alas! How poor and little worth",
+      "meter": "P. M.",
+      "timeSignature": "3/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Don Jorge Manrique; transl. H. W. Longfellow",
+        "year": "1844"
+      },
+      "musicAttribution": {
+        "credit": "Col. D. H. Smith",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "CH",
+        "page": "531"
+      }
+    },
+    "173": {
+      "title": "Bethel Street",
+      "firstLine": "O may my soul march boldly on, O halle, O hallelujah!",
+      "meter": "L. M.",
+      "timeSignature": "6/8",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Mead’s General Collection"
+      },
+      "musicAttribution": {
+        "credit": "William Houser",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "44"
+      }
+    },
+    "174": {
+      "title": "Conflagration",
+      "firstLine": "Sinners, take the friendly warning;",
+      "meter": "8, 7.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "John W. Steffy",
+        "year": "1836"
+      },
+      "source": {
+        "citedAbbr": "VHS",
+        "page": "108"
+      }
+    },
+    "175": {
+      "title": "Sun-Bright Clime",
+      "firstLine": "I have some friends who are gone before,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Silas Tertius Rand"
+      },
+      "musicAttribution": {
+        "credit": "James Sullivan Warren",
+        "year": "1855"
+      },
+      "source": {
+        "citedAbbr": "WMW",
+        "page": "141"
+      }
+    },
+    "176": {
+      "title": "Autumn Leaves",
+      "firstLine": "Sons of honor fed on praises,",
+      "meter": "8, 7. D.",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "George Horn",
+        "year": "1722"
+      },
+      "musicAttribution": {
+        "credit": "Arr. William Houser",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "470"
+      }
+    },
+    "177": {
+      "title": "Agostine",
+      "firstLine": "Farewell, vain world, I’m going home,",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "The Christian Hymn-Book",
+        "year": "1815"
+      },
+      "musicAttribution": {
+        "credit": "Joshua Rush Barnett",
+        "year": "2020"
+      }
+    },
+    "178": {
+      "title": "Redemption",
+      "firstLine": "The winter is past, and the rain now is o’er;",
+      "meter": "11s.",
+      "timeSignature": "3/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Adams Granade"
+      },
+      "musicAttribution": {
+        "credit": "Smith and Caldwell",
+        "year": "1834"
+      },
+      "source": {
+        "citedAbbr": "UHC",
+        "page": "54"
+      }
+    },
+    "179": {
+      "title": "Harvest Ode",
+      "firstLine": "When thy harvest yields thee pleasure,",
+      "meter": "8, 7.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Anonymous",
+        "year": "1831"
+      },
+      "musicAttribution": {
+        "credit": "Samuel C. Slothour",
+        "year": "1995"
+      }
+    },
+    "180": {
+      "title": "Pilgrim's Lot",
+      "firstLine": "How happy is the pilgrim’s lot!",
+      "meter": "C. P. M.",
+      "timeSignature": "6/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "John Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Levi C. Myers",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "MSM",
+        "page": "34"
+      }
+    },
+    "181": {
+      "title": "Colchester New",
+      "firstLine": "My never ceasing song shall show",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "D Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "William Tans’ur, 1735 (alto ed. by J. R. Barnett)",
+        "year": "1735"
+      },
+      "source": {
+        "citedAbbr": "WR1",
+        "page": "101"
+      }
+    },
+    "182": {
+      "title": "Invitation",
+      "firstLine": "Come ye weary, heavy laden,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Joseph Hart",
+        "year": "1759"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "4"
+      }
+    },
+    "183": {
+      "title": "Zion's Light",
+      "firstLine": "That glorious day is drawing nigh",
+      "meter": "C. M. D.",
+      "timeSignature": "6/4",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "John Leland",
+        "year": "1790"
+      },
+      "musicAttribution": {
+        "credit": "Calum Woods",
+        "year": "2018"
+      }
+    },
+    "184": {
+      "title": "Lowville",
+      "firstLine": "We have a howling wilderness,",
+      "meter": "P. M.",
+      "timeSignature": "6/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "John Granade"
+      },
+      "musicAttribution": {
+        "credit": "Tristan Gordon",
+        "year": "2017"
+      }
+    },
+    "185": {
+      "title": "Love to Jesus",
+      "firstLine": "From ev’ry earthly pleasure",
+      "meter": "7, 6. D.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Eliel Davis",
+        "year": "1821"
+      },
+      "musicAttribution": {
+        "credit": "The Christian Harmony, 1805; arr. P. Friesen & R. W. Hall",
+        "year": "2019"
+      },
+      "source": {
+        "citedAbbr": "CHI",
+        "page": "26"
+      }
+    },
+    "186": {
+      "title": "Convert's Song",
+      "firstLine": "To Thee, in youth's bright morning",
+      "meter": "7, 6. D.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "R. G. Staples",
+        "year": "1818"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music, 1853",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "MSM",
+        "page": "67"
+      }
+    },
+    "187": {
+      "title": "Harmony",
+      "firstLine": "Away my doubts begone my fears.",
+      "meter": "L. M. D.",
+      "timeSignature": "2/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Susanna Harrison",
+        "year": "1780"
+      },
+      "musicAttribution": {
+        "credit": "William Walker, 1838 (alto by J. Donaldson)",
+        "year": "1838"
+      },
+      "source": {
+        "citedAbbr": "MSC",
+        "page": "20"
+      }
+    },
+    "188": {
+      "title": "Brooklyne",
+      "firstLine": "Lord in the morning at whose voice,",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1706"
+      },
+      "musicAttribution": {
+        "credit": "Deerin Farrer",
+        "year": "1828"
+      },
+      "source": {
+        "citedAbbr": "CMF",
+        "page": "10"
+      }
+    },
+    "189": {
+      "title": "Penitence",
+      "firstLine": "Jesus full of all compassion,",
+      "meter": "8, 7.",
+      "timeSignature": "2/2",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "Daniel Turner",
+        "year": "1769"
+      },
+      "musicAttribution": {
+        "credit": "Geistliches Gesangbuch, 1698 (alto by Chris Wolf)",
+        "year": "1698"
+      },
+      "source": {
+        "citedAbbr": "HSF",
+        "page": "150"
+      }
+    },
+    "190": {
+      "title": "Indiana",
+      "firstLine": "Tho' nature's strength decay,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "David Ben Judah, adp Thomas Olivers"
+      },
+      "musicAttribution": {
+        "credit": "Samuel Wakefield, 1825 (treble added 1843; alto by Richard Patterson)",
+        "year": "1825"
+      },
+      "source": {
+        "citedAbbr": "WHW",
+        "page": "81"
+      }
+    },
+    "191": {
+      "title": "Dundee",
+      "firstLine": "Ye little flock, whom Jesus, feeds,",
+      "meter": "C. M.",
+      "timeSignature": "2/2",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Philip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "Songs of David, 1615",
+        "year": "1615"
+      },
+      "source": {
+        "citedAbbr": "HSF",
+        "page": "85"
+      }
+    },
+    "192": {
+      "title": "Gospel Banner",
+      "firstLine": "Now be God's rapt'rous banner",
+      "meter": "7, 6. D.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Thomas Hastings",
+        "year": "1830"
+      },
+      "musicAttribution": {
+        "credit": "The Christian Lyre, 1832",
+        "year": "1832"
+      },
+      "source": {
+        "citedAbbr": "CLL"
+      }
+    },
+    "193": {
+      "title": "Monroe",
+      "firstLine": "My God how endless is thy love!",
+      "meter": "L. M. D.",
+      "timeSignature": "2/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Isaac Watts (v.1); John Cennick (v.2)"
+      },
+      "musicAttribution": {
+        "credit": "Smith",
+        "year": "1820"
+      },
+      "source": {
+        "citedAbbr": "SKH1",
+        "page": "62"
+      }
+    },
+    "194": {
+      "title": "Hermit",
+      "firstLine": "Thou art gone to the grave, but we will not deplore thee;",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Reginald Heber, 1818, adapted",
+        "year": "1818"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music, 1853 (alto by Chris Wolf)",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "MSM"
+      }
+    },
+    "195": {
+      "title": "Waterford",
+      "firstLine": "Jesus drinks the bitter cup,",
+      "meter": "P. M.",
+      "timeSignature": "3/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Sacred Melodies for Social Worship, 1859; arr. Leah Velleman, 2019",
+        "year": "1859"
+      },
+      "source": {
+        "citedAbbr": "SMSW",
+        "page": "43"
+      }
+    },
+    "196": {
+      "title": "Neumark",
+      "firstLine": "If thou but suffer God to guide thee",
+      "meter": "P. M.",
+      "timeSignature": "6/4, 2/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Georg Neumark, 1641 (transl. Catherine Winkworth, 1863)",
+        "year": "1641"
+      },
+      "musicAttribution": {
+        "credit": "Georg Neumark, 1657; arr. Micah John Walter, 2015",
+        "year": "1657"
+      }
+    },
+    "197": {
+      "title": "All Saints Old (Wareham)",
+      "firstLine": "My God, my heart with love inflame,",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "William Colvert",
+        "year": "1801"
+      },
+      "musicAttribution": {
+        "credit": "William Knapp, 1738 (alto by C. MacNeil)",
+        "year": "1738"
+      },
+      "source": {
+        "citedAbbr": "BH",
+        "page": "34"
+      }
+    },
+    "198": {
+      "title": "Hartford",
+      "firstLine": "This spacious earth is all the Lord’s,",
+      "meter": "L. M. D.",
+      "timeSignature": "4/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Elihu Carpenter",
+        "year": "1779"
+      },
+      "source": {
+        "citedAbbr": "HC",
+        "page": "99"
+      }
+    },
+    "199": {
+      "title": "Evening Hymn",
+      "firstLine": "Defend me, Lord, from shame,",
+      "meter": "S. M.",
+      "timeSignature": "2/2",
+      "key": "B Minor",
+      "textAttribution": {
+        "credit": "Tate and Brady",
+        "year": "1760"
+      },
+      "musicAttribution": {
+        "credit": "A. Goodrich",
+        "year": "1849"
+      },
+      "source": {
+        "citedAbbr": "SM",
+        "page": "122"
+      }
+    },
+    "200": {
+      "title": "Promised Land, The",
+      "firstLine": "Oh, I have a mother in the promis’d land,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Old Campground, Tennessee"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Maxim Turner",
+        "year": "2021"
+      },
+      "source": {
+        "citedAbbr": "PH",
+        "page": "18"
+      }
+    },
+    "201": {
+      "title": "Delorese",
+      "firstLine": "See the vernal bloom appearing!",
+      "meter": "8, 7.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Charles Taylor",
+        "year": "1815"
+      },
+      "musicAttribution": {
+        "credit": "Baptist Melody; arr. D. L. Hunter, 2020",
+        "year": "2020"
+      }
+    },
+    "202": {
+      "title": "Third Creek",
+      "firstLine": "Your days on earth will soon be o’er,",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Southern Harmony",
+        "year": "1835"
+      },
+      "musicAttribution": {
+        "credit": "Arr. William Houser",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "39"
+      }
+    },
+    "206": {
+      "title": "Poelsweg",
+      "firstLine": "Hark! from the tombs a doleful sound!",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "Yotin Tiewtrakul",
+        "year": "2021"
+      }
+    },
+    "207": {
+      "title": "Zynder-Zee",
+      "firstLine": "See how we travel here below",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "M. Mark Wynn",
+        "year": "1850"
+      },
+      "source": {
+        "citedAbbr": "OSH",
+        "page": "303"
+      }
+    },
+    "208": {
+      "title": "Page Street",
+      "firstLine": "Fair Magdalen has dried her tears;",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "D Major",
+      "textAttribution": {
+        "credit": "F. B. P."
+      },
+      "musicAttribution": {
+        "credit": "Leland Paul Reimer",
+        "year": "2016"
+      }
+    },
+    "209": {
+      "title": "Polly Vaughn",
+      "firstLine": "Come now my dear brethren,",
+      "meter": "11s.",
+      "timeSignature": "6/4",
+      "key": "Eb Major",
+      "textAttribution": {
+        "credit": "Dupuy's Hymns and Spiritual Songs (alt. v. Appendix)"
+      },
+      "musicAttribution": {
+        "credit": "Arr. by Shirley Collins; arr. D. L. Hunter, 2019",
+        "year": "2019"
+      }
+    },
+    "210": {
+      "title": "Repose",
+      "firstLine": "The Lamb appears to wipe our tears,",
+      "meter": "8, 7. D. (peculiar)",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Allen"
+      },
+      "musicAttribution": {
+        "credit": "The Missouri Harmony",
+        "year": "1820"
+      },
+      "source": {
+        "citedAbbr": "MH",
+        "page": "115"
+      }
+    },
+    "211": {
+      "title": "Pilgrim's Song, The",
+      "firstLine": "You are trav'ling home to God",
+      "meter": "7s.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Cennick",
+        "year": "1742"
+      },
+      "musicAttribution": {
+        "credit": "Christian Harmony",
+        "year": "1805"
+      },
+      "source": {
+        "citedAbbr": "CHI",
+        "page": "28"
+      }
+    },
+    "212": {
+      "title": "Sutton",
+      "firstLine": "Help, Lord, for those of virtue flee",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Joseph Stone",
+        "year": "1793"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "69"
+      }
+    },
+    "213": {
+      "title": "Come on, My Friends",
+      "firstLine": "Come all, my brethren friends, draw near",
+      "meter": "L. M.",
+      "timeSignature": "6/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "John Adams Granade"
+      },
+      "musicAttribution": {
+        "credit": "Edmund Dumas",
+        "year": "1869"
+      },
+      "source": {
+        "citedAbbr": "SHC",
+        "page": "271"
+      }
+    },
+    "214": {
+      "title": "Protection",
+      "firstLine": "Tis Jesus protects me, my fears now remove,",
+      "meter": "11s.",
+      "timeSignature": "3/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "10"
+      }
+    },
+    "215": {
+      "title": "Consolation",
+      "firstLine": "Should earth against my soul engage",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "C. M. Christian Melodist 1828; arr. D. L. Hunter, 2020",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "CMF",
+        "page": "37"
+      }
+    },
+    "216": {
+      "title": "Jerusalem New",
+      "firstLine": "We are trav’ling to the grave",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "L. D. Goodall"
+      },
+      "musicAttribution": {
+        "credit": "Union Harmony, 1848; arr. Micah John Walter, 2020",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "UHH",
+        "page": "79"
+      }
+    },
+    "217": {
+      "title": "Midsummer",
+      "firstLine": "O, Corydon! hear the sad cries",
+      "meter": "8s. D.",
+      "timeSignature": "6/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "\"Edwin\" in Conn. Courant (attr. Nathaniel Dwight)",
+        "year": "1795"
+      },
+      "musicAttribution": {
+        "credit": "William Walker, 1835; arr. D. L. Hunter, 2018",
+        "year": "2018"
+      },
+      "source": {
+        "citedAbbr": "SHW",
+        "page": "56"
+      }
+    },
+    "218": {
+      "title": "Blandy",
+      "firstLine": "My dove who hidest in the rock",
+      "meter": "L. M. D.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Emily Ross",
+        "year": "2023"
+      }
+    },
+    "219": {
+      "title": "Conscience",
+      "firstLine": "Sweet peace of conscience, heav’nly guest",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Ottiwell Heginbotham",
+        "year": "c. 1765"
+      },
+      "musicAttribution": {
+        "credit": "Evelyn Saylor and Marco Wessnigk",
+        "year": "2019"
+      }
+    },
+    "220": {
+      "title": "Consideration",
+      "firstLine": "What if we wear the richest vest?",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1709"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1995"
+      }
+    },
+    "221": {
+      "title": "Meditation",
+      "firstLine": "My soul, come meditate the day",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "Nathaniel Little",
+        "year": "1798"
+      },
+      "source": {
+        "citedAbbr": "WR1",
+        "page": "28"
+      }
+    },
+    "222": {
+      "title": "Farabee",
+      "firstLine": "Come and taste along with me",
+      "meter": "7s.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Leland"
+      },
+      "musicAttribution": {
+        "credit": "Arr. William Houser",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "68"
+      }
+    },
+    "223": {
+      "title": "Tremont Street",
+      "firstLine": "I cannot bear thine absence, Lord",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Kevin Barrans",
+        "year": "2013"
+      }
+    },
+    "224": {
+      "title": "Nineveh",
+      "firstLine": "Join all ye servants of the Lord",
+      "meter": "L. H. M.",
+      "timeSignature": "2/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Harriet Auber",
+        "year": "1829"
+      },
+      "musicAttribution": {
+        "credit": "Doron Henkin, 1997 and 2018",
+        "year": "2018"
+      }
+    },
+    "225": {
+      "title": "Sarabavam",
+      "firstLine": "Behold! The mountain of the Lord",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "key": "E Major (mixolydian)",
+      "textAttribution": {
+        "credit": "Scottish Psalter"
+      },
+      "musicAttribution": {
+        "credit": "Dan Thoma",
+        "year": "2006"
+      }
+    },
+    "226": {
+      "title": "Experience",
+      "firstLine": "Good morning, dear pilgrim; what trav'ling to Zion?",
+      "meter": "12, 11. D.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Caleb Jarvis Taylor, 1807 (v.1); Primitive Baptist Hymn & Tune Book, 1918 (v.2)",
+        "year": "1807"
+      },
+      "musicAttribution": {
+        "credit": "Arr. John R. Daily, 1902; D. L. Hunter",
+        "year": "2019"
+      },
+      "source": {
+        "citedAbbr": "PBH",
+        "page": "118"
+      }
+    },
+    "227": {
+      "title": "Greenwood (The Unquiet Grave)",
+      "firstLine": "Alas, my God, that thou should be",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "The Christian's Duty, 1791 (alt. v. Appendix)",
+        "year": "1791"
+      },
+      "musicAttribution": {
+        "credit": "The Unquiet Grave; Traditional; arr. D. L. Hunter",
+        "year": "2020"
+      }
+    },
+    "228": {
+      "title": "Abby",
+      "firstLine": "Ye sons of pride that hate the just",
+      "meter": "C. M.",
+      "timeSignature": "2/2",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Isaac Watts, 1708",
+        "year": "1708"
+      },
+      "musicAttribution": {
+        "credit": "The Psalms of David, in Meter, 1615; arr. R. Bremner",
+        "year": "c. 1755"
+      },
+      "source": {
+        "citedAbbr": "PCM",
+        "page": "10"
+      }
+    },
+    "229": {
+      "title": "Inspiration",
+      "firstLine": "That ancient, wise, neglected book,",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Worshipper's Assistant, Howe, 1808",
+        "year": "1808"
+      },
+      "musicAttribution": {
+        "credit": "Solomon Howe, 1808; arr. J. R. Barnett",
+        "year": "2021"
+      },
+      "source": {
+        "citedAbbr": "WAH"
+      }
+    },
+    "230": {
+      "title": "Rocky Nook",
+      "firstLine": "These glorious minds, how clear they shine",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Isaac Watts, 1709",
+        "year": "1709"
+      },
+      "musicAttribution": {
+        "credit": "William Billings",
+        "year": "1794"
+      },
+      "source": {
+        "citedAbbr": "BH",
+        "page": "152"
+      }
+    },
+    "231": {
+      "title": "Decay",
+      "firstLine": "My days are as the grass,",
+      "meter": "S. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts, 1707",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "Stephen Jenks",
+        "year": "1805"
+      },
+      "source": {
+        "citedAbbr": "DHNC",
+        "page": "52"
+      }
+    },
+    "232": {
+      "title": "Truth From Above",
+      "firstLine": "This is the truth sent from above,",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Traditional English Folk Carol"
+      },
+      "musicAttribution": {
+        "credit": "English Traditional; arr. Yotin Tiewtrakul",
+        "year": "2020"
+      }
+    },
+    "233": {
+      "title": "Wheat or Tare",
+      "firstLine": "Though we may grow so tall and strong,",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "The Christian's Harp, 1836; arr. J. R. Barnett, 2020",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "CHASW",
+        "page": "55"
+      }
+    },
+    "234": {
+      "title": "Garden",
+      "firstLine": "God from his cloudy cistern pours",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Newcomb",
+        "year": "1800"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "32"
+      }
+    },
+    "235": {
+      "title": "Prunus",
+      "firstLine": "Ye trees, which form the shade,",
+      "meter": "H. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Anne Steele"
+      },
+      "musicAttribution": {
+        "credit": "Emily Ross",
+        "year": "2023"
+      }
+    },
+    "236": {
+      "title": "Palestine",
+      "firstLine": "I'm a lonely trav'ler here,",
+      "meter": "P. M.",
+      "timeSignature": "6/8",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "I. I. Leslie"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1994"
+      }
+    },
+    "237": {
+      "title": "Lions' Den",
+      "firstLine": "King Darius commanded",
+      "meter": "7, 6. D.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Vedder's New and Choice Selection, 1827",
+        "year": "1827"
+      },
+      "musicAttribution": {
+        "credit": "Christian Melodist, 1828; arr. D. L. Hunter",
+        "year": "2019"
+      },
+      "source": {
+        "citedAbbr": "CMF",
+        "page": "79"
+      }
+    },
+    "238": {
+      "title": "Hyssop",
+      "firstLine": "My thoughts, before they are my own,",
+      "meter": "P. M.",
+      "timeSignature": "3/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts, 1719 and Psalm 139: 3-24",
+        "year": "1719"
+      },
+      "musicAttribution": {
+        "credit": "Faith Anne Slothour",
+        "year": "2018"
+      }
+    },
+    "240": {
+      "title": "Fidelia",
+      "firstLine": "As on some lonely building top,",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4, 6/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Lewer, 1813 (alto by Maxim Turner)",
+        "year": "1813"
+      },
+      "source": {
+        "citedAbbr": "WR2",
+        "page": "56"
+      }
+    },
+    "242": {
+      "title": "Star of Columbia",
+      "firstLine": "Come, brethren and sisters, and hear me relate,",
+      "meter": "11s, D.",
+      "timeSignature": "2/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Choice Selection of Spiritual Songs",
+        "year": "1877"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Matilda T. Durham",
+        "year": "1854"
+      },
+      "source": {
+        "citedAbbr": "SHW",
+        "page": "260"
+      }
+    },
+    "244": {
+      "title": "Penitence",
+      "firstLine": "Ye lovers of pleasure who slight this salvation,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Anonymous",
+        "year": "1838"
+      },
+      "musicAttribution": {
+        "credit": "Arr. John B. Jackson",
+        "year": "1838"
+      },
+      "source": {
+        "citedAbbr": "KHJ",
+        "page": "86"
+      }
+    },
+    "245": {
+      "title": "The Narrow Way",
+      "firstLine": "O sinner! see What mercy holds to view:",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Joseph Hooper",
+        "year": "1835"
+      },
+      "musicAttribution": {
+        "credit": "Rachel Hall",
+        "year": "2018"
+      }
+    },
+    "246": {
+      "title": "Judgment",
+      "firstLine": "Lo! he cometh, Lo! he cometh",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley",
+        "year": "1758"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "29"
+      }
+    },
+    "247": {
+      "title": "Peter's Fire",
+      "firstLine": "Mercy is welcome news indeed,",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Joseph Hart"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1995"
+      }
+    },
+    "248": {
+      "title": "Jane's Encouragement",
+      "firstLine": "In this season's chilling snowfall,",
+      "meter": "8. 7. D.",
+      "timeSignature": "3/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Rachel Miller Jacobs",
+        "year": "1996"
+      },
+      "musicAttribution": {
+        "credit": "Christine Guth",
+        "year": "1996"
+      }
+    },
+    "249": {
+      "title": "Dickinson",
+      "firstLine": "Their height in heaven comforts not,",
+      "meter": "C. M. D.",
+      "timeSignature": "3/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Emily Dickinson"
+      },
+      "musicAttribution": {
+        "credit": "Cherylyn MacNeil",
+        "year": "2017"
+      }
+    },
+    "250": {
+      "title": "Woolman",
+      "firstLine": "O, that we who shun all warfare,",
+      "meter": "8, 7. D.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "John Woolman",
+        "year": "1764"
+      },
+      "musicAttribution": {
+        "credit": "Micah Sommersmith",
+        "year": "2016"
+      }
+    },
+    "251": {
+      "title": "Long Beach",
+      "firstLine": "A God and yet a man?",
+      "meter": "P. M.",
+      "timeSignature": "2/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "The Divine Paradox",
+        "year": "15th Cent."
+      },
+      "musicAttribution": {
+        "credit": "Jan Geerts",
+        "year": "2019"
+      }
+    },
+    "252": {
+      "title": "Lynn",
+      "firstLine": "We pray for faith in thee,",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "John Schofield",
+        "year": "1991"
+      },
+      "musicAttribution": {
+        "credit": "Maxim Turner",
+        "year": "2000"
+      }
+    },
+    "254": {
+      "title": "Triumph",
+      "firstLine": "I'm a wayfaring pilgrim with staff now in hand,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Shaker Hymn and Samuel C. Slothour"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Samuel C. Slothour",
+        "year": "2000"
+      }
+    },
+    "255": {
+      "title": "Sixty-Seventh Psalm",
+      "firstLine": "May God be merciful to us,",
+      "meter": "C. M.",
+      "timeSignature": "2/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Micah John Walter"
+      },
+      "musicAttribution": {
+        "credit": "Micah John Walter",
+        "year": "2018"
+      }
+    },
+    "256": {
+      "title": "Speyside",
+      "firstLine": "Awake, ye saints, and raise your eyes,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Philip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "Ben Sachs-Hamilton",
+        "year": "2016"
+      }
+    },
+    "257": {
+      "title": "Price",
+      "firstLine": "Do I fear the banks of Jordan,",
+      "meter": "P. M.",
+      "timeSignature": "3/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Tristan Gordon",
+        "year": "2017"
+      },
+      "musicAttribution": {
+        "credit": "Tristan Gordon",
+        "year": "2017"
+      }
+    },
+    "258": {
+      "title": "Portland",
+      "firstLine": "O God! My sun, thy blissful rays",
+      "meter": "L. M. D.",
+      "timeSignature": "4/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Anne Steele",
+        "year": "1760"
+      },
+      "musicAttribution": {
+        "credit": "Warwick Palfray (alto from Pilsbury, 1799)",
+        "year": "1791"
+      },
+      "source": {
+        "citedAbbr": "USSH",
+        "page": "51"
+      }
+    },
+    "259": {
+      "title": "Uppsala",
+      "firstLine": "Think gently of the erring one,",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Julia Fletcher Carney, adapted",
+        "year": "1844"
+      },
+      "musicAttribution": {
+        "credit": "Jan Geerts",
+        "year": "2020"
+      }
+    },
+    "260": {
+      "title": "Salem",
+      "firstLine": "My Savior and my Lord,",
+      "meter": "H. M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1709"
+      },
+      "musicAttribution": {
+        "credit": "Nikos Pappas",
+        "year": "2018"
+      },
+      "source": {
+        "citedAbbr": "PH",
+        "page": "184"
+      }
+    },
+    "262": {
+      "title": "Sanborton",
+      "firstLine": "God from on high beholds your thoughts;",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Psalmist's Companion, 1793",
+        "year": "1793"
+      },
+      "source": {
+        "citedAbbr": "BH",
+        "page": "161"
+      }
+    },
+    "263": {
+      "title": "Indiana",
+      "firstLine": "Tis but in part I know Thy will:",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "John Fawcett"
+      },
+      "musicAttribution": {
+        "credit": "Calum Woods",
+        "year": "2017"
+      }
+    },
+    "265": {
+      "title": "Morning Sun",
+      "firstLine": "We lift our hearts to thee,",
+      "meter": "S. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Wesley",
+        "year": "1788"
+      },
+      "musicAttribution": {
+        "credit": "Allen M. Scott",
+        "year": "1838"
+      },
+      "source": {
+        "citedAbbr": "WDH",
+        "page": "28"
+      }
+    },
+    "266": {
+      "title": "Diviner Harmony",
+      "firstLine": "In heaven soaring up, God dropt an ear",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "F Minor",
+      "textAttribution": {
+        "credit": "Edward Taylor"
+      },
+      "musicAttribution": {
+        "credit": "Samuel C. Slothour",
+        "year": "1997"
+      }
+    },
+    "267": {
+      "title": "Minnehaha",
+      "firstLine": "When blooming youth is snatch'd away",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "key": "F Minor",
+      "textAttribution": {
+        "credit": "Anne Steele"
+      },
+      "musicAttribution": {
+        "credit": "Steve Lutten",
+        "year": "2012"
+      }
+    },
+    "268": {
+      "title": "Bethlehem",
+      "firstLine": "All glory to God in the sky,",
+      "meter": "8s. D.",
+      "timeSignature": "3/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley",
+        "year": "1780"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "30"
+      }
+    },
+    "269": {
+      "title": "Ridgeville",
+      "firstLine": "Vain man, to boast forbear,",
+      "meter": "S. M.",
+      "timeSignature": "2/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Joseph Hart",
+        "year": "1760"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music, 1853 (alto by Jonathan Een Newton)",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "MSM",
+        "page": "15"
+      }
+    },
+    "270": {
+      "title": "So Walk",
+      "firstLine": "So walk, the world is all before thee;",
+      "meter": "P. M.",
+      "timeSignature": "3/2, 4/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "John Milton"
+      },
+      "musicAttribution": {
+        "credit": "Cherilyn MacNeil",
+        "year": "2022"
+      }
+    },
+    "271": {
+      "title": "Dezarn",
+      "firstLine": "I love the windows of thy grace,",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Cherilyn MacNeil",
+        "year": "2017"
+      }
+    },
+    "272": {
+      "title": "Motherheart",
+      "firstLine": "Motherhood, sublime, eternal,",
+      "meter": "8, 7. D.",
+      "timeSignature": "4/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Julian Stearns Cutler",
+        "year": "1910"
+      },
+      "musicAttribution": {
+        "credit": "Micah Sommersmith",
+        "year": "2014"
+      }
+    },
+    "273": {
+      "title": "Lancaster",
+      "firstLine": "I want a heart to pray,",
+      "meter": "S. M.",
+      "timeSignature": "3/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "The Christian's Duty",
+        "year": "1791"
+      },
+      "musicAttribution": {
+        "credit": "Calum Woods",
+        "year": "2018"
+      }
+    },
+    "274": {
+      "title": "Devizes",
+      "firstLine": "With earnest longings of the mind",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1719"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "9"
+      }
+    },
+    "275": {
+      "title": "Communion",
+      "firstLine": "Howe'er forsaken or distress'd,",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Richard Burnham and Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Sacred Melodeon",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "SM",
+        "page": "64"
+      }
+    },
+    "276": {
+      "title": "Bye Baby Bunting",
+      "firstLine": "Long shall I weep now, in this earthly prison",
+      "meter": "P. M.",
+      "timeSignature": "2/2",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Sarah Anderson Jones, 1792 (v.1,2); Trad. (v.A); Aaron Weiss, 2019 (v.B)",
+        "year": "1792"
+      },
+      "musicAttribution": {
+        "credit": "Virginia Traditional; arr. D. L. Hunter",
+        "year": "2018"
+      }
+    },
+    "277": {
+      "title": "Hans",
+      "firstLine": "Hush, my dear! Lie still and slumber!",
+      "meter": "8, 7.",
+      "timeSignature": "3/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Isaac Watts, 1715",
+        "year": "1715"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr., 1994 (alto by Hans Bayer)",
+        "year": "1994"
+      }
+    },
+    "278": {
+      "title": "Table Hymn",
+      "firstLine": "O Lord, do bless this food prepared",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "key": "Ab Major",
+      "textAttribution": {
+        "credit": "German Brethren Traditional (v.1); Gadsby's Hymns, adapted (v.2,3)"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1998"
+      }
+    },
+    "279": {
+      "title": "Margery Daw",
+      "firstLine": "Weary wounded and weak,",
+      "meter": "P. M.",
+      "timeSignature": "6/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Isaac Watts, adapted (v.1,2); Traditional (v.A)",
+        "year": "2019"
+      },
+      "musicAttribution": {
+        "credit": "Virginia Traditional; arr. D. L. Hunter",
+        "year": "2018"
+      }
+    },
+    "280": {
+      "title": "Kind Thoughts (Dance Little Baby)",
+      "firstLine": "Clamor and wrath and war begone,",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "key": "E Major",
+      "textAttribution": {
+        "credit": "Isaac Watts (v.1-3); Traditional (v.A,B)"
+      },
+      "musicAttribution": {
+        "credit": "Virginia Traditional; arr. Marco Wessnigk",
+        "year": "2019"
+      }
+    },
+    "282": {
+      "title": "Parent's Plea, A",
+      "firstLine": "Save all my children, Lord!",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "H. G. Weston",
+        "year": "1859"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1996"
+      }
+    },
+    "283": {
+      "title": "Communion",
+      "firstLine": "Mid scenes of confusion and creature complaints,",
+      "meter": "11s.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "David Denham",
+        "year": "1825"
+      },
+      "musicAttribution": {
+        "credit": "James Sullivan Warren, 1855; arr. D. L. Hunter",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "WMW",
+        "page": "30"
+      }
+    },
+    "284": {
+      "title": "Briar Ridge",
+      "firstLine": "O happy day, that fix'd my choice",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Philip Doddridge",
+        "year": "1755"
+      },
+      "musicAttribution": {
+        "credit": "Joshua Rush Barnett",
+        "year": "2018"
+      }
+    },
+    "285": {
+      "title": "Crown Point",
+      "firstLine": "Go where thou wilt, my steps are there,",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Frances Ellen Watkins Harper",
+        "year": "1857"
+      },
+      "musicAttribution": {
+        "credit": "Constance Des Marais",
+        "year": "2020"
+      }
+    },
+    "286": {
+      "title": "Phalia",
+      "firstLine": "In nature's flow'ry path to stray,",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "Merit N. Woodruff, 1799",
+        "year": "1799"
+      },
+      "source": {
+        "citedAbbr": "WDH"
+      }
+    },
+    "288": {
+      "title": "Foolish Virgins, The",
+      "firstLine": "Dear people we have met to day",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "key": "B Minor",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "Ted Johnson, 1987",
+        "year": "1987"
+      }
+    },
+    "289": {
+      "title": "Gospel is Advancing, The",
+      "firstLine": "The gospel is advancing",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "A Collection of Millennial Hymns, 1847",
+        "year": "1847"
+      },
+      "musicAttribution": {
+        "credit": "Shaker Melody; arr. D. L. Hunter, 2024",
+        "year": "2024"
+      }
+    },
+    "290": {
+      "title": "Gospel Trumpet",
+      "firstLine": "Hark! How the gospel trumpet sounds!",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Charles Cole, 1792",
+        "year": "1792"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell, 1821",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "46"
+      }
+    },
+    "293": {
+      "title": "Bellingham",
+      "firstLine": "A stranger in the world below I calmly sojourn here",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley, 1759",
+        "year": "1759"
+      },
+      "musicAttribution": {
+        "credit": "Rosemary Sokolov, 2023",
+        "year": "2023"
+      }
+    },
+    "294": {
+      "title": "Funeral",
+      "firstLine": "Rejoice for a brother deceas'd;",
+      "meter": "8s. D.",
+      "timeSignature": "4/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell, 1821",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "42"
+      }
+    },
+    "295": {
+      "title": "Sunbury",
+      "firstLine": "O why should I wander an alien from thee",
+      "meter": "11, 8. D.",
+      "timeSignature": "2/4",
+      "key": "B Minor",
+      "textAttribution": {
+        "credit": "Joseph Swain, 1803",
+        "year": "1803"
+      },
+      "musicAttribution": {
+        "credit": "Arr. James P. Carrell, 1821",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "25"
+      }
+    },
+    "297": {
+      "title": "Joy and Sorrow",
+      "firstLine": "Mixtures of joy and sorrow I daily do pass thro'",
+      "meter": "7, 6. D.",
+      "timeSignature": "6/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Hymns, Psalms, and Spiritual Songs",
+        "year": "1825"
+      },
+      "musicAttribution": {
+        "credit": "Marco Wessnigk",
+        "year": "2019/2021"
+      }
+    },
+    "298": {
+      "title": "Pilgrims' Consolation",
+      "firstLine": "Come and taste along with me,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Caleb Jarvis Taylor"
+      },
+      "musicAttribution": {
+        "credit": "Christian Melodist, 1828; arr. D. L. Hunter, 2020",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "CMF",
+        "page": "52"
+      }
+    },
+    "299": {
+      "title": "Elevation",
+      "firstLine": "In darkest shades if thou appear,",
+      "meter": "C. M.",
+      "timeSignature": "6/8",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "Isaac Watts, 1707 (alt. J. Wesley, 1741)",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell, 1821; arr. William Houser, 1848",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "116"
+      }
+    },
+    "300": {
+      "title": "Farewell",
+      "firstLine": "With fraudless, even, humble mind,",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "C. F. Richter; transl. J. Wesley, 1737",
+        "year": "1737"
+      },
+      "musicAttribution": {
+        "credit": "Traditional, arr. Landless and G. F. DeZarn, 2014, 2019",
+        "year": "2019"
+      }
+    },
+    "301": {
+      "title": "Miss Hataway's Experience",
+      "firstLine": "The Savior smiles upon my soul,",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Augustus L. Hillhouse",
+        "year": "1872"
+      },
+      "musicAttribution": {
+        "credit": "Arr. William Houser, 1848; A. Beavin, 2017",
+        "year": "2017"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "421"
+      }
+    },
+    "302": {
+      "title": "Crown of Life",
+      "firstLine": "Thou, Lord, who raised the mountain's height,",
+      "meter": "L. M.",
+      "timeSignature": "6/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "John Sterling",
+        "year": "1848"
+      },
+      "musicAttribution": {
+        "credit": "Arr. James Sullivan Warren",
+        "year": "1855"
+      },
+      "source": {
+        "citedAbbr": "WMW",
+        "page": "22"
+      }
+    },
+    "303": {
+      "title": "Desert Spring",
+      "firstLine": "Springs of life in desert places,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Frances R. Havergal, adapted"
+      },
+      "musicAttribution": {
+        "credit": "Minstrel of Zion, 1845 (treble & alto by Wm. Houser, 1848)",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "291"
+      }
+    },
+    "304": {
+      "title": "Joyful Sound",
+      "firstLine": "Lord, shall we lie so weary still,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "William Caldwell, 1834 (alto by J. R. Barnett)",
+        "year": "1834"
+      },
+      "source": {
+        "citedAbbr": "UHC",
+        "page": "53"
+      }
+    },
+    "305": {
+      "title": "Morning Star",
+      "firstLine": "We sing the bright and Morning Star",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Benjamin Beddome",
+        "year": "1769"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell, 1821 (alto by A. Beavin)",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "56"
+      }
+    },
+    "306": {
+      "title": "Slow Traveller",
+      "firstLine": "Oh! happy soul, how fast you go",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "B Minor",
+      "textAttribution": {
+        "credit": "Samson Occom",
+        "year": "1792"
+      },
+      "musicAttribution": {
+        "credit": "Christian Harmony, 1805 (alto by J. Kiakahi)",
+        "year": "1805"
+      },
+      "source": {
+        "citedAbbr": "CHI",
+        "page": "44"
+      }
+    },
+    "307": {
+      "title": "Centreville",
+      "firstLine": "Farewell, dear companions, we meet but to part",
+      "meter": "11s.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "George W. Bethune",
+        "year": "1847"
+      },
+      "musicAttribution": {
+        "credit": "Arr. W. H. Diddle, 1868; R. W. Hall, 2019",
+        "year": "2019"
+      },
+      "source": {
+        "citedAbbr": "WVL2",
+        "page": "136"
+      }
+    },
+    "308": {
+      "title": "Friendship",
+      "firstLine": "Friends, if you are wounded and bruis'd by the fall",
+      "meter": "11s.",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Smith's Divine Hymns"
+      },
+      "musicAttribution": {
+        "credit": "The Methodist Camp-Meeting Song Book",
+        "year": "1833"
+      },
+      "source": {
+        "citedAbbr": "MCM",
+        "page": "34"
+      }
+    },
+    "309": {
+      "title": "Old Brethren",
+      "firstLine": "Disciples of Christ, Ye friends of the Lamb",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "The Christian's Duty",
+        "year": "1791"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1994"
+      }
+    },
+    "310": {
+      "title": "Von Guten Mächten",
+      "firstLine": "Now we are sheltered, silently and wholly",
+      "meter": "11, 10.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Dietrich Bonhöffer",
+        "year": "1944"
+      },
+      "musicAttribution": {
+        "credit": "Paris Antiphoner, 1681; arr. Cherilyn MacNeil, 2022",
+        "year": "2022"
+      }
+    },
+    "311": {
+      "title": "Glorious Crown",
+      "firstLine": "God hath laid up in heav'n for me",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "MSM",
+        "page": "32"
+      }
+    },
+    "312": {
+      "title": "St. John's",
+      "firstLine": "Ye sons of pride, that kindle coals",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "William Billings, 1794 (treble and alto by M. J. Walter)",
+        "year": "1794"
+      },
+      "source": {
+        "citedAbbr": "WR2",
+        "page": "100"
+      }
+    },
+    "313": {
+      "title": "Invitation",
+      "firstLine": "We're trav'ling home to heav'n above",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Richard Jukes",
+        "year": "1840"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music, 1853 (alto by R. W. Hall)",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "MSM",
+        "page": "20"
+      }
+    },
+    "314": {
+      "title": "Edwin",
+      "firstLine": "Our cheerful voices let us raise",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Southern Harmony",
+        "year": "1835"
+      },
+      "musicAttribution": {
+        "credit": "Jonathan Een Newton, for Dale Newton, 2019",
+        "year": "2019"
+      }
+    },
+    "315": {
+      "title": "Friendship in Absence",
+      "firstLine": "When chance or bus'ness parts us two",
+      "meter": "8, 7. D.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Abraham Cowley, adapted"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Thomas Ward, 2020",
+        "year": "2020"
+      }
+    },
+    "316": {
+      "title": "Satisfied",
+      "firstLine": "From pole to pole let others roam,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "Dan Thoma",
+        "year": "2015"
+      }
+    },
+    "317": {
+      "title": "Singers' Farewell",
+      "firstLine": "Farewell dear friends, my loving friends,",
+      "meter": "L. H. M.",
+      "timeSignature": "2/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Samuel Crossman, 1644 (v.1); John Newton (v.2)",
+        "year": "1644"
+      },
+      "musicAttribution": {
+        "credit": "Gabriel Kyne",
+        "year": "2014"
+      }
+    },
+    "318": {
+      "title": "Bluebird",
+      "firstLine": "Do the ancestors remember when the grass grew on forever,",
+      "meter": "8s. (Peculiar).",
+      "timeSignature": "3/2",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "Jacob Kiakahi",
+        "year": "2015"
+      },
+      "musicAttribution": {
+        "credit": "Jacob Kiakahi",
+        "year": "2016"
+      }
+    },
+    "319": {
+      "title": "Wanderer, The",
+      "firstLine": "What e'er thou deniest,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "David Denham"
+      },
+      "musicAttribution": {
+        "credit": "William Houser",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "308"
+      }
+    },
+    "320": {
+      "title": "Soldiers' Home",
+      "firstLine": "O weary one, come lay you down,",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Barbara Hohenstein",
+        "year": "2012"
+      },
+      "musicAttribution": {
+        "credit": "G. J. Hoffman",
+        "year": "2012"
+      }
+    },
+    "321": {
+      "title": "Graves County",
+      "firstLine": "Ye dying sons of men,",
+      "meter": "H. M.",
+      "timeSignature": "4/4",
+      "key": "F Minor",
+      "textAttribution": {
+        "credit": "James Boden",
+        "year": "1791"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1994"
+      }
+    },
+    "322": {
+      "title": "There's a Place",
+      "firstLine": "There's a place in my heart,",
+      "meter": "P. M.",
+      "timeSignature": "3/2",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Doron Henkin",
+        "year": "2004"
+      },
+      "musicAttribution": {
+        "credit": "Doron Henkin",
+        "year": "2004"
+      }
+    },
+    "323": {
+      "title": "McKrey",
+      "firstLine": "Behold the sure foundationstone",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Joshua Rush Barnett, 2014 (rev. 2020)",
+        "year": "2014 (rev. 2020)"
+      }
+    },
+    "324": {
+      "title": "Lost Harp",
+      "firstLine": "Come harpers, ye singers and hear me relate",
+      "meter": "11s.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Thomas Hymnal",
+        "year": "1877"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr., and Judy Hauff",
+        "year": "1994"
+      }
+    },
+    "325": {
+      "title": "Pickard's Hymn",
+      "firstLine": "In vain our fancy strives to paint",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "T. Waller, 1869 (alto by Maxim Turner)",
+        "year": "1869"
+      },
+      "source": {
+        "citedAbbr": "OSH",
+        "page": "442"
+      }
+    },
+    "326": {
+      "title": "Brownson",
+      "firstLine": "If I pray, or hear, or read,",
+      "meter": "7s. D.",
+      "timeSignature": "6/8",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "William Houser",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH188"
+      }
+    },
+    "327": {
+      "title": "Invitation",
+      "firstLine": "Savior, in this day of weakness,",
+      "meter": "8, 7. D.",
+      "timeSignature": "6/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Horatio Bonar"
+      },
+      "musicAttribution": {
+        "credit": "William Walker, 1835; arr. D. L. Hunter",
+        "year": "1835; arr. 2021"
+      },
+      "source": {
+        "citedAbbr": "SHW",
+        "page": "2"
+      }
+    },
+    "328": {
+      "title": "Dismission",
+      "firstLine": "Lord dismiss us with thy blessing,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "John Fawcett",
+        "year": "1773`"
+      },
+      "musicAttribution": {
+        "credit": "Elkanah Kelsey Dare",
+        "year": "1813"
+      },
+      "source": {
+        "citedAbbr": "WR2",
+        "page": "57"
+      }
+    },
+    "329": {
+      "title": "Raleigh",
+      "firstLine": "To go from my home, and from kindred to part;",
+      "meter": "11s.",
+      "timeSignature": "2/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "P.P. Pratt",
+        "year": "1831"
+      },
+      "musicAttribution": {
+        "credit": "Arr. William Houser (alto by C. MacNeil)",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "265"
+      }
+    },
+    "330": {
+      "title": "Edinburgh",
+      "firstLine": "Far below the ocean's billow,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "John Henry",
+        "year": "1835"
+      }
+    },
+    "331": {
+      "title": "Repose",
+      "firstLine": "I want to love wisdom that comes from above,",
+      "meter": "11s.",
+      "timeSignature": "3/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Zion's Songster",
+        "year": "1827"
+      },
+      "musicAttribution": {
+        "credit": "John R. Daily, 1902; arr. D. L. Hunter, 2019",
+        "year": "1902; arr. 2019"
+      },
+      "source": {
+        "citedAbbr": "PBH",
+        "page": "380"
+      }
+    },
+    "332": {
+      "title": "Mouldering Vine, The",
+      "firstLine": "See! In yonder forest standing,",
+      "meter": "8, 7.",
+      "timeSignature": "4/4",
+      "key": "F Minor",
+      "textAttribution": {
+        "credit": "Selah Gridley",
+        "year": "1795"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "54"
+      }
+    },
+    "333": {
+      "title": "Calvary New",
+      "firstLine": "Now let our lips with holy fear,",
+      "meter": "C. M. D.",
+      "timeSignature": "6/8",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1719"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "23"
+      }
+    },
+    "334": {
+      "title": "Calhoun",
+      "firstLine": "Brethren, while we sojourn here,",
+      "meter": "7s.",
+      "timeSignature": "6/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Joseph Swain"
+      },
+      "musicAttribution": {
+        "credit": "William Houser",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "68"
+      }
+    },
+    "335": {
+      "title": "Jesus at Thy Command (Lenox)",
+      "firstLine": "Jesus, at thy command,",
+      "meter": "H. M.",
+      "timeSignature": "4/4",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Augustus Toplady",
+        "year": "1774"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Hoboken, Ga., Singers; transcr. D. L. Hunter, 2017",
+        "year": "2017"
+      }
+    },
+    "336": {
+      "title": "Mount Pleasant",
+      "firstLine": "My soul lies cleaving to the dust,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "James Leach",
+        "year": "1789"
+      },
+      "source": {
+        "citedAbbr": "SKH",
+        "page": "42"
+      }
+    },
+    "337": {
+      "title": "Illinois",
+      "firstLine": "O for a glance of heav'nly day,",
+      "meter": "L. M.",
+      "timeSignature": "6/4",
+      "key": "D Major",
+      "textAttribution": {
+        "credit": "Joseph Hart"
+      },
+      "musicAttribution": {
+        "credit": "Andrew W. Johnson, 1839; arr. D. L. Hunter, 2018",
+        "year": "1839; arr. 2018"
+      },
+      "source": {
+        "citedAbbr": "EHJ2",
+        "page": "14"
+      }
+    },
+    "338": {
+      "title": "\"O\" Dock (Land of Rest)",
+      "firstLine": "O land of rest, for thee I sigh!",
+      "meter": "C. M.",
+      "timeSignature": "6/4",
+      "key": "D Major",
+      "textAttribution": {
+        "credit": "Elizabeth K. Mills",
+        "year": "1829"
+      },
+      "musicAttribution": {
+        "credit": "A. Lane, 1848; arr. D. L. Hunter, 2017",
+        "year": "1848; arr. 2017"
+      },
+      "source": {
+        "citedAbbr": "PBH",
+        "page": "233"
+      }
+    },
+    "339": {
+      "title": "Psalm 84",
+      "firstLine": "The sparrow builds herself a nest",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Westmoreland County, Virginia",
+        "year": "c. 1760"
+      },
+      "source": {
+        "citedAbbr": "WVMs"
+      }
+    },
+    "340": {
+      "title": "Germany",
+      "firstLine": "Did Jehovah but design me",
+      "meter": "P. M.",
+      "timeSignature": "2/2",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Joseph Salyards",
+        "year": "1562"
+      },
+      "musicAttribution": {
+        "credit": "Joseph Funk",
+        "year": "1816; treble added 1832"
+      }
+    },
+    "341": {
+      "title": "Pisgah",
+      "firstLine": "Ye happy souls whose peaceful minds",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "D Major",
+      "textAttribution": {
+        "credit": "John A. Granade"
+      },
+      "musicAttribution": {
+        "credit": "Patterson's Church Music",
+        "year": "1813"
+      },
+      "source": {
+        "citedAbbr": "PCM",
+        "page": "48"
+      }
+    },
+    "342": {
+      "title": "So Did We",
+      "firstLine": "Harder than rocks and mountains are,",
+      "meter": "L. M. D.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Joseph Hart"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1995"
+      }
+    },
+    "343": {
+      "title": "South Carolina",
+      "firstLine": "Great God, incline thy gracious ear,",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Samuel Medley"
+      },
+      "musicAttribution": {
+        "credit": "Solomon Howe, arr. Patrick Friesen",
+        "year": "2018 (rev. 2024)"
+      },
+      "source": {
+        "citedAbbr": "WAH"
+      }
+    },
+    "344": {
+      "title": "Psalm 57",
+      "firstLine": "Thy mercy, Lord, to me extend;",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Tate and Brady",
+        "year": "1696"
+      },
+      "musicAttribution": {
+        "credit": "Richard Patterson",
+        "year": "2016"
+      }
+    },
+    "345": {
+      "title": "Psalm 23",
+      "firstLine": "My shepherd is the living Lord;",
+      "meter": "L. M.",
+      "timeSignature": "2/2",
+      "key": "D Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Amos Bull",
+        "year": "1809"
+      },
+      "source": {
+        "citedAbbr": "WR2",
+        "page": "81"
+      }
+    },
+    "346": {
+      "title": "Rejoice in Thy Youth",
+      "firstLine": "Young soul indulge thy passion,",
+      "meter": "7, 6. D.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "The Christian Harmony, 1805",
+        "year": "1805"
+      },
+      "musicAttribution": {
+        "credit": "The Christian Harmony, 1805",
+        "year": "1805"
+      },
+      "source": {
+        "citedAbbr": "CHI",
+        "page": "72"
+      }
+    },
+    "347": {
+      "title": "Days of My Youth",
+      "firstLine": "Days of my youth, ye have glided a way,",
+      "meter": "10s.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "St. George Tucker"
+      },
+      "musicAttribution": {
+        "credit": "Valley Harmonist, c. 1840",
+        "year": "c. 1840"
+      },
+      "source": {
+        "citedAbbr": "VHAS",
+        "page": "55"
+      }
+    },
+    "348": {
+      "title": "Daniel",
+      "firstLine": "Among the king's high princes,",
+      "meter": "7, 6. D.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Farrer's Christian Melodist, 1828",
+        "year": "1828"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music, 1853",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "MSM",
+        "page": "40"
+      }
+    },
+    "349": {
+      "title": "Goodell",
+      "firstLine": "How swiftly time's re volv ing wheels,",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "key": "F Minor",
+      "textAttribution": {
+        "credit": "Samuel Medley"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1994"
+      }
+    },
+    "350": {
+      "title": "Manatawny",
+      "firstLine": "O stay thy tears, for they are blest",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Andrew Norton"
+      },
+      "musicAttribution": {
+        "credit": "Kevin Barrans, 2015; arr. D. L. Hunter, 2015",
+        "year": "2015; 2015"
+      }
+    },
+    "351": {
+      "title": "Mendon",
+      "firstLine": "My Redeemer, let me be",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "James Relly",
+        "year": "1758"
+      },
+      "musicAttribution": {
+        "credit": "William Billings, 1781; arr. in Valley Harmonist, 1836",
+        "year": "1781; 1836"
+      },
+      "source": {
+        "citedAbbr": "VHS",
+        "page": "145"
+      }
+    },
+    "352": {
+      "title": "Greenwood Laddie",
+      "firstLine": "In my pray'rful bower I've spent many an hour",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Thomas Ward, 2019 (v.1–3); Traditional (v.A).",
+        "year": "2019"
+      },
+      "musicAttribution": {
+        "credit": "Traditional; arr. D. L. Hunter, 2016",
+        "year": "2016"
+      }
+    },
+    "353": {
+      "title": "Love-feast (Richie's Story)",
+      "firstLine": "Welcome ye well belov'd of God",
+      "meter": "L. M.",
+      "timeSignature": "6/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Virginia Selection of Psalms, 1842.",
+        "year": "1842"
+      },
+      "musicAttribution": {
+        "credit": "Traditional; arr. D. L. Hunter, 2019.",
+        "year": "2019"
+      }
+    },
+    "354": {
+      "title": "Barbara Allen",
+      "firstLine": "How swiftly time's revolving wheels",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "C Minor",
+      "textAttribution": {
+        "credit": "Samuel Medley."
+      },
+      "musicAttribution": {
+        "credit": "Traditional; arr. D. L. Hunter, 2018.",
+        "year": "2018"
+      }
+    },
+    "355": {
+      "title": "Expostulation",
+      "firstLine": "While angels strike their tuneful strings",
+      "meter": "P. M.",
+      "timeSignature": "6/4",
+      "key": "E Mixolydian",
+      "textAttribution": {
+        "credit": "Anonymous."
+      },
+      "musicAttribution": {
+        "credit": "Sacred Songs for Social Worship, 1859; arr. D. L. Hunter, 2017.",
+        "year": "1859; 2017"
+      },
+      "source": {
+        "citedAbbr": "SMSW",
+        "page": "369"
+      }
+    },
+    "356": {
+      "title": "Shields",
+      "firstLine": "See the vain race of mortals move",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "James Leach, 1794",
+        "year": "1794"
+      },
+      "source": {
+        "citedAbbr": "SSHPTL",
+        "page": "33"
+      }
+    },
+    "357": {
+      "title": "Shepherd's Joy",
+      "firstLine": "How lovely are thy dwellings, Lord,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "John Milton"
+      },
+      "musicAttribution": {
+        "credit": "William Caldwell, 1834",
+        "year": "1834"
+      },
+      "source": {
+        "citedAbbr": "UHC75"
+      }
+    },
+    "358": {
+      "title": "Poyner's Lamentation 2nd",
+      "firstLine": "Poor unconverted sinners dear,",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "The Methodist Camp-meeting Song Book",
+        "year": "1833"
+      },
+      "source": {
+        "citedAbbr": "MCM",
+        "page": "39"
+      }
+    },
+    "359": {
+      "title": "Millville",
+      "firstLine": "Why should the haughty tyrant boast,",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "E Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Elkanah Kelsey Dare",
+        "year": "1813"
+      },
+      "source": {
+        "citedAbbr": "WR2",
+        "page": "39"
+      }
+    },
+    "360": {
+      "title": "Farewell",
+      "firstLine": "Farewell my dear brethren, the time is at hand,",
+      "meter": "11s.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Zion’s Songster",
+        "year": "1832"
+      },
+      "musicAttribution": {
+        "credit": "W. D. Jones",
+        "year": "1869"
+      },
+      "source": {
+        "citedAbbr": "OSH",
+        "page": "477"
+      }
+    },
+    "361": {
+      "title": "New Farewell",
+      "firstLine": "Hark, brethren dear, the Lord is near;",
+      "meter": "8, 7. D.",
+      "timeSignature": "6/8",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Charles Taylor (v.1); The Southern Harmony, 1835 (v.2)",
+        "year": "1835 (v.2)"
+      },
+      "musicAttribution": {
+        "credit": "Arr. William Houser",
+        "year": "1848"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "475"
+      }
+    },
+    "362": {
+      "title": "Broomsgrove",
+      "firstLine": "Lamb of God for sinners slain,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley",
+        "year": "1742"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "7"
+      }
+    },
+    "363": {
+      "title": "Cooper",
+      "firstLine": "Farewell my dear brethren,",
+      "meter": "11s.",
+      "timeSignature": "3/2",
+      "key": "D Major",
+      "textAttribution": {
+        "credit": "Thomas Cleland",
+        "year": "1807"
+      },
+      "musicAttribution": {
+        "credit": "R. T. Kelley",
+        "year": "2011"
+      }
+    },
+    "364": {
+      "title": "Lexington",
+      "firstLine": "The darken’d sky, how thick it low’rs!",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Philip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "Amzi Chapin",
+        "year": "c. 1798"
+      },
+      "source": {
+        "citedAbbr": "CMs",
+        "page": "79"
+      }
+    },
+    "365": {
+      "title": "Brunswick",
+      "firstLine": "Why doth the man of riches grow",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Arr. from James Lyon, 1761 by Leah Velleman",
+        "year": "1761"
+      },
+      "source": {
+        "citedAbbr": "BH",
+        "page": "48"
+      }
+    },
+    "366": {
+      "title": "Dublin",
+      "firstLine": "Arise my soul and march in haste,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Deerin Farrer",
+        "year": "1828"
+      },
+      "source": {
+        "citedAbbr": "CMF",
+        "page": "15"
+      }
+    },
+    "367": {
+      "title": "Sinner and Saint",
+      "firstLine": "In error’s ways you vainly roam,",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "William Hunter"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music, 1853 (alto by Calum Woods)",
+        "year": "1853"
+      },
+      "source": {
+        "citedAbbr": "MSM",
+        "page": "80"
+      }
+    },
+    "368": {
+      "title": "Solemn Thought",
+      "firstLine": "Tho’ men do keep my outward form",
+      "meter": "C. M. D.",
+      "timeSignature": "6/8",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "John Bunyon, 1665 (v.1,2); Isaac Watts (chorus)",
+        "year": "1665"
+      },
+      "musicAttribution": {
+        "credit": "A. Lane",
+        "year": "1847"
+      },
+      "source": {
+        "citedAbbr": "OH",
+        "page": "138"
+      }
+    },
+    "369": {
+      "title": "Fairton",
+      "firstLine": "O God of mercy hear my call,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Elkanah Kelsey Dare",
+        "year": "1813"
+      },
+      "source": {
+        "citedAbbr": "WR2",
+        "page": "42"
+      }
+    },
+    "370": {
+      "title": "Celestial Light",
+      "firstLine": "Whence comes this bright celestial light?",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "George Dewitt",
+        "year": "1822"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr., 1995 (alto by Hans Bayer)",
+        "year": "1995"
+      }
+    },
+    "371": {
+      "title": "Pilgrim's Quest",
+      "firstLine": "Pilgrim, burden’d with thy sin,",
+      "meter": "7s. D.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "George Crabb",
+        "year": "1873"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, 1997",
+        "year": "1997"
+      }
+    },
+    "372": {
+      "title": "Hanover",
+      "firstLine": "The fields are all white, the harvest is near,",
+      "meter": "P. M.",
+      "timeSignature": "2/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Issachar Bates"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "18"
+      }
+    },
+    "373": {
+      "title": "New Year",
+      "firstLine": "Our days are as the grass,",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "key": "Bb Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "P. M. Atchley, 1830; arr. J. R. Barnett, 2023",
+        "year": "1830; 2023"
+      },
+      "source": {
+        "citedAbbr": "SHW",
+        "page": "333"
+      }
+    },
+    "374": {
+      "title": "Norwich",
+      "firstLine": "My sorrows, like a flood,",
+      "meter": "S. M.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Oliver Brownson",
+        "year": "1779"
+      },
+      "source": {
+        "citedAbbr": "SHL",
+        "page": "59"
+      }
+    },
+    "375": {
+      "title": "South Second",
+      "firstLine": "Oh Jesus, in whose life I see",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "John Hunter",
+        "year": "1889"
+      },
+      "musicAttribution": {
+        "credit": "Micah Sommersmith",
+        "year": "2013"
+      }
+    },
+    "376": {
+      "title": "Resolution",
+      "firstLine": "Great king of Zion, Lord of all,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Oliver Holden",
+        "year": "1803"
+      },
+      "musicAttribution": {
+        "credit": "Oliver Holden",
+        "year": "1803"
+      },
+      "source": {
+        "citedAbbr": "BH",
+        "page": "138"
+      }
+    },
+    "377": {
+      "title": "Bladensburg",
+      "firstLine": "Unite, my roving tho’ts,",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Philip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "Lewis Edson",
+        "year": "1813"
+      },
+      "source": {
+        "citedAbbr": "HH",
+        "page": "61"
+      }
+    },
+    "378": {
+      "title": "Lavy",
+      "firstLine": "Come let me love;",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "The Christian’s Duty",
+        "year": "1791"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1993"
+      }
+    },
+    "379": {
+      "title": "Conococheague",
+      "firstLine": "Earthbound soul, thy days are numbered",
+      "meter": "8, 7.",
+      "timeSignature": "6/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Leah Sides",
+        "year": "2020"
+      },
+      "musicAttribution": {
+        "credit": "Leah Sides",
+        "year": "2020"
+      }
+    },
+    "380": {
+      "title": "Perseverance",
+      "firstLine": "What tho’ my shrinking flesh complain,",
+      "meter": "L. H. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Charles Wesley",
+        "year": "1742"
+      },
+      "musicAttribution": {
+        "credit": "James P. Carrell",
+        "year": "1821"
+      },
+      "source": {
+        "citedAbbr": "SZ",
+        "page": "12"
+      }
+    },
+    "381": {
+      "title": "Bearskin",
+      "firstLine": "My life, my friends, I owe",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Ottiwill Heginbothom"
+      },
+      "musicAttribution": {
+        "credit": "Richard Patterson",
+        "year": "2016"
+      }
+    },
+    "382": {
+      "title": "Worrall",
+      "firstLine": "My God, I am thine,",
+      "meter": "P. M.",
+      "timeSignature": "3/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Fynnian Titford-Mock",
+        "year": "2014-15"
+      }
+    },
+    "383": {
+      "title": "Melody",
+      "firstLine": "How various and how new",
+      "meter": "S. M.",
+      "timeSignature": "4/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Samuel Stennett",
+        "year": "1785"
+      },
+      "musicAttribution": {
+        "credit": "Virginia Sacred Musical Repository",
+        "year": "1818"
+      },
+      "source": {
+        "citedAbbr": "VSMR",
+        "page": "23"
+      }
+    },
+    "384": {
+      "title": "Prospect",
+      "firstLine": "When Joseph his brethren beheld,",
+      "meter": "8s. D.",
+      "timeSignature": "3/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "John Newton",
+        "year": "1790"
+      },
+      "musicAttribution": {
+        "credit": "Methodist Camp-Meeting Songbook, 1833 (alto by J. R. Barnett)",
+        "year": "1833"
+      },
+      "source": {
+        "citedAbbr": "MCM",
+        "page": "20"
+      }
+    },
+    "385": {
+      "title": "Pleading Savior",
+      "firstLine": "O, be wise before you languish",
+      "meter": "8, 7. D.",
+      "timeSignature": "2/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "John Leland"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Joshua Leavitt, 1830; William Walker, 1845 (alto by Leah Velleman)",
+        "year": "1830"
+      },
+      "source": {
+        "citedAbbr": "SWPH",
+        "page": "110"
+      }
+    },
+    "387": {
+      "title": "Parting Hymn",
+      "firstLine": "For a season call’d to part",
+      "meter": "7s.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "John Newton",
+        "year": "1785"
+      },
+      "musicAttribution": {
+        "credit": "Valley Harmonist, 1836 (alto by J. Donaldson)",
+        "year": "1836"
+      },
+      "source": {
+        "citedAbbr": "VHS",
+        "page": "115"
+      }
+    },
+    "388": {
+      "title": "Spring Beauty",
+      "firstLine": "Of thy love some gracious token",
+      "meter": "8, 7. D.",
+      "timeSignature": "4/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "Thomas Kelly",
+        "year": "1902"
+      },
+      "musicAttribution": {
+        "credit": "Cherilyn MacNeil",
+        "year": "2018"
+      }
+    },
+    "389": {
+      "title": "Stone",
+      "firstLine": "The morning of my life is past",
+      "meter": "C. M.",
+      "timeSignature": "6/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Traditional; arr. Graham F. DeZarn, 2019",
+        "year": "2019"
+      }
+    },
+    "50t": {
+      "title": "Farewell Vain World",
+      "firstLine": "Farewell vain world, I'm going home, I can't stay away.",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Southern Harmony",
+        "year": "1835"
+      },
+      "musicAttribution": {
+        "credit": "Arr. A. Blackshear, 1902; D. L. Hunter, 2018.",
+        "year": "2018"
+      },
+      "source": {
+        "citedAbbr": "SHC"
+      }
+    },
+    "50b": {
+      "title": "Savior, I Come",
+      "firstLine": "All o'er in sin defiled, Savior, I come.",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "O. R. Barrows, adapted"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Ira Caster Ms., c. 1850",
+        "year": "1850"
+      },
+      "source": {
+        "citedAbbr": "ICMs"
+      }
+    },
+    "102t": {
+      "title": "Death Have You Got No Shame",
+      "firstLine": "The day is past and gone",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "John Leland, adapted (v.1,2); Traditional (chorus)"
+      },
+      "musicAttribution": {
+        "credit": "Virginia Traditional; arr. D. L. Hunter",
+        "year": "2019"
+      },
+      "source": {
+        "citedAbbr": "VT"
+      }
+    },
+    "102b": {
+      "title": "Fly Like Thee",
+      "firstLine": "Little fly, thy summer’s play",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "William Blake",
+        "year": "1794"
+      },
+      "musicAttribution": {
+        "credit": "Doron Henkin",
+        "year": "2016"
+      }
+    },
+    "104t": {
+      "title": "Ruth 1:16",
+      "firstLine": "For whither thou goest, I will go;",
+      "meter": "10s.",
+      "timeSignature": "3/4",
+      "key": "F# Minor",
+      "textAttribution": {
+        "credit": "King James Version",
+        "year": "1611"
+      },
+      "musicAttribution": {
+        "credit": "Rachel Hall",
+        "year": "2018"
+      }
+    },
+    "104b": {
+      "title": "River, The",
+      "firstLine": "Flow on, thou shining river,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Eliza Lee Follen",
+        "year": "1850"
+      },
+      "musicAttribution": {
+        "credit": "Cherilyn MacNeil",
+        "year": "2018"
+      }
+    },
+    "114t": {
+      "title": "Cedar Street",
+      "firstLine": "Lord at thy temple we appear,",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts, adapted"
+      },
+      "musicAttribution": {
+        "credit": "Charles Wells",
+        "year": "2001"
+      }
+    },
+    "114b": {
+      "title": "Brighton",
+      "firstLine": "‘Twas when the seas, with horrid roar,",
+      "meter": "C. M. D.",
+      "timeSignature": "6/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Joel Isaac Knight",
+        "year": "1854"
+      },
+      "musicAttribution": {
+        "credit": "Steve Luttinen",
+        "year": "2014"
+      }
+    },
+    "203t": {
+      "title": "Gloom of Autumn",
+      "firstLine": "See in yonder forest standing",
+      "meter": "8. 7. D.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Anonymous"
+      },
+      "musicAttribution": {
+        "credit": "Anonymous, 1828 (bass by Patrick Friesen)",
+        "year": "1828"
+      },
+      "source": {
+        "citedAbbr": "CMF",
+        "page": "48"
+      }
+    },
+    "203b": {
+      "title": "West Third",
+      "firstLine": "’Tis a point I long to know,",
+      "meter": "7s.",
+      "timeSignature": "3/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "John Newton, Lloyd’s Hymnal",
+        "year": "1841"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1994"
+      }
+    },
+    "204t": {
+      "title": "Vincennes",
+      "firstLine": "Naught have I else to do,",
+      "meter": "S. M.",
+      "timeSignature": "2/4",
+      "key": "Eb Major",
+      "textAttribution": {
+        "credit": "Jeanne-Marie Guyon, c. 1695 (transl. Thomas Cogswell Upham, 1847)",
+        "year": "1695"
+      },
+      "musicAttribution": {
+        "credit": "Constance Des Marais",
+        "year": "2020"
+      }
+    },
+    "204b": {
+      "title": "Victory",
+      "firstLine": "Lord, when thine ancient people cried,",
+      "meter": "C. M. D.",
+      "timeSignature": "4/4",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Caroline W. Sewall",
+        "year": "1836"
+      },
+      "musicAttribution": {
+        "credit": "Ira Caster Manuscript, c. 1850",
+        "year": "1850"
+      },
+      "source": {
+        "citedAbbr": "ICMs"
+      }
+    },
+    "264t": {
+      "title": "Christian Love",
+      "firstLine": "Among the saints on earth,",
+      "meter": "S. M.",
+      "timeSignature": "2/2",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "Benjamin Beddome",
+        "year": "1818"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1996"
+      }
+    },
+    "264b": {
+      "title": "Far from My Heart",
+      "firstLine": "Far from my heart and tents exclude,",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "E Minor",
+      "textAttribution": {
+        "credit": "The Christian's Duty",
+        "year": "1791"
+      },
+      "musicAttribution": {
+        "credit": "John Bayer, Jr.",
+        "year": "1995"
+      }
+    },
+    "281t": {
+      "title": "All the Pretty Little Horses",
+      "firstLine": "Bye and bye, don't you cry,",
+      "meter": "P. M.",
+      "timeSignature": "4/4",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "Traditional (v.1,2); Isaac Watts, adapted (v.A)",
+        "year": "2018"
+      },
+      "musicAttribution": {
+        "credit": "Virginia Traditional; arr. D. L. Hunter",
+        "year": "2018"
+      }
+    },
+    "281b": {
+      "title": "Unity",
+      "firstLine": "In unity and peace,",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Church Hymn Book, 1816",
+        "year": "1816"
+      },
+      "musicAttribution": {
+        "credit": "Manual of Sacred Music, 1853; arr. D. L. Hunter",
+        "year": "2020"
+      },
+      "source": {
+        "citedAbbr": "MSM",
+        "page": "41"
+      }
+    },
+    "386t": {
+      "title": "Wedding Hymn",
+      "firstLine": "Jesus, I love thy charming name",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "key": "G Minor",
+      "textAttribution": {
+        "credit": "Philip Doddridge, 1717 (v.1-4) (alt. v. Appendix)",
+        "year": "1717"
+      },
+      "musicAttribution": {
+        "credit": "Christian Harmony, 1805; arr. D. L. Hunter, 2020",
+        "year": "1805; arr. 2020"
+      },
+      "source": {
+        "citedAbbr": "CHI",
+        "page": "50"
+      }
+    },
+    "386b": {
+      "title": "Washington",
+      "firstLine": "Dismiss us with thy blessing, Lord;",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Joseph Hart, adapted"
+      },
+      "musicAttribution": {
+        "credit": "Arr. Hoboken, GA singers; transcr. D. L. Hunter, 2017",
+        "year": "2017"
+      }
+    }
+  },
+  "states": [],
+  "sources": [],
+  "relationships": [],
+  "publicationStatus": "draft",
+  "internalNote": "Migrated from edition-indexes/VPH2024.json (the suite's older, book-scoped per-song enrichment format, now superseded by this Level 3 Tunebook File system) rather than freshly researched - the per-song fields here (meter, key, attribution, source, verse count) are exactly what that file already contained, verified field-for-field against the current Library before merging, not re-transcribed. No scholarlyRecord section (publication history, bibliography, historical notes) exists for this edition yet - unlike ScH1855/SoH1854, no dedicated research pass has been done for this book, so nothing has been invented to fill that gap. publicationStatus is \"draft\" for the same reason: real per-song data, but not yet reviewed as an assembled scholarly record.",
+  "scholarlyRecord": null
+}

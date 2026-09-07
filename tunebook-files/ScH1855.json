@@ -1,0 +1,1655 @@
+{
+  "editionId": "e_ScH1855",
+  "workId": "w_ScH",
+  "editionCode": "ScH1855",
+  "editionIdentifierYear": "1855",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "The Social Harp",
+    "subtitle": "A Collection of Tunes, Odes, Anthems, and Set Pieces, Selected from Various Authors: Together with Much New Music Never Before Published",
+    "commonName": "Social Harp",
+    "workCode": "ScH",
+    "shmhaCode": "ScH",
+    "compiler": "John G. McCurry",
+    "publicationYear": "1855",
+    "shapeSystem": "4-shape",
+    "notes": "The original 1855 printer/publisher could not be identified from any source consulted; deliberately left unset here rather than guessed, matching the same decision already recorded for this book in tunebook-library.js."
+  },
+  "songs": {
+    "17": {
+      "title": "Old Hundred",
+      "firstLine": "O come, loud anthems let us sing",
+      "meter": "8.8.8.8"
+    },
+    "18t": {
+      "title": "Glorious News",
+      "firstLine": "Come, thou Fount of every blessing",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "18b": {
+      "title": "The Cross",
+      "firstLine": "Behold, behold the Lamb of God",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "19": {
+      "title": "Mandaville",
+      "firstLine": "Lord, what a thoughtless wretch was I",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "20t": {
+      "title": "Go On",
+      "firstLine": "Oh may I worthy prove to see",
+      "musicAttribution": {
+        "credit": "J. A. Wade; J. F. Wade"
+      }
+    },
+    "20b": {
+      "title": "Heavenly King",
+      "firstLine": "Children of the heavenly King",
+      "musicAttribution": {
+        "credit": "A. W. McCurry"
+      }
+    },
+    "21": {
+      "title": "River of Jordan",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "22": {
+      "title": "Permanence",
+      "firstLine": "Come, children of Zion, and help me to sing"
+    },
+    "23t": {
+      "title": "Separation New",
+      "firstLine": "Farewell, my dear brethren, the time is at hand",
+      "musicAttribution": {
+        "credit": "B. G. Stalnaker"
+      }
+    },
+    "23b": {
+      "title": "Heavenly Dove",
+      "firstLine": "Come, Holy Spirit, heavenly dove",
+      "musicAttribution": {
+        "credit": "William C. Davis"
+      }
+    },
+    "24t": {
+      "title": "Ninety-Fifth",
+      "firstLine": "When I can read my title clear",
+      "musicAttribution": {
+        "credit": "Colton"
+      },
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "1156th Hymn"
+      }
+    },
+    "24b": {
+      "title": "Primrose",
+      "firstLine": "Salvation! Oh, the joyful sound!",
+      "musicAttribution": {
+        "credit": "Chapin"
+      },
+      "sourceCited": {
+        "abbreviation": "Hymn 88, B. 2, Watts"
+      }
+    },
+    "25": {
+      "title": "Look Out",
+      "firstLine": "My brethren all, on you I call",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      }
+    },
+    "26": {
+      "title": "The Bower of Prayer",
+      "firstLine": "To leave my dear friends, and with neighbours to part",
+      "musicAttribution": {
+        "credit": "E. J. King"
+      }
+    },
+    "27t": {
+      "title": "Canaan's Land",
+      "firstLine": "Oh for a breeze of heavenly love",
+      "musicAttribution": {
+        "credit": "E. J. King"
+      },
+      "sourceCited": {
+        "abbreviation": "Zion Songster",
+        "locator": "155"
+      }
+    },
+    "27b": {
+      "title": "The Midnight Cry",
+      "firstLine": "When the midnight cry began, O what lamentation",
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "483"
+      }
+    },
+    "28": {
+      "title": "Substantial Joys",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "29": {
+      "title": "Martin",
+      "firstLine": "We have fathers in the promis'd land",
+      "musicAttribution": {
+        "credit": "John G. McCurry; Wm. C. Davis"
+      }
+    },
+    "30": {
+      "title": "Green Fields",
+      "firstLine": "How tedious and tasteless the hours",
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "193"
+      }
+    },
+    "31": {
+      "title": "Mary Blain",
+      "firstLine": "Do I not love thee, oh, my Lord?",
+      "musicAttribution": {
+        "credit": "Henry F. Chandler"
+      }
+    },
+    "32": {
+      "title": "Jubilee",
+      "firstLine": "Hark! the jubilee is sounding"
+    },
+    "33t": {
+      "title": "Repenting Sinners",
+      "firstLine": "Show pity, Lord, oh, Lord, forgive",
+      "musicAttribution": {
+        "credit": "Thomas Maxwell"
+      }
+    },
+    "33b": {
+      "title": "Happy Children",
+      "firstLine": "Children of the heavenly King",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "34": {
+      "title": "To the Land",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "35": {
+      "title": "Hallelujah Third",
+      "firstLine": "Come, thou Fount of every blessing",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "37": {
+      "title": "The Traveller",
+      "firstLine": "I'm trav'ling to my grave",
+      "musicAttribution": {
+        "credit": "Wm. C. Davis; John G. McCurry"
+      }
+    },
+    "38t": {
+      "title": "Middlebury",
+      "firstLine": "Come away to the skies",
+      "sourceCited": {
+        "abbreviation": "Methodist Hymn Book",
+        "locator": "357"
+      }
+    },
+    "38b": {
+      "title": "Huntington",
+      "firstLine": "Lord, what a thoughtless wretch was I"
+    },
+    "40": {
+      "title": "Portuguese Hymn",
+      "firstLine": "Hither ye faithful, haste with songs of triumph"
+    },
+    "41": {
+      "title": "Confidence",
+      "firstLine": "Away, my unbelieving fear",
+      "musicAttribution": {
+        "credit": "J. R. Turner"
+      }
+    },
+    "42": {
+      "title": "Religion Is a Fortune",
+      "firstLine": "Oh when shall I see Jesus",
+      "musicAttribution": {
+        "credit": "W. L. William"
+      }
+    },
+    "43": {
+      "title": "Kingwood",
+      "firstLine": "My days, my weeks, my months, my years",
+      "musicAttribution": {
+        "credit": "Humphreys"
+      }
+    },
+    "44": {
+      "title": "A Wonder",
+      "firstLine": "O! 'tis a glorious mystery",
+      "musicAttribution": {
+        "credit": "Henry F. Chandler"
+      }
+    },
+    "45": {
+      "title": "New Indian Song",
+      "firstLine": "When I can read my title clear",
+      "musicAttribution": {
+        "credit": "J. A. Wade; J. F. Wade"
+      }
+    },
+    "47": {
+      "title": "Better Day",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "48": {
+      "title": "Welcome Souls",
+      "firstLine": "He comes, he comes, the judge severe",
+      "musicAttribution": {
+        "credit": "J. A. Wade; J. F. Wade"
+      }
+    },
+    "49": {
+      "title": "Marshfield",
+      "firstLine": "Come, we that love the Lord",
+      "musicAttribution": {
+        "credit": "E. Heritage, Philadelphia"
+      }
+    },
+    "50": {
+      "title": "I Want to Go",
+      "firstLine": "When I can read my title clear",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "51": {
+      "title": "Coldwater",
+      "firstLine": "Hail! Scenes of felicity, transport and joy",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "52t": {
+      "title": "Hebbord",
+      "firstLine": "Oh, may I worthy prove to see",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "52b": {
+      "title": "Carter",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "53": {
+      "title": "Palms of Victory",
+      "firstLine": "Come, thou fount of every blessing",
+      "musicAttribution": {
+        "credit": "Henry F. Chandler"
+      }
+    },
+    "54t": {
+      "title": "Fairfield",
+      "firstLine": "Come, humble sinner, in whose breast"
+    },
+    "54b": {
+      "title": "America",
+      "firstLine": "My soul, repeat his praise",
+      "musicAttribution": {
+        "credit": "Whitmore"
+      },
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "183d Hymn"
+      }
+    },
+    "55t": {
+      "title": "Supplication",
+      "firstLine": "O Thou who hear'st when sinners cry",
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "467th Hymn. 51st Psalm, Watts"
+      }
+    },
+    "55b": {
+      "title": "Idumea",
+      "firstLine": "And am I born to die?",
+      "musicAttribution": {
+        "credit": "Davison"
+      },
+      "sourceCited": {
+        "abbreviation": "Methodist Hymn Book",
+        "locator": "231"
+      }
+    },
+    "56": {
+      "title": "Jerusalem",
+      "firstLine": "Jesus, my all, to heav'n is gone",
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "70"
+      }
+    },
+    "57": {
+      "title": "Jefferson",
+      "firstLine": "Glorious things of thee are spoken"
+    },
+    "58": {
+      "title": "Family Bible",
+      "firstLine": "How painfully pleasing the fond recollection"
+    },
+    "59": {
+      "title": "King of Peace",
+      "firstLine": "Lord, I cannot let thee go",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      },
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "329"
+      }
+    },
+    "60": {
+      "title": "Heavenly Meeting",
+      "firstLine": "The day is passed and gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "61t": {
+      "title": "Kay",
+      "firstLine": "I love the Lord for what he's done",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "61b": {
+      "title": "Communion",
+      "firstLine": "Long have I tried terrestrial joys"
+    },
+    "62": {
+      "title": "Maxwell",
+      "firstLine": "Farewell, vain world, I'm going home",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "63": {
+      "title": "Star of Columbia",
+      "firstLine": "Columbia! Columbia! to glory arise",
+      "textAttribution": {
+        "credit": "Dr. Dwight"
+      },
+      "musicAttribution": {
+        "credit": "Miss M. T. Durham"
+      }
+    },
+    "65": {
+      "title": "The Weary Souls",
+      "firstLine": "Ye weary, heavy-laden souls",
+      "musicAttribution": {
+        "credit": "J. T. White"
+      },
+      "sourceCited": {
+        "abbreviation": "Zion Songster",
+        "locator": "117"
+      }
+    },
+    "66": {
+      "title": "Sweet Rivers",
+      "firstLine": "Sweet rivers of redeeming love",
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "468"
+      }
+    },
+    "67": {
+      "title": "New Farewell",
+      "firstLine": "Our cheerful voices let us raise",
+      "musicAttribution": {
+        "credit": "Wm. C. Davis"
+      }
+    },
+    "68": {
+      "title": "A Home in Heaven",
+      "firstLine": "A home in heaven, what a joyful thought",
+      "musicAttribution": {
+        "credit": "John G. McCurry; Silas W. Kay"
+      }
+    },
+    "69": {
+      "title": "Tedious Hours",
+      "firstLine": "How tedious and tasteless the hours",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "Wm. C. Davis"
+      }
+    },
+    "70": {
+      "title": "Hermon",
+      "firstLine": "Through ev'ry age, eternal God",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "71": {
+      "title": "Dove of Peace",
+      "firstLine": "Christ, from whom all blessings flow",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "73": {
+      "title": "Promise",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "Henry F. Chandler"
+      }
+    },
+    "74": {
+      "title": "Liberty",
+      "firstLine": "No more beneath th' oppressive hand"
+    },
+    "75": {
+      "title": "Old Troy",
+      "firstLine": "The news of his mercy is spreading abroad",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "76t": {
+      "title": "Liverpool",
+      "firstLine": "Young people all, attention give",
+      "musicAttribution": {
+        "credit": "M. C. H. Davis"
+      }
+    },
+    "76b": {
+      "title": "Soft Music",
+      "firstLine": "Soft, soft, music is stealing",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      }
+    },
+    "77": {
+      "title": "Florence",
+      "firstLine": "Not many years their rounds shall roll",
+      "musicAttribution": {
+        "credit": "Dr. T. W. Carter"
+      }
+    },
+    "78": {
+      "title": "Shepherds Rejoice",
+      "firstLine": "Shepherds, rejoice! lift up your eyes",
+      "musicAttribution": {
+        "credit": "L. P. Breedlove"
+      }
+    },
+    "79t": {
+      "title": "Done with the World",
+      "firstLine": "Jesus, my all, to heaven is gone",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      }
+    },
+    "79b": {
+      "title": "Happy Land",
+      "firstLine": "There is a happy land, Far, far away",
+      "musicAttribution": {
+        "credit": "Leonard P. Breedlove"
+      }
+    },
+    "80": {
+      "title": "Brethren Pray",
+      "firstLine": "Pray, brethren, pray, The prayer of faith availeth",
+      "musicAttribution": {
+        "credit": "J. A. Wade"
+      }
+    },
+    "81": {
+      "title": "The Christian's Comfort",
+      "firstLine": "And let this feeble body fail",
+      "musicAttribution": {
+        "credit": "Wm. C. Davis"
+      }
+    },
+    "82": {
+      "title": "Bower's, or Happy Souls",
+      "firstLine": "My soul's full of glory, inspiring my tongue",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      },
+      "historicalNote": "This Tune is arranged as sung by William Bowers, Eagle Grove, Georgia."
+    },
+    "83": {
+      "title": "Raymond",
+      "firstLine": "My soul, come meditate the day",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "84": {
+      "title": "Sweet Home",
+      "firstLine": "Mid scenes of confusion and creature complaints",
+      "textAttribution": {
+        "credit": "David Denham"
+      },
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "431"
+      }
+    },
+    "85": {
+      "title": "Exhilaration",
+      "firstLine": "Oh! may I worthy prove to see",
+      "musicAttribution": {
+        "credit": "Dr. T. W. Carter"
+      }
+    },
+    "86": {
+      "title": "Singing School",
+      "firstLine": "O, tell me young friends",
+      "musicAttribution": {
+        "credit": "J. H. Moss"
+      }
+    },
+    "87": {
+      "title": "Musgrove",
+      "firstLine": "Oh, Musgrove, he persuaded me",
+      "musicAttribution": {
+        "credit": "E. R. White"
+      }
+    },
+    "88": {
+      "title": "Exhortation",
+      "firstLine": "Lord, in the morning thou shalt hear"
+    },
+    "89": {
+      "title": "Ballstown",
+      "firstLine": "Great God, attend while Zion sings"
+    },
+    "90": {
+      "title": "Murillo's Lesson",
+      "firstLine": "As down a lone valley with cedars o'erspread",
+      "musicAttribution": {
+        "credit": "Unknown"
+      }
+    },
+    "91": {
+      "title": "Ocean",
+      "firstLine": "Thy works of glory, mighty Lord",
+      "musicAttribution": {
+        "credit": "Swan"
+      }
+    },
+    "93": {
+      "title": "Pleyel's Hymn Second",
+      "firstLine": "While thee I seek, protecting Pow'r"
+    },
+    "94": {
+      "title": "Never Part",
+      "firstLine": "Jerusalem, my happy home, O, how I long for thee"
+    },
+    "95": {
+      "title": "Bellevue",
+      "firstLine": "Ye tribes of Adam, join with heav'n",
+      "musicAttribution": {
+        "credit": "Dare"
+      }
+    },
+    "97": {
+      "title": "The Lonesome Dove",
+      "firstLine": "Ye weary, heavy laden souls"
+    },
+    "98": {
+      "title": "Weeping Mary",
+      "firstLine": "Are there anybody here like Mary a weeping",
+      "musicAttribution": {
+        "credit": "Power; John G. McCurry"
+      }
+    },
+    "99": {
+      "title": "O Save",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "J. A. Wade; J. F. Wade"
+      }
+    },
+    "100": {
+      "title": "Hail Ye Sons",
+      "firstLine": "Hail! ye sighing sons of sorrow",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "101": {
+      "title": "Parting Friends",
+      "firstLine": "Farewell, my friends, I'm bound for Canaan",
+      "musicAttribution": {
+        "credit": "Mrs. Catharine Penn; John G. McCurry"
+      }
+    },
+    "102": {
+      "title": "Teasley",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "103": {
+      "title": "Mosley",
+      "firstLine": "Oh, Zion, afflicted with wave after wave",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "104": {
+      "title": "Shout for Joy",
+      "firstLine": "I'm glad that I am born to die",
+      "musicAttribution": {
+        "credit": "J. F. Wade"
+      }
+    },
+    "105": {
+      "title": "The Sounding Trumpet",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "J. A. Wade"
+      }
+    },
+    "106": {
+      "title": "Burges",
+      "firstLine": "I'm glad that I am born to die",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "107": {
+      "title": "Memphis",
+      "firstLine": "Farewell, vain world, I'm going home",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "108": {
+      "title": "Derrett",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "109": {
+      "title": "Columbus",
+      "firstLine": "Oh, once I had a glorious view",
+      "sourceCited": {
+        "abbreviation": "Mercer's Cluster",
+        "locator": "388"
+      }
+    },
+    "110": {
+      "title": "Shouting Song",
+      "firstLine": "Jesus, grant us al a blessing",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      }
+    },
+    "111": {
+      "title": "The Morning Trumpet",
+      "firstLine": "O, when shall I see Jesus",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      }
+    },
+    "112": {
+      "title": "Ecstasy",
+      "firstLine": "Oh, when shall I see Jesus",
+      "musicAttribution": {
+        "credit": "T. W. Carter"
+      }
+    },
+    "113": {
+      "title": "Eternal Home",
+      "firstLine": "Time is winging us away",
+      "musicAttribution": {
+        "credit": "E. Heritage; J. Heritage"
+      }
+    },
+    "114": {
+      "title": "The Promised Land",
+      "firstLine": "On Jordan's stormy banks I stand",
+      "musicAttribution": {
+        "credit": "Miss M. Durham"
+      },
+      "sourceCited": {
+        "abbreviation": "Meth. H. B.",
+        "locator": "471"
+      }
+    },
+    "115": {
+      "title": "The Saint's Delight",
+      "firstLine": "When I can read my title clear to mansions in the skies",
+      "musicAttribution": {
+        "credit": "F. Price"
+      },
+      "sourceCited": {
+        "abbreviation": "65th hymn, 2d b. Watts"
+      }
+    },
+    "116": {
+      "title": "Repentance",
+      "firstLine": "O, if my soul was form'd for wo"
+    },
+    "117": {
+      "title": "Pilgrim",
+      "firstLine": "Come all ye mourning pilgrims dear"
+    },
+    "118t": {
+      "title": "Windham",
+      "firstLine": "Broad is the road that leads to death",
+      "musicAttribution": {
+        "credit": "Read"
+      },
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "686th hymn"
+      }
+    },
+    "118b": {
+      "title": "Sweet Heaven",
+      "firstLine": "The Lord, who built the earth and sky",
+      "musicAttribution": {
+        "credit": "E. L. King"
+      }
+    },
+    "119": {
+      "title": "Webster",
+      "firstLine": "Come, we that love the Lord"
+    },
+    "120t": {
+      "title": "Corinth",
+      "firstLine": "Jesus and shall it ever be—A mortal man ashamed of thee !",
+      "musicAttribution": {
+        "credit": "John Massengale"
+      },
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "554th hymn"
+      }
+    },
+    "120b": {
+      "title": "Abbeville",
+      "firstLine": "Come, Holy Spirit, come, With energy divine",
+      "musicAttribution": {
+        "credit": "E. J. King"
+      },
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "362d hymn"
+      }
+    },
+    "121": {
+      "title": "Primrose Hill",
+      "firstLine": "When I can read my title clear to mansions in the skies",
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "1156th Hymn"
+      }
+    },
+    "122": {
+      "title": "Parting Hand",
+      "firstLine": "My Christian friends, in bonds of love",
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "447"
+      }
+    },
+    "123": {
+      "title": "Plenary",
+      "firstLine": "Hark ! from the tombs a doleful sound",
+      "musicAttribution": {
+        "credit": "A. Clark"
+      }
+    },
+    "124": {
+      "title": "Minister's Farewell",
+      "firstLine": "Dear friends, farewell! I do you tell"
+    },
+    "125": {
+      "title": "Animation",
+      "firstLine": "And let this feeble body fail",
+      "sourceCited": {
+        "abbreviation": "Mercer's Cluster",
+        "locator": "477"
+      }
+    },
+    "126": {
+      "title": "Burk",
+      "firstLine": "The glorious light of Zion",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      }
+    },
+    "127": {
+      "title": "Olney",
+      "firstLine": "Come, thou Fount of every blessing",
+      "musicAttribution": {
+        "credit": "Chapin"
+      }
+    },
+    "128": {
+      "title": "Harmony",
+      "firstLine": "Wake, all ye soaring throngs, and sing"
+    },
+    "129": {
+      "title": "Mear",
+      "firstLine": "Will God forever cast us off"
+    },
+    "130": {
+      "title": "Holy War",
+      "firstLine": "I've enlisted in the holy war",
+      "musicAttribution": {
+        "credit": "J. F. Wade"
+      }
+    },
+    "131": {
+      "title": "Newberry",
+      "firstLine": "One day, while in a lonesome grove",
+      "musicAttribution": {
+        "credit": "Wm. C. Davis"
+      }
+    },
+    "132": {
+      "title": "Heavenly Canaan",
+      "firstLine": "I have my trials here below",
+      "musicAttribution": {
+        "credit": "Henry F. Chandler"
+      }
+    },
+    "133": {
+      "title": "Mercy's Free",
+      "firstLine": "What's this that in my soul is rising?",
+      "musicAttribution": {
+        "credit": "Leonard P. Breedlove"
+      }
+    },
+    "134": {
+      "title": "The Harvest Field",
+      "firstLine": "This is a field, this world below",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "135": {
+      "title": "The Blooming Wilderness",
+      "firstLine": "The Prince of salvation is coming, prepare",
+      "musicAttribution": {
+        "credit": "Wm. C. Davis"
+      }
+    },
+    "136": {
+      "title": "The Promise",
+      "firstLine": "Farewell, vain world, I'm going home",
+      "musicAttribution": {
+        "credit": "Wm. C. Davis"
+      }
+    },
+    "137": {
+      "title": "Zion's Walls",
+      "firstLine": "Come, fathers and mothers",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "138": {
+      "title": "Morning Star",
+      "firstLine": "Farewell, my friends, I must be gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "139": {
+      "title": "Crumbly",
+      "firstLine": "Jesus my all to heaven is gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "140": {
+      "title": "Sweet Canaan",
+      "firstLine": "Come along and taste with me",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "141": {
+      "title": "Slabtown",
+      "firstLine": "'Tis night, and the landscape is lovely no more",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "142": {
+      "title": "Father Land",
+      "firstLine": "There is a place where my hopes are stay'd",
+      "musicAttribution": {
+        "credit": "Silas W. Kay"
+      }
+    },
+    "143": {
+      "title": "Bowman",
+      "firstLine": "In seasons of grief to my God I'll repair",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "145": {
+      "title": "Roll, Jordan",
+      "firstLine": "He comes! he comes! the Judge severe",
+      "musicAttribution": {
+        "credit": "A. W. McCurry; John G. McCurry"
+      }
+    },
+    "146": {
+      "title": "Bonnie Doon",
+      "firstLine": "When, marshall'd on the nightly plains",
+      "musicAttribution": {
+        "credit": "Wm. Houser"
+      }
+    },
+    "148": {
+      "title": "Return Again",
+      "firstLine": "Saviour visit thy plantation",
+      "musicAttribution": {
+        "credit": "Wm. L. Williams"
+      },
+      "sourceCited": {
+        "abbreviation": "Mercer's Cluster",
+        "locator": "389"
+      }
+    },
+    "149": {
+      "title": "Sabbath Summons",
+      "firstLine": "Not by the brazen trumpet's voice",
+      "musicAttribution": {
+        "credit": "Wm. Houser"
+      }
+    },
+    "150": {
+      "title": "Washington",
+      "firstLine": "Our souls by love together knit",
+      "sourceCited": {
+        "abbreviation": "Mercer's Cluster"
+      }
+    },
+    "152": {
+      "title": "Benton",
+      "firstLine": "Farewell, vain world, I'm going home",
+      "musicAttribution": {
+        "credit": "A. N. Benton; J. H. Moss"
+      }
+    },
+    "153": {
+      "title": "Albert",
+      "firstLine": "My brethren all, on you I call",
+      "musicAttribution": {
+        "credit": "E. R. White"
+      }
+    },
+    "154": {
+      "title": "The Drunkard's Burial",
+      "firstLine": "Not a sigh was heard, nor a wailing note",
+      "musicAttribution": {
+        "credit": "Wm. Houser"
+      }
+    },
+    "155": {
+      "title": "Wake Up",
+      "firstLine": "Wake up, wake up, ye drowsy sleepers!",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "156": {
+      "title": "Wondrous Love",
+      "firstLine": "What wondrous love is this! oh! my soul! oh! my soul!"
+    },
+    "157": {
+      "title": "The Inquirer",
+      "firstLine": "I'm not ashamed to own my Lord",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      },
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "552d hymn"
+      }
+    },
+    "158": {
+      "title": "Antioch",
+      "firstLine": "I know that my Redeemer lives",
+      "musicAttribution": {
+        "credit": "F. C. Wood"
+      }
+    },
+    "159": {
+      "title": "Buonaparte",
+      "firstLine": "Buonaparte is afar From his war and his fighting",
+      "musicAttribution": {
+        "credit": "E. R. White"
+      }
+    },
+    "160": {
+      "title": "Schenectady",
+      "firstLine": "From all that dwell below the skies",
+      "musicAttribution": {
+        "credit": "Shumway"
+      },
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "926th hymn"
+      }
+    },
+    "162": {
+      "title": "Pleasant Hill",
+      "firstLine": "Religion is the chief concern",
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "273"
+      }
+    },
+    "163": {
+      "title": "The Lone Pilgrim",
+      "firstLine": "I came to the place where the lone pilgrim lay",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      }
+    },
+    "164": {
+      "title": "Over Jordan",
+      "firstLine": "Farewell, dear friends, time rolls along",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "165": {
+      "title": "Navigation",
+      "firstLine": "I'll pitch my tent on this camp ground",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "166": {
+      "title": "Sweet Prospect",
+      "firstLine": "On Jordan's stormy banks I stand",
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "1173d hymn"
+      }
+    },
+    "167": {
+      "title": "War Department",
+      "firstLine": "No more shall the sound of the war-whoop be heard",
+      "sourceCited": {
+        "abbreviation": "Mercer's Cluster"
+      }
+    },
+    "168": {
+      "title": "Clamanda",
+      "firstLine": "Say, now, ye lovely, social band"
+    },
+    "169": {
+      "title": "Evening Shade",
+      "firstLine": "The day is past and gone",
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "373"
+      }
+    },
+    "170": {
+      "title": "Russell",
+      "firstLine": "Ye humble souls, complain no more",
+      "musicAttribution": {
+        "credit": "J. M. Day"
+      }
+    },
+    "171": {
+      "title": "Sons of Sorrow",
+      "firstLine": "Hail! ye sighing sons of sorrow",
+      "musicAttribution": {
+        "credit": "Wm. Houser"
+      }
+    },
+    "172": {
+      "title": "Mount Vernon",
+      "firstLine": "What solemn sound the ear invades"
+    },
+    "173": {
+      "title": "Greenwich",
+      "firstLine": "Lord, what a thoughtless wretch was I"
+    },
+    "175t": {
+      "title": "Detroit",
+      "firstLine": "Do not I love thee, O my Lord?"
+    },
+    "175b": {
+      "title": "Kedron",
+      "firstLine": "Thou Man of grief, remember me",
+      "musicAttribution": {
+        "credit": "Dare"
+      }
+    },
+    "176": {
+      "title": "Alabama",
+      "firstLine": "Angels in shining order stand"
+    },
+    "178": {
+      "title": "Florida",
+      "firstLine": "Let sinners take their course",
+      "musicAttribution": {
+        "credit": "Witmore"
+      },
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "761st hymn"
+      }
+    },
+    "179": {
+      "title": "New Topia",
+      "firstLine": "Young people all, attention give",
+      "musicAttribution": {
+        "credit": "Munday"
+      }
+    },
+    "180": {
+      "title": "Delight",
+      "firstLine": "No burning heats by day",
+      "musicAttribution": {
+        "credit": "Coan"
+      },
+      "historicalNote": "Guilford, Ct.(?)"
+    },
+    "182": {
+      "title": "Lisbon",
+      "firstLine": "Farewell, dear brethren of the Lord!",
+      "musicAttribution": {
+        "credit": "Henry F. Chandler"
+      }
+    },
+    "183": {
+      "title": "Wilkes",
+      "firstLine": "Farewell, old soldiers of the cross",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "184": {
+      "title": "Heaven Born Soldiers",
+      "firstLine": "Oh thou, by long experience tried",
+      "musicAttribution": {
+        "credit": "J. F. Wade"
+      }
+    },
+    "185": {
+      "title": "Suffield",
+      "firstLine": "Teach me the measure of my days",
+      "sourceCited": {
+        "abbreviation": "Psalmist",
+        "locator": "1055th hymn"
+      }
+    },
+    "186": {
+      "title": "The Royal Band",
+      "firstLine": "Hosanna to Jesus, my soul's filled with praises",
+      "musicAttribution": {
+        "credit": "W. T. Power"
+      }
+    },
+    "187": {
+      "title": "Ninety-Third Psalm",
+      "firstLine": "Grace! 'tis a charming sound!",
+      "musicAttribution": {
+        "credit": "Chapin"
+      },
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "121"
+      }
+    },
+    "188": {
+      "title": "Wedlock",
+      "firstLine": "When Adam was created",
+      "musicAttribution": {
+        "credit": "Henry F. Chandler"
+      }
+    },
+    "189": {
+      "title": "Pity Me",
+      "firstLine": "Show pity, Lord, O Lord, forgive, O, pity me my Saviour",
+      "musicAttribution": {
+        "credit": "J. F. Wade"
+      }
+    },
+    "190t": {
+      "title": "Ortonville",
+      "firstLine": "How sweet the name of Jesus sounds",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      }
+    },
+    "190b": {
+      "title": "New Britain",
+      "firstLine": "Amazing grace! (how sweet the sound)",
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "123"
+      }
+    },
+    "191": {
+      "title": "Holy Manna",
+      "firstLine": "Brethren, we have met to worship",
+      "musicAttribution": {
+        "credit": "More"
+      },
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "1"
+      }
+    },
+    "192": {
+      "title": "Alldridge",
+      "firstLine": "Thou art gone to the grave, but we will not deplore thee",
+      "musicAttribution": {
+        "credit": "Silas W. Kay"
+      }
+    },
+    "193": {
+      "title": "Hartwell",
+      "firstLine": "O turn ye, O turn ye, for why will ye die",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "194": {
+      "title": "Jolly Soldier",
+      "firstLine": "I once was a seaman stout and bold",
+      "musicAttribution": {
+        "credit": "E. R. White"
+      }
+    },
+    "195": {
+      "title": "The Voice of Nature",
+      "firstLine": "The spacious firmament on high"
+    },
+    "196": {
+      "title": "Desire for Piety",
+      "firstLine": "'Tis my desire with God to walk",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      },
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "479"
+      }
+    },
+    "197": {
+      "title": "Mindora",
+      "firstLine": "Rise, crown'd with light, imperial Salem, rise",
+      "musicAttribution": {
+        "credit": "E. Heritage, Philadelphia"
+      }
+    },
+    "198": {
+      "title": "Rhode Island",
+      "firstLine": "Thou great, mysterious God unknown",
+      "sourceCited": {
+        "abbreviation": "Meth. Hymn Book",
+        "locator": "107"
+      }
+    },
+    "199": {
+      "title": "Birth of Christ",
+      "firstLine": "Shepherds, rejoice, lift up your eyes",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "200": {
+      "title": "John Adkin's Farewell",
+      "firstLine": "Poor drunkards, poor drunkards, take warning by me",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "201": {
+      "title": "Vanderver",
+      "firstLine": "Dear friends, a word of parting",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "202": {
+      "title": "Bushville",
+      "firstLine": "Jerusalem, my happy home, O, how I long for thee",
+      "musicAttribution": {
+        "credit": "William C. Davis"
+      }
+    },
+    "203": {
+      "title": "Come, Tell Me of Your Ship",
+      "firstLine": "Come, tell me of your ship, and what is her name",
+      "musicAttribution": {
+        "credit": "William C. Davis"
+      }
+    },
+    "204t": {
+      "title": "Bellevue",
+      "firstLine": "How firm a foundation, ye saints of the Lord",
+      "musicAttribution": {
+        "credit": "Z. Chambless"
+      },
+      "sourceCited": {
+        "abbreviation": "Mercer's Cluster",
+        "locator": "411"
+      }
+    },
+    "204b": {
+      "title": "Bound for Canaan",
+      "firstLine": "O when shall I see Jesus",
+      "musicAttribution": {
+        "credit": "E. J. King"
+      },
+      "sourceCited": {
+        "abbreviation": "Mercer's Cluster",
+        "locator": "356"
+      }
+    },
+    "205": {
+      "title": "Pisgah",
+      "firstLine": "Jesus, thou art the sinner's friend",
+      "musicAttribution": {
+        "credit": "Lowry"
+      },
+      "sourceCited": {
+        "abbreviation": "Baptist Harmony",
+        "locator": "250"
+      }
+    },
+    "207": {
+      "title": "Hallelujah",
+      "firstLine": "And let this feeble body fail",
+      "sourceCited": {
+        "abbreviation": "Dover Selection",
+        "locator": "167"
+      }
+    },
+    "208t": {
+      "title": "Bereavement",
+      "firstLine": "Why do we mourn departing friends",
+      "musicAttribution": {
+        "credit": "E. Heritage, Philadelphia"
+      }
+    },
+    "208b": {
+      "title": "Hebron",
+      "firstLine": "Thus far the Lord hath led me on"
+    },
+    "209": {
+      "title": "Few Days",
+      "firstLine": "I pitch my tent on this camp ground",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "210": {
+      "title": "Vernon",
+      "firstLine": "O how happy are they, Who their Saviour obey",
+      "musicAttribution": {
+        "credit": "E. Heritage"
+      }
+    },
+    "211": {
+      "title": "The Trumpet",
+      "firstLine": "The chariot! the chariot! its wheels roll in fire",
+      "musicAttribution": {
+        "credit": "J. Williams"
+      }
+    },
+    "212": {
+      "title": "The Beggar",
+      "firstLine": "I'd rather live a beggar while here on earth I stay",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "213": {
+      "title": "Nebraska",
+      "firstLine": "Blest be the tie that binds Our hearts in Christian love",
+      "musicAttribution": {
+        "credit": "E. Heritage, Philadelphia"
+      }
+    },
+    "214": {
+      "title": "I'm Going Home",
+      "firstLine": "Farewell, vain world, I'm going home",
+      "musicAttribution": {
+        "credit": "Leonard P. Breedlove"
+      }
+    },
+    "215": {
+      "title": "Expression",
+      "firstLine": "Oh, Jesus, my Saviour, I know thou art mine",
+      "sourceCited": {
+        "abbreviation": "Zion Songster",
+        "locator": "261"
+      }
+    },
+    "216": {
+      "title": "Salutation",
+      "firstLine": "Good morning, brother pilgrim, What, bound for Canaan's coast?",
+      "sourceCited": {
+        "abbreviation": "Mercer's Cluster",
+        "locator": "230"
+      }
+    },
+    "218t": {
+      "title": "Blackburn",
+      "firstLine": "O why did I my Saviour leave?"
+    },
+    "218b": {
+      "title": "Bangor",
+      "firstLine": "That awful day will surely come",
+      "musicAttribution": {
+        "credit": "E. Heritage, Philadelphia"
+      }
+    },
+    "219": {
+      "title": "Baptismal Anthem",
+      "firstLine": "In those days came John the Baptist",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      }
+    },
+    "222": {
+      "title": "Masonic Ode",
+      "firstLine": "Sacred to heav'n behold the dome appears",
+      "musicAttribution": {
+        "credit": "E. J. King"
+      }
+    },
+    "227": {
+      "title": "Eagle Grove",
+      "firstLine": "Hosanna to Jesus, I'm fill'd with his praises",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "228": {
+      "title": "Marion",
+      "firstLine": "I have a loving old father at home",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "229": {
+      "title": "Easter Anthem",
+      "firstLine": "The Lord is ris'n indeed! hallelujah!",
+      "musicAttribution": {
+        "credit": "Billings"
+      },
+      "sourceCited": {
+        "abbreviation": "Young's Night Thoughts",
+        "locator": "4th Night"
+      }
+    },
+    "233": {
+      "title": "The Rock",
+      "firstLine": "In seasons of grief to my God I'll repair",
+      "musicAttribution": {
+        "credit": "Wm. Houser"
+      }
+    },
+    "235": {
+      "title": "South Union",
+      "firstLine": "Hosanna to Jesus! I'm filled with his praises!"
+    },
+    "237": {
+      "title": "David's Lamentation",
+      "firstLine": "David the king was grieved and moved",
+      "musicAttribution": {
+        "credit": "Billings"
+      }
+    },
+    "238": {
+      "title": "Dunlap's Creek",
+      "firstLine": "My God, my portion, and my love",
+      "musicAttribution": {
+        "credit": "F. Lewis"
+      }
+    },
+    "239": {
+      "title": "Creation",
+      "firstLine": "Let ev'ry creature join To praise th' eternal God",
+      "musicAttribution": {
+        "credit": "Shumway"
+      }
+    },
+    "241": {
+      "title": "Rose of Sharon",
+      "firstLine": "I am the rose of Sharon, and the lily of the valley",
+      "musicAttribution": {
+        "credit": "Billings"
+      }
+    },
+    "249": {
+      "title": "Deep Spring",
+      "firstLine": "As on the cross, the Saviour hung"
+    },
+    "250": {
+      "title": "Something New",
+      "firstLine": "Since man by sin has lost his God",
+      "musicAttribution": {
+        "credit": "Unknown"
+      }
+    },
+    "251": {
+      "title": "Funeral Anthem",
+      "firstLine": "I heard a great voice from heav'n, saying unto me",
+      "musicAttribution": {
+        "credit": "Billings"
+      }
+    },
+    "253": {
+      "title": "Good-By",
+      "firstLine": "Farewell, farewell is a lonely sound",
+      "meter": "8.6.8.6 D",
+      "musicAttribution": {
+        "credit": "John G. McCurry; Mrs. Martha J. Hodges"
+      }
+    }
+  },
+  "states": [],
+  "scholarlyRecord": {
+    "publicationHistory": [
+      {
+        "event": "First edition",
+        "date": "1855",
+        "note": "Compiled by John G. McCurry of Hart County, Georgia. Original printer/publisher not identified from available sources."
+      },
+      {
+        "event": "Reprint",
+        "date": "1859",
+        "note": "Reprinted with no changes to the contents, per the Wikipedia article on the book."
+      },
+      {
+        "event": "Reprint",
+        "date": "1868",
+        "note": "Reprinted with no changes to the contents, per the Wikipedia article on the book."
+      },
+      {
+        "event": "Facsimile edition",
+        "date": "1973",
+        "note": "University of Georgia Press, edited by Daniel W. Patterson and John F. Garst (ISBN 0-8203-0296-1). Both this book's page numbering and the Hymnary.org index this Tunebook File was built from actually follow the 1973 facsimile, though the edition is identified here under its original 1855 date, matching Hymnary's own hymnal code (SH1855) and the work's real publication history."
+      }
+    ],
+    "editorialHistory": "Organized into six sections: the first four with tonics A, F, G, and E respectively, a fifth section of \"gems in various keys,\" and a sixth of anthems and set pieces, per the Wikipedia article on the book.",
+    "bibliography": [
+      {
+        "citation": "The Social Harp. Wikipedia, The Free Encyclopedia.",
+        "url": "https://en.wikipedia.org/wiki/The_Social_Harp",
+        "accessedDate": "2026-08-05",
+        "notes": "Source for compiler identity, publication history (1855/1859/1868/1973), section structure, and the 221-song count (matches this file's own index exactly, independently confirming it - see historicalNotes below)."
+      },
+      {
+        "citation": "The Social Harp (SH1855). Hymnary.org.",
+        "url": "https://hymnary.org/hymnal/SH1855",
+        "accessedDate": "2026-08-05",
+        "notes": "Source for the page-by-page song index this file is built from, and for confirming the 1973 UGA facsimile's relationship to the 1855 original. This site's own page listing independently skips the exact same page numbers as gaps in the index (see historicalNotes), which is how those gaps were confirmed as genuine non-song pages rather than indexing errors."
+      }
+    ],
+    "historicalNotes": "Wikipedia's article body states the book contains 221 songs, matching this index's own song count exactly - independent confirmation of completeness, not just a source's own claim taken on faith. The book's page sequence has real gaps (pages skipped entirely, not part of the song numbering): Hymnary.org's own page listing skips the identical set of page numbers, confirming these are genuine non-song pages in the physical book (blank pages, engravings, or similar) rather than missing index entries. The original 1855 printer/publisher was actively searched for via web search and could not be found in any available source; this is recorded as a genuine gap, not an oversight."
+  },
+  "sources": [
+    {
+      "sourceId": "source-wikipedia-social-harp",
+      "sourceType": "website",
+      "citation": "The Social Harp. Wikipedia, The Free Encyclopedia.",
+      "url": "https://en.wikipedia.org/wiki/The_Social_Harp",
+      "accessedDate": "2026-08-05"
+    },
+    {
+      "sourceId": "source-hymnary-sh1855",
+      "sourceType": "database",
+      "citation": "The Social Harp (SH1855). Hymnary.org.",
+      "url": "https://hymnary.org/hymnal/SH1855",
+      "accessedDate": "2026-08-05",
+      "notes": "Source of the underlying page/title index (provided by Kevin as a CSV export of this page's data), used to build this file's song list."
+    }
+  ],
+  "relationships": [],
+  "publicationStatus": "draft",
+  "internalNote": "Built from a CSV Kevin provided (sourced from Hymnary.org) plus web research (Wikipedia, Hymnary) done at the time ScH1855 was first added to the index. This is a first Tunebook File built under the new Work/Edition architecture - not yet reviewed by a curator, and publicationStatus is deliberately \"draft\" rather than \"publication-ready\" since no one has reviewed the assembled scholarlyRecord section yet, even though every individual fact in it was sourced at the time it was gathered."
+}

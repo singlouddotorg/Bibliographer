@@ -1,0 +1,366 @@
+{
+  "editionId": "e_WiH1992",
+  "workId": "w_WiH",
+  "editionCode": "WiH1992",
+  "editionIdentifierYear": "1992",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "Wisconsin Harmony",
+    "subtitle": "Tunebooklet",
+    "commonName": "Wisconsin Harmony Tunebooklet",
+    "workCode": "WiH",
+    "compiler": "James Philip Page",
+    "publicationYear": "1992",
+    "shapeSystem": "4-shape",
+    "notes": "Book publication year (1992) confirmed by Kevin, matching the existing Library Work record's firstEditionYear."
+  },
+  "songs": {
+    "19": {
+      "title": "Exultation",
+      "firstLine": "Come away to the skies, my beloved, arise",
+      "meter": "6,6,9",
+      "timeSignature": "2/4",
+      "key": "A Aeolian",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Humphreys",
+        "year": "1820"
+      },
+      "verseCount": 7
+    },
+    "20t": {
+      "title": "Bangor",
+      "firstLine": "Lord, in the morning thou shalt hear my voice ascending high",
+      "meter": "C.M.",
+      "key": "D Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "William Tans'ur",
+        "year": "1735"
+      },
+      "verseCount": 1
+    },
+    "20b": {
+      "title": "Dance in the Sky",
+      "firstLine": "Come sinners, I beg you, break free from your Hell",
+      "meter": "11s",
+      "timeSignature": "6/8",
+      "key": "G Major",
+      "musicAttribution": {
+        "credit": "John R. Feddersen",
+        "year": "1991"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright (c) 1991 John R. Feddersen. All rights reserved. Used by permission."
+    },
+    "22": {
+      "title": "Solitude in the Grove",
+      "firstLine": "Oh, were I like a feather'd dove, and innocence had wings",
+      "meter": "C.M.",
+      "timeSignature": "6/4",
+      "key": "E Dorian",
+      "musicAttribution": {
+        "credit": "Arr. Ananias Davisson",
+        "year": "1780-1857"
+      },
+      "verseCount": 1
+    },
+    "23": {
+      "title": "Madison",
+      "firstLine": "Great Shepherd of thine Israel, who didst between the cherubs dwell",
+      "meter": "LMD",
+      "key": "A Minor",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Daniel Read",
+        "year": "1757-1836"
+      },
+      "verseCount": 1
+    },
+    "24": {
+      "title": "Forster",
+      "firstLine": "Ye weary heavy laden souls, who are oppressed sore",
+      "meter": "CMD",
+      "key": "E Aeolian",
+      "textAttribution": {
+        "credit": "John Adam Granade",
+        "year": "1803"
+      },
+      "musicAttribution": {
+        "credit": "Anonymous"
+      },
+      "verseCount": 8
+    },
+    "25": {
+      "title": "Musgrove",
+      "firstLine": "Oh, Musgrove, he persuaded me, persuaded me for to agree",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "key": "F Major",
+      "musicAttribution": {
+        "credit": "E. R. White",
+        "year": "1855"
+      },
+      "verseCount": 3
+    },
+    "26": {
+      "title": "The Babe of Bethlehem",
+      "firstLine": "Ye nations all, on you I call",
+      "meter": "8,7",
+      "timeSignature": "6/4",
+      "key": "A Dorian",
+      "musicAttribution": {
+        "credit": "Wm. Walker",
+        "year": "1835"
+      },
+      "verseCount": 8
+    },
+    "27": {
+      "title": "Star in the East",
+      "firstLine": "Hail the blest morn, see the great Mediator",
+      "meter": "10,11",
+      "key": "A Aeolian",
+      "textAttribution": {
+        "credit": "Reginald Heber"
+      },
+      "source": {
+        "citedAbbr": "Southern Harmony",
+        "page": "1835"
+      },
+      "verseCount": 4
+    },
+    "28t": {
+      "title": "When Jesus Wept",
+      "firstLine": "When Jesus wept, the falling tear",
+      "meter": "LM",
+      "timeSignature": "3/2",
+      "key": "D Aeolian",
+      "textAttribution": {
+        "credit": "Perez Morton"
+      },
+      "musicAttribution": {
+        "credit": "William Billings"
+      },
+      "source": {
+        "citedAbbr": "New England Psalm Singer",
+        "page": "1770"
+      },
+      "verseCount": 1
+    },
+    "28b": {
+      "title": "Bellevue",
+      "firstLine": "Ye tribes of Adam, join with heav'n, and earth, and seas",
+      "meter": "H.M.",
+      "timeSignature": "3/2",
+      "key": "F Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Elkanah Kelsay Dare",
+        "year": "1782-1826"
+      },
+      "verseCount": 1
+    },
+    "30": {
+      "title": "Wilmington",
+      "firstLine": "Hark! Hark! Hark, the herald angels sing: Glory! Glory! Glory to the new-born King.",
+      "timeSignature": "2/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "Charles Wesley",
+        "year": "1707-1788"
+      },
+      "musicAttribution": {
+        "credit": "Elkanah Kelsay Dare",
+        "year": "1782-1826"
+      },
+      "historicalNote": "Editorial note: shapes (faw, law, sol) incorrect in original; notes correct in original. Variant reading noted in Wyeth's Repository of Sacred Music, Part Second, editions 1 and 2."
+    },
+    "33": {
+      "title": "Rainbow",
+      "firstLine": "The sea grows calm at thy command, and tempests cease to roar",
+      "meter": "CM",
+      "key": "C Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Timothy Swan, altered"
+      },
+      "verseCount": 1
+    },
+    "34": {
+      "title": "New-Jordan",
+      "firstLine": "On Jordan's rugged banks I stand, and cast a wishful eye",
+      "meter": "CMD",
+      "key": "C# Minor",
+      "textAttribution": {
+        "credit": "Samuel Stennett",
+        "year": "1727-1795"
+      },
+      "musicAttribution": {
+        "credit": "Anonymous"
+      },
+      "verseCount": 4
+    },
+    "36": {
+      "title": "Captain Kidd",
+      "firstLine": "Through all this world below, God we see all around",
+      "meter": "6,6,6,3,6,6,6,6,3",
+      "textAttribution": {
+        "credit": "Elder Hibard",
+        "year": "ca 1792"
+      },
+      "musicAttribution": {
+        "credit": "Anonymous"
+      },
+      "verseCount": 9
+    },
+    "38": {
+      "title": "Solicitude",
+      "firstLine": "O thou in whose presence my soul takes delight",
+      "meter": "11 & 8",
+      "timeSignature": "2/4",
+      "key": "G Aeolian",
+      "textAttribution": {
+        "credit": "Joseph Swain"
+      },
+      "musicAttribution": {
+        "credit": "Anonymous",
+        "year": "1813"
+      },
+      "verseCount": 10
+    },
+    "39t": {
+      "title": "Rockingham",
+      "firstLine": "Salvation! O the joyful sound, what pleasure to our ears",
+      "meter": "C.M.",
+      "timeSignature": "3/2",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Amzi Chapin",
+        "year": "1813"
+      },
+      "verseCount": 1
+    },
+    "39b": {
+      "title": "Unitia",
+      "firstLine": "O tell me no more of this world's vain store",
+      "meter": "10,11,10,11",
+      "timeSignature": "3/4",
+      "key": "G Major",
+      "textAttribution": {
+        "credit": "John Gambold"
+      },
+      "musicAttribution": {
+        "credit": "Chapin",
+        "year": "1813"
+      },
+      "verseCount": 1
+    },
+    "40": {
+      "title": "Ganges",
+      "firstLine": "Awak'd by Sinai's awful sound, my soul in guilt and thrall I found",
+      "meter": "8,8,6",
+      "key": "D Major",
+      "textAttribution": {
+        "credit": "Samson Occom"
+      },
+      "musicAttribution": {
+        "credit": "Anonymous",
+        "year": "1798"
+      },
+      "verseCount": 7
+    },
+    "41": {
+      "title": "Wabash",
+      "firstLine": "'Tis winter now; the fallen snow has left the heav'ns all coldly clear",
+      "meter": "LMD",
+      "timeSignature": "2/4",
+      "key": "G Aeolian",
+      "textAttribution": {
+        "credit": "Samuel Longfellow",
+        "year": "1819-1892"
+      },
+      "musicAttribution": {
+        "credit": "Thomas Commuck, arr. James P. Page",
+        "year": "1804-1855"
+      },
+      "source": {
+        "citedAbbr": "Thomas Commuck's Indian Melodies (1845)",
+        "page": "27"
+      },
+      "verseCount": 2,
+      "historicalNote": "Text drawn from Longfellow's 'Hymn of Winter' (1859), verses 1 & 3.",
+      "copyrightNotice": "Copyright (c) 1988 James Philip Page. All rights reserved."
+    },
+    "42": {
+      "title": "Experience",
+      "firstLine": "To see a World in a Grain of Sand and a Heaven in a Wild Flow'r",
+      "key": "E Aeolian",
+      "textAttribution": {
+        "credit": "William Blake",
+        "year": "1757-1827"
+      },
+      "musicAttribution": {
+        "credit": "James P. Page"
+      },
+      "historicalNote": "Text: Blake's 'Auguries of Innocence' (1803?), lines 1-4 & 129-132.",
+      "copyrightNotice": "Copyright (c) 1991 James Philip Page. All rights reserved."
+    },
+    "44": {
+      "title": "Converse",
+      "firstLine": "I'm tir'd of visits, modes and forms, and flatt'ries paid to fellow worms",
+      "meter": "8,8,6,8,8,8,6",
+      "key": "A Major",
+      "musicAttribution": {
+        "credit": "James C. Lowry",
+        "year": "1820"
+      },
+      "verseCount": 1
+    },
+    "45": {
+      "title": "Narrow Space",
+      "firstLine": "Lo! on a narrow neck of land, 'twixt two unbounded seas I stand",
+      "meter": "8,8,6",
+      "timeSignature": "4/4",
+      "key": "A Major",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "S. R. Penick",
+        "year": "1850"
+      },
+      "verseCount": 1
+    },
+    "46": {
+      "title": "Cornwall",
+      "firstLine": "Lo! on a narrow neck of land, 'twixt two unbounded seas I stand, yet how insensible!",
+      "textAttribution": {
+        "credit": "Charles Wesley",
+        "year": "1707-1788"
+      },
+      "musicAttribution": {
+        "credit": "James P. Page"
+      },
+      "copyrightNotice": "Copyright (c) 1991 James Philip Page. All rights reserved."
+    }
+  },
+  "states": [],
+  "scholarlyRecord": null,
+  "sources": [],
+  "relationships": [],
+  "publicationStatus": "draft",
+  "internalNote": "Built directly from wisconsin_harmony_extraction_1.csv, a real per-song extraction Kevin provided (24 songs, pages 19-46), rather than freshly researched. Edition year confirmed by Kevin as 1992, matching the existing Library Work record - individual songs' own copyright notices in the source data range 1988-1991, which is ordinary: a compilation's songs are necessarily written before the book itself is published, not a discrepancy to reconcile. compiler here (\"James Philip Page\") uses the fuller name that appears repeatedly in the source data's own copyright notices, rather than the existing Work record's shorter \"James Page\"."
+}

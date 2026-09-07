@@ -1,0 +1,16 @@
+{
+  "name": "minutes-suite-tests",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dev-only regression test suite for the Minutes suite. Not part of the distributed app itself - Capture, Compile, and Tunebooks remain plain static HTML files with no build step or dependencies of their own. This folder tests them from the outside using Node's built-in test runner and jsdom.",
+  "scripts": {
+    "test": "node --test \"*.test.js\""
+  },
+  "engines": {
+    "node": ">=22.22.2"
+  },
+  "devDependencies": {
+    "jsdom": "^30.0.1",
+    "papaparse": "^5.5.4"
+  }
+}
