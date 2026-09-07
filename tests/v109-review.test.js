@@ -137,7 +137,10 @@ describe('v109 review, finding 3 (BLOCKER): Bulk Save must validate a complete c
 
     doc.getElementById('tab-bulk').click();
     await wait(300);
-    const ahRow = [...doc.querySelectorAll('#bulkTableBody tr')].find((r) => r.querySelector('td').textContent === 'AH');
+    // ANC (a real, stable bare Work with no Edition) stands in here - AH (The American
+    // Harmony) was merged into AHI on 2026-09-07 once Kevin confirmed they were duplicate
+    // entries for one book, so AH no longer exists as a row to find in this table.
+    const ahRow = [...doc.querySelectorAll('#bulkTableBody tr')].find((r) => r.querySelector('td').textContent === 'ANC');
     const titleInput = ahRow.querySelector('[data-field="titleProper"]');
     titleInput.value = '';
     titleInput.dispatchEvent(new win.Event('input', { bubbles: true }));

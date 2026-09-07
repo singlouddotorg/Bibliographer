@@ -1,0 +1,4942 @@
+{
+  "editionId": "e_HoA1973",
+  "workId": "w_HoA",
+  "editionCode": "HoA1973",
+  "editionIdentifierYear": "1973",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "Harp of Ages",
+    "publicationYear": "1973",
+    "notes": "Compiled originally by Archibald Newton Whitten (first edition 1925). This 1973 edition/printing carries copyright lines reading \"Copyright © 1973 by Harp Of Ages, Inc., in ‘Harp of Ages.’ All Rights Reserved\" on numerous individual songs, indicating Harp Of Ages, Inc. as the rights holder for new material added by this printing; no separate title-page or front-matter data has been supplied for this specific edition beyond the song index itself. Numbering (Kevin's correction, 2026-09-07): the numbers keying this file's songs are SONG numbers, not printed page numbers. Pages 1-12 are front matter/rudiments; Song 1 begins after that (physically around page 13), and the book is unpaginated from there on - every song is identified by its song number alone, never a printed page number. Any resemblance to a 'page' in this file's own key names or in other Level 3 files' page-based keying is coincidental to this book."
+  },
+  "states": [],
+  "scholarlyRecord": null,
+  "sources": [],
+  "relationships": [],
+  "publicationStatus": "draft",
+  "internalNote": "Built from Kevin's own per-song extraction CSV (Harp_of_Ages_1973_index.csv), 438 songs. Real per-song data (meter, time signature, key, first line, text/music/harmonization attribution, source citations, scripture references, verse counts, historical notes, copyright notices, catalog codes) transcribed directly from the CSV with no enrichment or invention added. No scholarlyRecord section (publication history, bibliography) exists yet - unlike ScH1855/SoH1854, no dedicated research pass has been done for this book. publicationStatus is \"draft\" for the same reason: real per-song data, but not yet reviewed as an assembled scholarly record. IMPORTANT, per Kevin's own correction (2026-09-07): the CSV's numbering column, and therefore every key in this file's songs object, is SONG NUMBER, not printed page number - pages 1-12 are unpaginated front matter/rudiments, Song 1 starts after that, and the book carries no printed page numbers at all from there on. My first pass here mislabeled this as a page-number scheme and mis-described the first correction below as a 'page number correction'; it's really a song-numbering one. The lettered/half-numbered identifiers (22A, 65½, 109a, 200-A) are this book's own irregular SONG-number insertions between two whole numbers, not this project's usual t/b split-page suffixes for a shared printed page, and are preserved exactly as given in the source CSV.",
+  "songs": {
+    "1": {
+      "title": "Sessions",
+      "meter": "L.M.",
+      "timeSignature": "2/2",
+      "firstLine": "To Him who on the fatal tree",
+      "musicAttribution": {
+        "credit": "L. O. Emerson"
+      },
+      "verseCount": 3,
+      "historicalNote": "SONG NUMBER CORRECTED: source CSV gave this song's number as 12, but 12 is also correctly used (in normal sequence) by \"Mercy-Seat\" later in the same index, and song number 1 does not otherwise appear anywhere in the 438-row index. Pages 1-12 of the book are front matter/rudiments, and Song 1 is the first tune after that - resolved here as Song 1 (likely a \"1\"/\"12\" mix-up with the front matter's own page count on this first row), unconfirmed against the actual printed book."
+    },
+    "2": {
+      "title": "Exhortation",
+      "meter": "C.M.",
+      "timeSignature": "6/4",
+      "firstLine": "Lord, in the morning Thou shalt hear my voice",
+      "verseCount": 3
+    },
+    "3": {
+      "title": "Olney",
+      "meter": "8s and 7s",
+      "timeSignature": "2/4",
+      "firstLine": "Come, Thou fount of ev'ry blessing, Tune my heart to sing Thy grace;",
+      "musicAttribution": {
+        "credit": "Chapin"
+      },
+      "verseCount": 5
+    },
+    "4": {
+      "title": "Oliphant",
+      "meter": "8s, 7s and 4s",
+      "timeSignature": "6/4",
+      "firstLine": "Guide me, O Thou great Jehovah, Pilgrim thro' this barren land;",
+      "musicAttribution": {
+        "credit": "Arr. by Dr. L. Mason"
+      },
+      "verseCount": 3
+    },
+    "5": {
+      "title": "Social Band",
+      "meter": "L.M.",
+      "timeSignature": "2/2",
+      "firstLine": "Say now, ye lovely social band; Who walk the way to Canaan's land;",
+      "verseCount": 5
+    },
+    "6": {
+      "title": "Martyn",
+      "meter": "7s",
+      "timeSignature": "6/4",
+      "firstLine": "Jesus, Lover of my soul, Let me to Thy bosom fly,",
+      "musicAttribution": {
+        "credit": "Marsh"
+      },
+      "verseCount": 4
+    },
+    "7": {
+      "title": "Parting Hand",
+      "meter": "L.M.",
+      "timeSignature": "6/4",
+      "firstLine": "My Christian friends in bonds of love, Whose hearts in sweetest union prove",
+      "musicAttribution": {
+        "credit": "Wm. Walker"
+      },
+      "verseCount": 5
+    },
+    "8": {
+      "title": "Bozrah",
+      "meter": "7s",
+      "timeSignature": "6/4",
+      "firstLine": "Who is this who comes from far, With His garments dipped in blood.",
+      "verseCount": 3
+    },
+    "9": {
+      "title": "Land of Promise",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "There is a house not made with hands, Eternal and on high,",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "A. S. Kieffer"
+      },
+      "verseCount": 2
+    },
+    "10": {
+      "title": "Mear",
+      "meter": "C.M.",
+      "timeSignature": "3/4",
+      "firstLine": "How did my heart rejoice to hear My friends devoutly say,",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "Welsh Air"
+      },
+      "verseCount": 6
+    },
+    "11": {
+      "title": "Happy Land",
+      "meter": "P.M.",
+      "timeSignature": "6/4",
+      "firstLine": "There is a happy land, Far, far away, Where saints in glory stand",
+      "musicAttribution": {
+        "credit": "L. P. Breedlove"
+      },
+      "verseCount": 3
+    },
+    "12": {
+      "title": "Mercy-Seat",
+      "timeSignature": "4/4",
+      "firstLine": "From ev'ry stormy wind that blows From ev'ry swelling tide of woes",
+      "verseCount": 6
+    },
+    "13": {
+      "title": "How Sweet to Die",
+      "timeSignature": "4/4",
+      "firstLine": "Farewell, vain world, I'm going home, My Saviour bids me come",
+      "textAttribution": {
+        "credit": "A. N. W."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten"
+      },
+      "verseCount": 4,
+      "historicalNote": "In memory of Eld. S. A. Paine, and his last words, \\O how sweet to die.\\\"\""
+    },
+    "14": {
+      "title": "Greenville",
+      "meter": "8s & 7s",
+      "timeSignature": "6/4",
+      "firstLine": "Sweet the moments, rich in blessing, Which before the cross I spend",
+      "musicAttribution": {
+        "credit": "J. J. Rousseau"
+      },
+      "verseCount": 4
+    },
+    "15": {
+      "title": "Windham",
+      "meter": "L.M.",
+      "timeSignature": "2/2",
+      "firstLine": "Broad is the road that leads to death, And thousands walk together there",
+      "musicAttribution": {
+        "credit": "Reed"
+      },
+      "verseCount": 4
+    },
+    "16": {
+      "title": "Jesus, Saviour, Pilot Me",
+      "timeSignature": "6/4",
+      "firstLine": "Jesus, Saviour, pilot me Over life's tempestuous sea",
+      "textAttribution": {
+        "credit": "E. Hopper"
+      },
+      "verseCount": 3
+    },
+    "17": {
+      "title": "Tender Care",
+      "meter": "C.M.",
+      "timeSignature": "2/4",
+      "firstLine": "When all Thy mercies, O my God, My rising soul surveys",
+      "musicAttribution": {
+        "credit": "P. M. Ackley"
+      },
+      "verseCount": 2
+    },
+    "18": {
+      "title": "Ortonville",
+      "meter": "C.M.",
+      "timeSignature": "12/4",
+      "firstLine": "How sweet the name of Jesus sounds In a believer's ear!",
+      "verseCount": 7
+    },
+    "19": {
+      "title": "Pleading Saviour",
+      "meter": "8s & 7s",
+      "timeSignature": "3/4",
+      "firstLine": "Gently, Lord, O gently lead us, Thro' this lonely vale of tears",
+      "musicAttribution": {
+        "credit": "Wm. Walker"
+      },
+      "verseCount": 2
+    },
+    "20": {
+      "title": "Saint's Delight",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "In all my Lord's appointed ways, My journey I'll pursue",
+      "musicAttribution": {
+        "credit": "F. Price"
+      },
+      "verseCount": 4
+    },
+    "21": {
+      "title": "Corinth",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Jesus, and shall it ever be, A mortal man ashamed of Thee!",
+      "musicAttribution": {
+        "credit": "John Massengale"
+      },
+      "verseCount": 6
+    },
+    "22": {
+      "title": "Sharpsburg",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Bless Jesus, while in mortal flesh I hold my frail abode",
+      "musicAttribution": {
+        "credit": "J. P. Rees and A. T. Shell"
+      },
+      "verseCount": 3
+    },
+    "22A": {
+      "title": "Doxology",
+      "meter": "L.M.",
+      "timeSignature": "3/4",
+      "firstLine": "Praise God, from whom all blessings flow;",
+      "textAttribution": {
+        "credit": "Thos. Rice"
+      },
+      "musicAttribution": {
+        "credit": "L. O. Emerson"
+      },
+      "sourceCited": {
+        "abbreviation": "Sessions"
+      },
+      "verseCount": 1
+    },
+    "23": {
+      "title": "Cross of Christ",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Did Christ the great example lead For all His humble train;",
+      "musicAttribution": {
+        "credit": "L. P. Breedlove"
+      },
+      "verseCount": 3
+    },
+    "24": {
+      "title": "Devotion",
+      "meter": "L.M.",
+      "timeSignature": "2/2",
+      "firstLine": "Show pity, Lord, O Lord, forgive, Let a repenting rebel live;",
+      "verseCount": 5
+    },
+    "25": {
+      "title": "Nettleton",
+      "meter": "8s. & 7s. D.",
+      "timeSignature": "6/4",
+      "firstLine": "Come, Thou fount of ev'ry blessing, Tune my heart to sing Thy grace!",
+      "textAttribution": {
+        "credit": "Robinson."
+      },
+      "sourceCited": {
+        "abbreviation": "J. Wyeth's Coll."
+      },
+      "verseCount": 3
+    },
+    "26": {
+      "title": "Green Fields",
+      "meter": "8s.",
+      "timeSignature": "4/4",
+      "firstLine": "How tedious and tasteless the hours, When Jesus no longer I see!",
+      "verseCount": 3
+    },
+    "27": {
+      "title": "Webster",
+      "meter": "S.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Awake and sing the song Of Moses and the Lamb;",
+      "verseCount": 4
+    },
+    "28": {
+      "title": "Guide",
+      "meter": "7s. D.",
+      "timeSignature": "3/4",
+      "firstLine": "Holy Spirit, faithful guide, Ever near the Christian's side,",
+      "textAttribution": {
+        "credit": "M. M. Wells."
+      },
+      "musicAttribution": {
+        "credit": "Marcus Morris Wells."
+      },
+      "verseCount": 3
+    },
+    "29": {
+      "title": "Downs",
+      "meter": "C.M.",
+      "timeSignature": "3/2",
+      "firstLine": "Lord, I believe: Thy pow'r I own, Thy word I would obey;",
+      "musicAttribution": {
+        "credit": "Dr. Lowell Mason."
+      },
+      "verseCount": 4
+    },
+    "30": {
+      "title": "New Britain",
+      "meter": "C.M.",
+      "timeSignature": "3/4",
+      "firstLine": "Amazing grace! how sweet the sound That saved a wretch like me!",
+      "musicAttribution": {
+        "credit": "Chapin."
+      },
+      "verseCount": 6
+    },
+    "31": {
+      "title": "Ninety-Third",
+      "meter": "S.M.",
+      "timeSignature": "3/2",
+      "firstLine": "Grace, 'tis a charming sound, Harmonious to the ear!",
+      "musicAttribution": {
+        "credit": "John R. Daily"
+      },
+      "verseCount": 6
+    },
+    "32": {
+      "title": "Idumea",
+      "meter": "S.M.",
+      "timeSignature": "3/2",
+      "firstLine": "And am I born to die? To lay this body down!",
+      "verseCount": 4
+    },
+    "33": {
+      "title": "Soft Music",
+      "meter": "7, 6, 7, 7.",
+      "timeSignature": "6/4",
+      "firstLine": "Soft, soft music is stealing, Sweet, sweet lingers the strain;",
+      "musicAttribution": {
+        "credit": "B. F. White."
+      },
+      "verseCount": 3
+    },
+    "34": {
+      "title": "Wake With God",
+      "meter": "L.M.",
+      "timeSignature": "2/2",
+      "firstLine": "Lord, how delightful 'tis to see A whole assembly worship Thee",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "L. O. Emerson."
+      },
+      "verseCount": 4
+    },
+    "35": {
+      "title": "Satisfied",
+      "timeSignature": "3/4",
+      "firstLine": "O'er the river I'll abide, Live there forever Satisfied.",
+      "textAttribution": {
+        "credit": "J. R. B., Jr."
+      },
+      "musicAttribution": {
+        "credit": "J. R. Baxter, Jr."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright, 1949, by Stamps-Baxter Music & Printing Co. in “Boundless Love”"
+    },
+    "36": {
+      "title": "Struggle On",
+      "timeSignature": "6/4",
+      "firstLine": "Our praying time will soon be o'er, Hallelujah, We'll join with those who've gone before,",
+      "musicAttribution": {
+        "credit": "H. S. Rees"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by A. N. Whitten."
+      },
+      "verseCount": 2
+    },
+    "37": {
+      "title": "Hebron",
+      "meter": "L.M.",
+      "timeSignature": "6/4",
+      "firstLine": "Thus far the Lord has led me on; Thus far His pow'r prolongs my days;",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "Dr. L. Mason."
+      },
+      "verseCount": 4
+    },
+    "37A": {
+      "title": "My Soul, Be On Thy Guard",
+      "timeSignature": "4/4",
+      "firstLine": "My soul, be on Thy guard; Ten thousand foes arise;",
+      "textAttribution": {
+        "credit": "George Heath"
+      },
+      "musicAttribution": {
+        "credit": "Lowell Mason"
+      },
+      "verseCount": 4
+    },
+    "38": {
+      "title": "Sweet Rivers",
+      "timeSignature": "4/4",
+      "firstLine": "Sweet rivers of redeeming love Lie just before mine eyes;",
+      "verseCount": 4
+    },
+    "39": {
+      "title": "Passing Away",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Sweet to rejoice in lively hope, That, when my change shall come,",
+      "musicAttribution": {
+        "credit": "John A. Watson."
+      },
+      "verseCount": 6
+    },
+    "40": {
+      "title": "All To Christ I Owe",
+      "timeSignature": "3/4",
+      "firstLine": "I hear the Saviour say, Thy strength indeed is small;",
+      "textAttribution": {
+        "credit": "Mrs. Elvina M. Hall,"
+      },
+      "musicAttribution": {
+        "credit": "John T. Grape, by per."
+      },
+      "verseCount": 5
+    },
+    "41": {
+      "title": "Preservation",
+      "meter": "C.M.",
+      "timeSignature": "2/4",
+      "firstLine": "Now in Thy praise, eternal King, Be all my thoughts employed;",
+      "musicAttribution": {
+        "credit": "John R. Daily"
+      },
+      "verseCount": 4
+    },
+    "42": {
+      "title": "Conquering Love",
+      "timeSignature": "3/4",
+      "firstLine": "The voice of my Beloved spake And sweetly said to me.",
+      "textAttribution": {
+        "credit": "Elder John R. Daily"
+      },
+      "musicAttribution": {
+        "credit": "Elder John R. Daily"
+      },
+      "scriptureReference": "Song of Solomon 2:8-13",
+      "verseCount": 4
+    },
+    "43": {
+      "title": "Gospel Trumpet",
+      "meter": "7s and 6s.",
+      "timeSignature": "4/4",
+      "firstLine": "Behold the mount of Zion, The city of our God!",
+      "textAttribution": {
+        "credit": "Vanmeter."
+      },
+      "musicAttribution": {
+        "credit": "Arr."
+      },
+      "verseCount": 4
+    },
+    "44": {
+      "title": "Pleasant Hill",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Religion is the chief concern Of mortals here below;",
+      "verseCount": 3
+    },
+    "45": {
+      "title": "Sweet Hour of Prayer",
+      "meter": "8s",
+      "timeSignature": "6/8",
+      "firstLine": "Sweet hour of prayer! sweet hour of prayer! That calls me from a world of care,",
+      "textAttribution": {
+        "credit": "W. W. Walford."
+      },
+      "musicAttribution": {
+        "credit": "Wm. B. Bradbury.",
+        "year": "1859"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright, 1859, by Wm. B. Bradbury. Used by permission of Biglow & Main."
+    },
+    "46": {
+      "title": "Tennessee",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Afflictions, tho' they seem severe, In mercy oft are sent;",
+      "verseCount": 4
+    },
+    "47": {
+      "title": "White",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Ye fleeting charms of earth, farewell, Your springs of joy are dry;",
+      "musicAttribution": {
+        "credit": "E. Dumas."
+      },
+      "verseCount": 5
+    },
+    "48": {
+      "title": "The Land of Rest",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "There is a land of pure delight, Where saints immortal reign;",
+      "musicAttribution": {
+        "credit": "James G. Douthit and Wm. Walker."
+      },
+      "verseCount": 6
+    },
+    "49": {
+      "title": "When I Am Gone",
+      "timeSignature": "2/4",
+      "firstLine": "Shed not a tear o'er a friend's early bier, When I am gone,",
+      "verseCount": 3
+    },
+    "50": {
+      "title": "Bethany",
+      "meter": "6s. & 4s.",
+      "timeSignature": "6/4",
+      "firstLine": "Nearer, my God, to Thee, Nearer to Thee;",
+      "textAttribution": {
+        "credit": "Sarah Flower Adams."
+      },
+      "musicAttribution": {
+        "credit": "L. Mason"
+      },
+      "verseCount": 5
+    },
+    "51": {
+      "title": "Peaceful Slumber",
+      "timeSignature": "4/4",
+      "firstLine": "Thou art gone, our precious loved one, Never more canst thou return;",
+      "textAttribution": {
+        "credit": "A. N. W."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten."
+      },
+      "verseCount": 4,
+      "copyrightNotice": "A. N. Whitten, owner, 1924."
+    },
+    "52": {
+      "title": "Beyond",
+      "timeSignature": "4/4",
+      "firstLine": "There's a city bright and fair, Just beyond, beyond the river,",
+      "textAttribution": {
+        "credit": "Fred. Woodrow."
+      },
+      "musicAttribution": {
+        "credit": "Arr. by A. N. Whitten."
+      },
+      "verseCount": 4
+    },
+    "53": {
+      "title": "Wondrous Love",
+      "meter": "12, 9, 6, 6, 12, 9.",
+      "timeSignature": "2/4",
+      "firstLine": "What wondrous love is this, O my soul! O my soul! What wondrous love is this,",
+      "musicAttribution": {
+        "credit": "J. Christopher"
+      },
+      "verseCount": 5
+    },
+    "54": {
+      "title": "Garden",
+      "meter": "C.P.M.",
+      "timeSignature": "6/8",
+      "firstLine": "Awak'd by Sinai's awful sound, My soul in guilt and thrall I found,",
+      "textAttribution": {
+        "credit": "S. Occom."
+      },
+      "musicAttribution": {
+        "credit": "J. Ingalls."
+      },
+      "verseCount": 5
+    },
+    "55": {
+      "title": "Remembers",
+      "meter": "8s & 6s.",
+      "timeSignature": "4/4",
+      "firstLine": "Amid the sorrows of the way, Thro' starless night and cloudy day,",
+      "textAttribution": {
+        "credit": "J. R. D."
+      },
+      "musicAttribution": {
+        "credit": "Arr. by A. N. Whitten."
+      },
+      "verseCount": 3
+    },
+    "56": {
+      "title": "Am I a Soldier of the Cross?",
+      "timeSignature": "3/4",
+      "firstLine": "Am I a soldier of the cross, A follower of the Lamb?",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "L. P. Breedlove."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by W. M. McGee."
+      },
+      "verseCount": 3
+    },
+    "57": {
+      "title": "Better Farther On",
+      "timeSignature": "2/4",
+      "firstLine": "Oft I hear hope sweetly singing, Softly in an undertone;",
+      "textAttribution": {
+        "credit": "A. N. W."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "A. N. Whitten, owner, 1924."
+    },
+    "58": {
+      "title": "There Is a Fountain",
+      "timeSignature": "4/4",
+      "firstLine": "There is a fountain filled with blood, Drawn from Immanuel's veins,",
+      "textAttribution": {
+        "credit": "Wm. Cowper, 1779."
+      },
+      "musicAttribution": {
+        "credit": "Western Melody."
+      },
+      "verseCount": 5
+    },
+    "59": {
+      "title": "Over the River",
+      "timeSignature": "2/4",
+      "firstLine": "When our work is ended, we shall sweetly rest, Mid the sainted spirits,",
+      "textAttribution": {
+        "credit": "Kate Cameron"
+      },
+      "musicAttribution": {
+        "credit": "R. M. McIntosh."
+      },
+      "verseCount": 3,
+      "historicalNote": "This hymn was suggested by the last and dying words of Stonewall Jackson. The closing lines of the Chorus are in his own language."
+    },
+    "60": {
+      "title": "Words of Love",
+      "meter": "8s and 7s. Double.",
+      "timeSignature": "3/4",
+      "firstLine": "By and by, O weary brother, By and by all toil will cease,",
+      "textAttribution": {
+        "credit": "A. J. S."
+      },
+      "musicAttribution": {
+        "credit": "G. W. Kesler."
+      },
+      "verseCount": 3
+    },
+    "61": {
+      "title": "Zion",
+      "timeSignature": "3/4",
+      "firstLine": "On the mountain's top appearing, Lo! the sacred herald stands",
+      "textAttribution": {
+        "credit": "Thos. Kelly"
+      },
+      "musicAttribution": {
+        "credit": "Thos. Hastings"
+      },
+      "verseCount": 4
+    },
+    "61A": {
+      "title": "Gracious Saviour, I Am Thine",
+      "timeSignature": "6/8",
+      "firstLine": "Gracious Saviour, I am Thine, I would Thine forever be;",
+      "textAttribution": {
+        "credit": "A. C. Lenge; Re-written by H. N. L."
+      },
+      "musicAttribution": {
+        "credit": "H. N. Lincoln."
+      },
+      "verseCount": 3
+    },
+    "62": {
+      "title": "Mother, Tell Me of the Angels",
+      "timeSignature": "4/4",
+      "firstLine": "Mother, tell me of the angels, Tell me of that joyous band;",
+      "musicAttribution": {
+        "credit": "Wyatt Minshall."
+      },
+      "verseCount": 3
+    },
+    "63": {
+      "title": "I Would See Jesus",
+      "timeSignature": "6/4",
+      "firstLine": "I would see Jesus when the flow'rs Of joy adorn my way;",
+      "musicAttribution": {
+        "credit": "L. P. Breedlove"
+      },
+      "verseCount": 4
+    },
+    "64": {
+      "title": "Canaan's Land",
+      "meter": "C.M.D.",
+      "timeSignature": "4/4",
+      "firstLine": "Oh, for a breeze of heav'nly love, To waft my soul away",
+      "musicAttribution": {
+        "credit": "E. I. King."
+      },
+      "verseCount": 3
+    },
+    "65": {
+      "title": "Happy To Meet Again",
+      "timeSignature": "6/4",
+      "firstLine": "Brethren, we have met again; Let us join to pray and sing;",
+      "textAttribution": {
+        "credit": "Anon."
+      },
+      "musicAttribution": {
+        "credit": "J. P. Rees."
+      },
+      "verseCount": 6
+    },
+    "65½": {
+      "title": "Parting, When Langour And Disease Invade",
+      "timeSignature": "3/4",
+      "firstLine": "When languor and disease invade This trembling house of clay",
+      "textAttribution": {
+        "credit": "Toplady."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten."
+      },
+      "verseCount": 6
+    },
+    "66": {
+      "title": "Firm Foundation",
+      "timeSignature": "2/2",
+      "firstLine": "How firm a foundation, ye saints of the Lord, Is laid for your faith",
+      "textAttribution": {
+        "year": "George Keith, 1787"
+      },
+      "musicAttribution": {
+        "credit": "Anne Steele."
+      },
+      "verseCount": 7
+    },
+    "67": {
+      "title": "The Beautiful Land",
+      "timeSignature": "4/4",
+      "firstLine": "There's a beautiful land far beyond the sky, And Jesus, my Saviour, is there",
+      "musicAttribution": {
+        "credit": "H. E. Engle."
+      },
+      "verseCount": 3
+    },
+    "68": {
+      "title": "Enough For Me",
+      "timeSignature": "4/4",
+      "firstLine": "O love surpassing knowledge! O grace so full and free!",
+      "textAttribution": {
+        "credit": "E. A. H."
+      },
+      "musicAttribution": {
+        "credit": "Rev. E. A. Hoffman."
+      },
+      "verseCount": 3
+    },
+    "69": {
+      "title": "Over There",
+      "timeSignature": "4/4",
+      "firstLine": "Oh, think of the home over there, By the side of the river of light,",
+      "textAttribution": {
+        "credit": "Rev. D. W. C. Huntington."
+      },
+      "musicAttribution": {
+        "credit": "T. C. O'Kane."
+      },
+      "verseCount": 2
+    },
+    "70": {
+      "title": "God Be With You",
+      "timeSignature": "4/4",
+      "firstLine": "God be with you till we meet again; By His counsels guide, uphold you;",
+      "textAttribution": {
+        "credit": "J. E. Rankin."
+      },
+      "musicAttribution": {
+        "credit": "W. E. Tomer, by per."
+      },
+      "verseCount": 4
+    },
+    "71": {
+      "title": "Columbus",
+      "timeSignature": "6/4",
+      "firstLine": "Oh, once I had a glorious view, Of my redeeming Lord,",
+      "musicAttribution": {
+        "credit": "Arr."
+      },
+      "verseCount": 5
+    },
+    "72": {
+      "title": "Wayfaring Stranger",
+      "timeSignature": "4/4",
+      "firstLine": "I am a poor, wayfaring stranger, While journeying thro' this world of woe;",
+      "textAttribution": {
+        "credit": "Eld. C. G. Keith."
+      },
+      "musicAttribution": {
+        "credit": "Eld. C. G. Keith."
+      },
+      "verseCount": 4
+    },
+    "73": {
+      "title": "Dear Mother",
+      "timeSignature": "4/4",
+      "firstLine": "I hear the low winds sighing, Among the bowers that wave; Beneath dear",
+      "textAttribution": {
+        "credit": "A. N. W."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten."
+      },
+      "verseCount": 3
+    },
+    "74": {
+      "title": "No Vacant Seats in Heaven",
+      "timeSignature": "4/4",
+      "firstLine": "Our hearts are filled with sorrow, When Jesus calls to claim His own.",
+      "textAttribution": {
+        "credit": "Mrs. J. B. Edwards"
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten Harmony"
+      },
+      "verseCount": 3,
+      "historicalNote": "Composed by Mrs. J. B. Edwards after hearing a sermon preached by Elder E. C. Mahurin."
+    },
+    "75": {
+      "title": "All Hail the Power of Jesus' Name",
+      "timeSignature": "4/4",
+      "firstLine": "All hail the pow'r of Jesus' name, Let angels prostrate fall;",
+      "musicAttribution": {
+        "credit": "A. N. Whitten"
+      },
+      "verseCount": 4
+    },
+    "76": {
+      "title": "By and By",
+      "timeSignature": "3/4",
+      "firstLine": "Over Jordan we shall meet, By and by, by and by;",
+      "textAttribution": {
+        "credit": "W. T. D."
+      },
+      "musicAttribution": {
+        "credit": "Rev. W. T. Dale."
+      },
+      "verseCount": 4
+    },
+    "77": {
+      "title": "Beyond the Golden Sunset Sky",
+      "timeSignature": "2/4",
+      "firstLine": "Beyond the golden sunset sky, Beyond the rolling wave,",
+      "textAttribution": {
+        "credit": "W. C. H."
+      },
+      "musicAttribution": {
+        "credit": "W. C. Hafle."
+      },
+      "verseCount": 4
+    },
+    "78": {
+      "title": "We'll Wait Till Jesus Comes",
+      "timeSignature": "2/4",
+      "firstLine": "Oh, land of rest for Thee I sigh, When will the moment come,",
+      "textAttribution": {
+        "credit": "Mrs. Elizabeth Mills."
+      },
+      "musicAttribution": {
+        "credit": "Dr. Wm. Miller."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by W. J. K."
+      },
+      "verseCount": 4
+    },
+    "79": {
+      "title": "The Great Physician",
+      "timeSignature": "2/2",
+      "firstLine": "The great Physician now is near, The sympathizing Jesus;",
+      "textAttribution": {
+        "credit": "Rev. Wm. Hunter."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by Rev. J. H. Stockton."
+      },
+      "verseCount": 7
+    },
+    "80": {
+      "title": "Thorny Desert",
+      "timeSignature": "6/8",
+      "firstLine": "Dark and thorny is the desert Thro' which pilgrims make their way,",
+      "musicAttribution": {
+        "credit": "William Walker"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. Roland Green"
+      },
+      "sourceCited": {
+        "abbreviation": "The Christian Harmony"
+      },
+      "verseCount": 5,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission"
+    },
+    "81": {
+      "title": "Morality",
+      "timeSignature": "2/2",
+      "firstLine": "While beauty and youth are in their full prime, And folly and fashion affect our whole time;",
+      "verseCount": 4
+    },
+    "81A": {
+      "title": "Rockingham",
+      "timeSignature": "3/4",
+      "firstLine": "O, for a thousand tongues to sing My great Redeemer's praise,",
+      "verseCount": 4
+    },
+    "82": {
+      "title": "Holy Manna",
+      "timeSignature": "4/4",
+      "firstLine": "Brethren, we have met to worship, And adore the Lord our God;",
+      "harmonizationAttribution": {
+        "credit": "Arr. by H. N. Lincoln."
+      },
+      "verseCount": 4
+    },
+    "83": {
+      "title": "Last Words",
+      "timeSignature": "4/4",
+      "firstLine": "Ye golden lamps of heav'n farewell, With all your feeble light;",
+      "musicAttribution": {
+        "credit": "Miss Sarah Lancaster."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto arr."
+      },
+      "verseCount": 1
+    },
+    "84": {
+      "title": "The City of Light",
+      "timeSignature": "3/4",
+      "firstLine": "There's a city of light 'mid the stars, we are told, Where they know not a sorrow or care;",
+      "textAttribution": {
+        "credit": "Words and Music by A. S. Kieffer."
+      },
+      "sourceCited": {
+        "abbreviation": "Ruebusch-Kieffer & Co."
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Used by permission of Ruebusch-Kieffer & Co."
+    },
+    "85": {
+      "title": "Angel Band",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "My latest sun is sinking fast, My race is nearly run;",
+      "verseCount": 4
+    },
+    "86": {
+      "title": "Raymond",
+      "meter": "C.M.",
+      "timeSignature": "5/4",
+      "firstLine": "My soul, come meditate the day, And think how near it stands",
+      "musicAttribution": {
+        "credit": "John G. McCurry."
+      },
+      "verseCount": 1
+    },
+    "87": {
+      "title": "Sherburne",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "While shepherds watched their flocks by night, All seated on the ground",
+      "verseCount": 1
+    },
+    "88": {
+      "title": "Primrose",
+      "meter": "C.M.",
+      "timeSignature": "3/4",
+      "firstLine": "Salvation! O the joyful sound! 'Tis pleasure to my ears;",
+      "musicAttribution": {
+        "credit": "Chapin."
+      },
+      "verseCount": 3
+    },
+    "89": {
+      "title": "My Dream",
+      "timeSignature": "2/4",
+      "firstLine": "I sat by my Saviour and looked on His face. 'Twas full of His glory and grace.",
+      "textAttribution": {
+        "credit": "J. M. Harris"
+      },
+      "musicAttribution": {
+        "credit": "J. M. Harris."
+      },
+      "verseCount": 5
+    },
+    "90": {
+      "title": "Stratfield",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Thro' ev'ry age, eternal God, Thou art our rest, our humble foot-stool, laid,",
+      "verseCount": 1
+    },
+    "91": {
+      "title": "Fair Haven",
+      "timeSignature": "4/8",
+      "firstLine": "Hail sweetest, dearest tie that binds Our glowing hearts in one;",
+      "musicAttribution": {
+        "credit": "Scotch Air."
+      },
+      "verseCount": 2
+    },
+    "92": {
+      "title": "From All That's Mortal",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "From all that's mortal, all that's vain, And from this earthly clod",
+      "textAttribution": {
+        "credit": "Adams"
+      },
+      "musicAttribution": {
+        "credit": "J. A. Adams"
+      },
+      "verseCount": 6
+    },
+    "93": {
+      "title": "Through the Shadow",
+      "timeSignature": "6/4",
+      "firstLine": "Master, O why do the clouds hang low? Why does the sun no longer glow;",
+      "textAttribution": {
+        "credit": "R. W. Cothern."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "A. N. Whitten, owner, 1925."
+    },
+    "94": {
+      "title": "Ballstown",
+      "meter": "L.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Great God, attend while Zion sings The joy that from thy presence springs;",
+      "verseCount": 3
+    },
+    "95": {
+      "title": "Singing in the Soul's Bright Home",
+      "timeSignature": "4/4",
+      "firstLine": "She has pass'd to the land of the mansions fair, Singing in the soul's bright home;",
+      "textAttribution": {
+        "credit": "S. M. Brown",
+        "year": "1895"
+      },
+      "musicAttribution": {
+        "credit": "S. M. Brown"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright, 1895, by S. M. Brown."
+    },
+    "96": {
+      "title": "Ester",
+      "meter": "L.M.",
+      "timeSignature": "3/4",
+      "firstLine": "Poor, weak and worthless tho’ I am, I have a rich, Almighty Friend;",
+      "musicAttribution": {
+        "credit": "John S. Terry."
+      },
+      "verseCount": 3
+    },
+    "96A": {
+      "title": "I Would Not Live Alway",
+      "timeSignature": "2/4",
+      "firstLine": "I would not live alway; I ask not to stay, Where storm after storm rises dark on the way;",
+      "verseCount": 5,
+      "copyrightNotice": "Owned by J. M. Benson."
+    },
+    "97": {
+      "title": "I'd Like to See Beyond the Veil",
+      "timeSignature": "6/8",
+      "firstLine": "Oh, paradise, sweet home above, Roll high your screen I pray",
+      "textAttribution": {
+        "credit": "Elder S. F. Moore"
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten"
+      },
+      "verseCount": 3
+    },
+    "98": {
+      "title": "It Is I",
+      "meter": "12s and 8s.",
+      "timeSignature": "4/4",
+      "firstLine": "When the storm in its fury on Galilee fell, And",
+      "textAttribution": {
+        "credit": "I. Baltzell."
+      },
+      "musicAttribution": {
+        "credit": "A. S. Kieffer."
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Used by permission of Ruebusch-Kieffert & Co."
+    },
+    "99": {
+      "title": "Glory Shone Around",
+      "timeSignature": "4/4",
+      "firstLine": "While shepherds watched their flocks by night, All seated on the ground,",
+      "musicAttribution": {
+        "credit": "T. J. Allen"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by Rev. D. C. Allen."
+      },
+      "verseCount": 1
+    },
+    "100": {
+      "title": "The Golden Harp",
+      "meter": "L.M.",
+      "timeSignature": "2/4",
+      "firstLine": "Come, Holy Spirit, calm my mind, To play on the golden harp,",
+      "musicAttribution": {
+        "credit": "J. P. Rees."
+      },
+      "verseCount": 6
+    },
+    "101": {
+      "title": "The Saints Bound for Heaven",
+      "timeSignature": "2/4",
+      "firstLine": "Our bondage, it shall end, by and by, by and by, Our",
+      "musicAttribution": {
+        "credit": "J. King and Wm. Walker."
+      },
+      "verseCount": 5
+    },
+    "102": {
+      "title": "Sweet By and By",
+      "timeSignature": "4/4",
+      "firstLine": "There's a land that is fairer than day, And by faith we can see it afar,",
+      "textAttribution": {
+        "credit": "S. Fillmore Bennett."
+      },
+      "musicAttribution": {
+        "credit": "Jos. P. Webster."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "By permission."
+    },
+    "103": {
+      "title": "Hallelujah",
+      "meter": "C.M.",
+      "timeSignature": "2/4",
+      "firstLine": "And let this feeble body fail, And let it faint and die;",
+      "musicAttribution": {
+        "credit": "Wm. Walker."
+      },
+      "verseCount": 4
+    },
+    "104": {
+      "title": "Ocean",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Thy works of glory, mighty Lord, That rules the boisterous sea,",
+      "musicAttribution": {
+        "credit": "Swan."
+      },
+      "verseCount": 1
+    },
+    "105": {
+      "title": "Alas and Did My Saviour Bleed?",
+      "timeSignature": "4/4",
+      "firstLine": "Alas and did my Saviour bleed? Alas and did",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "L. P. Breedlove."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto, Miss Lessie Green."
+      },
+      "verseCount": 2
+    },
+    "106": {
+      "title": "Redeeming Love",
+      "timeSignature": "3/4",
+      "firstLine": "O help us, Lord! each hour of need, Thy heav’nly succor give;",
+      "textAttribution": {
+        "credit": "Henry H. M’Mann."
+      },
+      "musicAttribution": {
+        "credit": "A. S. Kieffer."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "“Lord, help me.”—Matt. 15:25."
+    },
+    "107": {
+      "title": "Twilight Is Falling",
+      "timeSignature": "4/4",
+      "firstLine": "Twilight is stealing Over the sea, Shadows are falling Dark on the lea;",
+      "textAttribution": {
+        "credit": "A. S. Kieffer."
+      },
+      "musicAttribution": {
+        "credit": "B. C. Unseld."
+      },
+      "verseCount": 3
+    },
+    "108": {
+      "title": "Mother, Childhood, Friends and Home",
+      "timeSignature": "4/4",
+      "firstLine": "Twin’d with ev’ry earthly tie, Mem’ries sweet that cannot die,",
+      "musicAttribution": {
+        "credit": "A. S. Kieffer."
+      },
+      "verseCount": 2,
+      "copyrightNotice": "Used by permission of Ruebusch-Kiefer & Co."
+    },
+    "109": {
+      "title": "King of Peace",
+      "timeSignature": "6/8",
+      "firstLine": "’Tis a point I long to know, Oft it causes anxious thought,",
+      "harmonizationAttribution": {
+        "credit": "Arr. by F. Price."
+      },
+      "verseCount": 3
+    },
+    "109a": {
+      "title": "Children of the Heavenly King",
+      "timeSignature": "2/4",
+      "firstLine": "Children of the heav’nly King, As ye journey sweetly sing;",
+      "textAttribution": {
+        "credit": "John Cennick",
+        "year": "1742"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. H. F. Morris"
+      },
+      "verseCount": 4
+    },
+    "110": {
+      "title": "Kindred in Christ for His Dear Sake",
+      "timeSignature": "2/4",
+      "firstLine": "Kindred in Christ, for His dear sake, A hearty welcome here receive;",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "A. Chapin",
+        "year": "1898"
+      },
+      "scriptureReference": "Acts 10:33",
+      "verseCount": 5,
+      "historicalNote": "Christian fellowship."
+    },
+    "110A": {
+      "title": "Down by the Water Side",
+      "timeSignature": "2/4",
+      "firstLine": "Down by the water side we meet, To tread the path that Jesus trod",
+      "musicAttribution": {
+        "credit": "A. Chapin",
+        "year": "1898"
+      },
+      "scriptureReference": "Matt. ch. iii.",
+      "verseCount": 6
+    },
+    "111": {
+      "title": "Show Pity, Lord",
+      "timeSignature": "2/4",
+      "firstLine": "Show pity, Lord; O Lord forgive, Let a repenting rebel live;",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1709"
+      },
+      "musicAttribution": {
+        "credit": "Jno. Massengale"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto, W. M. C."
+      },
+      "verseCount": 3
+    },
+    "111A": {
+      "title": "Footsteps of Jesus",
+      "timeSignature": "2/4",
+      "firstLine": "Sweetly, Lord, have we heard Thee calling, Come follow me!",
+      "textAttribution": {
+        "credit": "Mrs. M. B. C. Slade."
+      },
+      "musicAttribution": {
+        "credit": "Dr. A. B. Everett."
+      },
+      "verseCount": 4
+    },
+    "112": {
+      "title": "She Is Sleeping",
+      "timeSignature": "3/4",
+      "firstLine": "She is sleeping, calmly sleeping, In a new-made grave to-day;",
+      "textAttribution": {
+        "credit": "Mrs. Underwood."
+      },
+      "musicAttribution": {
+        "credit": "Chas. Edw. Pollock."
+      },
+      "verseCount": 4
+    },
+    "113": {
+      "title": "Coronation",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "All hail the pow’r of Jesus’ name! Let angels prostrate fall;",
+      "musicAttribution": {
+        "credit": "O. Holden."
+      },
+      "verseCount": 5
+    },
+    "114": {
+      "title": "Condescension",
+      "timeSignature": "4/4",
+      "firstLine": "Jesus, in Thy transporting name What blissful glories rise;",
+      "verseCount": 4
+    },
+    "114A": {
+      "title": "Balerma",
+      "timeSignature": "3/4",
+      "firstLine": "Help us to help each other, Lord, Each other’s cross to bear;",
+      "musicAttribution": {
+        "credit": "C. Wesley"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by R. Simmon."
+      },
+      "scriptureReference": "Gal. 6:2",
+      "verseCount": 4
+    },
+    "114B": {
+      "title": "Traveling Pilgrim",
+      "timeSignature": "2/4",
+      "firstLine": "Farewell, vain world, I’m going home, Where there’s no more stormy clouds to rise.",
+      "musicAttribution": {
+        "credit": "H. S. Rees"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto, Mrs. R. D. B."
+      },
+      "verseCount": 2
+    },
+    "114C": {
+      "title": "Cross and Crown",
+      "timeSignature": "6/4",
+      "firstLine": "Must Jesus bear the cross alone, And all the world go free?",
+      "textAttribution": {
+        "credit": "Thos. Shepherd."
+      },
+      "musicAttribution": {
+        "credit": "Geo. N. Allen."
+      },
+      "verseCount": 5
+    },
+    "115": {
+      "title": "Beyond the Swelling Flood",
+      "timeSignature": "6/8",
+      "firstLine": "Yes, we will meet beyond the flood, In robes made white in",
+      "textAttribution": {
+        "credit": "A. E. Childs."
+      },
+      "musicAttribution": {
+        "credit": "J. H. Tenney."
+      },
+      "sourceCited": {
+        "abbreviation": "Golden Sunbeams"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "By permission."
+    },
+    "116": {
+      "title": "Newry",
+      "meter": "S.M.",
+      "timeSignature": "3/2",
+      "firstLine": "Great is the Lord our God, And let His praise be great;",
+      "musicAttribution": {
+        "credit": "M. C. H. Davis."
+      },
+      "verseCount": 5
+    },
+    "117": {
+      "title": "Deliverance Will Come",
+      "timeSignature": "2/4",
+      "firstLine": "I saw a way-worn traveler In tattered garments clad,",
+      "harmonizationAttribution": {
+        "credit": "Arr. by D. W. McDonald."
+      },
+      "verseCount": 6
+    },
+    "118": {
+      "title": "Fairfield",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Now in Thy praise, eternal King, Be all my thoughts employed,",
+      "verseCount": 4
+    },
+    "119": {
+      "title": "Penick",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "While trav’ling thro’ the world below Where sore afflictions come,",
+      "musicAttribution": {
+        "credit": "M. Sikes."
+      },
+      "verseCount": 5,
+      "historicalNote": "My mother passed sweetly away singing this song.—A. N. Whitten."
+    },
+    "120": {
+      "title": "Let Us Sing",
+      "timeSignature": "4/4",
+      "firstLine": "Shall we ever meet again at the house, at the house, Then to make the",
+      "musicAttribution": {
+        "credit": "W. F. Moore",
+        "year": "1867"
+      },
+      "verseCount": 1
+    },
+    "121": {
+      "title": "Leaning on Jesus’ Breast",
+      "timeSignature": "4/4",
+      "firstLine": "O that my Lord would come and meet My soul would lean my head,",
+      "harmonizationAttribution": {
+        "credit": "Arr. by A. N. Whitten."
+      },
+      "verseCount": 1
+    },
+    "121½": {
+      "title": "The Throne of Grace",
+      "meter": "S.M.",
+      "timeSignature": "6/4",
+      "firstLine": "Behold the throne of grace, The promise calls me near;",
+      "textAttribution": {
+        "credit": "Newton"
+      },
+      "verseCount": 5
+    },
+    "122": {
+      "title": "The Morning Trumpet",
+      "timeSignature": "2/4",
+      "firstLine": "O when shall I see Jesus, And reign with Him above,",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by W. M. C."
+      },
+      "verseCount": 1
+    },
+    "123": {
+      "title": "Liverpool",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "A throne of grace!—then let us go And offer up our prayer;",
+      "verseCount": 5
+    },
+    "123A": {
+      "title": "Avon",
+      "meter": "C.M.",
+      "timeSignature": "3/4",
+      "firstLine": "That dreadful night before His death, The Lamb, for sinners slain,",
+      "textAttribution": {
+        "credit": "Joseph Hart"
+      },
+      "musicAttribution": {
+        "credit": "Hugh Wilson"
+      },
+      "verseCount": 4
+    },
+    "124": {
+      "title": "Bound for Canaan",
+      "timeSignature": "2/4",
+      "firstLine": "O when shall I see Jesus, And reign with Him, above?",
+      "musicAttribution": {
+        "credit": "E. J. King"
+      },
+      "verseCount": 5
+    },
+    "125": {
+      "title": "Ragan",
+      "timeSignature": "4/4",
+      "firstLine": "Farewell, vain world, I'm going home; I belong to this band, hallelujah,",
+      "musicAttribution": {
+        "credit": "W. F. Moore"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by B. P. Poyner."
+      },
+      "verseCount": 4
+    },
+    "126": {
+      "title": "I'm Going O'er Home, O Wonderful Trip",
+      "timeSignature": "4/4",
+      "firstLine": "I'm going away some wonderful day, To heaven's fair land just over the way;",
+      "textAttribution": {
+        "credit": "Mrs. J. B. Edwards"
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten"
+      },
+      "verseCount": 3,
+      "historicalNote": "Composed by Mrs. J. B. Edwards and dedicated to A. N. Whitten and Elder S. F. Moore.",
+      "copyrightNotice": "A. N. Whitten, owner. All rights reserved."
+    },
+    "127": {
+      "title": "From the Heavenly Choir",
+      "timeSignature": "2/4",
+      "firstLine": "When shall I reach those mansions fair, My Saviour has prepared,",
+      "textAttribution": {
+        "credit": "A. N. W."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "All rights reserved."
+    },
+    "128": {
+      "title": "Golden Harp and Crown",
+      "timeSignature": "4/4",
+      "firstLine": "When that great illustrious day shall come, And my Master calls me",
+      "textAttribution": {
+        "credit": "A. J. S."
+      },
+      "musicAttribution": {
+        "credit": "A. J. Showalter."
+      },
+      "verseCount": 3
+    },
+    "129": {
+      "title": "Christ Our King",
+      "timeSignature": "4/4",
+      "firstLine": "Standing on the promises of Christ my King, Thro eternal",
+      "textAttribution": {
+        "credit": "A. N. W."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten"
+      },
+      "verseCount": 2,
+      "copyrightNotice": "Copyright, 1924, by A. N. Whitten."
+    },
+    "130": {
+      "title": "Weeping One of Bethany",
+      "timeSignature": "2/4",
+      "firstLine": "Jesus wept! those tears are over, But His love is",
+      "textAttribution": {
+        "credit": "J. C. B."
+      },
+      "musicAttribution": {
+        "credit": "J. Calvin Bushey."
+      },
+      "verseCount": 3,
+      "historicalNote": "Respectfully inscribed to The Hall Quartet."
+    },
+    "131": {
+      "title": "Sweet Canaan",
+      "timeSignature": "2/4",
+      "firstLine": "O who will come and go with me? I am bound for the land of Canaan,",
+      "musicAttribution": {
+        "credit": "E. J. King."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by W. M. C."
+      },
+      "verseCount": 2
+    },
+    "132": {
+      "title": "I'm Going Home",
+      "meter": "L.M.",
+      "timeSignature": "2/4",
+      "firstLine": "Farewell, vain world, I'm going home! My Saviour smiles and bids me",
+      "musicAttribution": {
+        "credit": "Leonard P. Breedlove."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto, Mrs. R. D. B."
+      },
+      "verseCount": 1
+    },
+    "133": {
+      "title": "The Morning Light",
+      "meter": "10, 9, 10, 7",
+      "timeSignature": "2/4",
+      "firstLine": "Oh, the night of time soon shall pass away, And the happy",
+      "textAttribution": {
+        "credit": "A. S. Kieffer."
+      },
+      "musicAttribution": {
+        "credit": "A. S. Kieffer."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "By permission."
+    },
+    "134": {
+      "title": "Pisgah",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "Jesus, Thou art the sinners Friend, As such I look to Thee;",
+      "verseCount": 6
+    },
+    "135": {
+      "title": "I'll Shout and Sing",
+      "timeSignature": "2/4",
+      "firstLine": "On Jordan's stormy banks I stand And cast a wishful eye",
+      "textAttribution": {
+        "credit": "Samuel Stennett",
+        "year": "1787"
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten.",
+        "year": "1926"
+      },
+      "verseCount": 8
+    },
+    "136": {
+      "title": "No Shadows Yonder",
+      "timeSignature": "3/4",
+      "firstLine": "No shadows yonder, Far beyond the sunset's bars; No shadows",
+      "textAttribution": {
+        "credit": "W. H. Ruebush."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by J. H. Hall"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "The Ruebush-Kieffer Co., owners. Used by permission."
+    },
+    "137": {
+      "title": "The Promised Land",
+      "meter": "C.M.",
+      "timeSignature": "4/4",
+      "firstLine": "On Jordan's stormy banks I stand, And cast a wishful eye,",
+      "musicAttribution": {
+        "credit": "Miss M. Durham."
+      },
+      "verseCount": 8
+    },
+    "138": {
+      "title": "Beautiful Home Above",
+      "timeSignature": "4/4",
+      "firstLine": "There is a home, a peaceful home, A home of joy and love,",
+      "musicAttribution": {
+        "credit": "J. C. Bushey."
+      },
+      "verseCount": 3
+    },
+    "139": {
+      "title": "Conflicts by the Way",
+      "meter": "7s and 6s.",
+      "timeSignature": "2/4",
+      "firstLine": "Bliss comes through sore temptations And conflicts by the way;",
+      "musicAttribution": {
+        "credit": "E. J. King."
+      },
+      "verseCount": 6
+    },
+    "140": {
+      "title": "Babylon is Fallen",
+      "meter": "8s and 7s.",
+      "timeSignature": "4/4",
+      "firstLine": "Hail! the day so long expected, Hail! the year of full release;",
+      "verseCount": 3
+    },
+    "141": {
+      "title": "House of the Lord",
+      "meter": "12s.",
+      "timeSignature": "2/2",
+      "firstLine": "You may sing of the beauty of mountain and dale,",
+      "musicAttribution": {
+        "credit": "Austin Lane."
+      },
+      "verseCount": 5
+    },
+    "142": {
+      "title": "Some Sweet Day",
+      "timeSignature": "3/4",
+      "firstLine": "We shall reach the river side, Some sweet day, some sweet day;",
+      "textAttribution": {
+        "credit": "Arthur W. French."
+      },
+      "musicAttribution": {
+        "credit": "D. B. Towns."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "By permission."
+    },
+    "143": {
+      "title": "In the Heavenly Morning",
+      "timeSignature": "4/4",
+      "firstLine": "We shall meet and sing together, In the heavenly morning,",
+      "musicAttribution": {
+        "credit": "J. R. Murray."
+      },
+      "verseCount": 2,
+      "historicalNote": "Words and music arranged from a Spiritual by J. R. Murray."
+    },
+    "144": {
+      "title": "When I Can Read My Title Clear",
+      "timeSignature": "4/4",
+      "firstLine": "When I can read my title clear To mansions in the skies,",
+      "musicAttribution": {
+        "credit": "Cotton"
+      },
+      "verseCount": 4
+    },
+    "145": {
+      "title": "Lord, Dismiss Us",
+      "timeSignature": "2/4",
+      "firstLine": "Lord, dismiss us with Thy blessing; Bid us now depart in peace;",
+      "textAttribution": {
+        "credit": "E. Smythe"
+      },
+      "musicAttribution": {
+        "credit": "J. J. Rousseau."
+      },
+      "verseCount": 1
+    },
+    "146": {
+      "title": "Rock of Ages",
+      "meter": "7s.",
+      "timeSignature": "3/4",
+      "firstLine": "Rock of Ages, cleft for me, Let me hide myself in Thee;",
+      "musicAttribution": {
+        "credit": "Thos. Hastings."
+      },
+      "verseCount": 4
+    },
+    "147": {
+      "title": "New Jerusalem",
+      "timeSignature": "5/4",
+      "firstLine": "Jerusalem, my happy home, O how I long for thee; When will my sorrows",
+      "harmonizationAttribution": {
+        "credit": "Arr. by A. N. Whitten.",
+        "year": "1925"
+      },
+      "verseCount": 3
+    },
+    "148": {
+      "title": "O How Happy Are They",
+      "timeSignature": "2/4",
+      "firstLine": "O how happy are they Who their Saviour obey, And whose",
+      "textAttribution": {
+        "credit": "C. Wesley."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by H. N. Lincoln."
+      },
+      "verseCount": 5
+    },
+    "149": {
+      "title": "Redeeming Love",
+      "meter": "C.M.D.",
+      "timeSignature": "3/2",
+      "firstLine": "There is a fountain filled with blood, Drawn from Immanuel’s veins,",
+      "musicAttribution": {
+        "credit": "Aldine S. Kieffer."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Used by permission of Ruebush-Kieffer & Co."
+    },
+    "150": {
+      "title": "Galilee",
+      "meter": "L.M. Double",
+      "timeSignature": "4/4",
+      "firstLine": "O fragrant plains of Galilee, Where Jesus loved so much to be,",
+      "textAttribution": {
+        "credit": "F. A. Evans."
+      },
+      "musicAttribution": {
+        "credit": "M. Turbyfill."
+      },
+      "verseCount": 3
+    },
+    "151": {
+      "title": "Star in the East",
+      "timeSignature": "4/4",
+      "firstLine": "Hail the blest morn, see the great Mediator, Down from the regions of",
+      "verseCount": 4
+    },
+    "152": {
+      "title": "Sweet Home",
+      "meter": "11s.",
+      "timeSignature": "2/2",
+      "firstLine": "Mid scenes of confusion and creature complaints, How sweet to my",
+      "verseCount": 5
+    },
+    "153": {
+      "title": "How Happy Are They",
+      "meter": "11s and 8s.",
+      "timeSignature": "2/2",
+      "firstLine": "How happy are they Who their Saviour obey, And whose",
+      "textAttribution": {
+        "credit": "Fowler"
+      },
+      "musicAttribution": {
+        "credit": "Commack."
+      },
+      "verseCount": 5
+    },
+    "154": {
+      "title": "When Sorrows Encompass Me Round",
+      "timeSignature": "3/4",
+      "firstLine": "When sorrows encompass me round, And many distresses I see,",
+      "verseCount": 4
+    },
+    "155": {
+      "title": "Asleep in Jesus",
+      "timeSignature": "3/4",
+      "firstLine": "Asleep in Jesus! blessed sleep, From which none ever wakes to weep,",
+      "textAttribution": {
+        "credit": "Margaret Mackay."
+      },
+      "musicAttribution": {
+        "credit": "William B. Bradbury."
+      },
+      "verseCount": 4
+    },
+    "156": {
+      "title": "The Blind Girl",
+      "timeSignature": "6/8",
+      "firstLine": "Mother, they say the stars are bright, And the broad heav'ns are blue,",
+      "textAttribution": {
+        "credit": "J. M. and J. C. B."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr."
+      },
+      "verseCount": 3
+    },
+    "157": {
+      "title": "We'll Cross the River of Jordan",
+      "timeSignature": "2/4",
+      "firstLine": "Jesus my all to heaven is gone, Happy, O happy, He whom I",
+      "musicAttribution": {
+        "credit": "A. N. Whitten."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr."
+      },
+      "verseCount": 3
+    },
+    "158": {
+      "title": "Love Divine",
+      "timeSignature": "4/4",
+      "firstLine": "Love divine, how sweet the sound; May the theme on earth abound;",
+      "musicAttribution": {
+        "credit": "J. P. Rees."
+      },
+      "verseCount": 5
+    },
+    "159": {
+      "title": "Home",
+      "meter": "S. M.",
+      "timeSignature": "2/4",
+      "firstLine": "My Father's house on high Is my eternal home;",
+      "musicAttribution": {
+        "credit": "W. L. Montague."
+      },
+      "verseCount": 3
+    },
+    "160": {
+      "title": "The Child of Grace",
+      "timeSignature": "2/2",
+      "firstLine": "How happy's ev'ry child of grace, That feels his sins forgiv'n;",
+      "musicAttribution": {
+        "credit": "E. J. King."
+      },
+      "verseCount": 4
+    },
+    "161": {
+      "title": "Humble Souls Who Seek Salvation",
+      "timeSignature": "2/4",
+      "firstLine": "Humble souls, who seek salvation Thro' the Lamb's redeeming blood,",
+      "musicAttribution": {
+        "credit": "Wm. Caldwell"
+      },
+      "verseCount": 4
+    },
+    "161A": {
+      "title": "Detroit",
+      "timeSignature": "3/4",
+      "firstLine": "Do not I love Thee, O my Lord? Behold my heart and see,",
+      "musicAttribution": {
+        "credit": "Wm. Bradshaw."
+      },
+      "verseCount": 5
+    },
+    "162": {
+      "title": "Concord",
+      "timeSignature": "6/8",
+      "firstLine": "In songs of sublime adoration and praise, Ye pilgrims for Zion who press,",
+      "musicAttribution": {
+        "credit": "Wm. Caldwell"
+      },
+      "verseCount": 6
+    },
+    "162a": {
+      "title": "Idumea",
+      "timeSignature": "3/4",
+      "firstLine": "I love my Savior, God, Because He first loved me;",
+      "verseCount": 5
+    },
+    "163": {
+      "title": "Brown",
+      "timeSignature": "4/4",
+      "firstLine": "I love to steal a while away From ev'ry cumbering care,",
+      "musicAttribution": {
+        "credit": "Wm. B. Bradbury"
+      },
+      "verseCount": 5
+    },
+    "163A": {
+      "title": "How Sweet, How Heavenly, is the Sight",
+      "timeSignature": "4/4",
+      "firstLine": "How sweet, how heav'nly, is the sight, When those that love the Lord",
+      "textAttribution": {
+        "credit": "J. Swain"
+      },
+      "musicAttribution": {
+        "credit": "William B. Bradbury."
+      },
+      "verseCount": 5
+    },
+    "164": {
+      "title": "How Beautiful Heaven Must Be",
+      "timeSignature": "6/8",
+      "firstLine": "We read of a place that's called heaven; It's made for the pure and the free;",
+      "textAttribution": {
+        "credit": "Mrs. A. S. Bridgewater"
+      },
+      "musicAttribution": {
+        "credit": "A. P. Bland"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "A. P. Bland, owner."
+    },
+    "165": {
+      "title": "Balerma",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "firstLine": "O for a faith that will not shrink, Tho' press'd by ev'ry foe;",
+      "textAttribution": {
+        "credit": "W. H. Bathurst"
+      },
+      "musicAttribution": {
+        "credit": "R. Simpson."
+      },
+      "verseCount": 4
+    },
+    "165A": {
+      "title": "O For a Closer Walk With God",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "firstLine": "O for a closer walk with God, A calm and heav'nly frame;",
+      "textAttribution": {
+        "credit": "William Cowper"
+      },
+      "musicAttribution": {
+        "credit": "Thos. Hastings"
+      },
+      "verseCount": 6
+    },
+    "166": {
+      "title": "Salem's Bright King",
+      "timeSignature": "6/4",
+      "firstLine": "When Thou, my righteous Judge, shall come To fetch Thy ransom'd people home,",
+      "verseCount": 4
+    },
+    "167": {
+      "title": "What a Friend We Have",
+      "timeSignature": "5/4",
+      "firstLine": "What a Friend we have in Jesus, All our sins and griefs to bear;",
+      "musicAttribution": {
+        "credit": "C. C. Converse."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "By permission."
+    },
+    "168": {
+      "title": "Free Salvation",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "firstLine": "Long ere the sun began his days, Or moon shot forth her silver rays,",
+      "musicAttribution": {
+        "credit": "Lowell Mason."
+      },
+      "verseCount": 5
+    },
+    "168a": {
+      "title": "Boylston",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "firstLine": "Blest be the tie that binds Our hearts in Christian love;",
+      "musicAttribution": {
+        "credit": "Dr. L. Mason."
+      },
+      "verseCount": 4
+    },
+    "169": {
+      "title": "When the Savior Stands by Me",
+      "meter": "R. L. R.",
+      "timeSignature": "2/4",
+      "firstLine": "When the toils and cares of life seem to mix with sin and strife, And their",
+      "musicAttribution": {
+        "credit": "R. L. Rust."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright, 1931, by R. L. Rust, Eastland, Texas. Used by permission."
+    },
+    "170": {
+      "title": "I Am a Stranger Here Below",
+      "timeSignature": "3/4",
+      "firstLine": "I am a stranger here below, And what I am 'tis hard to know;",
+      "harmonizationAttribution": {
+        "credit": "Arr."
+      },
+      "verseCount": 8
+    },
+    "170A": {
+      "title": "Your Office Is a Sacred Trust",
+      "timeSignature": "2/2",
+      "firstLine": "Your office is a sacred trust, For God Himself has made it thus,",
+      "textAttribution": {
+        "credit": "Elder Len Dalton."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten."
+      },
+      "verseCount": 6,
+      "historicalNote": "Dedicated to the Ministry.",
+      "copyrightNotice": "A. N. Whitten, owner."
+    },
+    "171": {
+      "title": "Blessed Ones",
+      "timeSignature": "3/4",
+      "firstLine": "Blest are the humble souls that see Their emptiness and poverty;",
+      "musicAttribution": {
+        "credit": "William H. Crouse.",
+        "year": "1936"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Arr. copyright, 1936, by William H. Crouse, in \"The Pilgrim's Hymnal.\""
+    },
+    "171A": {
+      "title": "The Happy Day",
+      "timeSignature": "2/4",
+      "firstLine": "The happy day will soon appear, And we'll all shout together in that morning,",
+      "harmonizationAttribution": {
+        "credit": "Arr. H. S. Rees. Alto Mrs. R. D. B."
+      },
+      "verseCount": 2
+    },
+    "172": {
+      "title": "Oh, Jesus, My Savior",
+      "timeSignature": "4/4",
+      "firstLine": "O Jesus, my Savior, I know Thou art mine, For Thee all the",
+      "verseCount": 3
+    },
+    "173": {
+      "title": "Thus Will I Sing",
+      "timeSignature": "5/4",
+      "firstLine": "Great God let all my tuneful powers awake And sing Thy mighty name;",
+      "musicAttribution": {
+        "credit": "J. P. Rees."
+      },
+      "verseCount": 1
+    },
+    "174": {
+      "title": "Pass Me Not",
+      "timeSignature": "6/4",
+      "firstLine": "Pass me not, O gentle Savior, Hear my humble cry; While on others",
+      "textAttribution": {
+        "credit": "Fanny J. Crosby."
+      },
+      "musicAttribution": {
+        "credit": "W. H. Doane."
+      },
+      "verseCount": 4
+    },
+    "175": {
+      "title": "There'll Be No More Good Byes",
+      "timeSignature": "6/8",
+      "firstLine": "We bid farewell to those we love, when we are called to die, In heav'n above",
+      "textAttribution": {
+        "credit": "A. N. Whitten."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright by A. N. Whitten."
+    },
+    "175A": {
+      "title": "Alas and Did",
+      "timeSignature": "3/4",
+      "firstLine": "Alas and did my Savior bleed? And did my Sovereign die?",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Hugh Wilson"
+      },
+      "verseCount": 3
+    },
+    "176": {
+      "title": "The Bitter Cup",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "firstLine": "Father, remove this bitter cup, If such Thy sacred will;",
+      "musicAttribution": {
+        "credit": "W. C. Givens."
+      },
+      "verseCount": 1
+    },
+    "177": {
+      "title": "When Shall We All Meet Again",
+      "timeSignature": "3/4",
+      "firstLine": "When shall we all meet again? When shall we all meet again?",
+      "musicAttribution": {
+        "credit": "Thomas Hastings."
+      },
+      "verseCount": 3
+    },
+    "177a": {
+      "title": "Precious Memories",
+      "timeSignature": "4/4",
+      "firstLine": "Precious mem'ries, unseen angels, Sent from somewhere to my soul;",
+      "textAttribution": {
+        "credit": "J. B. F. W."
+      },
+      "musicAttribution": {
+        "credit": "J. B. F. Wright."
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Stamps and Baxter, owners, 1929. Used by permission."
+    },
+    "178": {
+      "title": "Here in the Vineyard",
+      "timeSignature": "2/2",
+      "firstLine": "Here in the vineyard of my Lord I love to live and labor,",
+      "musicAttribution": {
+        "credit": "J. T. White"
+      },
+      "verseCount": 3
+    },
+    "178A": {
+      "title": "To the Temple We Repair",
+      "timeSignature": "6/4",
+      "firstLine": "To Thy temple we repair, Lord, we love to worship there;",
+      "verseCount": 3
+    },
+    "179": {
+      "title": "I Know That My Redeemer Lives",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "firstLine": "I know that my Redeemer lives, Glory hallelujah!",
+      "musicAttribution": {
+        "credit": "J. W. and W. R. McCoy."
+      },
+      "verseCount": 4
+    },
+    "180": {
+      "title": "Liberty",
+      "timeSignature": "4/4",
+      "firstLine": "No more beneath th' oppressive hand of tyranny we groan,",
+      "musicAttribution": {
+        "credit": "Stephen Jenks",
+        "year": "1803"
+      },
+      "verseCount": 1
+    },
+    "181": {
+      "title": "Come On, My Fellow Pilgrims",
+      "timeSignature": "4/4",
+      "firstLine": "Come on my fellow pilgrims come, And let us all be hastening home.",
+      "musicAttribution": {
+        "credit": "Miss Sarah Lancaster."
+      },
+      "verseCount": 1
+    },
+    "182": {
+      "title": "Tarry with Me",
+      "meter": "8s and 7s.",
+      "timeSignature": "3/4",
+      "firstLine": "Tarry with me, oh, my Saviour, For the day is passing by;",
+      "textAttribution": {
+        "credit": "Mrs. C. S. Smith."
+      },
+      "musicAttribution": {
+        "credit": "Knowles Shaw."
+      },
+      "verseCount": 4,
+      "copyrightNotice": "By permission of John Church & Co."
+    },
+    "183": {
+      "title": "The City of Gold",
+      "timeSignature": "6/8",
+      "firstLine": "In the Bible we read of a city Where the faithful shall never grow old;",
+      "textAttribution": {
+        "credit": "Adger M. Pace"
+      },
+      "musicAttribution": {
+        "credit": "W. Z. Kitts"
+      },
+      "scriptureReference": "Rev. 21:18",
+      "verseCount": 4,
+      "copyrightNotice": "Copyright, 1929, by W. Z. Kitts."
+    },
+    "184": {
+      "title": "I Love the Sons of Grace",
+      "timeSignature": "3/2",
+      "firstLine": "I love the sons of grace, The heirs of bliss divine; Who",
+      "verseCount": 6
+    },
+    "184A": {
+      "title": "Heaven Is My Home",
+      "timeSignature": "4/4",
+      "firstLine": "I'm but a stranger here, Heav'n is my home;",
+      "musicAttribution": {
+        "credit": "Dr. L. Mason",
+        "year": "1834"
+      },
+      "verseCount": 3
+    },
+    "185": {
+      "title": "Longing for Home",
+      "timeSignature": "4/4",
+      "firstLine": "I'm longing for that future home, And hoping that its joys are mine,",
+      "textAttribution": {
+        "credit": "Elder Len Dalton."
+      },
+      "musicAttribution": {
+        "credit": "J. D. Center, Jr."
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Elder Len Dalton, owner."
+    },
+    "186": {
+      "title": "Keddron",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "firstLine": "'Twas on the dark, that doleful night, When pow'rs of earth and hell arose",
+      "musicAttribution": {
+        "credit": "Dare."
+      },
+      "verseCount": 5
+    },
+    "187": {
+      "title": "When the Evening Shadows Gather",
+      "timeSignature": "4/4",
+      "firstLine": "When the ev'ning shadows gather, And the busy day is done,",
+      "textAttribution": {
+        "credit": "Selected."
+      },
+      "musicAttribution": {
+        "credit": "A. N. Whitten."
+      },
+      "verseCount": 4,
+      "historicalNote": "Dedicated to C. R. Brannen, Houston, Texas."
+    },
+    "188": {
+      "title": "Morning Meditation",
+      "timeSignature": "6/8",
+      "firstLine": "As I stroll out each morning here, my heart all filled with cares,",
+      "textAttribution": {
+        "credit": "Elder Gilbert Dalton."
+      },
+      "musicAttribution": {
+        "credit": "Elder Gilbert Dalton (Soprano.)"
+      },
+      "harmonizationAttribution": {
+        "credit": "A. N. Whitten (Harmony.)"
+      },
+      "verseCount": 4
+    },
+    "188A": {
+      "title": "Still Better",
+      "timeSignature": "2/2",
+      "firstLine": "Teach me how to do my duty in the service of my Lord,",
+      "musicAttribution": {
+        "credit": "Bradford and Meeks."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto Miss Minnie Floyd."
+      },
+      "verseCount": 1
+    },
+    "189": {
+      "title": "O Mother, How We Miss You",
+      "timeSignature": "4/4",
+      "firstLine": "We have lost our dear, sweet mother, She no more on earth shall roam;",
+      "textAttribution": {
+        "credit": "W. A. McKinney"
+      },
+      "musicAttribution": {
+        "credit": "E. M. Kitchen"
+      },
+      "verseCount": 3,
+      "historicalNote": "Dedicated to Mrs. Roy Post, Tupelo, Miss.",
+      "copyrightNotice": "E. M. Kitchen, owner, 1930."
+    },
+    "190": {
+      "title": "The Master of Love",
+      "timeSignature": "3/4",
+      "firstLine": "On the Master of love I am trusting today, That He'll guide me along",
+      "textAttribution": {
+        "credit": "Elder Len Dalton."
+      },
+      "musicAttribution": {
+        "credit": "Elder Len Dalton."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Elder Len Dalton, owner."
+    },
+    "191": {
+      "title": "Where Jesus Is Will Be Heaven for Me",
+      "timeSignature": "4/4",
+      "firstLine": "It may not be so far away To perfect rest and endless day;",
+      "textAttribution": {
+        "credit": "J. R. Bickerstaff."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by A. N. Whitten."
+      },
+      "verseCount": 3
+    },
+    "192": {
+      "title": "Lenox",
+      "timeSignature": "4/4",
+      "firstLine": "Blow ye the trumpet, blow, The gladly solemn sound;",
+      "musicAttribution": {
+        "credit": "Edson."
+      },
+      "verseCount": 2
+    },
+    "193": {
+      "title": "Bright Morning of Glory",
+      "timeSignature": "9/8",
+      "firstLine": "Bright morning of glory when Jesus shall come, To gather His jewels and carry them home,",
+      "textAttribution": {
+        "credit": "Elder J. A. Rowell"
+      },
+      "musicAttribution": {
+        "credit": "Harvey Bass; Karen Winchester"
+      },
+      "verseCount": 5,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in \"Harp of Ages.\" All Rights Reserved."
+    },
+    "194": {
+      "title": "This Is My Father's World",
+      "timeSignature": "4/4",
+      "firstLine": "This is my Father's world, And to my listening ears, All nature sings,",
+      "textAttribution": {
+        "credit": "Maltbie D. Babcock",
+        "year": "1858-1901"
+      },
+      "musicAttribution": {
+        "credit": "Traditional English Melody"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by F. L. Shepherd",
+        "year": "1852-1930"
+      },
+      "verseCount": 3
+    },
+    "195": {
+      "title": "Cowper",
+      "timeSignature": "4/4",
+      "firstLine": "Forgive the song that falls so low Beneath the gratitude I owe;",
+      "verseCount": 1
+    },
+    "196": {
+      "title": "He Is My Jesus",
+      "timeSignature": "4/4",
+      "firstLine": "Sometimes we have burdens hard to bear, Sometimes it seems there's no one to care.",
+      "textAttribution": {
+        "credit": "Jack Young"
+      },
+      "musicAttribution": {
+        "credit": "Wayland Ethridge; Artie W. Green"
+      },
+      "verseCount": 2,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in \"Harp of Ages.\" All Rights Reserved."
+    },
+    "197": {
+      "title": "We Will Sing with the Angels There",
+      "timeSignature": "4/4",
+      "firstLine": "There is a place called heaven, The homeland of the soul,",
+      "musicAttribution": {
+        "credit": "D. J. Givens"
+      },
+      "verseCount": 3
+    },
+    "198": {
+      "title": "David's Lamentation",
+      "timeSignature": "2/4",
+      "firstLine": "David the king was grieved and moved, He went to his chamber, his chamber and wept;",
+      "musicAttribution": {
+        "credit": "Billings."
+      },
+      "verseCount": 1
+    },
+    "199": {
+      "title": "Holy City",
+      "timeSignature": "4/4",
+      "firstLine": "There is a holy city, A happy world above,",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      },
+      "harmonizationAttribution": {
+        "credit": "arr. V. J. Lowrance, Jr."
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in \"Harp of Ages.\" All Rights Reserved."
+    },
+    "200": {
+      "title": "Song of Thanks",
+      "timeSignature": "4/4",
+      "firstLine": "With thankful hearts we praise the Lord, With thankfulness we sing,",
+      "textAttribution": {
+        "credit": "Elder J. A. Rowell"
+      },
+      "musicAttribution": {
+        "credit": "S. M. Denson"
+      },
+      "verseCount": 2,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in \"Harp of Ages.\" All Rights Reserved."
+    },
+    "200-A": {
+      "title": "I Love the Lord",
+      "timeSignature": "4/4",
+      "firstLine": "I love my precious Lord, Love, love, I love the Lord.",
+      "textAttribution": {
+        "credit": "L. B. C."
+      },
+      "musicAttribution": {
+        "credit": "Lonnie B. Combs"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1967 by Stamps-Baxter Music & Printing Co., in \"Radiant Gems.\" All Rights Reserved."
+    },
+    "201": {
+      "title": "She Is Sleeping",
+      "timeSignature": "3/4",
+      "firstLine": "There's a land beyond the river, Where the skies are ever fair;",
+      "musicAttribution": {
+        "credit": "T. J. Allen; Beulah Dauphin"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. T. J. A."
+      },
+      "verseCount": 4
+    },
+    "202": {
+      "title": "O Lord We Sing",
+      "timeSignature": "2/4",
+      "firstLine": "O Lord we sing, How great Thou art, With all Thy riches known;",
+      "textAttribution": {
+        "credit": "Lutisha Watson"
+      },
+      "musicAttribution": {
+        "credit": "P. M. Ackley"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in \"Harp of Ages.\" All Rights Reserved."
+    },
+    "203": {
+      "title": "Hail Sovereign Love",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "firstLine": "Hail, sovereign love that first began The scheme to rescue fallen man;",
+      "musicAttribution": {
+        "credit": "George Coles"
+      },
+      "verseCount": 4
+    },
+    "204": {
+      "title": "The Lone Pilgrim",
+      "meter": "11s and 8s.",
+      "timeSignature": "2/2",
+      "firstLine": "I came to the place where the lone pilgrim lay, And pensively stood by the tomb,",
+      "musicAttribution": {
+        "credit": "Wm. Walker"
+      },
+      "verseCount": 5
+    },
+    "205": {
+      "title": "Fleeting Days",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "firstLine": "Time! what an empty vapor ’tis! And days how swift they are!",
+      "musicAttribution": {
+        "credit": "Henry G. Mann"
+      },
+      "verseCount": 3
+    },
+    "206": {
+      "title": "In Thy Great Name",
+      "timeSignature": "4/4",
+      "firstLine": "In Thy great name, O Lord, we come, To worship at Thy feet;",
+      "textAttribution": {
+        "credit": "Hoskins."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by J. H. S."
+      },
+      "scriptureReference": "Matt. 18:20",
+      "verseCount": 4
+    },
+    "207": {
+      "title": "The Fruit of Faith",
+      "timeSignature": "3/4",
+      "firstLine": "Faith is the arm that expands grace, O’er avenues we love to trace,",
+      "textAttribution": {
+        "credit": "J. A. M."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. J. A. Munsees"
+      },
+      "verseCount": 2,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission"
+    },
+    "208": {
+      "title": "Lone Pilgrim",
+      "timeSignature": "2/2",
+      "firstLine": "Ye pilgrims of Zion, and chosen of God, Whose spirits are filled with dismay,",
+      "textAttribution": {
+        "credit": "Fowler"
+      },
+      "musicAttribution": {
+        "credit": "Commack"
+      },
+      "verseCount": 5
+    },
+    "209": {
+      "title": "Purer in Heart, O God",
+      "timeSignature": "4/4",
+      "firstLine": "Purer in heart, O God, Help me to be; May I devote my life wholly to Thee.",
+      "textAttribution": {
+        "credit": "Davison"
+      },
+      "musicAttribution": {
+        "credit": "J. H. Fillmore"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Used by permission."
+    },
+    "210": {
+      "title": "I’ll Live On Somewhere",
+      "timeSignature": "4/4",
+      "firstLine": "When this life is o’er, and I’m here no more, I’ll live on somewhere;",
+      "textAttribution": {
+        "credit": "H. F. M."
+      },
+      "musicAttribution": {
+        "credit": "Homer F. Morris"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright 1936 in “Singing On The Way No. 2.” Owned by Homer F. Morris."
+    },
+    "211": {
+      "title": "Sing an Old Song",
+      "timeSignature": "4/4",
+      "firstLine": "Oh sing to me an old old song And pitch the keynote low,",
+      "textAttribution": {
+        "credit": "Elder J. A. Rowell"
+      },
+      "musicAttribution": {
+        "credit": "Marie Bass; Charles Richards"
+      },
+      "verseCount": 5,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "212": {
+      "title": "Mercy and Grace",
+      "timeSignature": "4/4",
+      "firstLine": "Oh mercy is my only plea, Have nothing else to pay,",
+      "textAttribution": {
+        "credit": "Elder J. A. Rowell"
+      },
+      "musicAttribution": {
+        "credit": "Sara White"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "213": {
+      "title": "Solemn Warning",
+      "meter": "8 Lines",
+      "timeSignature": "3/4",
+      "firstLine": "The blessed Spirit, like the wind, Blows when and where He please;",
+      "musicAttribution": {
+        "credit": "E. P. Borough"
+      },
+      "verseCount": 4
+    },
+    "214": {
+      "title": "Eden",
+      "timeSignature": "6/4",
+      "firstLine": "What shall I render to my God For all His kindness shown?",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 4
+    },
+    "215": {
+      "title": "Sweet Prospect",
+      "timeSignature": "6/4",
+      "firstLine": "Lo, what an entertaining sight, Those friendly brethren prove!",
+      "musicAttribution": {
+        "credit": "Wm. Walker"
+      },
+      "verseCount": 2
+    },
+    "216": {
+      "title": "Gethsemane",
+      "meter": "7s. 6 Lines.",
+      "timeSignature": "3/4",
+      "firstLine": "Many woes had Christ endured, Many sore temptations met,",
+      "musicAttribution": {
+        "credit": "A. Ogletree."
+      },
+      "verseCount": 4
+    },
+    "217": {
+      "title": "Amsterdam",
+      "meter": "7s and 6s. D.",
+      "timeSignature": "4/4",
+      "firstLine": "Time is winging us away To our eternal home;",
+      "verseCount": 2
+    },
+    "218": {
+      "title": "Break Thou the Bread of Life",
+      "timeSignature": "2/2",
+      "firstLine": "Break Thou the bread of life, Dear Lord, to me, As Thou didst break the loaves beside the sea;",
+      "textAttribution": {
+        "credit": "Mary Ann Lathbury"
+      },
+      "musicAttribution": {
+        "credit": "William F. Sherwin."
+      },
+      "verseCount": 3
+    },
+    "219": {
+      "title": "Solid Rock",
+      "timeSignature": "3/4",
+      "firstLine": "My hope is built on nothing less Than Jesus’ blood and righteousness;",
+      "textAttribution": {
+        "credit": "Edward Mote."
+      },
+      "musicAttribution": {
+        "credit": "Wm. B. Bradbury."
+      },
+      "verseCount": 3
+    },
+    "220": {
+      "title": "I Will Arise and Go to Jesus",
+      "timeSignature": "4/4",
+      "firstLine": "Come, ye sinners poor and needy, Weak and wounded, sick and sore;",
+      "harmonizationAttribution": {
+        "credit": "Arr. by H. F. Morris"
+      },
+      "verseCount": 4
+    },
+    "221": {
+      "title": "I Love the Lord, My God",
+      "timeSignature": "3/4",
+      "firstLine": "I love the Lord, my God. Within His hand I’m held. He’s",
+      "textAttribution": {
+        "credit": "Karen Winchester"
+      },
+      "musicAttribution": {
+        "credit": "Karen Winchester"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright © 1973 by Karen Winchester in “Harp of Ages.” All Rights Reserved."
+    },
+    "222": {
+      "title": "The Gospel",
+      "timeSignature": "6/4",
+      "firstLine": "The gospel tells how Jesus came to save His people from their sin,",
+      "textAttribution": {
+        "credit": "Elder J. A. Rowell"
+      },
+      "musicAttribution": {
+        "credit": "Thomas Hastings"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "223": {
+      "title": "Balm in Gilead",
+      "timeSignature": "4/4",
+      "firstLine": "Father I stretch my hands to Thee, No other help I know.",
+      "verseCount": 5,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "224": {
+      "title": "John 4:14",
+      "timeSignature": "2/2",
+      "firstLine": "Lord, lead me to the crystal fountain, Where I may bathe my weary soul;",
+      "textAttribution": {
+        "credit": "Morris Nowlin"
+      },
+      "musicAttribution": {
+        "credit": "Morris Nowlin; Carolia Johnson"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "225": {
+      "title": "Prayer",
+      "timeSignature": "2/2",
+      "firstLine": "Now unto Thee our Father, We come on bended knee,",
+      "textAttribution": {
+        "credit": "Drummond"
+      },
+      "musicAttribution": {
+        "credit": "R. P. Drummond"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "226": {
+      "title": "The Christian Warfare",
+      "timeSignature": "6/4",
+      "firstLine": "Ye friends of the Saviour, I pray give attention, And I’ll tell what Jesus has done for my soul;",
+      "musicAttribution": {
+        "credit": "William Walker"
+      },
+      "verseCount": 3
+    },
+    "227": {
+      "title": "An Empty Mansion",
+      "timeSignature": "6/4",
+      "firstLine": "Here I labor and toil as I look for a home, Just a humble abode among men,",
+      "textAttribution": {
+        "credit": "Mrs. J. B. Karnes"
+      },
+      "musicAttribution": {
+        "credit": "C. A. Luttrell"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright 1939 by Stamps-Baxter Music & Printing Co. Copyright © Renewal 1967 Assigned to National Music Co. All Rights Reserved."
+    },
+    "228": {
+      "title": "Mixture",
+      "meter": "7s and 6s.",
+      "timeSignature": "4/4",
+      "firstLine": "Mixtures of joy and sorrow I daily do pass thro’;",
+      "harmonizationAttribution": {
+        "credit": "Arr. by Wm. House."
+      },
+      "verseCount": 3
+    },
+    "229": {
+      "title": "Poor and Afflicted",
+      "timeSignature": "6/8",
+      "firstLine": "Poor and afflicted, Lord, are Thine, Among the great unfit to shine;",
+      "musicAttribution": {
+        "credit": "A. Grambling"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 3
+    },
+    "230": {
+      "title": "Balm",
+      "timeSignature": "9/4",
+      "firstLine": "Again, from calm and sweet repose, I rise to hail the dawn;",
+      "musicAttribution": {
+        "credit": "J. N. Pitman"
+      },
+      "verseCount": 5
+    },
+    "231": {
+      "title": "Hester",
+      "timeSignature": "4/4",
+      "firstLine": "I love to see the Lord below, His church displays His grace;",
+      "musicAttribution": {
+        "credit": "L. C. E."
+      },
+      "verseCount": 4
+    },
+    "232": {
+      "title": "Refuge",
+      "meter": "7s.",
+      "timeSignature": "3/2",
+      "firstLine": "Wait, my soul, upon the Lord, To His gracious promise flee;",
+      "musicAttribution": {
+        "credit": "Minshall."
+      },
+      "verseCount": 2
+    },
+    "233": {
+      "title": "Lord, Save",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "firstLine": "O give me, Lord, my sins to mourn, My sins which have Thy body torn;",
+      "musicAttribution": {
+        "credit": "Jno. Massengale."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 3
+    },
+    "234": {
+      "title": "Amandra",
+      "timeSignature": "2/2",
+      "firstLine": "Thy mercy my God is the theme of my song, The joy of my heart and the boast of my tongue;",
+      "harmonizationAttribution": {
+        "credit": "Arr."
+      },
+      "verseCount": 6
+    },
+    "235": {
+      "title": "I Know Whom I Have Believed",
+      "timeSignature": "4/4",
+      "firstLine": "I know not why God’s wondrous grace To me He hath made known,",
+      "textAttribution": {
+        "credit": "Daniel W. Whittle",
+        "year": "1840-1901"
+      },
+      "musicAttribution": {
+        "credit": "James McGranahan",
+        "year": "1840-1907"
+      },
+      "scriptureReference": "2 Tim. 1:12",
+      "verseCount": 5
+    },
+    "236": {
+      "title": "Ecstasy",
+      "timeSignature": "4/4",
+      "firstLine": "Sometimes a light surprises The Christian while he sings;",
+      "musicAttribution": {
+        "credit": "T. W. Carter."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 4
+    },
+    "237": {
+      "title": "I Thank You, Lord",
+      "timeSignature": "6/8",
+      "firstLine": "I come to the end of life’s beautiful day, The end of the journey I view;",
+      "textAttribution": {
+        "credit": "Elder J. A. Rowell"
+      },
+      "musicAttribution": {
+        "credit": "Sara White"
+      },
+      "verseCount": 2,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "238": {
+      "title": "Walk With God",
+      "timeSignature": "6/4",
+      "firstLine": "I love the quietness of the morning, The peaceful beauty of the day.",
+      "textAttribution": {
+        "credit": "Darrene Nowlin Collins"
+      },
+      "musicAttribution": {
+        "credit": "Morris Nowlin"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "239": {
+      "title": "Solemn Thought",
+      "timeSignature": "4/4",
+      "firstLine": "Through all the world below, God is seen all around; Search hills and valleys through,",
+      "musicAttribution": {
+        "credit": "P. Price."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 4,
+      "historicalNote": "In loving memory of L. W. Koen."
+    },
+    "240": {
+      "title": "Boylston",
+      "timeSignature": "2/2",
+      "firstLine": "Did Christ o’er sinners weep, And shall our cheeks be dry?",
+      "musicAttribution": {
+        "credit": "Dr. Mason."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "By permission."
+    },
+    "241": {
+      "title": "An Evening Prayer",
+      "timeSignature": "4/4",
+      "firstLine": "If I have wounded any soul today, If I have caused one foot to go astray,",
+      "textAttribution": {
+        "credit": "C. M. Battersby"
+      },
+      "musicAttribution": {
+        "credit": "Chas. H. Gabriel"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by C. H. G."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright 1911 by Chas. H. Gabriel, The Rodeheaver Co., Owner. © Ren. 1939 (extended) The Rodeheaver Co., Owner. Used by Permission."
+    },
+    "242": {
+      "title": "A Penitent Heart",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "firstLine": "O for that tenderness of heart Which bows before the Lord,",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "R. Simpson."
+      },
+      "verseCount": 4
+    },
+    "243": {
+      "title": "In Worlds on High",
+      "timeSignature": "4/4",
+      "firstLine": "There’s a land, a golden strand, Where saints and angels robed in white;",
+      "textAttribution": {
+        "credit": "J. B. W."
+      },
+      "musicAttribution": {
+        "credit": "J. B. Wright"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright 1938, in “Glory Waves No. 2.” Owned by Morris & Henson."
+    },
+    "244": {
+      "title": "Our Father Cares",
+      "timeSignature": "4/4",
+      "firstLine": "Here our heavenly Father knows all we need before we ask,",
+      "textAttribution": {
+        "credit": "J. F. P."
+      },
+      "musicAttribution": {
+        "credit": "J. F. Parker"
+      },
+      "scriptureReference": "Matt. 6:26-28",
+      "verseCount": 3,
+      "copyrightNotice": "J. F. Parker owner. Owned by Old School Hymnal Co., Inc. Used by Permission."
+    },
+    "245": {
+      "title": "O Sing of His Mighty Love",
+      "meter": "11s",
+      "timeSignature": "3/4",
+      "firstLine": "O, bliss of the purified! bliss of the free! I’m plunged in the crimson tide opened for me!",
+      "musicAttribution": {
+        "credit": "Wm. Bradbury"
+      },
+      "verseCount": 4
+    },
+    "246": {
+      "title": "Zealoth",
+      "meter": "S. M. D.",
+      "timeSignature": "4/4",
+      "firstLine": "I love Thy kingdom, Lord, The house of Thine abode,",
+      "textAttribution": {
+        "credit": "Dwight."
+      },
+      "verseCount": 3
+    },
+    "247": {
+      "title": "Counsel",
+      "timeSignature": "4/4",
+      "firstLine": "Oh dear pilgrim are you troubled, By the darkness of the way?",
+      "textAttribution": {
+        "credit": "L. H. C."
+      },
+      "musicAttribution": {
+        "credit": "Leon H. Clevenger"
+      },
+      "verseCount": 5,
+      "copyrightNotice": "Leon H. Clevenger, owner."
+    },
+    "248": {
+      "title": "Arlington",
+      "timeSignature": "3/4",
+      "firstLine": "I’m not ashamed to own my Lord, Or to defend His cause,",
+      "textAttribution": {
+        "credit": "I. Watts."
+      },
+      "musicAttribution": {
+        "credit": "Dr. T. A. Arne."
+      },
+      "verseCount": 4
+    },
+    "249": {
+      "title": "Devotion",
+      "timeSignature": "3/2",
+      "firstLine": "When overwhelmed with doubts and fear, Great God, do Thou my spirit cheer;",
+      "textAttribution": {
+        "credit": "Kent."
+      },
+      "verseCount": 4
+    },
+    "250": {
+      "title": "Our Faith",
+      "timeSignature": "4/4",
+      "firstLine": "When the Lord bids us walk in the valley of woe, We would falter and fall by the way;",
+      "textAttribution": {
+        "credit": "E. N. Weeden"
+      },
+      "musicAttribution": {
+        "credit": "Elizabeth N. Weeden"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by Virginia N. Speiden and J. H. D."
+      },
+      "verseCount": 3
+    },
+    "251": {
+      "title": "God’s Promise",
+      "timeSignature": "4/4",
+      "firstLine": "God has not promised skies always blue, Flower-strewn pathways all our lives through;",
+      "textAttribution": {
+        "credit": "Sel. by Eld. T. R. Crawford"
+      },
+      "musicAttribution": {
+        "credit": "J. Harvey Dailey"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by J. H. D."
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "252": {
+      "title": "My Jesus, I Love Thee",
+      "timeSignature": "4/4",
+      "firstLine": "My Jesus, I love Thee, I know Thou art mine;",
+      "textAttribution": {
+        "credit": "London Hymn Book"
+      },
+      "musicAttribution": {
+        "credit": "A. J. Gordon"
+      },
+      "verseCount": 3
+    },
+    "253": {
+      "title": "Where Could I Go?",
+      "timeSignature": "4/4",
+      "firstLine": "Living below in this old sinful world, Hardly a comfort can afford;",
+      "textAttribution": {
+        "credit": "J. B. C."
+      },
+      "musicAttribution": {
+        "credit": "J. B. Coats"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright 1940, by Stamps-Baxter Music & Printing Co. in “Golden Key.” Renewed 1968. All Rights Reserved."
+    },
+    "254": {
+      "title": "Blessed Hope",
+      "meter": "10s and 9s.",
+      "timeSignature": "2/4",
+      "firstLine": "Blessed hope, with her anchor of safety, It points upward, with index of love,",
+      "musicAttribution": {
+        "credit": "A. D. Fillmore."
+      },
+      "verseCount": 4
+    },
+    "255": {
+      "title": "Carradoc Plains",
+      "timeSignature": "2/2",
+      "firstLine": "How lovely the place where the Saviour appears To those who believe in His word!",
+      "musicAttribution": {
+        "credit": "W. E. Chute."
+      },
+      "verseCount": 4
+    },
+    "256": {
+      "title": "Weeping Sinners",
+      "timeSignature": "6/4",
+      "firstLine": "God of love, O hear our prayer, Kindly for Thy people care;",
+      "musicAttribution": {
+        "credit": "J. P. Rees."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 4
+    },
+    "257": {
+      "title": "The Christian’s Hope",
+      "timeSignature": "6/8",
+      "firstLine": "A few more days on earth to spend, And all my toils and cares shall end,",
+      "musicAttribution": {
+        "credit": "Wm. Walker."
+      },
+      "verseCount": 4
+    },
+    "258": {
+      "title": "Jefferson",
+      "timeSignature": "2/4",
+      "firstLine": "Glorious things of thee are spoken, Zion, city of our God;",
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. Casey"
+      },
+      "verseCount": 3
+    },
+    "259": {
+      "title": "Lead Me On",
+      "timeSignature": "4/4",
+      "firstLine": "Lead me safely on by the narrow way From the shores of time to the realms of day;",
+      "textAttribution": {
+        "credit": "J. H. Leslie"
+      },
+      "musicAttribution": {
+        "credit": "C. F. Pollock"
+      },
+      "verseCount": 3
+    },
+    "260": {
+      "title": "People of the Living God",
+      "timeSignature": "3/2",
+      "firstLine": "People of the living God, I have sought the world around,",
+      "textAttribution": {
+        "credit": "James Montgomery"
+      },
+      "musicAttribution": {
+        "credit": "E. Purvis"
+      },
+      "scriptureReference": "Ruth 1:16",
+      "verseCount": 3
+    },
+    "261": {
+      "title": "To Die No More",
+      "timeSignature": "4/4",
+      "firstLine": "My heavenly home is bright and fair, No pain or death can enter there;",
+      "musicAttribution": {
+        "credit": "E. Dunn."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 4
+    },
+    "262": {
+      "title": "To My Dear Friends",
+      "timeSignature": "6/4",
+      "firstLine": "Oh, how I thank you, my dear friends, each and every one,",
+      "textAttribution": {
+        "credit": "Alice Baker"
+      },
+      "musicAttribution": {
+        "credit": "Merle Benbow"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "263": {
+      "title": "Let Me Stand by the Mountain",
+      "timeSignature": "4/4",
+      "firstLine": "As I stand by the side of the mountain And view the handiwork of God;",
+      "textAttribution": {
+        "credit": "J. M. H."
+      },
+      "musicAttribution": {
+        "credit": "J. M. Henson"
+      },
+      "verseCount": 3,
+      "historicalNote": "Written Aug. 4th 1947; standing near the mountain at the old home place on Rocky Creek, Gordon Co., Ga. While there I could see the old trail leading up the mountain that I crossed to attend my first singing school in 1905.",
+      "copyrightNotice": "Copyright, 1948, in “Sweetest Melodies.” Owned by J. M. Henson."
+    },
+    "264": {
+      "title": "Span of Life",
+      "timeSignature": "4/4",
+      "firstLine": "My span of life will soon be done, The passing moments say,",
+      "musicAttribution": {
+        "credit": "S. M. Brown; C. H. Casey"
+      },
+      "verseCount": 4
+    },
+    "265": {
+      "title": "He Hideth My Soul",
+      "timeSignature": "6/8",
+      "firstLine": "A wonderful Savior is Jesus my Lord, A wonderful Savior to me,",
+      "textAttribution": {
+        "credit": "Fanny J. Crosby"
+      },
+      "musicAttribution": {
+        "credit": "Wm. J. Kirkpatrick"
+      },
+      "verseCount": 4
+    },
+    "266": {
+      "title": "Close to Thee",
+      "timeSignature": "3/4",
+      "firstLine": "Thou, my everlasting portion, More than friend or life to me;",
+      "textAttribution": {
+        "credit": "Fanny J. Crosby"
+      },
+      "musicAttribution": {
+        "credit": "Silas J. Vail"
+      },
+      "verseCount": 3
+    },
+    "267": {
+      "title": "No More, My God",
+      "meter": "L. M.",
+      "timeSignature": "6/4",
+      "firstLine": "No more, my God! I boast no more Of all the duties I have done;",
+      "musicAttribution": {
+        "credit": "Wm. B. Bradbury",
+        "year": "1816-1868"
+      },
+      "scriptureReference": "Phil. 3:7-9",
+      "verseCount": 4
+    },
+    "268": {
+      "title": "Traveler",
+      "timeSignature": "4/4",
+      "firstLine": "My days are passing swiftly by, My journey soon will end, I seek a home beyond the sky, Eternity to spend.",
+      "textAttribution": {
+        "credit": "Eld. Leon H. Clevenger"
+      },
+      "musicAttribution": {
+        "credit": "Eld. Leon H. Clevenger"
+      },
+      "verseCount": 3
+    },
+    "269": {
+      "title": "Be Still, My Soul",
+      "timeSignature": "4/4",
+      "firstLine": "Be still, my soul: the Lord is on thy side; Bear patiently the cross of grief or pain;",
+      "textAttribution": {
+        "credit": "Katharina von Schlegel; tr. by Jane L. Borthwick"
+      },
+      "musicAttribution": {
+        "credit": "Jean Sibelius"
+      },
+      "verseCount": 3
+    },
+    "270": {
+      "title": "Minister’s Farewell",
+      "timeSignature": "2/2",
+      "firstLine": "Dear friends, farewell, I do you tell, Since you and I must part;",
+      "verseCount": 5
+    },
+    "271": {
+      "title": "Lord, Revive Us",
+      "timeSignature": "2/2",
+      "firstLine": "Saviour, visit Thy plantation; Grant us, Lord, a gracious rain!",
+      "harmonizationAttribution": {
+        "credit": "Arr. by J. B. V."
+      },
+      "verseCount": 4
+    },
+    "272": {
+      "title": "Christian Band",
+      "timeSignature": "2/2",
+      "firstLine": "So swift the time has passed away, And we are blest to see this day,",
+      "textAttribution": {
+        "credit": "William H. Crouse"
+      },
+      "musicAttribution": {
+        "credit": "Davidson."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by William H. Crouse."
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Words and arr. copyrighted, 1936, by William H. Crouse in “The Pilgrim’s Hymnal.”"
+    },
+    "273": {
+      "title": "Draw Me Nearer",
+      "timeSignature": "4/4",
+      "firstLine": "I am Thine, O Lord, I have heard Thy voice, And it told Thy love to me;",
+      "textAttribution": {
+        "credit": "Fanny J. Crosby"
+      },
+      "musicAttribution": {
+        "credit": "William H. Doane"
+      },
+      "verseCount": 4
+    },
+    "274": {
+      "title": "Prospect",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "firstLine": "Why should we start and fear to die? What timorous worms we mortals are!",
+      "musicAttribution": {
+        "credit": "Graham."
+      },
+      "verseCount": 4
+    },
+    "275": {
+      "title": "Something New",
+      "meter": "C. M.",
+      "timeSignature": "6/8",
+      "firstLine": "Since man by sin has gone from God, He seeks creation through, And vainly hopes for solid bliss, In trying something new.",
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 3
+    },
+    "276": {
+      "title": "Liverpool",
+      "timeSignature": "4/4",
+      "firstLine": "God moves in a mysterious way, His wonders to perform;",
+      "verseCount": 6
+    },
+    "277": {
+      "title": "All Goodness Flows",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "firstLine": "O Thou from whom all goodness flows, I lift my heart to Thee;",
+      "textAttribution": {
+        "credit": "Rev. Thomas Haweis"
+      },
+      "musicAttribution": {
+        "credit": "Hugh Wilson"
+      },
+      "verseCount": 5
+    },
+    "278": {
+      "title": "Prayer",
+      "timeSignature": "4/4",
+      "firstLine": "Once more we come before our God, Once more His blessings ask;",
+      "textAttribution": {
+        "credit": "Joseph Hart",
+        "year": "1768"
+      },
+      "musicAttribution": {
+        "credit": "J. C. Moore."
+      },
+      "verseCount": 4
+    },
+    "279": {
+      "title": "Kentucky",
+      "meter": "S. M.",
+      "timeSignature": "3/4",
+      "firstLine": "Come, gracious Spirit, now, Let Thy bright beams arise;",
+      "textAttribution": {
+        "credit": "Hart"
+      },
+      "musicAttribution": {
+        "credit": "Ingalls"
+      },
+      "verseCount": 4
+    },
+    "280": {
+      "title": "Christ Satisfies",
+      "timeSignature": "4/4",
+      "firstLine": "Whenever you need a friend, Who is all-wise, On whom you can depend,",
+      "textAttribution": {
+        "credit": "J. M. H. Ref. by L. D. M."
+      },
+      "musicAttribution": {
+        "credit": "L. D. Morris"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Owned by the authors."
+    },
+    "281": {
+      "title": "My Faith Looks Up to Thee",
+      "timeSignature": "2/2",
+      "firstLine": "My faith looks up to Thee, Thou Lamb of Calvary, Savior divine;",
+      "musicAttribution": {
+        "credit": "Dr. Lowell Mason"
+      },
+      "verseCount": 4
+    },
+    "282": {
+      "title": "The Supreme Love",
+      "timeSignature": "12/4",
+      "firstLine": "The love of God, tender and sweet, Brings us to bow low at His feet,",
+      "textAttribution": {
+        "credit": "J. A. M."
+      },
+      "musicAttribution": {
+        "credit": "J. A. Munsees"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "J. A. Munsees, owner. Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "283": {
+      "title": "In Heaven My Choicest Treasure Lies",
+      "meter": "L. M.",
+      "firstLine": "In heaven my choicest treasure lies, My hopes are placed above the skies;",
+      "textAttribution": {
+        "credit": "Gadsby’s Collection"
+      },
+      "musicAttribution": {
+        "credit": "W. B. Bradbury",
+        "year": "1816-1863"
+      },
+      "verseCount": 4
+    },
+    "284": {
+      "title": "Meditations",
+      "timeSignature": "4/4",
+      "firstLine": "God has been my refuge daily, God has been my hiding place,",
+      "textAttribution": {
+        "credit": "D. P. Bridgman"
+      },
+      "musicAttribution": {
+        "credit": "Roland Green"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright, 1963, by D. P. Bridgman. Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "285": {
+      "title": "The Pilgrim’s Song",
+      "meter": "S. M.",
+      "timeSignature": "6/8",
+      "firstLine": "A few more years shall roll, A few more seasons come,",
+      "textAttribution": {
+        "credit": "Horatius Bonar",
+        "year": "1808-1889"
+      },
+      "musicAttribution": {
+        "credit": "A. S. Kieffer"
+      },
+      "verseCount": 3
+    },
+    "286": {
+      "title": "Oh Happy Time Long Waited For",
+      "meter": "C. M. D.",
+      "timeSignature": "2/2",
+      "firstLine": "Oh, happy time, long waited for, The comfort of my heart,",
+      "musicAttribution": {
+        "credit": "Wm. Cole"
+      },
+      "verseCount": 3
+    },
+    "287": {
+      "title": "The Heavenly Home",
+      "timeSignature": "6/4",
+      "firstLine": "We’re traveling on to that blest home, Where saints immortal dwell,",
+      "textAttribution": {
+        "credit": "Obe Tingen"
+      },
+      "musicAttribution": {
+        "credit": "Obe Tingen"
+      },
+      "verseCount": 5,
+      "historicalNote": "Composed Dec. 23, 1941."
+    },
+    "288": {
+      "title": "Meditation",
+      "timeSignature": "4/4",
+      "firstLine": "O Thou in whose presence my soul takes delight, On whom in affliction I call,",
+      "textAttribution": {
+        "credit": "Joseph Swain"
+      },
+      "musicAttribution": {
+        "credit": "Freeman Lewis"
+      },
+      "verseCount": 4
+    },
+    "289": {
+      "title": "He Shall Save His People",
+      "timeSignature": "3/2",
+      "firstLine": "“Jesus” His name it “shall be called,” The holy angel said,",
+      "textAttribution": {
+        "credit": "R. M. Pittman"
+      },
+      "musicAttribution": {
+        "credit": "L. C. Everett"
+      },
+      "verseCount": 5
+    },
+    "290": {
+      "title": "The Lord Provides",
+      "meter": "10, 10, 11, 11.",
+      "timeSignature": "3/2",
+      "firstLine": "Though troubles assail, and dangers affright, Though friends should all fail, and foes all unite—",
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 4
+    },
+    "291": {
+      "title": "Blooming Youth",
+      "meter": "C. M.",
+      "timeSignature": "4/4",
+      "firstLine": "Together with these symbols, Lord, Thy blessed self impart, And let Thy sacred flesh and blood Feed the believing heart.",
+      "musicAttribution": {
+        "credit": "Henry G. Mann."
+      },
+      "verseCount": 3
+    },
+    "292": {
+      "title": "Sons of Sorrow",
+      "meter": "8s and 7s.",
+      "timeSignature": "2/4",
+      "firstLine": "Hail! ye sighing sons of sorrow; Learn with me your certain doom;",
+      "musicAttribution": {
+        "credit": "Wm. House."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 3
+    },
+    "293": {
+      "title": "This World Not My Home",
+      "meter": "C. M.",
+      "timeSignature": "6/8",
+      "firstLine": "O let me run the Christian race With diligence and speed;",
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 3
+    },
+    "294": {
+      "title": "The Babe of Bethlehem",
+      "meter": "8s and 7s.",
+      "timeSignature": "6/4",
+      "firstLine": "Ye Christians all, on you I call, Come, hear this declaration,",
+      "musicAttribution": {
+        "credit": "Wm. Walker."
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 3
+    },
+    "295": {
+      "title": "My Vision",
+      "timeSignature": "3/4",
+      "firstLine": "I saw in a vision, a beautiful river. This beautiful river is the river of life;",
+      "textAttribution": {
+        "credit": "Beth Baker"
+      },
+      "musicAttribution": {
+        "credit": "Beth Baker; Sonny Lowrance"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "296": {
+      "title": "Stand by Me",
+      "timeSignature": "4/4",
+      "firstLine": "When the storms of life are raging, Stand by me,",
+      "textAttribution": {
+        "credit": "C. A. Tindley"
+      },
+      "musicAttribution": {
+        "credit": "F. A. Clark"
+      },
+      "verseCount": 5,
+      "copyrightNotice": "Copyright, 1906, by C. A. Tindley."
+    },
+    "297": {
+      "title": "The Lord Has Been So Good to Me",
+      "timeSignature": "12/4",
+      "firstLine": "The Lord has been so good to me, I want to sing His praise;",
+      "textAttribution": {
+        "credit": "R. H. Pittman"
+      },
+      "musicAttribution": {
+        "credit": "J. Harvey Dailey"
+      },
+      "scriptureReference": "Ps. 135:3",
+      "verseCount": 5,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "298": {
+      "title": "Goodwin",
+      "timeSignature": "6/8",
+      "firstLine": "To Him who did salvation bring, Wake every tuneful power and sing A song of sweetest praise,",
+      "verseCount": 4
+    },
+    "299": {
+      "title": "The Lord Is My Shepherd",
+      "timeSignature": "6/4",
+      "firstLine": "The Lord is my Shepherd, No want shall I know. He’ll stay close beside me wherever I go.",
+      "textAttribution": {
+        "credit": "Merle Benbow"
+      },
+      "musicAttribution": {
+        "credit": "Merle Benbow"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "300": {
+      "title": "Wonderful Jesus",
+      "timeSignature": "9/8",
+      "firstLine": "Wonderful Jesus! glorious friend! He will be with me unto the end,",
+      "textAttribution": {
+        "credit": "James Rowe"
+      },
+      "musicAttribution": {
+        "credit": "J. P. Denton"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "J. P. Denton, owner."
+    },
+    "301": {
+      "title": "The Rock That Is Higher Than I",
+      "timeSignature": "4/4",
+      "firstLine": "O, sometimes the shadows are deep, And rough seems the path to the goal;",
+      "musicAttribution": {
+        "credit": "Wm. G. Fischer, by per."
+      },
+      "verseCount": 3
+    },
+    "302": {
+      "title": "Saviour, Like a Shepherd Lead Us",
+      "timeSignature": "4/4",
+      "firstLine": "Saviour, like a shepherd lead us, Much we need Thy tender care;",
+      "textAttribution": {
+        "credit": "Dorothy A. Thrupp"
+      },
+      "musicAttribution": {
+        "credit": "William B. Bradbury"
+      },
+      "verseCount": 4
+    },
+    "303": {
+      "title": "Adoration",
+      "timeSignature": "3/4",
+      "firstLine": "Lord, let me praise Thee in the morning While the day is new,",
+      "textAttribution": {
+        "credit": "M. F. S."
+      },
+      "musicAttribution": {
+        "credit": "Mary F. Stewart"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Mrs. Mary F. Stewart, owner. Copyright 1942, in “The Old School Hymnal No. 2.”"
+    },
+    "304": {
+      "title": "Won’t It Be Wonderful There?",
+      "timeSignature": "6/4",
+      "firstLine": "When with the Savior we enter the glory-land, Won’t it be wonderful there?",
+      "textAttribution": {
+        "credit": "James Rowe"
+      },
+      "musicAttribution": {
+        "credit": "Homer F. Morris"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright 1930. Renewed 1958, by Stamps-Baxter Music & Ptg. Co. All Rights Reserved."
+    },
+    "305": {
+      "title": "As Thirsts the Hart for Water Brooks",
+      "timeSignature": "3/2",
+      "firstLine": "As thirsts the hart for water brooks, So thirsts my soul, O God, for Thee;",
+      "musicAttribution": {
+        "credit": "William Bradbury",
+        "year": "1816-1868"
+      },
+      "scriptureReference": "Psalm 42",
+      "verseCount": 4
+    },
+    "306": {
+      "title": "Almighty King! Whose Wondrous Hand",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "firstLine": "Almighty King! whose wondrous hand Supports the weight of sea and land,",
+      "textAttribution": {
+        "credit": "Wm. Cowper",
+        "year": "1731-1800"
+      },
+      "musicAttribution": {
+        "credit": "Benjamin Smith",
+        "year": "1798"
+      },
+      "verseCount": 5
+    },
+    "307": {
+      "title": "Revive Us Again",
+      "timeSignature": "4/4",
+      "firstLine": "We praise Thee, O God! for the Son of Thy love, For Jesus who died, and is now gone above.",
+      "textAttribution": {
+        "credit": "William P. Mackay"
+      },
+      "musicAttribution": {
+        "credit": "John J. Husband"
+      },
+      "verseCount": 4
+    },
+    "308": {
+      "title": "Take the Name of Jesus With You",
+      "timeSignature": "4/4",
+      "firstLine": "Take the name of Jesus with you, Child of sorrow and of woe;",
+      "textAttribution": {
+        "credit": "Lydia Baxter"
+      },
+      "musicAttribution": {
+        "credit": "William H. Doane"
+      },
+      "verseCount": 4
+    },
+    "309": {
+      "title": "Seymour",
+      "timeSignature": "2/4",
+      "firstLine": "Depth of mercy! can there be Mercy still reserved for me?",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "C. M. von Weber"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by C. H. W. Greatorex."
+      },
+      "verseCount": 4
+    },
+    "310": {
+      "title": "Charity",
+      "meter": "S. M.",
+      "timeSignature": "4/4",
+      "firstLine": "Love is the greatest thing This world has ever known,",
+      "textAttribution": {
+        "credit": "R. H. Pittman"
+      },
+      "musicAttribution": {
+        "credit": "Dr. L. Mason"
+      },
+      "verseCount": 6
+    },
+    "311": {
+      "title": "Where the Soul Never Dies",
+      "timeSignature": "4/4",
+      "firstLine": "To Canaan’s land I’m on my way, Where the soul of man never dies;",
+      "textAttribution": {
+        "credit": "W. M. G."
+      },
+      "musicAttribution": {
+        "credit": "Wm. M. Golden"
+      },
+      "verseCount": 5,
+      "copyrightNotice": "Copyright, 1914, by Wm. M. Golden. R. E. Winsett, owner."
+    },
+    "312": {
+      "title": "Blessed Assurance",
+      "timeSignature": "9/8",
+      "firstLine": "Blessed assurance, Jesus is mine! Oh, what a foretaste of glory divine!",
+      "textAttribution": {
+        "credit": "F. J. Crosby"
+      },
+      "musicAttribution": {
+        "credit": "Mrs. Jos. F. Knapp"
+      },
+      "scriptureReference": "Heb. 9:28",
+      "verseCount": 3
+    },
+    "313": {
+      "title": "Exhilaration",
+      "timeSignature": "2/4",
+      "firstLine": "O may I worthy prove to see The saints in full prosperity;",
+      "musicAttribution": {
+        "credit": "T. W. Carter; C. H. Casey"
+      },
+      "verseCount": 2,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "314": {
+      "title": "Farther Along",
+      "timeSignature": "9/8",
+      "firstLine": "Tempted and tried we’re oft made to wonder Why it should be thus all the day long,",
+      "textAttribution": {
+        "credit": "W. B. S."
+      },
+      "musicAttribution": {
+        "credit": "Rev. W. B. Stevens; J. R. Baxter, Jr."
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright, 1937, by The Stamps-Baxter Music Co., in “Starlit Crown.” Renewed 1965. All Rights Reserved."
+    },
+    "315": {
+      "title": "When We All Get to Heaven",
+      "timeSignature": "4/4",
+      "firstLine": "Sing the wondrous love of Jesus, Sing His mercy and His grace;",
+      "textAttribution": {
+        "credit": "Mrs. J. G. W."
+      },
+      "musicAttribution": {
+        "credit": "Mrs. J. G. Wilson"
+      },
+      "verseCount": 4
+    },
+    "316": {
+      "title": "The Bride of Christ",
+      "timeSignature": "6/8",
+      "firstLine": "The Church of Christ we have today, A blessing from the Lord,",
+      "textAttribution": {
+        "credit": "J. F. Parker"
+      },
+      "musicAttribution": {
+        "credit": "J. F. Parker"
+      },
+      "scriptureReference": "Song of Solomon 2:10",
+      "verseCount": 3,
+      "copyrightNotice": "Copyright 1956, by J. F. Parker. Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "317": {
+      "title": "I’ll Live On",
+      "timeSignature": "4/4",
+      "firstLine": "’Tis a sweet and glorious thought that comes to me, I’ll live on,",
+      "textAttribution": {
+        "credit": "T. J. L."
+      },
+      "musicAttribution": {
+        "credit": "Theo. J. Lang"
+      },
+      "verseCount": 4
+    },
+    "318": {
+      "title": "We’re Marching to Zion",
+      "timeSignature": "3/8",
+      "firstLine": "Come, we that love the Lord, And let our joys be known,",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Robert Lowry"
+      },
+      "verseCount": 4
+    },
+    "319": {
+      "title": "Bower of Prayer",
+      "timeSignature": "4/4",
+      "firstLine": "To leave my dear friends, and from neighbors to part, And go from my home, it afflicts not my heart,",
+      "musicAttribution": {
+        "credit": "P. Richerson and Wm. Walker"
+      },
+      "verseCount": 6
+    },
+    "320": {
+      "title": "My God, What Silken Cords",
+      "meter": "C. M.",
+      "firstLine": "My God, what silken cords are Thine! How soft and yet how strong!",
+      "musicAttribution": {
+        "credit": "Smith"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. Cayce"
+      },
+      "verseCount": 4
+    },
+    "321": {
+      "title": "Not Made With Hands",
+      "timeSignature": "4/4",
+      "firstLine": "Christ went a building to prepare, It will be decked with jewels rare,",
+      "musicAttribution": {
+        "credit": "Old Melody"
+      },
+      "scriptureReference": "Heb. 11:10",
+      "verseCount": 4
+    },
+    "322": {
+      "title": "Walk Beside Me",
+      "timeSignature": "3/4",
+      "firstLine": "Walk beside me, O my Savior, While life’s morning sky is bright;",
+      "textAttribution": {
+        "credit": "Katharine E. Purvis"
+      },
+      "musicAttribution": {
+        "credit": "Jas. M. Black"
+      },
+      "verseCount": 3
+    },
+    "323": {
+      "title": "Is Not This the Land of Beulah?",
+      "timeSignature": "3/4",
+      "firstLine": "I am dwelling on the mountain, Where the golden sunlight gleams",
+      "textAttribution": {
+        "credit": "Anon."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arranged."
+      },
+      "verseCount": 5
+    },
+    "324": {
+      "title": "The Blessed Service of Love",
+      "timeSignature": "12/4",
+      "firstLine": "Blessed are the saints who render Faithful services of love;",
+      "textAttribution": {
+        "credit": "R. H. Pittman"
+      },
+      "musicAttribution": {
+        "credit": "J. Harvey Dailey"
+      },
+      "scriptureReference": "Eccl. 11:1",
+      "verseCount": 5,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "325": {
+      "title": "Lead Thou Me",
+      "timeSignature": "4/4",
+      "firstLine": "When the day of life is brightest, Love the fondest, hope most free,",
+      "textAttribution": {
+        "credit": "Mrs. S. W. Straub"
+      },
+      "musicAttribution": {
+        "credit": "Eld. Levi S. Saylor"
+      },
+      "verseCount": 3
+    },
+    "326": {
+      "title": "Lyons",
+      "timeSignature": "4/4",
+      "firstLine": "Ye servants of God, your Master proclaim, And publish abroad His wonderful name;",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Franz J. Haydn"
+      },
+      "verseCount": 4
+    },
+    "327": {
+      "title": "Sweet to Follow the Lord",
+      "timeSignature": "3/4",
+      "firstLine": "Lord, how sweet ’tis to see, the dear ones follow Thee, In a service of love here below.",
+      "textAttribution": {
+        "credit": "J. A. M."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by J. A. Munsees"
+      },
+      "verseCount": 5,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "328": {
+      "title": "Come Ye Weary",
+      "timeSignature": "4/4",
+      "firstLine": "Come ye humble and poor, And your Saviour adore,",
+      "textAttribution": {
+        "credit": "J. H. D."
+      },
+      "musicAttribution": {
+        "credit": "J. Harvey Dailey"
+      },
+      "scriptureReference": "Matt. 11:28",
+      "verseCount": 6,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "329": {
+      "title": "Did You Think to Pray?",
+      "timeSignature": "4/4",
+      "firstLine": "Ere you left your room this morning, Did you think to pray?",
+      "textAttribution": {
+        "credit": "Mrs. M. A. Kidder"
+      },
+      "musicAttribution": {
+        "credit": "W. O. Perkins"
+      },
+      "scriptureReference": "Phil. 4:6",
+      "verseCount": 4
+    },
+    "330": {
+      "title": "Zellville",
+      "meter": "S. M.",
+      "timeSignature": "2/2",
+      "firstLine": "Prepare me, gracious God, To stand before Thy face;",
+      "musicAttribution": {
+        "credit": "Wm. Hauser"
+      },
+      "verseCount": 4
+    },
+    "331": {
+      "title": "Sing to Me of Heaven",
+      "meter": "S. M.",
+      "timeSignature": "6/4",
+      "firstLine": "O, sing to me of heaven When I am called to die;",
+      "harmonizationAttribution": {
+        "credit": "Arr. by Wm. Hauser"
+      },
+      "verseCount": 5
+    },
+    "332": {
+      "title": "Hide Thou Me",
+      "timeSignature": "6/8",
+      "firstLine": "Sometimes I feel discouraged, and think my life in vain,",
+      "textAttribution": {
+        "credit": "Thoro Harris"
+      },
+      "musicAttribution": {
+        "credit": "L. R. Tolbert"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright 1925 and renewal 1953 by Thoro Harris. Assigned to John T. Benson, Jr., owner. All rights reserved. Used by permission of Benson Publishing Company, Nashville, Tennessee."
+    },
+    "333": {
+      "title": "I Need the Prayers",
+      "timeSignature": "4/4",
+      "firstLine": "I need the prayers of those I love, While trav’ling o’er life’s rugged way, That",
+      "textAttribution": {
+        "credit": "J. D. V."
+      },
+      "musicAttribution": {
+        "credit": "James D. Vaughan"
+      },
+      "scriptureReference": "James 5:16",
+      "verseCount": 3,
+      "copyrightNotice": "Copyright, 1936, by James D. Vaughan, Renewal."
+    },
+    "334": {
+      "title": "Joy Unspeakable",
+      "timeSignature": "4/4",
+      "firstLine": "I have found His grace is all complete, He supplieth every need;",
+      "textAttribution": {
+        "credit": "B. E. W."
+      },
+      "musicAttribution": {
+        "credit": "B. E. Warren"
+      },
+      "verseCount": 4
+    },
+    "335": {
+      "title": "In Mercy Lord Remember Me",
+      "meter": "C. M.",
+      "timeSignature": "6/4",
+      "firstLine": "In mercy, Lord, remember me, Thro’ all the hours of night;",
+      "textAttribution": {
+        "credit": "J. F. Herzog"
+      },
+      "musicAttribution": {
+        "credit": "W. Beale"
+      },
+      "verseCount": 3
+    },
+    "336": {
+      "title": "Jesus Has Done All Things Well",
+      "timeSignature": "9/8",
+      "firstLine": "Out in the cold world away from God, No signs of where man’s feet have trod;",
+      "textAttribution": {
+        "credit": "Eld. J. A. Monsees",
+        "year": "1883"
+      },
+      "musicAttribution": {
+        "credit": "Eld. J. A. Monsees",
+        "year": "1883"
+      },
+      "verseCount": 5,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "337": {
+      "title": "’Tis So Sweet to Trust in Jesus",
+      "timeSignature": "4/4",
+      "firstLine": "’Tis so sweet to trust in Jesus, Just to take Him at His Word;",
+      "textAttribution": {
+        "credit": "Mrs. Louisa M. R. Stead"
+      },
+      "musicAttribution": {
+        "credit": "Wm. J. Kirkpatrick"
+      },
+      "verseCount": 4
+    },
+    "338": {
+      "title": "I Need Thee Ev’ry Hour",
+      "timeSignature": "3/4",
+      "firstLine": "I need Thee ev’ry hour, Most gracious Lord; No tender voice like",
+      "textAttribution": {
+        "credit": "Mrs. Annie S. Hawks"
+      },
+      "musicAttribution": {
+        "credit": "Rev. Robert Lowry"
+      },
+      "verseCount": 4
+    },
+    "339": {
+      "title": "Nothing but the Blood",
+      "timeSignature": "4/4",
+      "firstLine": "What can wash away my sin? Nothing but the blood of Jesus;",
+      "textAttribution": {
+        "credit": "R. L."
+      },
+      "musicAttribution": {
+        "credit": "Robert Lowry"
+      },
+      "verseCount": 4
+    },
+    "340": {
+      "title": "Meditation",
+      "meter": "L. M.",
+      "timeSignature": "4/4",
+      "firstLine": "When I survey the wondrous cross On which the Prince of Glory died,",
+      "verseCount": 4
+    },
+    "341": {
+      "title": "Chalmers",
+      "meter": "C. M.",
+      "timeSignature": "3/4",
+      "firstLine": "Firm as the earth Thy promise stands, My Lord, my hope, my trust;",
+      "harmonizationAttribution": {
+        "credit": "Arr. by Wm. Houser."
+      },
+      "verseCount": 3
+    },
+    "342": {
+      "title": "Ashville",
+      "timeSignature": "2/4",
+      "firstLine": "Lord, in Thy presence here we meet: May we in Thee be found?",
+      "musicAttribution": {
+        "credit": "A. B. Everett"
+      },
+      "scriptureReference": "Acts 15:6",
+      "verseCount": 3
+    },
+    "343": {
+      "title": "Boylston",
+      "timeSignature": "3/2",
+      "firstLine": "Hungry, and faint, and poor, Behold us, Lord, again",
+      "textAttribution": {
+        "credit": "Newton"
+      },
+      "musicAttribution": {
+        "credit": "L. Mason"
+      },
+      "verseCount": 3
+    },
+    "344": {
+      "title": "He Lives",
+      "timeSignature": "6/8",
+      "firstLine": "She came to the garden while yet it was dawn. As the",
+      "textAttribution": {
+        "credit": "Elder J. A. Rowell"
+      },
+      "musicAttribution": {
+        "credit": "Harvey Bass; Karen Winchester"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "345": {
+      "title": "Crucifixion",
+      "timeSignature": "2/2",
+      "firstLine": "Jesus my Lord was crucified, Crucified.",
+      "textAttribution": {
+        "credit": "Merle Benbow"
+      },
+      "musicAttribution": {
+        "credit": "Merle Benbow"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "346": {
+      "title": "Near the Cross",
+      "timeSignature": "6/8",
+      "firstLine": "Jesus keep me near the cross, There a precious fountain",
+      "textAttribution": {
+        "credit": "Fanny J. Crosby"
+      },
+      "musicAttribution": {
+        "credit": "W. H. Doane"
+      },
+      "verseCount": 4
+    },
+    "347": {
+      "title": "The Lord of Glory",
+      "timeSignature": "3/4",
+      "firstLine": "The Lord of glory came to earth, To set His people free;",
+      "textAttribution": {
+        "credit": "F. P. Branscome"
+      },
+      "musicAttribution": {
+        "credit": "John R. Daily"
+      },
+      "verseCount": 4
+    },
+    "348": {
+      "title": "Christ Arose",
+      "timeSignature": "4/4",
+      "firstLine": "Low in the grave He lay—Jesus, my Savior! Waiting the coming day—",
+      "textAttribution": {
+        "credit": "R. L."
+      },
+      "musicAttribution": {
+        "credit": "Robert Lowry"
+      },
+      "verseCount": 3
+    },
+    "349": {
+      "title": "State Street",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "firstLine": "Revive Thy work, O Lord! Thy mighty arm make bare;",
+      "textAttribution": {
+        "credit": "Albert Midlane",
+        "year": "1861"
+      },
+      "musicAttribution": {
+        "credit": "J. C. Woodman",
+        "year": "1844"
+      },
+      "verseCount": 4
+    },
+    "350": {
+      "title": "Lovely Story",
+      "timeSignature": "4/4",
+      "firstLine": "A story most lovely I’ll tell, Of Jesus, O wondrous surprise!",
+      "musicAttribution": {
+        "credit": "Wm. Walker"
+      },
+      "verseCount": 3
+    },
+    "351": {
+      "title": "It Is Well With My Soul",
+      "timeSignature": "4/4",
+      "firstLine": "When peace, like a river, attendeth my way, When",
+      "textAttribution": {
+        "credit": "H. C. Spafford"
+      },
+      "musicAttribution": {
+        "credit": "P. P. Bliss"
+      },
+      "verseCount": 4
+    },
+    "352": {
+      "title": "Dripping From the Cross",
+      "timeSignature": "4/4",
+      "firstLine": "Guilty nail-pierced holy vein Jesus bore the loss; There was blood with holy pain",
+      "textAttribution": {
+        "credit": "L. B. Leister"
+      },
+      "musicAttribution": {
+        "credit": "L. B. Leister"
+      },
+      "verseCount": 5,
+      "copyrightNotice": "Copyright, 1911, by L. B. Leister. Used by permission."
+    },
+    "353": {
+      "title": "I Love Jesus",
+      "meter": "Nettleton 8s & 7s",
+      "timeSignature": "3/2",
+      "firstLine": "When the world my heart is rending, With its heaviest storm of care,",
+      "musicAttribution": {
+        "credit": "John Wyeth",
+        "year": "1770-1858"
+      },
+      "verseCount": 4
+    },
+    "354": {
+      "title": "Come All Ye Chosen Saints of God",
+      "meter": "Confidence. L. M.",
+      "timeSignature": "2/4",
+      "firstLine": "Come, all ye chosen saints of God, Whose souls are washed in Jesus’ blood,",
+      "musicAttribution": {
+        "credit": "J. E. Turner",
+        "year": "1807-1874"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. Roland Green"
+      },
+      "scriptureReference": "2 Cor. 12:9",
+      "verseCount": 3,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "355": {
+      "title": "A Flower",
+      "timeSignature": "3/4",
+      "firstLine": "And the hand of God alas did move. It",
+      "textAttribution": {
+        "credit": "Nina Reaves Moore"
+      },
+      "musicAttribution": {
+        "credit": "Sara White"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "356": {
+      "title": "My Strength",
+      "timeSignature": "3/4",
+      "firstLine": "Dear Lord divine in Thee I find; New strength for every day.",
+      "textAttribution": {
+        "credit": "Mary D. Phipps"
+      },
+      "harmonizationAttribution": {
+        "credit": "arr. by A. E. Richards"
+      },
+      "verseCount": 5,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "357": {
+      "title": "Sweet Canaan",
+      "timeSignature": "2/4",
+      "firstLine": "Come in, ye blessed of the Lord, Your Saviour’s boundless goodness prove,",
+      "musicAttribution": {
+        "credit": "E. J. King; C. H. Casey"
+      },
+      "verseCount": 3
+    },
+    "358": {
+      "title": "The Converted Thief",
+      "meter": "C. M. 8 Lines",
+      "timeSignature": "6/4",
+      "firstLine": "As on the cross the Saviour hung, And wept, and bled, and died,",
+      "musicAttribution": {
+        "credit": "Moore"
+      },
+      "verseCount": 6
+    },
+    "359": {
+      "title": "New Year",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "firstLine": "I want a heart to pray, To pray and never cease;",
+      "musicAttribution": {
+        "credit": "P. M. Atchley"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 5
+    },
+    "360": {
+      "title": "Brightest Days",
+      "meter": "C. M.",
+      "timeSignature": "6/4",
+      "firstLine": "My God, the spring of all my joys, The life of my delights,",
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 5
+    },
+    "361": {
+      "title": "Lead, Kindly Light",
+      "meter": "M. 6s",
+      "timeSignature": "3/2",
+      "firstLine": "Lead, kindly Light, amid th’ encircling gloom, Lead Thou me on! The night is",
+      "textAttribution": {
+        "credit": "J. H. Newman"
+      },
+      "musicAttribution": {
+        "credit": "J. B. Dykes"
+      },
+      "verseCount": 3
+    },
+    "362": {
+      "title": "Abbeville",
+      "timeSignature": "3/4",
+      "firstLine": "Assist Thy servant, Lord, The gospel to proclaim;",
+      "musicAttribution": {
+        "credit": "E. J. King"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by C. H. C."
+      },
+      "verseCount": 3
+    },
+    "363": {
+      "title": "Sweetly Resting",
+      "timeSignature": "3/2",
+      "firstLine": "In the rifted Rock I’m resting, Safely sheltered I abide;",
+      "textAttribution": {
+        "credit": "Mary D. James"
+      },
+      "musicAttribution": {
+        "credit": "W. Warren Bentley"
+      },
+      "verseCount": 4
+    },
+    "364": {
+      "title": "Shall We Gather at the River",
+      "timeSignature": "4/4",
+      "firstLine": "Shall we gather at the river, Where bright angel feet have trod.",
+      "textAttribution": {
+        "credit": "R. L."
+      },
+      "musicAttribution": {
+        "credit": "Robert Lowry"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright, 1869, by Mrs. Mary Runyon Lowry. Used by permission."
+    },
+    "365": {
+      "title": "I Will Not Be a Stranger",
+      "timeSignature": "6/4",
+      "firstLine": "I will not be a stranger when I get to that city, I’m acquainted with folks over there;",
+      "textAttribution": {
+        "credit": "J. B. S."
+      },
+      "musicAttribution": {
+        "credit": "James B. Singleton"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright, 1956, by Stamps Quartet Music Co., Inc., in “Christian Way.” International Copyright Secured."
+    },
+    "366": {
+      "title": "The Touch of His Gentle Hand",
+      "timeSignature": "6/8",
+      "firstLine": "No matter how dark the night, Or bitter the winds that blow,",
+      "textAttribution": {
+        "credit": "A. E. B."
+      },
+      "musicAttribution": {
+        "credit": "Albert E. Brumley"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1960, by Stamps-Baxter Music & Printing Co., in “Dawning Light.” International Copyright Secured."
+    },
+    "367": {
+      "title": "’Tis Religion",
+      "timeSignature": "6/8",
+      "firstLine": "’Tis religion that can give Sweetest pleasures while we live;",
+      "verseCount": 2
+    },
+    "368": {
+      "title": "Where We’ll Never Grow Old",
+      "timeSignature": "4/4",
+      "firstLine": "I have heard of a land on the far away strand, ’Tis a beautiful home of the soul;",
+      "textAttribution": {
+        "credit": "J. C. M."
+      },
+      "musicAttribution": {
+        "credit": "Jas. C. Moore"
+      },
+      "verseCount": 3
+    },
+    "369": {
+      "title": "A Light at the River",
+      "timeSignature": "9/8",
+      "firstLine": "There is a river we must pass over, When life’s sun goes to sleep in the west;",
+      "textAttribution": {
+        "credit": "Elder & Mrs. Ray Rotenizer"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by Morris Nowlin; Harvey Bass"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "370": {
+      "title": "I Feel Like Traveling On",
+      "timeSignature": "4/4",
+      "firstLine": "My heav’nly home is bright and fair, I feel like traveling on,",
+      "textAttribution": {
+        "credit": "Wm. Hunter, D.D."
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. by Jas. D. Vaughan."
+      },
+      "verseCount": 5
+    },
+    "371": {
+      "title": "Leaning on the Everlasting Arms",
+      "timeSignature": "4/4",
+      "firstLine": "What a fellowship, what a joy divine, Leaning on the everlasting arms;",
+      "textAttribution": {
+        "credit": "E. A. Hoffman"
+      },
+      "musicAttribution": {
+        "credit": "A. J. Showalter"
+      },
+      "verseCount": 3
+    },
+    "372": {
+      "title": "He Bore It All",
+      "timeSignature": "4/4",
+      "firstLine": "My precious Savior suffered pain and agony, He bore it all that I might live;",
+      "textAttribution": {
+        "credit": "J. R. Baxter, Jr."
+      },
+      "musicAttribution": {
+        "credit": "Virgil O. Stamps"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright, 1926. Renewed 1954 by Stamps-Baxter Music & Printing Co. All Rights Reserved."
+    },
+    "373": {
+      "title": "How I Love Jesus",
+      "timeSignature": "6/8",
+      "firstLine": "There is a name I love to hear, I love to sing its worth;",
+      "textAttribution": {
+        "credit": "Frederick Whitfield"
+      },
+      "verseCount": 4
+    },
+    "374": {
+      "title": "Where the Roses Never Fade",
+      "timeSignature": "4/4",
+      "firstLine": "I am going to a city Where the streets with gold are laid,",
+      "textAttribution": {
+        "credit": "E. J. & J."
+      },
+      "musicAttribution": {
+        "credit": "Elsie Jack & Jim"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright 1942 by Stamps-Baxter Music & Ptg. Co. in “Blessed Hope.” E. J. & J. Copyright © Renewed 1970. All Rights Reserved."
+    },
+    "375": {
+      "title": "Abide with Me",
+      "timeSignature": "4/4",
+      "firstLine": "Abide with me! Fast falls the eventide, The darkness",
+      "textAttribution": {
+        "credit": "H. F. Lyte",
+        "year": "1847"
+      },
+      "musicAttribution": {
+        "credit": "Wm. H. Monk",
+        "year": "1861"
+      },
+      "verseCount": 4
+    },
+    "376": {
+      "title": "When I Survey the Cross",
+      "meter": "Hamburg. L. M.",
+      "timeSignature": "2/4",
+      "firstLine": "When I survey the wondrous cross On which the Prince of glory died,",
+      "textAttribution": {
+        "credit": "Isaac Watts",
+        "year": "1707"
+      },
+      "musicAttribution": {
+        "credit": "Lowell Mason"
+      },
+      "scriptureReference": "Gal. 6:14",
+      "verseCount": 4
+    },
+    "377": {
+      "title": "When We Awake in His Likeness",
+      "timeSignature": "3/4",
+      "firstLine": "We are traveling thru life’s journey, Hope and fear are side by side,",
+      "textAttribution": {
+        "credit": "O. P. Spier"
+      },
+      "musicAttribution": {
+        "credit": "O. P. Spier"
+      },
+      "scriptureReference": "Ps. 17:15",
+      "verseCount": 3
+    },
+    "378": {
+      "title": "Whiter Than Snow",
+      "timeSignature": "6/8",
+      "firstLine": "I was an alien and death reigned within, Sitting in darkness walking in sin;",
+      "textAttribution": {
+        "credit": "J. H. D."
+      },
+      "musicAttribution": {
+        "credit": "J. Harvey Dailey"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright 1944, in “Our Little Hymnal.” J. Harvey Dailey owner. Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "379": {
+      "title": "The Hill of Zion",
+      "meter": "S. M.",
+      "timeSignature": "3/4",
+      "firstLine": "My soul, with joy attend, While Jesus silence breaks;",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      },
+      "harmonizationAttribution": {
+        "credit": "Alto by Wm. Walker."
+      },
+      "verseCount": 4
+    },
+    "380": {
+      "title": "St. Louis",
+      "meter": "7s.",
+      "timeSignature": "6/4",
+      "firstLine": "Blessed Jesus! Thee we sing; Thou of life th’ eternal spring;",
+      "verseCount": 4
+    },
+    "381": {
+      "title": "Let Me Live Close to Thee",
+      "timeSignature": "4/4",
+      "firstLine": "In Thy field I would wield sickles brave and true, In the fight for the right",
+      "textAttribution": {
+        "credit": "J. R. Baxter, Jr."
+      },
+      "musicAttribution": {
+        "credit": "Virgil O. Stamps"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1955 Renewal by Stamps-Baxter Music & Ptg. Co. All Rights Reserved."
+    },
+    "382": {
+      "title": "Come All Ye Mourning Pilgrims",
+      "meter": "Pilgrim",
+      "timeSignature": "4/4",
+      "firstLine": "Come all ye mourning pilgrims dear, Who’re bound for Canaan’s land,",
+      "musicAttribution": {
+        "credit": "John B. Dyke"
+      },
+      "harmonizationAttribution": {
+        "credit": "Arr. Roland Green"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "383": {
+      "title": "Hide Thou Me",
+      "timeSignature": "3/4",
+      "firstLine": "In Thy cleft, O Rock of Ages, Hide Thou me; When the",
+      "textAttribution": {
+        "credit": "Fanny J. Crosby"
+      },
+      "musicAttribution": {
+        "credit": "Robert Lowry"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Used by permission."
+    },
+    "384": {
+      "title": "All the Way My Savior Leads",
+      "timeSignature": "3/4",
+      "firstLine": "All the way my Savior leads me; What have I to ask beside?",
+      "textAttribution": {
+        "credit": "Fanny J. Crosby"
+      },
+      "musicAttribution": {
+        "credit": "Robert Lowry"
+      },
+      "verseCount": 3
+    },
+    "385": {
+      "title": "Rest for the Weary",
+      "timeSignature": "2/2",
+      "firstLine": "In the Christian’s home in glory, There remains a land of rest;",
+      "textAttribution": {
+        "credit": "William Hunter",
+        "year": "1811-1877"
+      },
+      "musicAttribution": {
+        "credit": "J. W. Dadmun"
+      },
+      "verseCount": 3
+    },
+    "386": {
+      "title": "Jesus Knows",
+      "timeSignature": "9/8",
+      "firstLine": "Come what may of joy or sorrow, Be my portion pain or rest,",
+      "textAttribution": {
+        "credit": "Laura E. Newell"
+      },
+      "musicAttribution": {
+        "credit": "J. H. Hall"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright by the Ruebush-Kieffer Co. By permission."
+    },
+    "387": {
+      "title": "Assurance",
+      "timeSignature": "4/4",
+      "firstLine": "Oh, my Lord, I am Thine; What a blessing divine, What a comfort to feel Thou art near!",
+      "textAttribution": {
+        "credit": "J. R. D."
+      },
+      "musicAttribution": {
+        "credit": "John R. Daily"
+      },
+      "verseCount": 3
+    },
+    "388": {
+      "title": "Lord, Lead Me On",
+      "timeSignature": "4/4",
+      "firstLine": "When the way seems dark and long, as I pass amid the throng,",
+      "textAttribution": {
+        "credit": "M. W. E."
+      },
+      "musicAttribution": {
+        "credit": "Marion W. Easterling"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © Renewed 1967 by Stamps-Baxter Music & Printing Co. All Rights Reserved."
+    },
+    "389": {
+      "title": "The Half Has Never Been Told",
+      "timeSignature": "4/4",
+      "firstLine": "I know I love Thee better, Lord, Than any earthly joy,",
+      "textAttribution": {
+        "credit": "Francis R. Havergal"
+      },
+      "musicAttribution": {
+        "credit": "R. E. Hudson"
+      },
+      "verseCount": 4
+    },
+    "390": {
+      "title": "The Hem of His Garment",
+      "timeSignature": "9/8",
+      "firstLine": "If I could but touch the hem of His garment, I know He would heal my broken heart.",
+      "textAttribution": {
+        "credit": "Karen Winchester"
+      },
+      "musicAttribution": {
+        "credit": "Karen Winchester"
+      },
+      "verseCount": 3,
+      "historicalNote": "In love for I. M. and Este Lee Hausenfluke.",
+      "copyrightNotice": "Copyright © 1973 by Karen Winchester, in “Harp of Ages.” All Rights Reserved."
+    },
+    "391": {
+      "title": "Long Sought Home",
+      "timeSignature": "3/4",
+      "firstLine": "Jerusalem, my happy home, O how I long for thee.",
+      "musicAttribution": {
+        "credit": "William Bobo"
+      },
+      "verseCount": 4
+    },
+    "392": {
+      "title": "The Bride’s Mansion",
+      "timeSignature": "6/8",
+      "firstLine": "I have a feeling from inside, My Lord is coming to His bride,",
+      "textAttribution": {
+        "credit": "J. A. Monsees",
+        "year": "1883"
+      },
+      "musicAttribution": {
+        "credit": "J. A. Monsees",
+        "year": "1883"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "393": {
+      "title": "Some Day",
+      "timeSignature": "3/4",
+      "firstLine": "I hear a song, a song so sweet, I try all vainly to repeat,",
+      "textAttribution": {
+        "credit": "E. E. Rexford"
+      },
+      "musicAttribution": {
+        "credit": "Frank M. Davis"
+      },
+      "scriptureReference": "Rev. 15:3",
+      "verseCount": 4,
+      "copyrightNotice": "By permission."
+    },
+    "394": {
+      "title": "Some Day",
+      "timeSignature": "4/4",
+      "firstLine": "My trials here on earth will cease, Some day, some day;",
+      "textAttribution": {
+        "credit": "Graydon Hall"
+      },
+      "musicAttribution": {
+        "credit": "H. L. Barrett"
+      },
+      "verseCount": 4
+    },
+    "395": {
+      "title": "Barwell",
+      "meter": "8s & 7s.",
+      "timeSignature": "3/4",
+      "firstLine": "Hark! ten thousand harps and voices Sound the notes of praise above;",
+      "textAttribution": {
+        "credit": "Thos. Kelly"
+      },
+      "musicAttribution": {
+        "credit": "Lowell Mason"
+      },
+      "verseCount": 4
+    },
+    "396": {
+      "title": "There’s a Guiding Hand",
+      "timeSignature": "4/4",
+      "firstLine": "As I travel on my journey t’ward the setting of the sun, Whether sunshine or in shadows, night or day;",
+      "textAttribution": {
+        "credit": "M. A. D."
+      },
+      "musicAttribution": {
+        "credit": "Milton A. Dodson"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Dodson and Paris owners."
+    },
+    "397": {
+      "title": "Anywhere Is “Home”",
+      "timeSignature": "4/4",
+      "firstLine": "Earthly wealth and fame May never come to me. And a palace fair, Here mine may never be;",
+      "textAttribution": {
+        "credit": "J. M. Henson"
+      },
+      "musicAttribution": {
+        "credit": "Homer F. Morris"
+      },
+      "verseCount": 3
+    },
+    "398": {
+      "title": "Oh, Wonderful Day",
+      "timeSignature": "12/8",
+      "firstLine": "Oh, wonderful day when I saw the light Of my Saviour’s love shining so bright;",
+      "textAttribution": {
+        "credit": "Donie Weldon"
+      },
+      "musicAttribution": {
+        "credit": "Charles Richards"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright © 1973 by Harp Of Ages, Inc., in “Harp of Ages.” All Rights Reserved."
+    },
+    "399": {
+      "title": "I’ll Be Satisfied",
+      "timeSignature": "4/4",
+      "firstLine": "When my soul is singing in that promised land above, I’ll be satisfied;",
+      "musicAttribution": {
+        "credit": "T. N. Pannell"
+      },
+      "verseCount": 3
+    },
+    "400": {
+      "title": "Jesus Hold My Hand",
+      "firstLine": "As I travel through this pilgrim land, Protect me by Thy hand;"
+    },
+    "401": {
+      "title": "When Upon Life’s Billows",
+      "firstLine": "When upon life’s billows you are tempest tossed, When you are discouraged thinking all is lost,"
+    },
+    "402": {
+      "title": "Thy Way, Not Mine",
+      "firstLine": "Thy way, not mine, O Lord, However dark it be;"
+    },
+    "403": {
+      "title": "I Must Tell Jesus",
+      "firstLine": "I must tell Jesus all of my trials; I cannot bear these burdens alone;"
+    },
+    "404": {
+      "title": "Won’t It Be Wonderful",
+      "firstLine": "When with the saved in glory Divine, Oh, what a blessed day;"
+    },
+    "405": {
+      "title": "Each Moment of Time",
+      "firstLine": "Each moment of time is precious, Each moment of time is dear;"
+    },
+    "406": {
+      "title": "I’ll Meet You in the Morning",
+      "timeSignature": "6/8",
+      "firstLine": "I will meet you in the morning, by the bright river side,",
+      "textAttribution": {
+        "credit": "A. E. B."
+      },
+      "musicAttribution": {
+        "credit": "Albert E. Brumley"
+      },
+      "verseCount": 3,
+      "historicalNote": "Respectfully dedicated to my wife, Goldie, and sons, Billy Joe, Albert E. Jr., Thomas Rexton, Robert Bartlett, and Jackie Stamps.",
+      "copyrightNotice": "Copyright, 1936, by Hartford Music Co., in “Lights of Life.”"
+    },
+    "407": {
+      "title": "He Whispers Sweet Peace to Me",
+      "timeSignature": "6/8",
+      "firstLine": "Sometime when misgivings darken the day, And faith’s light I cannot see;",
+      "textAttribution": {
+        "credit": "W. M. R."
+      },
+      "musicAttribution": {
+        "credit": "Will M. Ramsey"
+      },
+      "verseCount": 4,
+      "copyrightNotice": "Copyright, 1932, in “New Songs.” Owned by Morris & Henson."
+    },
+    "408": {
+      "title": "When the Savior Reached Down for Me",
+      "timeSignature": "3/4",
+      "firstLine": "Once my soul was astray from the heavenly way, And was wretched and vile as could be;",
+      "textAttribution": {
+        "credit": "G. E. W."
+      },
+      "musicAttribution": {
+        "credit": "G. E. Wright"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright 1921, by Quartet Music Co. Renewal 1948, assigned to Stamps-Baxter Music & Ptg. Co. All Rights Reserved."
+    },
+    "409": {
+      "title": "If We Never Meet Again",
+      "timeSignature": "6/8",
+      "firstLine": "Soon we’ll come to the end of life’s journey And perhaps we’ll never meet any more,",
+      "textAttribution": {
+        "credit": "A. E. B."
+      },
+      "musicAttribution": {
+        "credit": "Albert E. Brumley"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Copyright, 1945, by Stamps Quartet Music Co. in “Divine Praise.” Assigned, 1949, Stamps Quartet Music Co., Inc. and Albert E. Brumley."
+    },
+    "410": {
+      "title": "We Have a Home",
+      "timeSignature": "4/4",
+      "firstLine": "There are mansions in that city in that promised land above, Our Father’s house is over there;",
+      "textAttribution": {
+        "credit": "J. H. D."
+      },
+      "musicAttribution": {
+        "credit": "J. Harvey Dailey"
+      },
+      "verseCount": 3,
+      "copyrightNotice": "Owned by Old School Hymnal Co., Inc. Used by permission."
+    },
+    "411": {
+      "title": "Bear Me Up, Angels",
+      "timeSignature": "6/4",
+      "firstLine": "God’s angels encampeth ’round them that fear Him;",
+      "textAttribution": {
+        "credit": "Johnson Oatman, Jr."
+      },
+      "musicAttribution": {
+        "credit": "H. M. Eagle"
+      },
+      "scriptureReference": "Psa. 34:7",
+      "verseCount": 4,
+      "historicalNote": "Property of H. M. Eagle, Burke’s Garden, Va.",
+      "catalogCode": "Nos. 211 and 212; SH 7 and 8"
+    }
+  }
+}

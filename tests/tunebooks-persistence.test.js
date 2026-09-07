@@ -178,16 +178,22 @@ describe('Work list sorting is article-insensitive (v61 review #4)', () => {
     const titlesInOrder = rows.map((r) => r.textContent.trim());
     const idx = (needle) => titlesInOrder.findIndex((t) => t.includes(needle));
 
+    // "The American Harmony" (the fourth anchor this test used to use) was merged
+    // 2026-09-07 into "American Harmony: Inspired Choral Miniatures" - it was a duplicate
+    // provisional record for the same book Kevin confirmed AHI already covers, so that
+    // exact title no longer exists as its own row. "American or Union Harmonist" is a
+    // real, stable title that still sorts correctly after "The American Harmonist" by
+    // real title, so it stands in as the fourth anchor.
     const positions = [
       idx('An American Christmas Harp'),
       idx('The American Church Harp'),
       idx('The American Harmonist'),
-      idx('The American Harmony'),
+      idx('American or Union Harmonist'),
     ];
     assert.ok(positions.every((p) => p > -1), 'All four real reference titles should be present in the Library');
     const sortedPositions = positions.slice().sort((a, b) => a - b);
     assert.deepStrictEqual(positions, sortedPositions,
-      'These four titles should appear in real-title alphabetical order (Christmas, Church, Harmonist, Harmony), not clustered by their leading An/The');
+      'These four titles should appear in real-title alphabetical order (Christmas, Church, Harmonist, or Union Harmonist), not clustered by their leading An/The');
   });
 });
 

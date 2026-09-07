@@ -249,8 +249,12 @@ describe('Bulk Edit finding 3: Save is transactional and validation-gated (BLOCK
     const doc = win.document;
     await openBulkEdit(doc);
 
+    // Uses ANC (a real, stable bare Work with no Edition) as its fixture row. This test
+    // used to use AH (The American Harmony) - that record was merged 2026-09-07 into AHI,
+    // the same book's real SingLoud work code, once Kevin confirmed AH/AHI were duplicate
+    // entries for one title, so AH no longer exists as a row to find here.
     const rows = [...doc.querySelectorAll('#bulkTableBody tr')];
-    const ahRow = rows.find((r) => r.querySelector('td').textContent === 'AH');
+    const ahRow = rows.find((r) => r.querySelector('td').textContent === 'ANC');
     const titleInput = ahRow.querySelector('[data-field="titleProper"]');
     const originalTitle = titleInput.value;
     titleInput.value = '';
@@ -284,7 +288,7 @@ describe('Bulk Edit finding 3: Save is transactional and validation-gated (BLOCK
     // nor a real regression, just an expectation nobody had reconciled with the fix that
     // outdated it. Now it asserts the intended behavior instead.
     await openBulkEdit(doc);
-    const ahRowAfter = [...doc.querySelectorAll('#bulkTableBody tr')].find((r) => r.querySelector('td').textContent === 'AH');
+    const ahRowAfter = [...doc.querySelectorAll('#bulkTableBody tr')].find((r) => r.querySelector('td').textContent === 'ANC');
     assert.equal(ahRowAfter.querySelector('[data-field="titleProper"]').value, '',
       'The rejected edit must still be sitting in the draft, exactly as typed, so it can be corrected and retried');
     assert.ok(originalTitle && originalTitle.trim(),
@@ -336,8 +340,10 @@ describe('Bulk Edit finding 3: Save is transactional and validation-gated (BLOCK
     const doc = win.document;
     await openBulkEdit(doc);
 
+    // ANC (a real, stable bare Work with no Edition) stands in here for the same reason
+    // as above - the AH fixture this test used to use was merged into AHI on 2026-09-07.
     const rows = [...doc.querySelectorAll('#bulkTableBody tr')];
-    const ahRow = rows.find((r) => r.querySelector('td').textContent === 'AH');
+    const ahRow = rows.find((r) => r.querySelector('td').textContent === 'ANC');
     ahRow.querySelector('[data-field="titleProper"]').value = '';
     ahRow.querySelector('[data-field="titleProper"]').dispatchEvent(new win.Event('input', { bubbles: true }));
 
