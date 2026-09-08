@@ -474,22 +474,30 @@
         Every book in the Library — every real Edition, whatever its Level, plus every bare Work with no Edition at
         all yet — in one editable table. What's narrow here isn't which books show up; it's which fields can be
         touched: only the ones with nothing to do with page data. <code>Title Proper</code>, <code>Subtitle</code>,
-        <code>Common Name</code>, <code>Compiler</code>, <code>Publisher</code>, <code>Place Published</code>,
-        <code>Publication Year</code>, <code>Shape System</code>, and <code>SHMHA Code</code> — a Level 2 or 3
-        Edition can be just as likely to be missing one of these as a Level 1 one, and this fills them in the same
-        way either way. A bare Work has no place to hold Subtitle, Common Name, Compiler, Publisher, Place
-        Published, or Publication Year until it has a real Edition — give it an <code>Edition Identifier Year</code>
-        and one of those fields, and saving that row creates a real Level 1 Edition (<code>Work Code</code> + year)
-        to hold them. Title Proper, Shape System, and SHMHA Code exist on both, so on a bare-Work row they edit the
-        Work's own copy directly, whether or not that row also gets a new Edition.
+        <code>Common Name</code>, <code>Compiler</code>, <code>Publication Year</code>, <code>Shape System</code>,
+        <code>SHMHA Code</code>, <code>Badge Colour</code>/<code>Badge Text</code>, and <code>Minutes Visibility</code>
+        — a Level 2 or 3 Edition can be just as likely to be missing one of these as a Level 1 one, and this fills
+        them in the same way either way. A bare Work has no place to hold Subtitle, Common Name, Compiler,
+        Publication Year, colours, or Minutes Visibility until it has a real Edition — give it an
+        <code>Edition Identifier Year</code> and one of those fields, and saving that row creates a real Level 1
+        Edition (<code>Work Code</code> + year) to hold them. Title Proper, Shape System, and SHMHA Code exist on
+        both, so on a bare-Work row they edit the Work's own copy directly, whether or not that row also gets a new
+        Edition.
       </p>
 
-      <div class="toolbar" style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:12px;">
+      <div class="toolbar" style="display:flex;gap:16px;align-items:center;flex-wrap:wrap;margin-bottom:8px;font-family:var(--sans);font-size:12.5px;">
+        <span style="color:var(--ink-faint);">Show:</span>
+        <label style="display:flex;align-items:center;gap:5px;cursor:pointer;"><input type="checkbox" id="bulkLevelFilter1" checked> Level 1 (basic record)</label>
+        <label style="display:flex;align-items:center;gap:5px;cursor:pointer;"><input type="checkbox" id="bulkLevelFilter2" checked> Level 2 (indexed)</label>
+        <label style="display:flex;align-items:center;gap:5px;cursor:pointer;"><input type="checkbox" id="bulkLevelFilter3" checked> Level 3 (enriched)</label>
+      </div>
+      <div class="toolbar" style="display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:6px;">
         <input type="search" id="bulkFilterInput" placeholder="Filter by Work Code or title…" autocomplete="off" style="flex:1;min-width:220px;">
         <span id="bulkRowCount" style="font-family:var(--sans);font-size:12px;color:var(--ink-faint);white-space:nowrap;"></span>
         <button type="button" id="bulkSaveAllBtn" disabled>Save all changes</button>
         <span id="bulkPendingCount" style="font-family:var(--sans);font-size:12px;color:var(--ink-faint);white-space:nowrap;"></span>
       </div>
+      <div id="bulkColorSummary" style="font-family:var(--sans);font-size:12px;color:var(--ink-soft);margin-bottom:10px;"></div>
       <div id="bulkSaveStatus" style="font-family:var(--sans);font-size:12.5px;margin-bottom:10px;"></div>
 
       <div id="bulkTableWrap" style="overflow-x:auto;overflow-y:auto;max-height:65vh;border:1px solid var(--paper-line,#e1d5b8);border-radius:8px;">
@@ -502,13 +510,12 @@
               <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);min-width:140px;">Subtitle</th>
               <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);min-width:140px;">Common Name</th>
               <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);min-width:140px;">Compiler</th>
-              <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);min-width:140px;">Publisher</th>
-              <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);min-width:130px;">Place Published</th>
               <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);">Pub. Year</th>
               <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);">Shape</th>
               <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);">SHMHA Code</th>
               <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);min-width:132px;">Badge Colour</th>
               <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);min-width:132px;">Badge Text</th>
+              <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);min-width:130px;">Minutes Visibility</th>
               <th style="position:sticky;top:0;background:var(--paper-dark,#f8f3e6);z-index:2;text-align:left;padding:8px 10px;white-space:nowrap;border-bottom:1px solid var(--paper-line,#e1d5b8);min-width:120px;">Status</th>
             </tr>
           </thead>
@@ -536,7 +543,7 @@
 (function(){
   "use strict";
 
-  var TUNEBOOK_EDITOR_VERSION = "0.62.1"; // 2026-09-06c revised release-readiness review, priority 6: the Instructions link pointed at GitHub's raw source "blob" view of instructions.html rather than the rendered page; it now points at the Minutes repo's GitHub Pages URL. // v144 release review, findings 2 and 3: Substack Full used to read a raw Level 3 file directly and assume every song object was already a complete display record - false for SHM1991/SHM2025 specifically (title lives only in the Library for those two, producing a literal "undefined" heading on all 554/590 of their real songs) and for roughly half the real corpus's string-shaped attributions (silently dropped outright rather than shown). Now assembles Library title + Level 3 enrichment the same way the real Edit Tunebook preview already does, reuses the existing tfAttributionText() for both attribution shapes, and emits the six enrichment fields (meter, key, source, copyright, continuation, catalog code) the feature's own description already promised but never sent. Finding 3's manual-file identity check (tfCheckFileIdentity, rejecting a chosen JSON that doesn't match the selected Edition) was already in place on both the automatic and manual paths by the time of this bump - confirmed live rather than assumed. Then: the standalone Common Name / Book Colors tool folded in here, on Kevin's own call to put its fields in Bulk Edit rather than give them a tab. commonName was ALREADY editable in this grid, so what that 627-line page uniquely carried was badgeColor and badgeTextColor - plus a file picker and a surgical text-editing save path that existed only because it lived outside this app. Inside it the library is already loaded and already re-serialized through one validation-gated export, so the fold-in removed about 600 lines and added about 40. The care is in making a grid an acceptable place to choose a colour at all: each colour cell pairs a native swatch with the text value, and the row's own sticky Work Code cell renders the REAL badge, recoloured live while the picker is still open - you watch the badge rather than read a hex code. The text field stays authoritative because <input type="color"> accepts only 6-digit hex and silently normalizes anything else just by rendering, and three real editions carry "#000" shorthand; a grid must never edit the data it is merely displaying. Confirmed live: opening Bulk Edit reports zero unsaved changes, those three shorthand values export byte-identical, and a picked colour reaches the exported library file.
+  var TUNEBOOK_EDITOR_VERSION = "0.63.0"; // 2026-09-08 Bulk Edit follow-up, on Kevin's own report: the Publisher and Place Published columns were dead weight in the grid (rarely filled, rarely relevant to running a sing), swapped out for Minutes Visibility so common/search-list status is set right alongside everything else. The colour fold-in from the last bump had quietly dropped two things the retired standalone tool used to give you: a "needs a colour" flag on any real Edition still showing the default grey/black badge, and a same-colour collision warning when two editions share an exact background+text pair - both are back, plus a live toolbar summary line counting each. The sticky badge cell was also showing the bare Work Code with the picked colours applied even when the row had no actual Edition selected - fixed so only a genuine Edition Code ever gets a coloured pill, and the cell always displays the real Edition Code rather than the Work Code once one exists. Added Level 1/2/3 screening checkboxes above the grid, matching the Library tab's own filter row exactly, so Bulk Edit can be scoped the same way. Along the way, fixed a real bug in the Level 3 editor's Incomplete Fields view: the trailing note/notes field on sources, bibliography, relationships, and publication-history entries was being treated as required, so a fully-cataloged entry with nothing worth annotating still showed up as incomplete - it's now correctly optional. // 2026-09-06c revised release-readiness review, priority 6: the Instructions link pointed at GitHub's raw source "blob" view of instructions.html rather than the rendered page; it now points at the Minutes repo's GitHub Pages URL. // v144 release review, findings 2 and 3: Substack Full used to read a raw Level 3 file directly and assume every song object was already a complete display record - false for SHM1991/SHM2025 specifically (title lives only in the Library for those two, producing a literal "undefined" heading on all 554/590 of their real songs) and for roughly half the real corpus's string-shaped attributions (silently dropped outright rather than shown). Now assembles Library title + Level 3 enrichment the same way the real Edit Tunebook preview already does, reuses the existing tfAttributionText() for both attribution shapes, and emits the six enrichment fields (meter, key, source, copyright, continuation, catalog code) the feature's own description already promised but never sent. Finding 3's manual-file identity check (tfCheckFileIdentity, rejecting a chosen JSON that doesn't match the selected Edition) was already in place on both the automatic and manual paths by the time of this bump - confirmed live rather than assumed. Then: the standalone Common Name / Book Colors tool folded in here, on Kevin's own call to put its fields in Bulk Edit rather than give them a tab. commonName was ALREADY editable in this grid, so what that 627-line page uniquely carried was badgeColor and badgeTextColor - plus a file picker and a surgical text-editing save path that existed only because it lived outside this app. Inside it the library is already loaded and already re-serialized through one validation-gated export, so the fold-in removed about 600 lines and added about 40. The care is in making a grid an acceptable place to choose a colour at all: each colour cell pairs a native swatch with the text value, and the row's own sticky Work Code cell renders the REAL badge, recoloured live while the picker is still open - you watch the badge rather than read a hex code. The text field stays authoritative because <input type="color"> accepts only 6-digit hex and silently normalizes anything else just by rendering, and three real editions carry "#000" shorthand; a grid must never edit the data it is merely displaying. Confirmed live: opening Bulk Edit reports zero unsaved changes, those three shorthand values export byte-identical, and a picked colour reaches the exported library file.
   (function(){
     var rv = document.getElementById("railVersion");
     if(rv) rv.textContent = "Tunebooks " + TUNEBOOK_EDITOR_VERSION;
@@ -1364,21 +1371,21 @@
       ] },
       { owner: "level3", path: "scholarlyRecord.editorialHistory", label: "Editorial History", tier: "full", type: "textarea" }
     ], arrays: [
-      { owner: "level3", path: "scholarlyRecord.publicationHistory", label: "Publication History", itemFields: ["event","date","note"] }
+      { owner: "level3", path: "scholarlyRecord.publicationHistory", label: "Publication History", itemFields: ["event","date",{key:"note",label:"note",optional:true}] }
     ]},
     { id: "contents", label: "Contents / Index", special: "songs" },
     { id: "people", label: "People & Roles", fields: [
       { owner: "library", path: "compiler", label: "Compiler / Editor (tunebook-level)", readonly: true }
     ], note: "Per-song credit lives in the free-text attribution fields on each song's own entry in Contents / Index (text, music, and harmonization attribution), alongside this tunebook's overall compiler above. That's the real, current model for recording who did what - not a placeholder for one still to come." },
     { id: "relationships", label: "Relationships", arrays: [
-      { owner: "level3", path: "relationships", label: "Relationships", itemFields: ["relationshipType","targetWorkCode","note"] }
+      { owner: "level3", path: "relationships", label: "Relationships", itemFields: ["relationshipType","targetWorkCode",{key:"note",label:"note",optional:true}] }
     ], note: "Predecessor/successor and derived-from relationships for a Work already have a real, established shape (see the Library tab's own Work editor \u2014 relationshipType/targetWorkCode). This array is the Level 3 file's own equivalent for edition-level relationships; entries here follow that same shape." },
     { id: "sources", label: "Sources & Notes", fields: [
       { owner: "level3", path: "book.notes", label: "Notes", tier: "full", type: "textarea" },
       { owner: "level3", path: "scholarlyRecord.historicalNotes", label: "Historical Notes", tier: "full", type: "textarea" }
     ], arrays: [
-      { owner: "level3", path: "scholarlyRecord.bibliography", label: "Bibliography", itemFields: ["citation","url","accessedDate","notes"] },
-      { owner: "level3", path: "sources", label: "Sources (general)", itemFields: ["sourceId","sourceType","citation","url","accessedDate","notes"] }
+      { owner: "level3", path: "scholarlyRecord.bibliography", label: "Bibliography", itemFields: ["citation","url","accessedDate",{key:"notes",label:"notes",optional:true}] },
+      { owner: "level3", path: "sources", label: "Sources (general)", itemFields: ["sourceId","sourceType","citation","url","accessedDate",{key:"notes",label:"notes",optional:true}] }
     ], note: "Each song's own free-text Source field (Contents / Index) is the one editable citation field per song. A separate structured sourceCited object exists in some real files (e.g. {abbreviation, locator}) but is intentionally not exposed here yet - it's preserved automatically whenever present, not lost, but doesn't have an editing policy of its own; the plain Source field is the one to use going forward." },
     { id: "advanced", label: "Advanced / Technical", fields: [
       { owner: "library", path: "editionId", label: "Edition ID", readonly: true },
@@ -2950,7 +2957,18 @@
     // used to make the Incomplete Fields view show real gaps rather than hide a whole
     // array just because it's non-empty - three sources with one missing its URL used to
     // vanish entirely from this view, which is exactly backwards for what the view is for.
+    //
+    // An itemField marked optional (the free-text note/notes on a Source, Bibliography
+    // entry, Relationship, or Publication History event) never makes an item "incomplete"
+    // on its own - it's commentary, not a bibliographic fact, and plenty of genuinely
+    // complete entries never have one. Before this, every one of those fields was
+    // silently treated as required: a Source with a real citation, URL, and access date
+    // but no extra note showed up in Incomplete Fields anyway, which is a false alarm,
+    // not a real gap. Confirmed live: ScH1855's two sources, both fully cited with no
+    // notes field on either, no longer appear in Incomplete Fields at all until a real
+    // required field (like the URL) is actually blanked.
     return (a.itemFields || []).some(function(fk){
+      if(typeof fk !== "string" && fk.optional) return false;
       var fieldKey = typeof fk === "string" ? fk : fk.key;
       var v = item[fieldKey];
       return !v || !String(v).trim();
@@ -3904,17 +3922,22 @@
   // One editable table covering every book still at Level 1 - a bare Work with no
   // Edition at all, or a real Level 1 Edition with no page index yet - scoped to the
   // bibliographic fields that have nothing to do with page data (Title Proper, Subtitle,
-  // Common Name, Compiler, Publisher, Place Published, Publication Year, Shape System,
-  // SHMHA Code). tunebookFile, indexStatus, and ezMinutesVisibility are deliberately out:
-  // the first two are literally page-index state, and Kevin's own call on visibility was
-  // that it's "only useful once song index was added" - a different kind of change than
-  // this tool is for. Title Proper, Shape System, and SHMHA Code exist on both Work and
-  // Edition; on a bare-Work row they edit the Work's own copy directly, since that's
-  // real and already there. The other six (Subtitle, Common Name, Compiler, Publisher,
-  // Place Published, Publication Year) only exist on an Edition - filling any of them in
-  // on a bare-Work row, alongside a real Edition Identifier Year, promotes that row to a
-  // real Level 1 Edition on save (Work Code + year), reusing the exact same creation
-  // shape workAddEditionBtn's own handler above already uses.
+  // Common Name, Compiler, Publication Year, Shape System, SHMHA Code), plus Minutes
+  // Visibility. Publisher and Place Published were removed from this grid on Kevin's own
+  // direction - real Level 1 fields still, just not ones worth a column here - and
+  // Minutes Visibility was added on the reverse direction: it used to be excluded on the
+  // theory that it's "only useful once a song index was added," but Simple Minutes'
+  // "Search for another book" field searches exactly this value on every edition
+  // regardless of index status, so it's a real, regularly-wanted edit here now.
+  // tunebookFile and indexStatus stay out - both are literally page-index state, a
+  // different kind of change than this tool is for. Title Proper, Shape System, and
+  // SHMHA Code exist on both Work and Edition; on a bare-Work row they edit the Work's
+  // own copy directly, since that's real and already there. The other five (Subtitle,
+  // Common Name, Compiler, Publication Year, Minutes Visibility) only exist on an
+  // Edition - filling any of them in on a bare-Work row, alongside a real Edition
+  // Identifier Year, promotes that row to a real Level 1 Edition on save (Work Code +
+  // year), reusing the exact same creation shape workAddEditionBtn's own handler above
+  // already uses.
   //
   // v109 release-readiness review, findings 1-3 (all BLOCKER, all confirmed live before
   // fixing): this whole area used to treat the rendered DOM inputs as the data model
@@ -3945,8 +3968,8 @@
   // exactly as typed so it can be fixed and retried; rows that pass commit
   // independently, so one bad row never blocks the good ones sitting next to it.
   var BULK_WORK_FIELDS = ["titleProper", "shapeSystem", "shmhaCode"];
-  var BULK_EDITION_ONLY_FIELDS = ["subtitle", "commonName", "compiler", "publisher", "placePublished", "publicationYear", "badgeColor", "badgeTextColor"];
-  var BULK_ALL_FIELDS = ["editionIdentifierYear", "titleProper", "subtitle", "commonName", "compiler", "publisher", "placePublished", "publicationYear", "shapeSystem", "shmhaCode", "badgeColor", "badgeTextColor"];
+  var BULK_EDITION_ONLY_FIELDS = ["subtitle", "commonName", "compiler", "publicationYear", "badgeColor", "badgeTextColor", "ezMinutesVisibility"];
+  var BULK_ALL_FIELDS = ["editionIdentifierYear", "titleProper", "subtitle", "commonName", "compiler", "publicationYear", "shapeSystem", "shmhaCode", "badgeColor", "badgeTextColor", "ezMinutesVisibility"];
   // Badge colours arrived here when the standalone Common Name / Book Colors tool was
   // folded into Tunebooks. That tool's other field, commonName, was already editable in
   // this grid - so what it actually contributed was these two, and a separate 627-line
@@ -4028,7 +4051,103 @@
     return '<span style="color:var(--ink-faint);">Work only</span>';
   }
 
-  function bulkCellInputHtml(row, field, value){
+  // Two editions "conflict" when their EFFECTIVE colours match exactly - background and
+  // text both - since that's what actually makes their badges indistinguishable. Reads
+  // bulkDraft directly, not committed libraryData, so a colour picked but not yet saved
+  // still shows (and clears) a collision immediately - the whole reason this needs to be
+  // recomputed on every colour-field keystroke, not just at Save. A conflict only means
+  // something once a colour was actually, deliberately chosen on a row that has a real
+  // Edition to badge in the first place: a bare-Work row never has a real badge yet (see
+  // bulkWorkCodeCellHtml above), and most Level 1 editions have no colour at all, so
+  // treating "both still blank" as a collision would flag nearly every colourless edition
+  // against every other one - true, but noise, not a warning worth raising.
+  function bulkComputeColorConflicts(){
+    var groups = {};
+    Object.keys(bulkDraft).forEach(function(key){
+      if(!key.split("::")[1]) return; // bare-Work row - no real Edition, no real badge
+      var draft = bulkDraft[key];
+      var bg = (draft.badgeColor || "").trim().toLowerCase();
+      var fg = (draft.badgeTextColor || "").trim().toLowerCase();
+      if(!bg || !fg) return;
+      var groupKey = bg + "|" + fg;
+      (groups[groupKey] = groups[groupKey] || []).push(key);
+    });
+    var conflictsByKey = {};
+    Object.keys(groups).forEach(function(gk){
+      var members = groups[gk];
+      if(members.length < 2) return;
+      members.forEach(function(key){
+        conflictsByKey[key] = members.filter(function(other){ return other !== key; });
+      });
+    });
+    return conflictsByKey;
+  }
+
+  // What the small flag beside the colour fields should say for this row right now, or
+  // null for nothing to say - shared between the initial render (bulkCellInputHtml below)
+  // and the live refresh that runs on every colour keystroke (bulkRefreshColorFlags),
+  // so the two can never quietly say different things about the same row.
+  function bulkColorFlagState(row, draft, conflicts){
+    if(!row.editionId) return null; // no real Edition yet - nothing to flag (see above)
+    var bg = (draft.badgeColor || "").trim();
+    var fg = (draft.badgeTextColor || "").trim();
+    if(!bg || !fg){
+      return { cls: "needs", title: "No badge colour chosen yet — showing the default grey/black.", text: "needs a colour" };
+    }
+    var conflictKeys = conflicts[bulkRowKey(row)];
+    if(conflictKeys && conflictKeys.length){
+      var codes = conflictKeys.map(function(k){
+        var eid = k.split("::")[1];
+        var e = eid && libraryData.editions[eid];
+        return e ? e.editionCode : k;
+      });
+      return { cls: "conflict", title: "Same background + text as: " + codes.join(", "), text: "⚠ matches " + codes.join(", ") };
+    }
+    return null;
+  }
+
+  function bulkColorFlagHtml(row, draft, conflicts){
+    var state = bulkColorFlagState(row, draft, conflicts);
+    var color = state && state.cls === "conflict" ? "var(--oxblood-dark,#7A2E2E)" : "var(--brass,#AD8A4E)";
+    var weight = state && state.cls === "conflict" ? "700" : "400";
+    return '<span class="bulk-color-flag' + (state ? ' ' + state.cls : '') + '" data-rowkey="' + esc(bulkRowKey(row)) + '"' +
+      (state ? ' title="' + esc(state.title) + '"' : '') +
+      ' style="font-size:10.5px;white-space:normal;line-height:1.3;' + (state ? 'color:' + color + ';font-weight:' + weight + ';' : 'display:none;') + '">' +
+      (state ? esc(state.text) : "") + '</span>';
+  }
+
+  // Re-checks every row's flag against the CURRENT global state, not just the row that was
+  // just typed in - editing one row's colour can just as easily resolve or create a
+  // collision on a completely different row elsewhere in the table, so a scoped, single-
+  // cell update (the way bulkRefreshRowBadge patches only the sticky badge preview) isn't
+  // enough here. Updates each flag span's own text/title/style directly rather than
+  // replacing any cell's innerHTML, so the colour text input actually being typed in never
+  // loses focus or cursor position mid-keystroke.
+  function bulkRefreshColorFlags(){
+    var conflicts = bulkComputeColorConflicts();
+    var tbody = document.getElementById("bulkTableBody");
+    Array.prototype.forEach.call(tbody.querySelectorAll("tr"), function(tr){
+      var flagEl = tr.querySelector(".bulk-color-flag");
+      if(!flagEl) return;
+      var row = { workId: tr.dataset.workid, editionId: tr.dataset.editionid || null };
+      var draft = bulkDraft[bulkRowKey(row)];
+      var state = bulkColorFlagState(row, draft, conflicts);
+      flagEl.className = "bulk-color-flag" + (state ? " " + state.cls : "");
+      if(state){
+        flagEl.title = state.title;
+        flagEl.textContent = state.text;
+        flagEl.style.display = "";
+        flagEl.style.color = state.cls === "conflict" ? "var(--oxblood-dark,#7A2E2E)" : "var(--brass,#AD8A4E)";
+        flagEl.style.fontWeight = state.cls === "conflict" ? "700" : "400";
+      } else {
+        flagEl.removeAttribute("title");
+        flagEl.textContent = "";
+        flagEl.style.display = "none";
+      }
+    });
+  }
+
+  function bulkCellInputHtml(row, field, value, draft, conflicts){
     var rowKeyAttr = ' data-rowkey="' + esc(bulkRowKey(row)) + '"';
     if(field === "shapeSystem"){
       return '<select' + rowKeyAttr + ' data-field="shapeSystem" style="width:100%;font-size:12px;padding:3px 4px;border:1px solid transparent;background:transparent;">' +
@@ -4038,6 +4157,18 @@
         '<option value="0-shape"' + (value === "0-shape" ? ' selected' : '') + '>Round-note</option>' +
         '<option value="mixed-shape"' + (value === "mixed-shape" ? ' selected' : '') + '>Mixed</option>' +
         '<option value="other-shape"' + (value === "other-shape" ? ' selected' : '') + '>Other</option>' +
+      '</select>';
+    }
+    if(field === "ezMinutesVisibility"){
+      // Simple Minutes' own two tiers: "common" gets its own checkbox on that app's
+      // Setup screen; "search" is found through its "Search for another book" field
+      // instead (which searches this exact value - see that app's own comments).
+      // Blank means neither - invisible to Simple Minutes' picker and search both,
+      // reachable there only by typing an exact, already-known title.
+      return '<select' + rowKeyAttr + ' data-field="ezMinutesVisibility" style="width:100%;font-size:12px;padding:3px 4px;border:1px solid transparent;background:transparent;">' +
+        '<option value=""' + (!value ? ' selected' : '') + '>(none)</option>' +
+        '<option value="common"' + (value === "common" ? ' selected' : '') + '>Common</option>' +
+        '<option value="search"' + (value === "search" ? ' selected' : '') + '>Search</option>' +
       '</select>';
     }
     if(BULK_COLOR_FIELDS.indexOf(field) !== -1){
@@ -4057,12 +4188,19 @@
       // an empty color input would otherwise display.
       var swatch = /^#[0-9a-fA-F]{6}$/.test(value) ? value
                  : (/^#[0-9a-fA-F]{3}$/.test(value) ? "#" + value[1]+value[1]+value[2]+value[2]+value[3]+value[3] : "#f0ece2");
-      return '<span style="display:flex;align-items:center;gap:5px;">' +
+      // The needs-colour / collision flag lives here, in the Badge Colour cell only - not
+      // duplicated into Badge Text too, since the two are one combination being flagged,
+      // not two separate things. Always emits the wrapper span, even with nothing to say
+      // (display:none) - bulkRefreshColorFlags updates it in place on every colour
+      // keystroke, anywhere in the table, and needs a stable element to find without
+      // touching (or stealing focus from) either input beside it.
+      return '<span style="display:flex;align-items:center;gap:5px;flex-wrap:wrap;">' +
         '<input type="color"' + rowKeyAttr + ' data-colorfor="' + field + '" value="' + esc(swatch) + '"' +
           ' aria-label="Pick ' + (field === "badgeColor" ? "badge colour" : "badge text colour") + '"' +
           ' style="width:26px;height:22px;flex:0 0 auto;padding:0;border:1px solid var(--paper-line,#e1d5b8);border-radius:4px;background:none;cursor:pointer;">' +
         '<input type="text"' + rowKeyAttr + ' data-field="' + field + '" value="' + esc(value) + '" placeholder="—"' +
           ' style="flex:1 1 auto;min-width:56px;font-size:12px;padding:3px 4px;border:1px solid transparent;background:transparent;font-family:var(--mono,monospace);">' +
+        (field === "badgeColor" ? bulkColorFlagHtml(row, draft || {}, conflicts || {}) : "") +
       '</span>';
     }
     var readonlyAttr = (field === "editionIdentifierYear" && row.editionId) ? " readonly" : "";
@@ -4074,19 +4212,31 @@
   // a grid of hex codes an acceptable place to choose colours: you are not reading values,
   // you are watching the actual badge change while you pick. Falls back to the ordinary
   // cell styling when an edition has no colours on file.
+  //
+  // Kevin's own rule: a badge is real edition identity, everywhere else in the suite it's
+  // drawn from a full Edition Code (e.g. "SHD1991"), never a bare Work Code - a Work can
+  // hold several Editions at once, each entitled to its own distinct colours, so a Work
+  // Code alone is never specific enough to legitimately own a colour combination. This
+  // cell now shows the row's real Edition Code once it has one, and the colour treatment
+  // itself only ever applies to a row that already has a real Edition - a bare-Work row
+  // still shows badgeColor/badgeTextColor as plain draft values in their own cells (they
+  // take effect once Save promotes it to a real Edition, per the header comment above),
+  // but this preview stays plain text until there's an actual Edition Code to badge.
   function bulkWorkCodeCellHtml(row, workCode, draft){
     var bg = (draft.badgeColor || "").trim();
     var fg = (draft.badgeTextColor || "").trim();
     var style = 'position:sticky;left:0;z-index:1;background:#fffdf8;padding:4px 10px;' +
                 'border-bottom:1px solid var(--paper-line,#e1d5b8);font-weight:600;white-space:nowrap;';
-    var inner = esc(workCode);
-    if(bg || fg){
+    var e = row.editionId ? libraryData.editions[row.editionId] : null;
+    var label = (e && e.editionCode) || workCode;
+    var inner = esc(label);
+    if(e && (bg || fg)){
       inner = '<span class="bulk-badge" style="display:inline-flex;align-items:center;justify-content:center;' +
         'min-width:64px;padding:2px 9px;border-radius:999px;font-size:11.5px;font-weight:700;' +
         'border:1px solid rgba(0,0,0,.12);' +
         (bg ? 'background:' + esc(bg) + ';' : '') +
         (fg ? 'color:' + esc(fg) + ';' : '') +
-        '">' + esc(workCode) + '</span>';
+        '">' + esc(label) + '</span>';
     }
     return '<td class="bulk-workcode-cell" style="' + style + '">' + inner + '</td>';
   }
@@ -4107,13 +4257,13 @@
     return hay.indexOf(q) !== -1;
   }
 
-  function bulkRowHtml(row){
+  function bulkRowHtml(row, conflicts){
     var w = libraryData.works[row.workId];
     var draft = bulkDraft[bulkRowKey(row)];
     var year = draft.editionIdentifierYear;
     var hasEditionOnlyChange = BULK_EDITION_ONLY_FIELDS.some(function(f){ return draft[f]; });
     var cells = BULK_ALL_FIELDS.map(function(f){
-      return '<td style="padding:4px 6px;border-bottom:1px solid var(--paper-line,#e1d5b8);">' + bulkCellInputHtml(row, f, draft[f]) + '</td>';
+      return '<td style="padding:4px 6px;border-bottom:1px solid var(--paper-line,#e1d5b8);">' + bulkCellInputHtml(row, f, draft[f], draft, conflicts) + '</td>';
     }).join("");
     // workId and editionId are both stored explicitly on the row itself - every reader
     // (dirty-check, status refresh, Save) uses these directly rather than re-deriving
@@ -4159,6 +4309,30 @@
     tr.querySelector(".bulk-status-cell").innerHTML = bulkRowStatusHtml(row, hasEditionOnlyChange, hasYear);
   }
 
+  // A bare-Work row is "Level 1 (basic record)" by the exact same convention the Library
+  // tab's own screening checkboxes already use for a Work with no Edition at all - so
+  // checking these three boxes the same way filters this grid the same way that one does,
+  // rather than teaching a second, different meaning of "Level" here.
+  function bulkRowLevel(row){
+    if(!row.editionId) return 1;
+    return libDeriveLevel(libraryData.editions[row.editionId]);
+  }
+
+  function bulkUpdateColorSummary(){
+    var conflicts = bulkComputeColorConflicts();
+    var conflictRowCount = Object.keys(conflicts).length;
+    var needsColorCount = Object.keys(bulkDraft).filter(function(key){
+      if(!key.split("::")[1]) return false;
+      var d = bulkDraft[key];
+      return !(d.badgeColor || "").trim() || !(d.badgeTextColor || "").trim();
+    }).length;
+    var parts = [];
+    if(conflictRowCount) parts.push(conflictRowCount + " edition" + (conflictRowCount === 1 ? "" : "s") + " share" + (conflictRowCount === 1 ? "s" : "") + " a colour with another");
+    if(needsColorCount) parts.push(needsColorCount + " still need" + (needsColorCount === 1 ? "s" : "") + " a colour");
+    var el = document.getElementById("bulkColorSummary");
+    if(el) el.textContent = parts.join(" · ");
+  }
+
   function renderBulkEditTab(){
     var allRows = bulkBuildRows();
     // Seed the draft for any row not already known - genuinely additive only. A row
@@ -4167,18 +4341,28 @@
     // filter box calls this on every keystroke, and that must never be able to discard
     // anything (v109 finding 1, reproduced and confirmed live before this fix).
     allRows.forEach(bulkEnsureDrafted);
-    var visible = allRows.filter(function(r){ return bulkRowMatchesFilter(r, bulkFilterText); });
+    var showLevel = {
+      1: document.getElementById("bulkLevelFilter1").checked,
+      2: document.getElementById("bulkLevelFilter2").checked,
+      3: document.getElementById("bulkLevelFilter3").checked
+    };
+    var visible = allRows.filter(function(r){ return showLevel[bulkRowLevel(r)] && bulkRowMatchesFilter(r, bulkFilterText); });
     var sorted = visible.slice().sort(function(a, b){
       return (libraryData.works[a.workId].workCode || "").localeCompare(libraryData.works[b.workId].workCode || "");
     });
-    document.getElementById("bulkTableBody").innerHTML = sorted.map(bulkRowHtml).join("");
+    var conflicts = bulkComputeColorConflicts();
+    document.getElementById("bulkTableBody").innerHTML = sorted.map(function(r){ return bulkRowHtml(r, conflicts); }).join("");
     document.getElementById("bulkRowCount").textContent = sorted.length + " row" + (sorted.length === 1 ? "" : "s");
     bulkUpdatePendingUI();
+    bulkUpdateColorSummary();
   }
 
   document.getElementById("bulkFilterInput").addEventListener("input", function(){
     bulkFilterText = this.value.trim().toLowerCase();
     renderBulkEditTab();
+  });
+  ["bulkLevelFilter1","bulkLevelFilter2","bulkLevelFilter3"].forEach(function(id){
+    document.getElementById(id).addEventListener("change", renderBulkEditTab);
   });
 
   document.getElementById("bulkTableBody").addEventListener("input", function(e){
@@ -4191,7 +4375,15 @@
     bulkUpdatePendingUI();
     var tr = e.target.closest("tr");
     if(tr) bulkRefreshRowStatus(tr);
-    if(tr && BULK_COLOR_FIELDS.indexOf(field) !== -1) bulkRefreshRowBadge(tr, key);
+    if(tr && BULK_COLOR_FIELDS.indexOf(field) !== -1){
+      bulkRefreshRowBadge(tr, key);
+      // Global, not scoped to this row: a colour typed here can just as easily resolve
+      // or create a collision on a different row entirely, so every row's flag is
+      // rechecked against the fresh state - without touching any input's focus, per
+      // bulkRefreshColorFlags' own comment above.
+      bulkRefreshColorFlags();
+      bulkUpdateColorSummary();
+    }
   });
 
   // A swatch is a picker for the text field beside it, never a second place the value
@@ -4235,8 +4427,10 @@
       // the parent Work, which would silently change every sibling Edition that falls
       // back to it. Edition-only fields already belonged to the Edition. Nothing here
       // has a real libValidateEdit() constraint to check (Bulk Edit never lets you touch
-      // Edition Identifier Year, Index Status, or Minutes Visibility on an existing
-      // Edition at all), so a valid candidate is any candidate at this point.
+      // Edition Identifier Year or Index Status on an existing Edition at all, and
+      // Minutes Visibility - now editable here too - is a free-form value with nothing
+      // to validate beyond what the dropdown itself already constrains it to), so a
+      // valid candidate is any candidate at this point.
       return {
         ok: true,
         apply: function(){

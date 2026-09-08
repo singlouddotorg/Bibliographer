@@ -2347,12 +2347,12 @@
       {
         "event": "This edition",
         "date": "1854",
-        "note": "\"New Edition, Thoroughly Revised and Much Enlarged.\" Published by E.W. Miller, Philadelphia. xxxii + 336 pp. (original pagination skips 217-248). This is the edition Hymnary.org and CCEL both index, and the one this Tunebook File's song data comes from."
+        "note": "\"New Edition, Thoroughly Revised and Much Enlarged.\" Published by E.W. Miller, Philadelphia. xxxii + 336 pp. (original pagination skips 217-248)."
       },
       {
         "event": "Facsimile edition",
         "date": "1993",
-        "note": "University Press of Kentucky, with an introduction by Glenn C. Wilcox. A facsimile of this 1854 printing specifically - Wilcox edited this reprint's introduction, not the original 1854 tunes, and is not the Work's compiler (that is William Walker; an earlier version of this Library's Work record had this backwards, misattributing the Work's own responsibilityStatement to Wilcox)."
+        "note": "University Press of Kentucky, with an introduction by Glenn C. Wilcox. A facsimile of this 1854 printing; Wilcox edited the reprint's introduction, not the original 1854 tunes, and is not the Work's compiler (William Walker)."
       }
     ],
     "editorialHistory": "Walker reported 500,000 copies of Southern Harmony sold by 1866, across all editions combined, per the Southern Cultures review of the 1993 facsimile (cited below). Southern Harmony singings using this book specifically continue today, most notably the annual Benton, Kentucky singing.",
@@ -2361,7 +2361,7 @@
         "citation": "The Southern Harmony and Musical Companion. The University Press of Kentucky.",
         "url": "https://www.kentuckypress.com/9780813118598/the-southern-harmony-and-musical-companion/",
         "accessedDate": "2026-08-07",
-        "notes": "Publisher's page for the 1993 facsimile of this 1854 edition; source for the 335-song count (matches this file's own index exactly) and general publication background."
+        "notes": "Publisher's page for the 1993 facsimile of this 1854 edition; source for the 335-song count and general publication background."
       },
       {
         "citation": "The Southern Harmony & Musical Companion by William Walker (Review). Southern Cultures.",
@@ -2382,7 +2382,7 @@
         "notes": "Source for this specific edition's exact imprint (E.W. Miller, Philadelphia, [1854]), full title-page transcription, and physical description (xxxii + 336 pp., pagination skips 217-248)."
       }
     ],
-    "historicalNotes": "The song index in this file was built from a CCEL/Hymnary.org comparison dataset Kevin provided, not transcribed by hand. That source's own page-numbering convention differs from this suite's: it uses a bare number for the top tune on a split page and a 'b' suffix for the bottom tune, with no 't' suffix at all - converted here to this suite's own t/b convention (bare number reserved for a page with only one tune). Verified against three failure modes before import: no split page had more than two tunes, no page had a lone 'b' entry with no bare counterpart, and the 335 real (canonical) tune count matches published sources exactly. Seven rows in the source data were alternate CCEL headings for tunes already counted once (e.g. \"WOODSTOCK\" as an alternate heading for \"GOSPEL TRUMPET\" on 271t) - these are preserved as historicalNote text on the correct song rather than counted as separate songs."
+    "historicalNotes": "The book contains 335 tunes. Some tunes are known by alternate headings in other catalogs - for example, “WOODSTOCK” appears elsewhere as an alternate heading for “GOSPEL TRUMPET” (271t)."
   },
   "sources": [
     {
@@ -2417,7 +2417,6 @@
       "sourceId": "source-ccel-hymnary-dataset",
       "sourceType": "dataset",
       "citation": "Southern Harmony / CCEL / Hymnary merged comparison dataset.",
-      "notes": "Provided by Kevin; the direct source of this file's song index (titles, first lines, meters, attributions, and the CCEL alias-heading cross-references preserved in historicalNote fields).",
       "accessedDate": "2026-08-07"
     }
   ],

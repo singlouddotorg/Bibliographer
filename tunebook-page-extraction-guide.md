@@ -88,6 +88,47 @@ These usually come from a title page, copyright page, or front matter — not fr
 
 ---
 
+## Reader-facing notes are about the book, never about the cataloging
+
+`historicalNote`, `book.notes`, and everything under `scholarlyRecord` (`historicalNotes`,
+`editorialHistory`, `publicationHistory[].note`, and the `notes` on any bibliography or
+source entry) are shown directly to anyone browsing the Tunebook Registry or Tunebooks. They
+are not a place to record how this Library came to know something.
+
+**Write them as if for a reader who has never seen any prior version of this file and has no
+idea an AI or a particular person was ever involved.** That reader wants facts and history
+about the book, the song, or the composer — not a log of the cataloging work. Concretely:
+
+- Never mention a person by name in connection with the cataloging (who supplied a CSV, who
+  confirmed a date, who resolved an ambiguity). If a fact is worth keeping — a publication
+  year, a corrected page number — state the fact itself; the fact that someone confirmed it
+  is not itself a fact about the book.
+- Never refer to "this file," "this Tunebook File," "this Library," "this session," "this
+  delivery," or the extraction/import process generally. A reader has no reason to know this
+  data lives in a file at all.
+- **A real error in a source — a misprinted page number, a index that omits a tune, two
+  sources disagreeing — belongs here as a plain statement that the discrepancy exists.** *"The
+  general index gives this tune's page as 52; the correct page is 59"* is a fact about the
+  book. *"Cross-checking the two indexes turned up a discrepancy, which was resolved by
+  checking a third source"* is a log entry about the work of cataloging it, and doesn't
+  belong in a reader-facing field even when the underlying fact is worth keeping.
+- Citing a named external reference the fact itself came from (Wikipedia, Hymnary.org, a
+  university library catalog, a specific book or article) is fine and normal — that's an
+  ordinary citation, the same as a footnote, and stays. What doesn't belong is narrating *how*
+  that reference was used to build or verify *this* Library's own data.
+- This applies however small the fix. A one-word correction to a date is still not a place to
+  say who caught it or when.
+
+Fields that exist purely for whoever maintains this Library later — `internalNote` on a
+Level 3 edition, and `source` on a Work or Edition record in `tunebook-library.js` — are the
+right place for exactly the process narration excluded above: who provided what, what was
+cross-checked against what, what a prior pass got wrong. Those fields are never shown to a
+reader (confirmed in each app's own rendering code before assuming this), so the ordinary
+cataloging record belongs there instead of being dropped — it just needs to be in the right
+field.
+
+---
+
 ## Part 3: Output format and multi-batch workflow
 
 A real book comes in many small batches over the course of a conversation, not all at once. This section governs how to produce output across that whole conversation, not just for one batch in isolation.

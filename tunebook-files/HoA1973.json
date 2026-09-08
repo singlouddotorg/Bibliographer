@@ -7,7 +7,7 @@
   "book": {
     "titleProper": "Harp of Ages",
     "publicationYear": "1973",
-    "notes": "Compiled originally by Archibald Newton Whitten (first edition 1925). This 1973 edition/printing carries copyright lines reading \"Copyright © 1973 by Harp Of Ages, Inc., in ‘Harp of Ages.’ All Rights Reserved\" on numerous individual songs, indicating Harp Of Ages, Inc. as the rights holder for new material added by this printing; no separate title-page or front-matter data has been supplied for this specific edition beyond the song index itself. Numbering (Kevin's correction, 2026-09-07): the numbers keying this file's songs are SONG numbers, not printed page numbers. Pages 1-12 are front matter/rudiments; Song 1 begins after that (physically around page 13), and the book is unpaginated from there on - every song is identified by its song number alone, never a printed page number. Any resemblance to a 'page' in this file's own key names or in other Level 3 files' page-based keying is coincidental to this book."
+    "notes": "Compiled originally by Archibald Newton Whitten (first edition 1925). This 1973 printing carries copyright lines reading \"Copyright © 1973 by Harp Of Ages, Inc., in ‘Harp of Ages.’ All Rights Reserved\" on numerous individual songs, indicating Harp Of Ages, Inc. as the rights holder for new material added by this printing. Pages 1-12 comprise the front matter and rudiments. From there the book is unpaginated: songs are identified by song number alone, beginning at Song 1, rather than by a printed page number."
   },
   "states": [],
   "scholarlyRecord": null,
@@ -25,7 +25,7 @@
         "credit": "L. O. Emerson"
       },
       "verseCount": 3,
-      "historicalNote": "SONG NUMBER CORRECTED: source CSV gave this song's number as 12, but 12 is also correctly used (in normal sequence) by \"Mercy-Seat\" later in the same index, and song number 1 does not otherwise appear anywhere in the 438-row index. Pages 1-12 of the book are front matter/rudiments, and Song 1 is the first tune after that - resolved here as Song 1 (likely a \"1\"/\"12\" mix-up with the front matter's own page count on this first row), unconfirmed against the actual printed book."
+      "historicalNote": "This song's number is given as 12 in the source index, a number properly held by \"Mercy-Seat\" later in the same sequence; song number 1 is otherwise absent from the index. Placed here as Song 1."
     },
     "2": {
       "title": "Exhortation",

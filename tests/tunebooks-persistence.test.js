@@ -746,8 +746,11 @@ describe('Bulk Edit (Level 1) correctly isolates rows sharing a Work, and correc
     const workCode = bareRow.querySelector('td').textContent;
     bareRow.querySelector('[data-field="editionIdentifierYear"]').value = '1955';
     bareRow.querySelector('[data-field="editionIdentifierYear"]').dispatchEvent(new win.Event('input', { bubbles: true }));
-    bareRow.querySelector('[data-field="publisher"]').value = 'Test Publisher Co.';
-    bareRow.querySelector('[data-field="publisher"]').dispatchEvent(new win.Event('input', { bubbles: true }));
+    // Publisher was removed from this grid's column set - commonName is another real,
+    // still-present edition-only field, exercising the same "fills in an edition-only
+    // field on a bare-Work row" path this test is actually about.
+    bareRow.querySelector('[data-field="commonName"]').value = 'Test Common Name';
+    bareRow.querySelector('[data-field="commonName"]').dispatchEvent(new win.Event('input', { bubbles: true }));
     await wait(50);
     assert.equal(bareRow.querySelector('.bulk-status-cell').textContent.trim(), 'will create Edition');
     doc.getElementById('bulkSaveAllBtn').click();
@@ -770,7 +773,9 @@ describe('Bulk Edit covers every book regardless of Level, not just Level 1 (Kev
     doc.getElementById('tab-bulk').click();
     await wait(300);
     const rows = [...doc.querySelectorAll('#bulkTableBody tr')];
-    const level3Row = rows.find((r) => r.querySelector('td').textContent === 'ScH');
+    // Found by data-workid, not by the sticky first cell's text - that cell now shows
+    // the row's real Edition Code once it has one ("ScH1855"), not the bare Work Code.
+    const level3Row = rows.find((r) => r.dataset.workid === 'w_ScH');
     assert.ok(level3Row, 'ScH (a real Level 3 edition) must appear as a row');
     assert.equal(level3Row.querySelector('.bulk-status-cell').textContent.trim(), 'Level 3 Edition');
     const level2Row = rows.find((r) => r.querySelector('.bulk-status-cell').textContent.trim() === 'Level 2 Edition');
@@ -790,9 +795,11 @@ describe('Bulk Edit covers every book regardless of Level, not just Level 1 (Kev
     doc.getElementById('tab-bulk').click();
     await wait(300);
     const rows = [...doc.querySelectorAll('#bulkTableBody tr')];
-    const schRow = rows.find((r) => r.querySelector('td').textContent === 'ScH');
-    schRow.querySelector('[data-field="placePublished"]').value = 'Test Place';
-    schRow.querySelector('[data-field="placePublished"]').dispatchEvent(new win.Event('input', { bubbles: true }));
+    const schRow = rows.find((r) => r.dataset.workid === 'w_ScH');
+    // Place Published was removed from this grid's column set - Compiler is another
+    // real, still-present bibliographic field, exercising the same edit-and-save path.
+    schRow.querySelector('[data-field="compiler"]').value = 'Test Compiler';
+    schRow.querySelector('[data-field="compiler"]').dispatchEvent(new win.Event('input', { bubbles: true }));
     await wait(50);
     doc.getElementById('bulkSaveAllBtn').click();
     await wait(200);

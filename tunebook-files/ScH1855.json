@@ -1612,7 +1612,7 @@
       {
         "event": "Facsimile edition",
         "date": "1973",
-        "note": "University of Georgia Press, edited by Daniel W. Patterson and John F. Garst (ISBN 0-8203-0296-1). Both this book's page numbering and the Hymnary.org index this Tunebook File was built from actually follow the 1973 facsimile, though the edition is identified here under its original 1855 date, matching Hymnary's own hymnal code (SH1855) and the work's real publication history."
+        "note": "University of Georgia Press, edited by Daniel W. Patterson and John F. Garst (ISBN 0-8203-0296-1). This book's page numbering follows the 1973 facsimile, though the edition is identified here under its original 1855 date, consistent with the work's real publication history."
       }
     ],
     "editorialHistory": "Organized into six sections: the first four with tonics A, F, G, and E respectively, a fifth section of \"gems in various keys,\" and a sixth of anthems and set pieces, per the Wikipedia article on the book.",
@@ -1621,16 +1621,16 @@
         "citation": "The Social Harp. Wikipedia, The Free Encyclopedia.",
         "url": "https://en.wikipedia.org/wiki/The_Social_Harp",
         "accessedDate": "2026-08-05",
-        "notes": "Source for compiler identity, publication history (1855/1859/1868/1973), section structure, and the 221-song count (matches this file's own index exactly, independently confirming it - see historicalNotes below)."
+        "notes": "Source for compiler identity, publication history (1855/1859/1868/1973), and section structure."
       },
       {
         "citation": "The Social Harp (SH1855). Hymnary.org.",
         "url": "https://hymnary.org/hymnal/SH1855",
         "accessedDate": "2026-08-05",
-        "notes": "Source for the page-by-page song index this file is built from, and for confirming the 1973 UGA facsimile's relationship to the 1855 original. This site's own page listing independently skips the exact same page numbers as gaps in the index (see historicalNotes), which is how those gaps were confirmed as genuine non-song pages rather than indexing errors."
+        "notes": "Source for the page-by-page song index, and for the relationship between the 1973 facsimile and the 1855 original."
       }
     ],
-    "historicalNotes": "Wikipedia's article body states the book contains 221 songs, matching this index's own song count exactly - independent confirmation of completeness, not just a source's own claim taken on faith. The book's page sequence has real gaps (pages skipped entirely, not part of the song numbering): Hymnary.org's own page listing skips the identical set of page numbers, confirming these are genuine non-song pages in the physical book (blank pages, engravings, or similar) rather than missing index entries. The original 1855 printer/publisher was actively searched for via web search and could not be found in any available source; this is recorded as a genuine gap, not an oversight."
+    "historicalNotes": "The book contains 221 songs. Its page sequence has gaps: certain page numbers are skipped entirely and are not part of the song numbering, likely representing blank pages, engravings, or similar non-song content rather than missing entries. The original printer/publisher is unknown."
   },
   "sources": [
     {
@@ -1645,8 +1645,7 @@
       "sourceType": "database",
       "citation": "The Social Harp (SH1855). Hymnary.org.",
       "url": "https://hymnary.org/hymnal/SH1855",
-      "accessedDate": "2026-08-05",
-      "notes": "Source of the underlying page/title index (provided by Kevin as a CSV export of this page's data), used to build this file's song list."
+      "accessedDate": "2026-08-05"
     }
   ],
   "relationships": [],

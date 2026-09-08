@@ -82,9 +82,15 @@ describe('v109 review, finding 1 (BLOCKER): Bulk Edit filtering must never disca
     filterInput.value = 'ACH';
     filterInput.dispatchEvent(new win.Event('input', { bubbles: true }));
     await wait(100);
-    const rowB = [...doc.querySelectorAll('#bulkTableBody tr')].find((r) => r.querySelector('td').textContent === 'ACH');
-    rowB.querySelector('[data-field="publisher"]').value = 'Row B Edit';
-    rowB.querySelector('[data-field="publisher"]').dispatchEvent(new win.Event('input', { bubbles: true }));
+    // Found by data-workid, not by the sticky first cell's text - that cell now shows the
+    // row's real Edition Code once it has one (e.g. "ACH2009"), not the bare Work Code,
+    // so a Work Code string match here would silently stop finding this row at all.
+    const rowB = [...doc.querySelectorAll('#bulkTableBody tr')].find((r) => r.dataset.workid === 'w_ACH');
+    // Publisher was removed from this grid's column set - commonName is another real,
+    // still-present edition-only field, exercising the exact same row-B-survives-a-
+    // filter-change path this test is actually about.
+    rowB.querySelector('[data-field="commonName"]').value = 'Row B Edit';
+    rowB.querySelector('[data-field="commonName"]').dispatchEvent(new win.Event('input', { bubbles: true }));
     await wait(50);
 
     filterInput.value = '';
