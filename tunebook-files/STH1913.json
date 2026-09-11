@@ -1,0 +1,1211 @@
+{
+  "editionId": "e_STH1913",
+  "workId": "w_STH",
+  "editionCode": "STH1913",
+  "editionIdentifierYear": "1913",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "Sacred Tunes and Hymns",
+    "subtitle": "Containing a Special Collection of a Very High Order of Standard Sacred Tunes and Hymns, Novel and Newly Arranged",
+    "commonName": "Sacred Tunes and Hymns",
+    "workCode": "STH",
+    "compiler": "Joseph Stephen James; music edited by Seaborn McDaniel Denson",
+    "publisher": "J. S. James",
+    "placePublished": "Atlanta, Georgia",
+    "publicationYear": "1913",
+    "shapeSystem": "4-shape"
+  },
+  "songs": {
+    "1": {
+      "title": "Abbeville",
+      "firstLine": "Come Holy spirit come",
+      "textAttribution": {
+        "credit": "Rev. Benjamin Beddome"
+      }
+    },
+    "2": {
+      "title": "Fairfield",
+      "firstLine": "Come, humble sinner, in whose breast"
+    },
+    "3": {
+      "title": "Kedron",
+      "firstLine": "Thou man of grief, remember me",
+      "musicAttribution": {
+        "credit": "John Wyeth"
+      }
+    },
+    "4": {
+      "title": "Pleading Saviour",
+      "firstLine": "Now see the Saviour stands pleading",
+      "musicAttribution": {
+        "credit": "William Walker"
+      }
+    },
+    "5": {
+      "title": "Everybody's Welcome",
+      "firstLine": "Fathers you are welcome, yes, yes, welcome",
+      "musicAttribution": {
+        "credit": "S. M. Denson"
+      }
+    },
+    "6": {
+      "title": "Jester",
+      "firstLine": "If our fathers want to go",
+      "textAttribution": {
+        "credit": "S. M. D."
+      },
+      "musicAttribution": {
+        "credit": "S. M. Denson"
+      }
+    },
+    "8": {
+      "title": "Only Trust Him",
+      "firstLine": "Come, ev'ry soul by sin oppress'd",
+      "textAttribution": {
+        "credit": "J. H. S."
+      },
+      "musicAttribution": {
+        "credit": "Rev. J. H. Stockton"
+      }
+    },
+    "10": {
+      "title": "Are You Washed in the Blood?",
+      "firstLine": "Have you been to Jesus for the cleansing pow'r",
+      "textAttribution": {
+        "credit": "E. A. H."
+      },
+      "musicAttribution": {
+        "credit": "Rev. E. A. Hoffman"
+      }
+    },
+    "12": {
+      "title": "All Taken Away",
+      "firstLine": "Oh, who will now from sleep awake",
+      "textAttribution": {
+        "credit": "S. H. Prather"
+      },
+      "musicAttribution": {
+        "credit": "J. M."
+      }
+    },
+    "14": {
+      "title": "Windham",
+      "firstLine": "Broad is the road that leads to death",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Daniel Reid"
+      }
+    },
+    "15": {
+      "title": "Kelly",
+      "firstLine": "My Christian friends to whom I speak",
+      "textAttribution": {
+        "credit": "Mrs. A. D."
+      },
+      "musicAttribution": {
+        "credit": "Mrs. Amanda Denson"
+      }
+    },
+    "16": {
+      "title": "Oh, Why Not To-Night?",
+      "firstLine": "Oh, do not let the word depart",
+      "musicAttribution": {
+        "credit": "J. Calvin Bushey"
+      }
+    },
+    "18": {
+      "title": "Denson",
+      "firstLine": "Oh, to grace how can it be",
+      "textAttribution": {
+        "credit": "M. F. M."
+      },
+      "musicAttribution": {
+        "credit": "M. F. McWhorter"
+      }
+    },
+    "19": {
+      "title": "Ninety-Third Psalm",
+      "firstLine": "Grace! 'tis a charming sound",
+      "textAttribution": {
+        "credit": "Philip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "Jeremiah Ingalls"
+      }
+    },
+    "20": {
+      "title": "New Britain",
+      "firstLine": "Amazing grace! how sweet the sound",
+      "textAttribution": {
+        "credit": "John Newton"
+      }
+    },
+    "21": {
+      "title": "Restoration",
+      "firstLine": "Come, thou fount of ev'ry blessing",
+      "textAttribution": {
+        "credit": "Rev. Robert Robinson"
+      },
+      "musicAttribution": {
+        "credit": "T. B. Newton; S. W. Everett"
+      }
+    },
+    "22": {
+      "title": "Glory to His Name",
+      "firstLine": "Down at the cross where my Saviour died",
+      "textAttribution": {
+        "credit": "Rev. E. A. Hoffman"
+      },
+      "musicAttribution": {
+        "credit": "Rev. J. H. Stockton"
+      }
+    },
+    "24": {
+      "title": "He Loves Me",
+      "firstLine": "Alas! and did my Saviour bleed",
+      "textAttribution": {
+        "credit": "Rev. Isaac Watts"
+      }
+    },
+    "25": {
+      "title": "Devotion",
+      "firstLine": "Sweet is the day of sacred rest",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Amarick Hall"
+      }
+    },
+    "26": {
+      "title": "Sweet Canaan",
+      "firstLine": "O who will come and go with me?",
+      "textAttribution": {
+        "credit": "Rev. John Moffitt"
+      },
+      "musicAttribution": {
+        "credit": "Rev. John Moffitt"
+      }
+    },
+    "28": {
+      "title": "Bound for Canaan",
+      "firstLine": "O when shall I see Jesus",
+      "textAttribution": {
+        "credit": "Rev. John Leland"
+      },
+      "musicAttribution": {
+        "credit": "E. J. King"
+      }
+    },
+    "29": {
+      "title": "Canaan's Land",
+      "firstLine": "O for a breeze of heav'nly love",
+      "textAttribution": {
+        "credit": "E. J. King"
+      },
+      "musicAttribution": {
+        "credit": "Amaria Hall"
+      }
+    },
+    "30": {
+      "title": "Ecstacy",
+      "firstLine": "Oh, when shall I see Jesus",
+      "textAttribution": {
+        "credit": "John Leland"
+      },
+      "musicAttribution": {
+        "credit": "T. W. Carter"
+      }
+    },
+    "32": {
+      "title": "Journey Home",
+      "firstLine": "Oh, who will come and go with me",
+      "musicAttribution": {
+        "credit": "R. F. M. Mann"
+      }
+    },
+    "33": {
+      "title": "The Dying Christian",
+      "firstLine": "Ye objects of sense and enjoyments of time",
+      "musicAttribution": {
+        "credit": "Edward Harwood; E. J. King"
+      }
+    },
+    "34": {
+      "title": "The Promised Land",
+      "firstLine": "On Jordan's stormy banks I stand",
+      "textAttribution": {
+        "credit": "Samuel Stennett"
+      },
+      "musicAttribution": {
+        "credit": "Miss M. Durham"
+      }
+    },
+    "36": {
+      "title": "Glory Land",
+      "firstLine": "I have a home not made with hands",
+      "textAttribution": {
+        "credit": "A. R. Walton"
+      },
+      "musicAttribution": {
+        "credit": "Mr. S. M. Denson; Mrs. S. M. Denson"
+      }
+    },
+    "38": {
+      "title": "Northfield",
+      "firstLine": "How long, dear Saviour, O how long",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Jeremiah Ingalls"
+      }
+    },
+    "40": {
+      "title": "Sweet Home",
+      "firstLine": "Mid scenes of confusion and creatures complaint",
+      "textAttribution": {
+        "credit": "Howard Payne"
+      },
+      "musicAttribution": {
+        "credit": "Sir Henry Bishop; S. M. Denson"
+      }
+    },
+    "42": {
+      "title": "Ragan",
+      "firstLine": "Farewell vain world I'm going home",
+      "musicAttribution": {
+        "credit": "W. F. Moore"
+      }
+    },
+    "43": {
+      "title": "Long Sought Home",
+      "firstLine": "Jerusalem! my happy home!",
+      "textAttribution": {
+        "credit": "Francis Baker Priest"
+      },
+      "musicAttribution": {
+        "credit": "William Bobo"
+      }
+    },
+    "44": {
+      "title": "The Golden Harp",
+      "firstLine": "Farewell vain world, I'm going home",
+      "musicAttribution": {
+        "credit": "J. P. Reese"
+      }
+    },
+    "45": {
+      "title": "Traveling Pilgrim",
+      "firstLine": "Farewell vain world I'm going home",
+      "textAttribution": {
+        "credit": "H. S. R."
+      },
+      "musicAttribution": {
+        "credit": "H. S. Reese"
+      }
+    },
+    "46": {
+      "title": "New Jerusalem",
+      "firstLine": "Lo, what a glorious sight appears",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Jeremiah Ingalls"
+      }
+    },
+    "48": {
+      "title": "Balerma",
+      "firstLine": "There is a land of pure delight",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Robert Simpson; B. F. White"
+      }
+    },
+    "49": {
+      "title": "Sing to Me of Heaven",
+      "firstLine": "Oh, sing to me of heav'n",
+      "textAttribution": {
+        "credit": "Mrs. Dana (Shindler)"
+      },
+      "musicAttribution": {
+        "credit": "John Massengale"
+      }
+    },
+    "50": {
+      "title": "Happy Land",
+      "firstLine": "There is a happy land, far, far away",
+      "textAttribution": {
+        "credit": "A. Y."
+      },
+      "musicAttribution": {
+        "credit": "Andrew Young"
+      }
+    },
+    "51": {
+      "title": "The Heavenly Port",
+      "firstLine": "On Jordan's stormy banks I stand",
+      "textAttribution": {
+        "credit": "Samuel Stennett"
+      },
+      "musicAttribution": {
+        "credit": "Eld. Edmond Dumas"
+      }
+    },
+    "52": {
+      "title": "Home of the Soul",
+      "firstLine": "I will sing you a song of that beautiful land",
+      "textAttribution": {
+        "credit": "Mrs. Helen H. Gates"
+      },
+      "musicAttribution": {
+        "credit": "Phillip Phillips"
+      }
+    },
+    "54": {
+      "title": "The Life Boat",
+      "firstLine": "We're floating down the stream of time",
+      "textAttribution": {
+        "credit": "Anon."
+      },
+      "musicAttribution": {
+        "credit": "F. M. G."
+      }
+    },
+    "56": {
+      "title": "Blessed Home",
+      "firstLine": "O think of a home over there",
+      "textAttribution": {
+        "credit": "W. C. D. Huntington"
+      },
+      "musicAttribution": {
+        "credit": "J. E. Bigby; A. J. Showalter"
+      }
+    },
+    "58": {
+      "title": "From the Cross to the Crown",
+      "firstLine": "Look away from the cross to the glittering crown",
+      "textAttribution": {
+        "credit": "F. L. E."
+      },
+      "musicAttribution": {
+        "credit": "F. L. Eiland"
+      }
+    },
+    "60": {
+      "title": "The Beautiful Land",
+      "firstLine": "There's a beautiful land far beyond the sky",
+      "musicAttribution": {
+        "credit": "H. E. Engle"
+      }
+    },
+    "62": {
+      "title": "Home Over There",
+      "firstLine": "O think of the home over there",
+      "textAttribution": {
+        "credit": "D. W. C. Huntington"
+      },
+      "musicAttribution": {
+        "credit": "T. C. O'Kane"
+      }
+    },
+    "64": {
+      "title": "Angel",
+      "firstLine": "I want to be an angel",
+      "textAttribution": {
+        "credit": "Rev. J. R. Hamilin"
+      },
+      "musicAttribution": {
+        "credit": "Rev. J. R. Hamilin"
+      }
+    },
+    "66": {
+      "title": "Hallelujah",
+      "firstLine": "And let this feeble body fail",
+      "textAttribution": {
+        "credit": "Chas. Wesley"
+      },
+      "musicAttribution": {
+        "credit": "William Walker"
+      }
+    },
+    "68": {
+      "title": "Not Made with Hands",
+      "firstLine": "Christ went a building to prepare",
+      "textAttribution": {
+        "credit": "John S. Brown"
+      },
+      "musicAttribution": {
+        "credit": "Miss Avanelle Dyer"
+      }
+    },
+    "70": {
+      "title": "Sweet Day",
+      "firstLine": "There is a land of pure delight",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "T. J. Denson"
+      }
+    },
+    "71": {
+      "title": "Wells",
+      "firstLine": "Life is the time to serve the Lord",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Israel Holdroyd"
+      }
+    },
+    "72": {
+      "title": "Ester",
+      "firstLine": "Young ladies all, attention give",
+      "musicAttribution": {
+        "credit": "John S. Terry"
+      }
+    },
+    "73": {
+      "title": "Telitha",
+      "firstLine": "Bold Soldiers all on you I call",
+      "textAttribution": {
+        "credit": "S. M. D."
+      },
+      "musicAttribution": {
+        "credit": "Mr. S. M. Denson; Mrs. S. M. Denson"
+      }
+    },
+    "74": {
+      "title": "We'll Work 'till Jesus Comes",
+      "firstLine": "Oh, land of rest for thee I sigh!",
+      "textAttribution": {
+        "credit": "Mrs. Elizabeth Mills"
+      },
+      "musicAttribution": {
+        "credit": "Dr. William Miller"
+      }
+    },
+    "76": {
+      "title": "Rest",
+      "firstLine": "Asleep in Jesus! blessed sleep!",
+      "textAttribution": {
+        "credit": "Marguarate Mackay"
+      },
+      "musicAttribution": {
+        "credit": "Wm. B. Bradbury"
+      }
+    },
+    "77": {
+      "title": "Idumea",
+      "firstLine": "And am I born to die?",
+      "textAttribution": {
+        "credit": "Chas. Wesley"
+      },
+      "musicAttribution": {
+        "credit": "A. Davidson"
+      }
+    },
+    "78": {
+      "title": "To Die No More",
+      "firstLine": "Why should we start and fear to die?",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Eld. E. Dumas"
+      }
+    },
+    "79": {
+      "title": "Arnold",
+      "firstLine": "Come let us join our friends above",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "L. D. Breedlove"
+      }
+    },
+    "80": {
+      "title": "When I Am Gone",
+      "firstLine": "Shed not a tear o'er your friend's early bier",
+      "textAttribution": {
+        "credit": "M. H. T."
+      },
+      "musicAttribution": {
+        "credit": "M. H. Turner"
+      }
+    },
+    "82": {
+      "title": "Cuba",
+      "firstLine": "Go preachers and tell it to the world",
+      "textAttribution": {
+        "credit": "H. S. Reese"
+      },
+      "musicAttribution": {
+        "credit": "J. H. Bolen; H. S. Reese"
+      }
+    },
+    "84": {
+      "title": "Gone to Rest",
+      "firstLine": "Death has been here and borne away",
+      "textAttribution": {
+        "credit": "S. M. Denson"
+      },
+      "musicAttribution": {
+        "credit": "S. M. Denson"
+      }
+    },
+    "86": {
+      "title": "Over in the Sun-Bright Clime",
+      "firstLine": "There is a land, a land of beauty",
+      "textAttribution": {
+        "credit": "S. J. O."
+      },
+      "musicAttribution": {
+        "credit": "S. J. Oslin"
+      }
+    },
+    "88": {
+      "title": "Prospect",
+      "firstLine": "Why should we start and fear to die?",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      }
+    },
+    "89": {
+      "title": "Webster",
+      "firstLine": "Come ye that love the Lord",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      }
+    },
+    "90": {
+      "title": "Sardis",
+      "firstLine": "Come on my fellow pilgrims, come",
+      "musicAttribution": {
+        "credit": "Miss Sarah Lancaster"
+      }
+    },
+    "92": {
+      "title": "Revive Us Again",
+      "firstLine": "We praise thee, O God! for the Son of Thy love",
+      "textAttribution": {
+        "credit": "Wm. P. Mackay"
+      },
+      "musicAttribution": {
+        "credit": "J. J. Husband"
+      }
+    },
+    "94": {
+      "title": "I Feel Like Traveling On",
+      "firstLine": "My heav'nly home is bright and fair",
+      "textAttribution": {
+        "credit": "W. M. Hunter, C. D."
+      },
+      "musicAttribution": {
+        "credit": "Jas. D. Vaughan"
+      }
+    },
+    "96": {
+      "title": "Crown Him Lord of All",
+      "firstLine": "All hail the pow'r of Jesus' name",
+      "textAttribution": {
+        "credit": "Peronet"
+      },
+      "musicAttribution": {
+        "credit": "Chas. Edwin Pollock"
+      }
+    },
+    "97": {
+      "title": "Avon",
+      "firstLine": "Planted in Christ the living Vine",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Hugh Wilson"
+      }
+    },
+    "98": {
+      "title": "Corinth",
+      "firstLine": "Jesus and shall it ever be",
+      "textAttribution": {
+        "credit": "Rev. Joseph Grigg"
+      },
+      "musicAttribution": {
+        "credit": "Massengale"
+      }
+    },
+    "99": {
+      "title": "Ortonville",
+      "firstLine": "How sweet the name of Jesus sounds",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "Thos. Hastings; B. F. White"
+      }
+    },
+    "100": {
+      "title": "Exhortation",
+      "firstLine": "Lord, in the morning thou shalt hear"
+    },
+    "102": {
+      "title": "Religion Is a Fortune",
+      "firstLine": "O when shall I see Jesus",
+      "textAttribution": {
+        "credit": "John Leland"
+      },
+      "musicAttribution": {
+        "credit": "William L. Williams"
+      }
+    },
+    "104": {
+      "title": "The Happy Sailor",
+      "firstLine": "Come tell of your ship and what is her name",
+      "musicAttribution": {
+        "credit": "B. F. White"
+      }
+    },
+    "106": {
+      "title": "Boylston",
+      "firstLine": "My God, my life, my love",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Lowell Mason"
+      }
+    },
+    "107": {
+      "title": "Holy Spirit, Faithful Guide",
+      "firstLine": "Holy Spirit, faithful Guide",
+      "musicAttribution": {
+        "credit": "M. M. Wells"
+      }
+    },
+    "108": {
+      "title": "River of Jordan",
+      "firstLine": "Jesus my all to heav'n is gone",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "110": {
+      "title": "I Would Not Be Denied",
+      "firstLine": "When pangs of death seized on my soul",
+      "textAttribution": {
+        "credit": "C. P. J."
+      },
+      "musicAttribution": {
+        "credit": "C. P. Jones"
+      }
+    },
+    "112": {
+      "title": "Nearer My God to Thee",
+      "firstLine": "Nearer my God to Thee",
+      "textAttribution": {
+        "credit": "Mrs. Sarah Fowler Adams"
+      },
+      "musicAttribution": {
+        "credit": "Lowell Mason"
+      }
+    },
+    "113": {
+      "title": "Ninety-Fifth",
+      "firstLine": "When I can read my title clear",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Colton"
+      }
+    },
+    "114": {
+      "title": "I Would See Jesus",
+      "firstLine": "I would see Jesus when the flowr's of joy adorn my way",
+      "musicAttribution": {
+        "credit": "L. P. Breedlove"
+      }
+    },
+    "116": {
+      "title": "Greenfield",
+      "firstLine": "How tedious and tasteless the hours",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "Louis Edson"
+      }
+    },
+    "118": {
+      "title": "The Saints Delight",
+      "firstLine": "When I can read my title clear",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "F. Price"
+      }
+    },
+    "120": {
+      "title": "Happy Land",
+      "firstLine": "O happy day that fixed my choice",
+      "textAttribution": {
+        "credit": "Phillip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "E. M. Rimbault"
+      }
+    },
+    "122": {
+      "title": "Take Me as I Am",
+      "firstLine": "Jesus my Lord to thee I cry",
+      "textAttribution": {
+        "credit": "Eliza H. Hamilton"
+      },
+      "musicAttribution": {
+        "credit": "Rev. J. H. Stockton"
+      }
+    },
+    "124": {
+      "title": "Religion, Old Time",
+      "firstLine": "It was good for our mothers",
+      "musicAttribution": {
+        "credit": "D. J. Evans"
+      }
+    },
+    "125": {
+      "title": "Cusseta",
+      "firstLine": "Show pity Lord, O Lord forgive",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "John Massengale"
+      },
+      "source": {
+        "citedAbbr": "Psalmist hymn 484"
+      }
+    },
+    "126": {
+      "title": "Pisgah",
+      "firstLine": "Jesus Thou art the sinner's friend",
+      "textAttribution": {
+        "credit": "Rev. Richard Burnham"
+      },
+      "musicAttribution": {
+        "credit": "J. C. Lowry"
+      }
+    },
+    "128": {
+      "title": "Save, Mighty Lord",
+      "firstLine": "Jesus my all to heav'n is gone",
+      "textAttribution": {
+        "credit": "John Cennick"
+      },
+      "musicAttribution": {
+        "credit": "J. E. Wade; J. A. Wade; J. S. J."
+      }
+    },
+    "129": {
+      "title": "Detriot",
+      "firstLine": "Do not I love Thee, O my Lord?",
+      "textAttribution": {
+        "credit": "Phillip Doddridge"
+      },
+      "musicAttribution": {
+        "credit": "Bradshaw"
+      }
+    },
+    "130": {
+      "title": "King of Peace",
+      "firstLine": "Lord, I cannot let Thee go",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "F. Price"
+      }
+    },
+    "131": {
+      "title": "Martin",
+      "firstLine": "Jesus lover of my soul",
+      "textAttribution": {
+        "credit": "Chas. Wesley"
+      },
+      "musicAttribution": {
+        "credit": "S. B. Marsh"
+      }
+    },
+    "132": {
+      "title": "Return Again",
+      "firstLine": "Saviour visit Thy plantation",
+      "textAttribution": {
+        "credit": "John Newton"
+      },
+      "musicAttribution": {
+        "credit": "Wm. L. Williams"
+      }
+    },
+    "134": {
+      "title": "Pass Me Not",
+      "firstLine": "Pass me not O gentle Saviour",
+      "textAttribution": {
+        "credit": "Fannie J. Crosby"
+      },
+      "musicAttribution": {
+        "credit": "W. H. Doane"
+      }
+    },
+    "136": {
+      "title": "Rock of Ages",
+      "firstLine": "Rock of Ages cleft for me",
+      "textAttribution": {
+        "credit": "Rev. Augustus Toplady"
+      },
+      "musicAttribution": {
+        "credit": "Dr. Thos. Hastings"
+      }
+    },
+    "137": {
+      "title": "Jesus Is My Friend",
+      "firstLine": "Come life, come death, come then what will",
+      "textAttribution": {
+        "credit": "J. P. R."
+      },
+      "musicAttribution": {
+        "credit": "J. P. Rees"
+      }
+    },
+    "138": {
+      "title": "Lenox",
+      "firstLine": "Blow ye the trumpet blow",
+      "textAttribution": {
+        "credit": "Charles Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Lewis Edson"
+      }
+    },
+    "140": {
+      "title": "Primrose",
+      "firstLine": "Salvation, O the joyful sound",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "Amzi Chapin"
+      }
+    },
+    "141": {
+      "title": "Liverpool",
+      "firstLine": "Young people all, attention give",
+      "musicAttribution": {
+        "credit": "M. C. H. Davis"
+      }
+    },
+    "142": {
+      "title": "Wondrous Love",
+      "firstLine": "What wondrous love is this?"
+    },
+    "144": {
+      "title": "Weeping Sinners",
+      "firstLine": "Weeping sinners, dry your tears",
+      "musicAttribution": {
+        "credit": "J. P. Reese"
+      }
+    },
+    "145": {
+      "title": "Remember Me",
+      "firstLine": "There is a fountain filled with blood",
+      "musicAttribution": {
+        "credit": "B. F. White; L. L. Leadbetter"
+      }
+    },
+    "146": {
+      "title": "Am I a Soldier of the Cross?",
+      "firstLine": "Am I a soldier of the cross",
+      "textAttribution": {
+        "credit": "Isaac Watts"
+      },
+      "musicAttribution": {
+        "credit": "G. B. Daniel"
+      }
+    },
+    "148": {
+      "title": "Nothing but the Blood of Jesus",
+      "firstLine": "What can wash away my sin?",
+      "textAttribution": {
+        "credit": "R. L."
+      },
+      "musicAttribution": {
+        "credit": "Robert Lowry"
+      }
+    },
+    "149": {
+      "title": "Come to Jesus Just Now",
+      "firstLine": "Come to Jesus, Come to Jesus, come to Jesus just now",
+      "source": {
+        "citedAbbr": "English Melody"
+      }
+    },
+    "150": {
+      "title": "There Is a Fountain",
+      "firstLine": "There is a fountain filled with blood",
+      "textAttribution": {
+        "credit": "William Cowper"
+      },
+      "musicAttribution": {
+        "credit": "Lowell Mason"
+      }
+    },
+    "152": {
+      "title": "He Rose from the Dead",
+      "firstLine": "They crucified my Saviour",
+      "musicAttribution": {
+        "credit": "Geo. King"
+      }
+    },
+    "154": {
+      "title": "Mear",
+      "firstLine": "Will God forever cast us off?",
+      "textAttribution": {
+        "credit": "Jesse Mercer"
+      },
+      "musicAttribution": {
+        "credit": "Aaron Williams"
+      }
+    },
+    "155": {
+      "title": "Old Hundred",
+      "firstLine": "Praise God from whom all blessings flow",
+      "textAttribution": {
+        "credit": "Bishop Ken"
+      },
+      "musicAttribution": {
+        "credit": "Guil. Franc"
+      }
+    },
+    "156": {
+      "title": "Evening Shade",
+      "firstLine": "The day is past and gone",
+      "textAttribution": {
+        "credit": "John Leland"
+      }
+    },
+    "158": {
+      "title": "Columbiana",
+      "firstLine": "May the grace of Christ our Saviour",
+      "musicAttribution": {
+        "credit": "D. P. White"
+      },
+      "source": {
+        "citedAbbr": "Buck's Hymn Book, H. 530"
+      }
+    },
+    "159": {
+      "title": "Minister's Farewell",
+      "firstLine": "Dear friends, farewell I do you tell"
+    },
+    "160": {
+      "title": "Departed Loved Ones",
+      "firstLine": "Is it wrong to wish to meet them",
+      "musicAttribution": {
+        "credit": "S. M. Denson"
+      }
+    },
+    "161": {
+      "title": "Loved Ones Over Yonder",
+      "firstLine": "We have fathers over yonder",
+      "musicAttribution": {
+        "credit": "S. M. Denson"
+      }
+    },
+    "162": {
+      "title": "Cullman",
+      "firstLine": "When Paul was parted from His friends",
+      "textAttribution": {
+        "credit": "S. M. D."
+      },
+      "musicAttribution": {
+        "credit": "S. M. Denson"
+      }
+    },
+    "163": {
+      "title": "Parting Hand",
+      "firstLine": "My christian friends, in bonds of love",
+      "musicAttribution": {
+        "credit": "Jeremiah Ingalls"
+      }
+    },
+    "164": {
+      "title": "Coronation",
+      "firstLine": "All hail the pow'r of Jesus' name!",
+      "textAttribution": {
+        "credit": "Rev. Edward Perronet"
+      },
+      "musicAttribution": {
+        "credit": "Oliver Holden"
+      }
+    },
+    "166": {
+      "title": "I Love Thy Kingdom Lord",
+      "firstLine": "I love Thy kingdom, Lord",
+      "textAttribution": {
+        "credit": "Timothy Dwight"
+      },
+      "musicAttribution": {
+        "credit": "Aaron Williams"
+      }
+    },
+    "167": {
+      "title": "Bellevue",
+      "firstLine": "How firm a foundation, ye saints of the Lord",
+      "textAttribution": {
+        "credit": "George Keith"
+      },
+      "musicAttribution": {
+        "credit": "Anne Steele"
+      }
+    },
+    "168": {
+      "title": "Missionary Hymn",
+      "firstLine": "From Greenland's icy mountains",
+      "textAttribution": {
+        "credit": "Reginald Heber, D. D."
+      },
+      "musicAttribution": {
+        "credit": "Lowell Mason"
+      }
+    },
+    "170": {
+      "title": "Antioch",
+      "firstLine": "I know that my Redeemer lives",
+      "textAttribution": {
+        "credit": "Daniel Medley"
+      },
+      "musicAttribution": {
+        "credit": "U. G. Wood"
+      }
+    },
+    "172": {
+      "title": "Pleyel's Hymn",
+      "firstLine": "While Thee I seek, protecting Pow'r",
+      "textAttribution": {
+        "credit": "Helen Maria Williams"
+      },
+      "musicAttribution": {
+        "credit": "Ignaz J. Pleyel"
+      }
+    },
+    "174": {
+      "title": "Eltham",
+      "firstLine": "Hasten, Lord, the glorious time",
+      "textAttribution": {
+        "credit": "Harriet Auber"
+      },
+      "musicAttribution": {
+        "credit": "Dr. Lowell Mason; S. M. Denson"
+      }
+    },
+    "175": {
+      "title": "Sweet Affliction",
+      "firstLine": "In the floods of tribulation",
+      "textAttribution": {
+        "credit": "J. J. R."
+      },
+      "musicAttribution": {
+        "credit": "J. J. Rousseau"
+      }
+    },
+    "176": {
+      "title": "Roll Jordan",
+      "firstLine": "He comes! He comes! the Judge severe",
+      "musicAttribution": {
+        "credit": "John G. McCurry"
+      }
+    },
+    "177": {
+      "title": "Passing Away",
+      "firstLine": "And must I be to judgment brought and answer in that day",
+      "textAttribution": {
+        "credit": "Chas. Wesley"
+      },
+      "musicAttribution": {
+        "credit": "John A. Watson"
+      }
+    },
+    "178": {
+      "title": "The Marriage in the Skies",
+      "firstLine": "O ring the bells of heaven high",
+      "textAttribution": {
+        "credit": "S. D."
+      },
+      "musicAttribution": {
+        "credit": "Mrs. Sidney Denson"
+      }
+    },
+    "180": {
+      "title": "Resurrected",
+      "firstLine": "My father's gone to view that land",
+      "textAttribution": {
+        "credit": "S. M. D."
+      },
+      "musicAttribution": {
+        "credit": "S. M. Denson"
+      }
+    },
+    "182": {
+      "title": "Our Parting Song",
+      "firstLine": "We now must sing our parting song",
+      "textAttribution": {
+        "credit": "R. A. Glenn"
+      },
+      "musicAttribution": {
+        "credit": "B. F. Showalter"
+      }
+    },
+    "184": {
+      "title": "Rocky Road",
+      "firstLine": "I've enlisted on the road",
+      "textAttribution": {
+        "credit": "J. C. B."
+      },
+      "musicAttribution": {
+        "credit": "J. C. Brown; S. M. Denson"
+      }
+    },
+    "187": {
+      "title": "Just for a Day",
+      "firstLine": "Just for a day, dear Lord with Thee",
+      "textAttribution": {
+        "credit": "A. R. W."
+      },
+      "musicAttribution": {
+        "credit": "A. R. Walton"
+      }
+    },
+    "188": {
+      "title": "God Be with You",
+      "firstLine": "God be with you till we meet again",
+      "textAttribution": {
+        "credit": "Rev. J. E. Rankin, D. D."
+      },
+      "musicAttribution": {
+        "credit": "W. G. Tomer"
+      }
+    }
+  },
+  "states": [],
+  "sources": [],
+  "relationships": [],
+  "publicationStatus": "draft",
+  "internalNote": "Level 3 enrichment from a hymnary.org/hymnal/STH1913 CSV export Kevin supplied, 2026-09-09 - cross-checked field-for-field against the Level 2 page/title index added earlier the same day (independently pulled from hymnary's own table view) and found to match exactly across all 130 entries, no discrepancies. Numbered by hymn number, not page, matching hymnary's own numbering; the gaps in the sequence (3, 7, 9, 11, 13...) are real, confirmed across both sources, not an extraction artifact. Tune titles are title-cased per Kevin's instruction - both sources give them in all caps. This source has no meter, key, scripture reference, or copyright data for any entry - Kevin flagged this incompleteness himself before the CSV arrived, and none of it has been guessed or backfilled here. One entry, #129 \"Detriot\", is transcribed exactly as both independent sources have it; the tune's own identifier (detroit_kentuckyharmony) confirms it's the well-known tune \"Detroit\", so this is almost certainly a misspelling in the original 1913 print itself, not a transcription error on either source's part - left uncorrected rather than silently fixed. publicationStatus is \"draft\" pending a pass to backfill meter/key from another source, since this one doesn't carry it."
+}

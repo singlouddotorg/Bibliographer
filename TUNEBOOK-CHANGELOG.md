@@ -466,6 +466,72 @@ data, not just structurally, before use.
 
 ---
 
+## e_STH1913 upgraded to Level 3, and SHM2025/SHM1991 backfilled from fasola.org
+
+**`STH1913` — Sacred Tunes and Hymns (J. S. James, 1913)** upgraded from Level 2 to a real
+Level 3 Edition: 130 songs, built from a hymnary.org/hymnal/STH1913 CSV export Kevin
+supplied, cross-checked field-for-field against the existing Level 2 page/title index and
+matching exactly across all 130 entries. Carries first line, and text/music attribution
+where the source has it (30 of 130 entries have no text attribution, 11 have no music
+attribution — genuine gaps in the source, not omissions). Numbered by hymn number, not
+page, matching hymnary.org's own convention; the gaps in the numbering are real and
+confirmed across two independent sources, not an extraction artifact. This source carries
+no meter, key, or scripture-reference data for any entry — a second hymnary.org export
+supplied later was checked field-for-field against the built file and confirmed identical,
+so this remains a real, unfilled gap rather than an oversight. One entry (#129, tune
+"Detriot") is transcribed exactly as both sources give it; the tune's own identifier
+confirms it's the well-known tune "Detroit," almost certainly an original-print misspelling
+rather than a transcription error, so it was kept as printed rather than silently corrected.
+
+**`SHM2025` and `SHM1991`** (both already Level 3) had their `firstLine` gaps closed
+completely using fasola.org's First Lines index for each edition — 590/590 and 554/554
+respectively, cross-checked against each edition's own page/title index with zero
+unmatched entries. `SHM1991` additionally had 19 of 66 missing `textAttribution` values and
+30 of 42 missing `meter` values filled from fasola.org's Poets and Meters index views (one
+candidate deliberately left unfilled — page 197 — because fasola's own index lists two
+genuinely different sources for it, not a spelling variant); its 19 missing
+`musicAttribution` values were checked against fasola's Composers index and found
+uncovered there too, meaning they're very likely genuinely uncredited in the print, not a
+gap this source can close. `SHM2025` had 18 of its 21 missing `meter` values filled the
+same way, cross-validated against `SHM1991`'s own already-verified data for the same
+tunes; three (Claremont, Cuba, The Great Day) were left unfilled because fasola's 2025
+index directly contradicts concrete, already-confirmed meter values for those same tunes
+in `SHM1991`. Full reasoning for every fill and every deliberate gap is recorded in each
+file's own `internalNote`.
+
+---
+
+## e_MHC2026 added — The Maine Harmonic Companion, a real Level 2 edition
+
+**`MHC2026` — The Maine Harmonic Companion** (Maine Association of Shape-Note Singers,
+printed by Musica Americana Arcana, Readfield, ME, 2026), added under a new Work `w_MHC` —
+a brand-new 2026 compilation, so there was no prior SingLoud or SHMHA code to carry over.
+Built entirely from the book's own printed General Index and First Line Index, cross-checked
+against each other, before any tune-page photographs were available — a real Level 2
+(page/title) index, not a placeholder. Covers all 226 physical pages: 185 single-tune pages,
+20 split pages (40 titles), and 21 pages with no entry in either printed index (presumed
+blank or divider pages) — the 21 are deliberately left out of `songs{}` entirely rather than
+given an empty title, the same way this Library already handles a confirmed non-resolving
+page elsewhere (`GeH2012`'s page 24).
+
+Cross-checking the two printed indexes against each other surfaced a real 7-item errata list
+in the book's own indexes — two page-number errors, four omitted tunes (one found only on a
+second, more thorough pass: Lewiston, p.85), and one typesetting error — and confirmed three
+same/near-same-titled pairs as genuinely distinct tunes rather than misspellings, kept
+distinct here: Machias (208) / Mechias (222), Readfield (43) / Reedfield (213), and Hallowell
+(three separate pages, each a different hymn text) / Hollowall (175). "Star in the East"
+(pages 12/13) is two distinct tunes sharing one title, disambiguated as (First)/(Second) per
+this Library's own convention. 26 titles printed in the indexes in sort order ("X, The") were
+normalized to natural reading order ("The X") to match how the rest of this Library already
+represents such titles. Several titles carry a second phrase after a slash (e.g. "Farmington
+/ Black heavy thoughts") — kept exactly as both indexes print them, rather than split or
+guessed at.
+
+No tune-page data (meter, key, attribution, etc.) exists yet — that requires real page
+photographs, not yet supplied, and would be a separate Level 3 build.
+
+---
+
 
 **As of Workstream B (Master Tunebook List, draft v1), this table is superseded by `master-tunebook-list.js`** — the same ten books below now exist as real, structured Level 2 records there (per `MASTER-TUNEBOOK-LIST-SCHEMA.md`), rather than living only as changelog prose. This table is kept here for historical reference and because it's still the easier place to *read* the list. (`master-tunebook-list.js` itself was later superseded in turn by the unified `tunebook-library.js` — see the Tunebook Library and File Architecture work below — and has since been removed from the suite entirely.)
 
