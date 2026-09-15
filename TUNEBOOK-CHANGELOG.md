@@ -532,6 +532,56 @@ photographs, not yet supplied, and would be a separate Level 3 build.
 
 ---
 
+## Five bare-record Works promoted from a raw workId badge to a real SingLoud workCode
+
+`w_shmha_AV` (American Vocalist), `w_shmha_CHa` (Christian Harmony, Alabama), `w_shmha_GOS`
+(The Good Old Songs), `w_shmha_LD` (Lloyd's Hymnal), and `w_shmha_OH` (Oberlin Harmony) —
+five of the Level 1 Works carried in from `master-tunebook-list.js`, listed as SingLoud
+*(unknown)* in the old superseded table further down this file — had never had a real
+SingLoud work code assigned. Each one's SHMHA code had been carried over as a provisional
+`workCode`, but flagged `workCodeStatus: "unknown"` because it had never actually been
+checked against the rest of the Library. The Tunebook Registry's own display logic
+(`shared-utils.js`) is deliberately built to distrust that flag: rather than show an
+unverified code as if it were real, it falls back to printing the full `workId` instead —
+which is why these five showed a raw `w_shmha_AV`-style badge instead of a short code, on
+Kevin's own report from a Registry screenshot.
+
+Fixed by actually doing the check the flag was waiting on: each of AV, CHa, GOS, LD, and OH
+was compared against every `workCode` and `editionCode` already in the Library — no
+collisions on any of the five — and promoted to a real SingLoud workCode. `workCodeStatus`
+was dropped (its absence means "trusted," same as every other Work in the Library), each
+Work's own `workId` was renamed to match (`w_shmha_AV` → `w_AV`, etc.), and the one edition
+that existed under the old id (`e_CHa1958`, under `w_shmha_CHa`) was repointed at `w_CHa` —
+its own `editionCode` of `CHa1958` didn't need to change, since it was already built from
+this same `CHa` code. `shmhaCode` is kept on all five as the historical record of where the
+code came from; nothing about that provenance changed, only its trust status. Confirmed live
+in the Registry: all five now show their plain code (AV, CHa, GOS, LD, OH) instead of the
+full workId.
+
+**Correction, same day:** the pass above was wrong on its own terms for three of the five.
+Kevin caught it immediately: SingLoud work codes are always exactly three glyphs — a number
+only in the extreme case of a title's own volume/part numeral, like `EH2` for "An Eclectic
+Harmony II" (see https://sacredharp.substack.com/p/tools-shape-note-tunebook-identification)
+— and AV, LD, and OH were bare 2-letter SHMHA codes promoted straight through without
+noticing they were one glyph short (CHa and GOS were already properly 3 glyphs and needed no
+further change). Re-derived properly, checked clean against every workCode and editionCode
+in the Library:
+
+- `w_AV` → **`w_AmV`** ("American Vocalist" — American + Vocalist, matching the AmC/AmH
+  sibling pattern already used for other "American ___" titles)
+- `w_LD` → **`w_LlH`** ("Lloyd's Hymnal" — the title's own first two letters, "Lloyd's",
+  plus Hymnal's initial)
+- `w_OH` ("Oberlin Harmony", a bare Level 1 record with no compiler or year) turned out, on
+  Kevin's confirmation, to be **the same book** as the already-cataloged `w_ObH` ("Oberlin
+  Harmony: Songs We Like To Sing", 2002, Chloe Maher and Charles Wells) — merged into it
+  exactly like `w_shmha_AH` was folded into `AHI` above: `w_OH` removed, its SHMHA code
+  `OH` carried onto `w_ObH` as `shmhaCode`, `w_ObH`'s own real code (`ObH`) untouched.
+
+Confirmed live in the Registry: AmV, CHa, GOS, and LlH each show a proper 3-glyph code, and
+Oberlin Harmony now appears once, under `ObH`, instead of as two separate bare records.
+
+---
+
 
 **As of Workstream B (Master Tunebook List, draft v1), this table is superseded by `master-tunebook-list.js`** — the same ten books below now exist as real, structured Level 2 records there (per `MASTER-TUNEBOOK-LIST-SCHEMA.md`), rather than living only as changelog prose. This table is kept here for historical reference and because it's still the easier place to *read* the list. (`master-tunebook-list.js` itself was later superseded in turn by the unified `tunebook-library.js` — see the Tunebook Library and File Architecture work below — and has since been removed from the suite entirely.)
 
