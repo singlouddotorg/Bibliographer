@@ -42,7 +42,7 @@
       }
     },
     "11": {
-      "title": "Exultation - Come away to the skies",
+      "title": "Exultation",
       "firstLine": "Come away to the skies my beloved arise",
       "key": "Minor",
       "source": {
@@ -322,7 +322,7 @@
       }
     },
     "53": {
-      "title": "Lisbon - Farewell, dear brethren of the Lord",
+      "title": "Lisbon",
       "firstLine": "Farewell dear brethren of the Lord",
       "key": "Minor",
       "source": {
@@ -450,7 +450,7 @@
       }
     },
     "73": {
-      "title": "Exultation - Burst, ye em’rald gates, and bring",
+      "title": "Exultation",
       "firstLine": "Burst ye emrald gates and bring",
       "key": "Major",
       "source": {
@@ -570,7 +570,7 @@
       }
     },
     "91": {
-      "title": "Redemption - Come friends and relations",
+      "title": "Redemption",
       "firstLine": "Come friends and relations lets join heart and hand",
       "key": "Major",
       "source": {
@@ -666,7 +666,7 @@
       }
     },
     "106": {
-      "title": "Bunker Hill - Why should vain mortals tremble",
+      "title": "Bunker Hill",
       "firstLine": "Why should vain mortals tremble at the sight of",
       "key": "Minor",
       "source": {
@@ -738,7 +738,7 @@
       }
     },
     "115": {
-      "title": "Complaint - Ah! whither should I go",
+      "title": "Complaint",
       "firstLine": "Ah whither should I go",
       "key": "Minor",
       "source": {
@@ -1266,7 +1266,7 @@
       }
     },
     "192": {
-      "title": "Bunker Hill - We are expos’d all day to die",
+      "title": "Bunker Hill",
       "firstLine": "We are exposd all day to die",
       "key": "Minor",
       "source": {
@@ -1282,7 +1282,7 @@
       }
     },
     "194": {
-      "title": "Despair - Deep in a cold, a joyless cell",
+      "title": "Despair",
       "firstLine": "Deep in a cold a joyless cell",
       "key": "Minor",
       "source": {
@@ -1402,7 +1402,7 @@
       }
     },
     "209": {
-      "title": "Consolation - Why do we mourn departing friends",
+      "title": "Consolation",
       "firstLine": "Why do we mourn departing friends",
       "key": "Minor",
       "source": {
@@ -1418,7 +1418,7 @@
       }
     },
     "211": {
-      "title": "Despair - O now Amanda’s dead and gone",
+      "title": "Despair",
       "firstLine": "O now Amandas dead and gone",
       "key": "Minor",
       "source": {
@@ -1474,7 +1474,7 @@
       }
     },
     "221": {
-      "title": "Friendship - Friendship to ev’ry willing mind",
+      "title": "Friendship",
       "firstLine": "Friendship to evry willing mind",
       "key": "Major",
       "source": {
@@ -1490,7 +1490,7 @@
       }
     },
     "223": {
-      "title": "America - When God reveal’d his gracious name",
+      "title": "America",
       "firstLine": "When God reveald his gracious name",
       "key": "Major",
       "source": {
@@ -1698,7 +1698,7 @@
       }
     },
     "254": {
-      "title": "Pennsylvania - The God of glory sends his summons",
+      "title": "Pennsylvania",
       "firstLine": "The God of glory sends his summons forth",
       "key": "Minor",
       "source": {
@@ -1722,7 +1722,7 @@
       }
     },
     "258": {
-      "title": "Lamentation - Millions of years may roll away",
+      "title": "Lamentation",
       "firstLine": "Millions of years may roll away",
       "key": "Minor",
       "source": {
@@ -1858,7 +1858,7 @@
       }
     },
     "282": {
-      "title": "Pennsylvania - When shall thy lovely face be seen?",
+      "title": "Pennsylvania",
       "firstLine": "When shall thy lovely face be seen?",
       "key": "Minor",
       "source": {
@@ -1946,7 +1946,7 @@
       }
     },
     "302": {
-      "title": "Paradise - How long, dear Savior, O, how long",
+      "title": "Paradise",
       "firstLine": "How long dear Savior O how long",
       "key": "Minor",
       "source": {
@@ -1954,7 +1954,7 @@
       }
     },
     "303": {
-      "title": "Cumberland - Come all ye happy race",
+      "title": "Cumberland",
       "firstLine": "Come all ye happy race",
       "key": "Minor",
       "source": {
@@ -1962,7 +1962,7 @@
       }
     },
     "304": {
-      "title": "Mortality - Stoop down my thoughts",
+      "title": "Mortality",
       "firstLine": "Stoop down my thoughts that used to rise",
       "key": "Minor",
       "source": {
@@ -2186,7 +2186,7 @@
       }
     },
     "352": {
-      "title": "Cumberland - The God of glory sends his summons",
+      "title": "Cumberland",
       "firstLine": "The God of glory sends his summons forth",
       "key": "Major",
       "source": {
@@ -2218,7 +2218,7 @@
       }
     },
     "361": {
-      "title": "Georgia - Return, O God of love, return",
+      "title": "Georgia",
       "firstLine": "Return O God of love return",
       "key": "Minor",
       "source": {
@@ -2306,7 +2306,7 @@
       }
     },
     "376": {
-      "title": "Friendship - Thy wrath lies heavy on my soul",
+      "title": "Friendship",
       "firstLine": "Thy wrath lies heavy on my soul",
       "key": "Minor",
       "source": {
@@ -2362,7 +2362,7 @@
       }
     },
     "386": {
-      "title": "Georgia - Hark, hark what news the angels bring",
+      "title": "Georgia",
       "firstLine": "Hark hark what news the angels bring",
       "key": "Major",
       "source": {
@@ -2386,7 +2386,7 @@
       }
     },
     "389": {
-      "title": "Angel's Hymn - Hark, ye mortals, hear the trumpet",
+      "title": "Angel's Hymn",
       "firstLine": "Hark ye mortals hear the trumpet",
       "key": "Minor",
       "source": {
@@ -2498,7 +2498,7 @@
       }
     },
     "406": {
-      "title": "Complaint - Save us, O Lord, aloud we pray",
+      "title": "Complaint",
       "firstLine": "Save us O Lord aloud we pray",
       "key": "Minor",
       "source": {
@@ -2530,7 +2530,7 @@
       }
     },
     "412": {
-      "title": "America - From all that dwell below the skies",
+      "title": "America",
       "firstLine": "From all that dwell below the skies",
       "key": "Major",
       "source": {
@@ -2634,7 +2634,7 @@
       }
     },
     "437": {
-      "title": "Exultation - When the last trumpet’s awful voice",
+      "title": "Exultation",
       "firstLine": "When the last trumpets awful voice",
       "key": "Major",
       "source": {
@@ -2698,7 +2698,7 @@
       }
     },
     "453": {
-      "title": "Crucifixion - Behold, the Savior of mankind",
+      "title": "Crucifixion",
       "firstLine": "Behold the Savior of mankind",
       "key": "Minor",
       "source": {
@@ -2706,7 +2706,7 @@
       }
     },
     "456": {
-      "title": "Mortality - Our moments fly apace",
+      "title": "Mortality",
       "firstLine": "Our moments fly apace",
       "key": "Minor",
       "source": {
@@ -2714,7 +2714,7 @@
       }
     },
     "457": {
-      "title": "Redemption - Glory to God on high",
+      "title": "Redemption",
       "firstLine": "Glory to God on high And heavnly peace on earth",
       "key": "Major",
       "source": {
@@ -2778,7 +2778,7 @@
       }
     },
     "5t": {
-      "title": "Angel's Hymn - The lands that long in darkness lay",
+      "title": "Angel's Hymn",
       "firstLine": "The lands that long in darkness lay",
       "key": "Major",
       "source": {
@@ -2802,7 +2802,7 @@
       }
     },
     "6b": {
-      "title": "Lisbon - Welcome sweet day of rest",
+      "title": "Lisbon",
       "firstLine": "Welcome sweet day of rest",
       "key": "Major",
       "source": {
@@ -2906,7 +2906,7 @@
       }
     },
     "24t": {
-      "title": "Consolation - Once more, my soul, the rising day",
+      "title": "Consolation",
       "firstLine": "Once more my soul the rising day",
       "key": "Minor",
       "source": {
@@ -2970,7 +2970,7 @@
       }
     },
     "65t": {
-      "title": "Salem - Break off your fears, ye saints",
+      "title": "Salem",
       "firstLine": "Break off your fears ye saints and tell",
       "key": "Major",
       "source": {
@@ -3082,7 +3082,7 @@
       }
     },
     "119t": {
-      "title": "Lamentation - Death, like an overflowing stream",
+      "title": "Lamentation",
       "firstLine": "Death like an overflowing stream",
       "key": "Minor",
       "source": {
@@ -3138,7 +3138,7 @@
       }
     },
     "134b": {
-      "title": "Lamentation - When we our wearied limbs to rest",
+      "title": "Lamentation",
       "firstLine": "When we our wearied limbs to rest",
       "key": "Minor",
       "source": {
@@ -3290,7 +3290,7 @@
       }
     },
     "276t": {
-      "title": "Salem - Weak is the effort of my heart",
+      "title": "Salem",
       "firstLine": "Weak is the effort of my heart",
       "key": "Major",
       "source": {
@@ -3578,7 +3578,7 @@
       }
     },
     "404t": {
-      "title": "Paradise - I know that my Redeemer lives",
+      "title": "Paradise",
       "firstLine": "I know that my Redeemer lives",
       "key": "Major",
       "source": {
@@ -3722,7 +3722,7 @@
       }
     },
     "443t": {
-      "title": "Crucifixion - Saw ye my Savior",
+      "title": "Crucifixion",
       "firstLine": "Saw ye my Savior and God?",
       "key": "Major",
       "source": {

@@ -582,6 +582,70 @@ Oberlin Harmony now appears once, under `ObH`, instead of as two separate bare r
 
 ---
 
+## The Keystone Harmony (1999) cataloged to Level 3
+
+`w_KsH` existed only as a bare Level 1 record (`workCode: "KsH"`, `responsibilityStatement:
+"Unlocated"`, no edition). Kevin provided his own copy of the book directly — its printed
+29-tune alphabetical index (title, page, composer, first line, meter, year, verse) plus the
+title and introduction pages — and it's now a full Level 3 edition, `e_KsH1999`, built the
+same way as every other hand-cataloged edition: real bibliographic data first, then the
+`tunebook-files/KsH1999.json` song data built to match it.
+
+*The Keystone Harmony* was printed January 1999 for the First Keystone Shapenote Singing
+Convention at Chestnut Hill Friends Meeting, Philadelphia, compiled by Gabriel Kastelle and
+Doron A. Henkin (also the compilers behind `w_KfA`, "Kairos for All"). `w_KsH`'s
+`responsibilityStatement` was updated from "Unlocated" to their names accordingly. Per its
+own introduction, it collects old and new tunes associated with the shape-note tradition's
+movement out of Pennsylvania — through Harrisburg and the Shenandoah Valley to Pittsburgh,
+Kentucky, Ohio, and beyond.
+
+Schema choice: `VPH2024.json` was used as the structural template (it's the closest existing
+match for meter-based hymnody with separate text/music attribution), rather than the
+original-composition-oriented shape of `CSH1934.json`. The index's **Year** column maps to
+`musicAttribution.year` (tune date) and its **Verse** column to `textAttribution.credit`
+(text/verse source) — the index prints no separate text-authorship year, so
+`textAttribution.year` is simply absent rather than guessed. No `timeSignature` or `key` data
+appears in the printed index, so those fields are omitted entirely too (per the project's
+standing rule: absent, never null or blank-string). Meters, composer names, and verse-source
+text are kept exactly as printed, idiosyncrasies included — `"C..M."` for "Dunlap's Creek",
+the quoted `"Chapen"` for "Hosannah", and the bracketed `"[A] Chapin"` for "Invitation
+(Supplication)" all survive verbatim rather than being silently corrected.
+
+Three page numbers in the book carry two tunes printed one above the other — a real top/bottom
+pair, the same situation Simple Minutes' exceptional-key picker exists for. Kevin resolved all
+three directly against the physical book:
+
+- Page 2: **Liberty Hall** (top) / Bethel (bottom)
+- Page 27: **Consolation** (top) / Harrisburg (bottom)
+- Page 30: **Brier Island** (top) / Forsaken (bottom)
+
+logged as `"2t"`/`"2b"`, `"27t"`/`"27b"`, and `"30t"`/`"30b"` respectively, matching the same
+key convention used for every other tunebook's top/bottom pages in the Library.
+
+---
+
+## `e_ShH2012` — 38 song titles corrected, Kevin's own list
+
+38 songs in *The Shenandoah Harmony* (2012) had been cataloged with the printed page's tune
+name AND its first line concatenated into one `title` string (e.g. `"Exultation - Come away
+to the skies"`), rather than just the tune name — every other book in the Library, and the
+rest of ShH2012 itself, carries the tune name alone in `title`, with the first line (where
+known) in its own separate `firstLine` field. Kevin supplied the corrected title for each of
+the 38 affected pages directly; each one already had a `firstLine` on file that matches what
+was being stripped out of `title`, so nothing was lost — this only removed a duplication.
+Several tune names recur across multiple pages under this book's own convention (distinct
+tunes sharing a name, disambiguated by page rather than by a unique title): Exultation (pp.
+11, 73, 437), Bunker Hill (pp. 106, 192), Despair (pp. 194, 211), Consolation (pp. 209, 24t),
+Pennsylvania (pp. 254, 282), Cumberland (pp. 303, 352), Georgia (pp. 361, 386), Friendship
+(pp. 221, 376), America (pp. 223, 412), Lamentation (pp. 258, 119t, 134b), Paradise (pp. 302,
+404t), Mortality (pp. 304, 456), Redemption (pp. 91, 457), Angel's Hymn (pp. 389, 5t), Lisbon
+(pp. 53, 6b), Salem (pp. 65t, 276t), and Crucifixion (pp. 453, 443t) — each page keeps its
+own genuinely different `firstLine`, so no data was merged or lost by the shared name.
+Corrected in both `tunebook-library.js`'s own inline `songs{}` mirror and the Level 3
+`tunebook-files/ShH2012.json` file itself, kept in agreement as always.
+
+---
+
 
 **As of Workstream B (Master Tunebook List, draft v1), this table is superseded by `master-tunebook-list.js`** — the same ten books below now exist as real, structured Level 2 records there (per `MASTER-TUNEBOOK-LIST-SCHEMA.md`), rather than living only as changelog prose. This table is kept here for historical reference and because it's still the easier place to *read* the list. (`master-tunebook-list.js` itself was later superseded in turn by the unified `tunebook-library.js` — see the Tunebook Library and File Architecture work below — and has since been removed from the suite entirely.)
 
