@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tunebooks</title>
+<title>Bibliographer</title>
 <!-- Tunebook full titles, codes, and page indexes live in tunebook-library.js, shared with
      the Minutes app — see TUNEBOOK-CHANGELOG.md for what's included and when it was added.
      Tunebooks loads the same file and treats it as the *starting point* for an
@@ -213,14 +213,14 @@
 </div>
 <div id="unsupportedWidthNotice" style="display:none;">
   <div class="unsupported-box">
-    <h1 style="font-size:20px;">Tunebooks</h1>
+    <h1 style="font-size:20px;">Bibliographer</h1>
     <p>This app is built for a laptop, desktop, or keyboard-equipped tablet — it needs more room than this window currently has to work well, and isn't designed for phone-sized screens.</p>
     <p>Please widen this window or switch to a larger device to continue.</p>
   </div>
 </div>
 
 <div class="app">
-  <nav class="tabs" role="tablist" aria-label="Tunebooks sections">
+  <nav class="tabs" role="tablist" aria-label="Bibliographer sections">
     <div class="rail-brand">
       <span class="shapes" aria-hidden="true">
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#c9a227" stroke-width="2"><polygon points="12,3 21,20 3,20"/></svg>
@@ -228,14 +228,14 @@
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#c9a227" stroke-width="2"><rect x="4" y="4" width="16" height="16"/></svg>
         <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="#c9a227" stroke-width="2"><polygon points="12,2 22,12 12,22 2,12"/></svg>
       </span>
-      <span class="suite-name">Tunebooks</span>
+      <span class="suite-name">Bibliographer</span>
     </div>
     <button class="tab-btn active" data-tab="library" role="tab" aria-selected="true" aria-controls="panel-library" id="tab-library"><span class="n">1</span>Library</button>
     <button class="tab-btn" data-tab="bulk" role="tab" aria-selected="false" aria-controls="panel-bulk" id="tab-bulk"><span class="n">2</span>Bulk Edit</button>
     <button class="tab-btn" data-tab="edit" role="tab" aria-selected="false" aria-controls="panel-edit" id="tab-edit"><span class="n">3</span>Edit Tunebook</button>
     <button class="tab-btn" data-tab="export" role="tab" aria-selected="false" aria-controls="panel-export" id="tab-export"><span class="n">4</span>Export</button>
     <div class="rail-foot">
-      <div id="railVersion">Tunebooks</div>
+      <div id="railVersion">Bibliographer</div>
       <div style="margin-top:4px;">a SingLoud.org tool</div>
     </div>
   </nav>
@@ -524,7 +524,7 @@
       </div>
     </section>
 
-    <p class="footer-note">Tunebooks keeps everything on this device only — nothing is uploaded anywhere.</p>
+    <p class="footer-note">Bibliographer keeps everything on this device only — nothing is uploaded anywhere.</p>
     <footer class="suite-footer">
       <span id="versionFooter"></span>
       <span aria-hidden="true">·</span>
@@ -543,10 +543,10 @@
 (function(){
   "use strict";
 
-  var TUNEBOOK_EDITOR_VERSION = "0.63.0"; // 2026-09-08 Bulk Edit follow-up, on Kevin's own report: the Publisher and Place Published columns were dead weight in the grid (rarely filled, rarely relevant to running a sing), swapped out for Minutes Visibility so common/search-list status is set right alongside everything else. The colour fold-in from the last bump had quietly dropped two things the retired standalone tool used to give you: a "needs a colour" flag on any real Edition still showing the default grey/black badge, and a same-colour collision warning when two editions share an exact background+text pair - both are back, plus a live toolbar summary line counting each. The sticky badge cell was also showing the bare Work Code with the picked colours applied even when the row had no actual Edition selected - fixed so only a genuine Edition Code ever gets a coloured pill, and the cell always displays the real Edition Code rather than the Work Code once one exists. Added Level 1/2/3 screening checkboxes above the grid, matching the Library tab's own filter row exactly, so Bulk Edit can be scoped the same way. Along the way, fixed a real bug in the Level 3 editor's Incomplete Fields view: the trailing note/notes field on sources, bibliography, relationships, and publication-history entries was being treated as required, so a fully-cataloged entry with nothing worth annotating still showed up as incomplete - it's now correctly optional. // 2026-09-06c revised release-readiness review, priority 6: the Instructions link pointed at GitHub's raw source "blob" view of instructions.html rather than the rendered page; it now points at the Minutes repo's GitHub Pages URL. // v144 release review, findings 2 and 3: Substack Full used to read a raw Level 3 file directly and assume every song object was already a complete display record - false for SHM1991/SHM2025 specifically (title lives only in the Library for those two, producing a literal "undefined" heading on all 554/590 of their real songs) and for roughly half the real corpus's string-shaped attributions (silently dropped outright rather than shown). Now assembles Library title + Level 3 enrichment the same way the real Edit Tunebook preview already does, reuses the existing tfAttributionText() for both attribution shapes, and emits the six enrichment fields (meter, key, source, copyright, continuation, catalog code) the feature's own description already promised but never sent. Finding 3's manual-file identity check (tfCheckFileIdentity, rejecting a chosen JSON that doesn't match the selected Edition) was already in place on both the automatic and manual paths by the time of this bump - confirmed live rather than assumed. Then: the standalone Common Name / Book Colors tool folded in here, on Kevin's own call to put its fields in Bulk Edit rather than give them a tab. commonName was ALREADY editable in this grid, so what that 627-line page uniquely carried was badgeColor and badgeTextColor - plus a file picker and a surgical text-editing save path that existed only because it lived outside this app. Inside it the library is already loaded and already re-serialized through one validation-gated export, so the fold-in removed about 600 lines and added about 40. The care is in making a grid an acceptable place to choose a colour at all: each colour cell pairs a native swatch with the text value, and the row's own sticky Work Code cell renders the REAL badge, recoloured live while the picker is still open - you watch the badge rather than read a hex code. The text field stays authoritative because <input type="color"> accepts only 6-digit hex and silently normalizes anything else just by rendering, and three real editions carry "#000" shorthand; a grid must never edit the data it is merely displaying. Confirmed live: opening Bulk Edit reports zero unsaved changes, those three shorthand values export byte-identical, and a picked colour reaches the exported library file.
+  var TUNEBOOK_EDITOR_VERSION = "0.63.1"; // 2026-09-17 renamed Tunebooks to Bibliographer (display name only, per the suite-wide rebrand - repo moved to singlouddotorg/Bibliographer; internal identifiers, the storage key, and this variable name are unchanged). // 2026-09-08 Bulk Edit follow-up, on Kevin's own report: the Publisher and Place Published columns were dead weight in the grid (rarely filled, rarely relevant to running a sing), swapped out for Minutes Visibility so common/search-list status is set right alongside everything else. The colour fold-in from the last bump had quietly dropped two things the retired standalone tool used to give you: a "needs a colour" flag on any real Edition still showing the default grey/black badge, and a same-colour collision warning when two editions share an exact background+text pair - both are back, plus a live toolbar summary line counting each. The sticky badge cell was also showing the bare Work Code with the picked colours applied even when the row had no actual Edition selected - fixed so only a genuine Edition Code ever gets a coloured pill, and the cell always displays the real Edition Code rather than the Work Code once one exists. Added Level 1/2/3 screening checkboxes above the grid, matching the Library tab's own filter row exactly, so Bulk Edit can be scoped the same way. Along the way, fixed a real bug in the Level 3 editor's Incomplete Fields view: the trailing note/notes field on sources, bibliography, relationships, and publication-history entries was being treated as required, so a fully-cataloged entry with nothing worth annotating still showed up as incomplete - it's now correctly optional. // 2026-09-06c revised release-readiness review, priority 6: the Instructions link pointed at GitHub's raw source "blob" view of instructions.html rather than the rendered page; it now points at the Minutes repo's GitHub Pages URL. // v144 release review, findings 2 and 3: Substack Full used to read a raw Level 3 file directly and assume every song object was already a complete display record - false for SHM1991/SHM2025 specifically (title lives only in the Library for those two, producing a literal "undefined" heading on all 554/590 of their real songs) and for roughly half the real corpus's string-shaped attributions (silently dropped outright rather than shown). Now assembles Library title + Level 3 enrichment the same way the real Edit Tunebook preview already does, reuses the existing tfAttributionText() for both attribution shapes, and emits the six enrichment fields (meter, key, source, copyright, continuation, catalog code) the feature's own description already promised but never sent. Finding 3's manual-file identity check (tfCheckFileIdentity, rejecting a chosen JSON that doesn't match the selected Edition) was already in place on both the automatic and manual paths by the time of this bump - confirmed live rather than assumed. Then: the standalone Common Name / Book Colors tool folded in here, on Kevin's own call to put its fields in Bulk Edit rather than give them a tab. commonName was ALREADY editable in this grid, so what that 627-line page uniquely carried was badgeColor and badgeTextColor - plus a file picker and a surgical text-editing save path that existed only because it lived outside this app. Inside it the library is already loaded and already re-serialized through one validation-gated export, so the fold-in removed about 600 lines and added about 40. The care is in making a grid an acceptable place to choose a colour at all: each colour cell pairs a native swatch with the text value, and the row's own sticky Work Code cell renders the REAL badge, recoloured live while the picker is still open - you watch the badge rather than read a hex code. The text field stays authoritative because <input type="color"> accepts only 6-digit hex and silently normalizes anything else just by rendering, and three real editions carry "#000" shorthand; a grid must never edit the data it is merely displaying. Confirmed live: opening Bulk Edit reports zero unsaved changes, those three shorthand values export byte-identical, and a picked colour reaches the exported library file.
   (function(){
     var rv = document.getElementById("railVersion");
-    if(rv) rv.textContent = "Tunebooks " + TUNEBOOK_EDITOR_VERSION;
+    if(rv) rv.textContent = "Bibliographer " + TUNEBOOK_EDITOR_VERSION;
   })();
   var STORAGE_KEY = "tunebook-editor-state-v1";
   // v96 release-readiness review, finding 1B: matches Minutes' own established pattern
@@ -1252,7 +1252,7 @@
       // without which a maintainer reviewing an incoming contribution has no way to know
       // whether it came from a build that might behave differently than the current one.
       generatedBy: {
-        application: "Tunebooks",
+        application: "Bibliographer",
         version: TUNEBOOK_EDITOR_VERSION,
         librarySchemaVersion: libraryData.schemaVersion || "1"
       },
@@ -1303,7 +1303,7 @@
 
   // ---------------- version footer ----------------
   document.getElementById("versionFooter").textContent =
-    "Tunebooks · Version " + TUNEBOOK_EDITOR_VERSION +
+    "SingLoud.org Shape-Note Tunebook Bibliographer · Version " + TUNEBOOK_EDITOR_VERSION +
     (typeof EZ_MINUTES_TUNEBOOK_LIBRARY_VERSION !== "undefined" ? " · Tunebook Library " + EZ_MINUTES_TUNEBOOK_LIBRARY_VERSION : " · Tunebook Library MISSING");
 
   // ---------------- viewport guard (ported verbatim from compile.html) ----------------
@@ -1637,7 +1637,7 @@
           return saved.data;
         }
       }
-    }catch(e){ console.error("Tunebooks: could not read saved Library working copy.", e); }
+    }catch(e){ console.error("Bibliographer: could not read saved Library working copy.", e); }
     // No saved working copy at all - this IS the baseline, freshly bundled, genuinely synced.
     libraryBaselineFingerprint = bundledFingerprint;
     librarySyncState = "synced";
@@ -1663,7 +1663,7 @@
       renderLibraryDirtyBanner();
       return true;
     }catch(e){
-      console.error("Tunebooks: could not save Library working copy.", e);
+      console.error("Bibliographer: could not save Library working copy.", e);
       libraryPersistenceState = "failed";
       renderLibraryDirtyBanner();
       return false;
@@ -1830,7 +1830,7 @@
           var isNewer = fileSchemaVersion && !isNaN(fileSchemaNum) && fileSchemaNum > highestKnown;
           var shown = (fileSchemaVersion === undefined || fileSchemaVersion === null || fileSchemaVersion === "") ? "(none)" : JSON.stringify(fileSchemaVersion);
           setLibraryStatus(isNewer
-            ? "This Tunebook Library uses schema " + fileSchemaVersion + ", but this build understands schema " + highestKnown + ". Open it with a newer Tunebooks version \u2014 saving it here could lose data."
+            ? "This Tunebook Library uses schema " + fileSchemaVersion + ", but this build understands schema " + highestKnown + ". Open it with a newer Bibliographer version \u2014 saving it here could lose data."
             : "This file's schemaVersion (" + shown + ") isn\u2019t one this build recognizes (expected " + highestKnown + ") \u2014 refusing to import it, since there\u2019s no way to know what it actually contains.", true);
           return;
         }
@@ -2315,8 +2315,8 @@
       return "  " + JSON.stringify(k) + ": " + jsVal(libraryData[k]);
     });
     return [
-      "// Minutes / Tunebooks — Tunebook Library",
-      "// Re-exported from Tunebooks " + TUNEBOOK_EDITOR_VERSION + " on " + new Date().toISOString().slice(0,10) + ".",
+      "// Minutes / Bibliographer — Tunebook Library",
+      "// Re-exported from Bibliographer " + TUNEBOOK_EDITOR_VERSION + " on " + new Date().toISOString().slice(0,10) + ".",
       "",
       'const EZ_MINUTES_TUNEBOOK_LIBRARY_VERSION = ' + JSON.stringify(libraryData.schemaVersion || "1") + ";",
       "",

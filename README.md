@@ -1,4 +1,4 @@
-# Tunebooks
+# Bibliographer
 
 The curation app for the shape-note tunebook data the Sing Loud Suite runs on: every Work
 and Edition the suite knows, their page and title indexes, the Level 3 scholarly files, and
@@ -9,15 +9,16 @@ the data itself.
 
 ## Part of the Sing Loud Suite
 
-| App | What it does |
-|---|---|
-| [**Minutes**](https://github.com/singlouddotorg/minutes) | Log a singing as it happens, then turn that log into publishable minutes. |
-| [**Tunebooks**](https://github.com/singlouddotorg/tunebooks) | Curate the shared tunebook data — editions, page indexes, Level 3 scholarly files. |
-| [**Simple Minutes**](https://github.com/singlouddotorg/simple-minutes) | A phone-sized logger: page numbers only, no names. Its files import straight into Minutes. |
-| [**Simple Compile**](https://github.com/singlouddotorg/simple-compile) | A one-page, no-editing version of Minutes: open a CSV, get readable minutes back. |
-| [**Tunebook Registry**](https://github.com/singlouddotorg/tunebook-registry) | The published tunebook data the others read. |
+| App | What it does | Status |
+|---|---|---|
+| [**Minutes**](https://github.com/singlouddotorg/minutes) | Log a singing as it happens, then turn that log into publishable minutes. | Beta |
+| [**Bibliographer**](https://github.com/singlouddotorg/Bibliographer) | Curate the shared tunebook data — editions, page indexes, Level 3 scholarly files. | Beta |
+| [**Capture**](https://github.com/singlouddotorg/Simple-Minutes) | A phone-sized logger: page numbers only, no names. Its files import straight into Minutes. | 1.0 release |
+| [**Compile**](https://github.com/singlouddotorg/Simple-Compile) | A one-page, no-editing version of Minutes: open a CSV, get readable minutes back. | 1.0 release |
+| [**Singing Ledger**](https://github.com/singlouddotorg/Ledger) | Combines many finished singings into one master record and set of totals. | New (0.1) |
+| [**Tunebook Registry**](https://github.com/singlouddotorg/Tunebook-Registry) | The published tunebook data the others read. | 1.0 release |
 
-Tunebooks is the *editor* for data the Tunebook Registry *publishes*. The direction matters
+Bibliographer is the *editor* for data the Tunebook Registry *publishes*. The direction matters
 and is worth stating plainly, because it is the thing most likely to get muddled later:
 
 ```
@@ -33,7 +34,7 @@ No installation, no build step, no server. Download the files, keep them in one 
 open `index.html` in any modern browser. Everything runs locally in the page.
 
 | File | What it's for |
-|---|---|
+|---|---|---|
 | `index.html` | **The app.** Open this file directly. |
 | `tunebook-library.js` | The library being edited. **Required.** |
 | `tunebook-files/` | Level 3 scholarly data, one file per Level 3 edition. |
