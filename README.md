@@ -11,10 +11,10 @@ the data itself.
 
 | App | What it does | Status |
 |---|---|---|
-| [**Minutes**](https://github.com/singlouddotorg/minutes) | Log a singing as it happens, then turn that log into publishable minutes. | Beta |
+| [**Secretary**](https://github.com/singlouddotorg/Secretary) | Log a singing as it happens, then turn that log into publishable minutes. | Beta |
 | [**Bibliographer**](https://github.com/singlouddotorg/Bibliographer) | Curate the shared tunebook data — editions, page indexes, Level 3 scholarly files. | Beta |
-| [**Capture**](https://github.com/singlouddotorg/Simple-Minutes) | A phone-sized logger: page numbers only, no names. Its files import straight into Minutes. | 1.0 release |
-| [**Compile**](https://github.com/singlouddotorg/Simple-Compile) | A one-page, no-editing version of Minutes: open a CSV, get readable minutes back. | 1.0 release |
+| [**Capture**](https://github.com/singlouddotorg/Simple-Minutes) | A phone-sized logger: page numbers only, no names. Its files import straight into Secretary. | 1.0 release |
+| [**Compile**](https://github.com/singlouddotorg/Simple-Compile) | A one-page, no-editing version of Secretary: open a CSV, get readable minutes back. | 1.0 release |
 | [**Singing Ledger**](https://github.com/singlouddotorg/Ledger) | Combines many finished singings into one master record and set of totals. | New (0.1) |
 | [**Tunebook Registry**](https://github.com/singlouddotorg/Tunebook-Registry) | The published tunebook data the others read. | 1.0 release |
 
@@ -38,7 +38,7 @@ open `index.html` in any modern browser. Everything runs locally in the page.
 | `index.html` | **The app.** Open this file directly. |
 | `tunebook-library.js` | The library being edited. **Required.** |
 | `tunebook-files/` | Level 3 scholarly data, one file per Level 3 edition. |
-| `shared-utils.js` | Utilities shared with Minutes (CSV parsing, page sorting, title building). |
+| `shared-utils.js` | Utilities shared with Secretary (CSV parsing, page sorting, title building). |
 | `TUNEBOOK-CHANGELOG.md` | What has been added to the library, and when. |
 | `tunebook-page-extraction-guide.md` | What to look for when transcribing a tunebook page into structured data — useful on its own, even outside this suite. |
 

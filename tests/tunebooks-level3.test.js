@@ -1,7 +1,7 @@
-// Regression coverage for turning Tunebooks from a "Level 3 inspector" into a real Level 3
+// Regression coverage for turning Bibliographer from a "Level 3 inspector" into a real Level 3
 // editor (v61 review #2), and for the architectural fix a follow-up external review (v68)
 // found was still missing: R68-01, two independently editable copies of the same tunebook
-// data (Library vs. Level 3 file), which could leave Minutes silently using a stale value
+// data (Library vs. Level 3 file), which could leave Secretary silently using a stale value
 // after a real, successfully-saved Level 3 edit. Confirmed live before fixing - this is not
 // a hypothetical concern. The fix: shared fields (identity, publication, page titles) are
 // now owned by libraryData alone: Level 3 editor writes to the same object the Library's own
@@ -69,7 +69,7 @@ describe('Level 3 Tunebook editor (v61 review #2)', () => {
 });
 
 describe('Library / Level 3 single authority (v68 review R68-01, R68-02, R68-03)', () => {
-  test('editing Common Name and a page title through the Level 3 editor genuinely updates the Library, the same record Minutes reads - the review\u2019s own required test', async () => {
+  test('editing Common Name and a page title through the Level 3 editor genuinely updates the Library, the same record Secretary reads - the review\u2019s own required test', async () => {
     const { doc, win, originalText } = await openScH1855Editor();
     const original = JSON.parse(originalText);
     const firstPage = Object.keys(original.songs).sort((a, b) => parseInt(a, 10) - parseInt(b, 10))[0];
@@ -102,7 +102,7 @@ describe('Library / Level 3 single authority (v68 review R68-01, R68-02, R68-03)
     await wait(200);
     const browseRow = [...doc.querySelectorAll('.lib-edition-row')].find((r) => r.textContent.includes('ScH1855'));
     assert.ok(browseRow.textContent.includes('EDITED VIA LEVEL 3 EDITOR'),
-      'Common Name must survive a full re-open, proving it lives on the real Library record - the same libraryData object Minutes\u2019 own projection is built from, not a separate copy');
+      'Common Name must survive a full re-open, proving it lives on the real Library record - the same libraryData object Secretary\u2019s own projection is built from, not a separate copy');
     const editBtn2 = browseRow.querySelector('.lib-edit-edition-btn');
     editBtn2.click();
     await wait(500);
@@ -371,12 +371,12 @@ describe('Level 3 save validation gate (v68 review R68-04)', () => {
 describe('Full Title is genuinely derived from Title Proper + Subtitle (v68 review R68-13)', () => {
   // This test used to load minutes.html as well, asserting that BOTH apps' full titles
   // include the subtitle. That was a genuine cross-app contract - and the one test in this
-  // file that stopped Tunebooks from being able to run its own suite once the two apps
+  // file that stopped Bibliographer from being able to run its own suite once the two apps
   // stopped sharing a repo. The contract itself is really about buildFullTitle() in
   // shared-utils.js, which both sides call, so it is now asserted from each side
-  // separately: the Minutes projection in minutes-full-title.test.js, the Tunebooks export
+  // separately: the Secretary projection in minutes-full-title.test.js, the Bibliographer export
   // here. Neither repo has to carry the other's application file to check its own half.
-  test('the Tunebooks contribution export produces a genuinely full title, not just Title Proper', async () => {
+  test('the Bibliographer contribution export produces a genuinely full title, not just Title Proper', async () => {
     const dom2 = loadPage('tunebooks.html');
     const win2 = dom2.window; win2.confirm = () => true;
     await wait(700);
@@ -399,7 +399,7 @@ describe('Full Title is genuinely derived from Title Proper + Subtitle (v68 revi
     await wait(200);
     const payload = JSON.parse(capturedText);
     assert.match(payload.book.fullTitle, /New Edition, Thoroughly Revised/,
-      'The Tunebooks contribution export must also produce a genuinely full title, not just titleProper');
+      'The Bibliographer contribution export must also produce a genuinely full title, not just titleProper');
   });
 });
 
@@ -1377,7 +1377,7 @@ describe('Level vs. completeness are separate concepts, with a real core/full ti
   });
 });
 
-describe('Library dirty-tracking makes the Tunebooks/Minutes handoff gap visible (v76 follow-up review NEW-03; superseded by V79-03, see tunebooks-library-sync.test.js)', () => {
+describe('Library dirty-tracking makes the Bibliographer/Secretary handoff gap visible (v76 follow-up review NEW-03; superseded by V79-03, see tunebooks-library-sync.test.js)', () => {
   test('a real edit marks the Library dirty and shows a banner; the state survives a reload', async () => {
     const store = {};
     const sharedLocalStorage = {

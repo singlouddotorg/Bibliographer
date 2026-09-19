@@ -92,7 +92,7 @@ These usually come from a title page, copyright page, or front matter — not fr
 
 `historicalNote`, `book.notes`, and everything under `scholarlyRecord` (`historicalNotes`,
 `editorialHistory`, `publicationHistory[].note`, and the `notes` on any bibliography or
-source entry) are shown directly to anyone browsing the Tunebook Registry or Tunebooks. They
+source entry) are shown directly to anyone browsing the Tunebook Registry or Bibliographer. They
 are not a place to record how this Library came to know something.
 
 **Write them as if for a reader who has never seen any prior version of this file and has no

@@ -1640,22 +1640,14 @@
         "credit": "William Walker"
       }
     },
-    "26b": {
-      "title": "Carnsville",
+    "26": {
+      "title": "The Christian, or Carnsville",
       "firstLine": "I love my blessed Saviour",
       "meter": "7.7.7.6 D",
       "musicAttribution": {
         "credit": "E. J. King"
       },
-      "historicalNote": "CCEL indexes this as page 26; Hymnary uses 26b to distinguish the second tune on a shared page."
-    },
-    "26t": {
-      "title": "The Christian",
-      "firstLine": "I love my blessed Saviour",
-      "meter": "7.7.7.6 D",
-      "musicAttribution": {
-        "credit": "E. J. King"
-      }
+      "historicalNote": "Kevin's own check against the book itself, 2026-09-18: one tune, one set of lyrics, printed once on page 26 under two names — not a split page. CCEL indexed it as page 26; Hymnary's 26b mistook it for a second, distinct tune sharing the page. This Library previously followed Hymnary's split into 26t/26b in error."
     },
     "276b": {
       "title": "China (Swan)",
@@ -1856,21 +1848,14 @@
         "credit": "Read"
       }
     },
-    "81t": {
-      "title": "Farewell [1]",
+    "81": {
+      "title": "Farewell",
       "firstLine": "Come, Christians, be valiant, our Jesus is near us",
       "meter": "12.11",
       "musicAttribution": {
         "credit": "More"
-      }
-    },
-    "81b": {
-      "title": "Farewell [2]",
-      "firstLine": "Come, all ye young people of every relation,",
-      "meter": "12.11",
-      "musicAttribution": {
-        "credit": "More"
-      }
+      },
+      "historicalNote": "Kevin's own check against the book itself, 2026-09-18: one song, not a split page — the tune \"More\" carries two full sets of words printed together on page 81, the hymn's own eight-verse text and a second poem headed \"M. C. H. Davis's Experience.\" This Library previously miscataloged it as a split 81t/81b."
     },
     "92t": {
       "title": "Fiducia",

@@ -1,4 +1,4 @@
-// Tunebooks' own responsive-layout check.
+// Bibliographer's own responsive-layout check.
 //
 // This used to be half of t4, which swept both applications at once - fine in a single
 // working tree, impossible in a repo that holds only one of them. Each app now checks its

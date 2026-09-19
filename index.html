@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Bibliographer</title>
 <!-- Tunebook full titles, codes, and page indexes live in tunebook-library.js, shared with
-     the Minutes app — see TUNEBOOK-CHANGELOG.md for what's included and when it was added.
+     the Secretary app — see TUNEBOOK-CHANGELOG.md for what's included and when it was added.
      Tunebooks loads the same file and treats it as the *starting point* for an
      editable working copy. -->
 <script src="tunebook-library.js"></script>
@@ -67,7 +67,7 @@
   }
   .unsupported-box h1{ font-family:var(--serif); color:var(--oxblood-dark); margin:0 0 12px; }
   .unsupported-box p{ font-size:13.5px; color:var(--ink-soft); line-height:1.5; margin:0 0 10px; }
-  /* ---- Stage rail, matching the Minutes app so the two feel like one suite ---- */
+  /* ---- Stage rail, matching the Secretary app so the two feel like one suite ---- */
   .tabs{
     width:210px; flex-shrink:0; background:var(--rail); color:#f2ece2;
     display:flex; flex-direction:column; padding:18px 0; gap:0;
@@ -403,7 +403,7 @@
 
       <div style="margin-top:8px;padding-top:8px;">
         <h3 style="font-family:var(--serif);font-size:16px;margin:0 0 8px;">Contribution Export</h3>
-        <p class="panel-desc">Package one book from your working copy as a contribution file to send the maintainer for review. This does not generate or replace <code>tunebook-library.js</code> (use Save tunebook-library.js above for that), and exporting doesn't make a book available in Minutes — accepted contributions may appear in a future Tunebook Library release.</p>
+        <p class="panel-desc">Package one book from your working copy as a contribution file to send the maintainer for review. This does not generate or replace <code>tunebook-library.js</code> (use Save tunebook-library.js above for that), and exporting doesn't make a book available in Secretary — accepted contributions may appear in a future Tunebook Library release.</p>
 
       <div class="field">
         <label for="exportBookSelect">Tunebook to export</label>
@@ -435,7 +435,7 @@
 
       <div id="postExportInstructions" style="display:none;background:rgba(63,91,68,.08);border:1px solid var(--sage,#3F5B44);border-radius:8px;padding:14px 18px;font-family:var(--sans);font-size:13px;line-height:1.6;color:var(--ink);">
         <strong style="display:block;margin-bottom:6px;color:var(--sage,#3F5B44);font-family:var(--serif);">Contribution downloaded</strong>
-        Email this file to the Minutes maintainer (Kevin, SingLoud.org — <a href="mailto:sacredharpbiblio@gmail.com">sacredharpbiblio@gmail.com</a>) for review. Exporting doesn't change anything in Minutes or this browser's own working copy — accepted contributions may appear in a future Tunebook Library release, at which point everyone gets it via an updated <code>tunebook-library.js</code>.
+        Email this file to the Secretary maintainer (Kevin, SingLoud.org — <a href="mailto:sacredharpbiblio@gmail.com">sacredharpbiblio@gmail.com</a>) for review. Exporting doesn't change anything in Secretary or this browser's own working copy — accepted contributions may appear in a future Tunebook Library release, at which point everyone gets it via an updated <code>tunebook-library.js</code>.
       </div>
       </div>
 
@@ -531,7 +531,7 @@
       <!-- 2026-09-06c revised release-readiness review, priority 6: this used to point at
            GitHub's raw source "blob" view of instructions.html - readable, but landing on
            syntax-highlighted HTML source rather than the actual rendered page anyone
-           clicking "Instructions" is expecting. Points at the Minutes repo's GitHub Pages
+           clicking "Instructions" is expecting. Points at the Secretary repo's GitHub Pages
            URL instead, which serves the same file rendered as a real page. -->
       <a href="https://singlouddotorg.github.io/minutes/instructions.html" target="_blank" rel="noopener">Instructions</a>
     </footer>
@@ -641,7 +641,7 @@
   // ---------------- Export ----------------
   // Packages one book from the working copy as a standalone contribution file for the
   // maintainer to review by hand - this never writes tunebook-library.js itself, and never
-  // touches Minutes. A book only ever becomes part of the suite for everyone
+  // touches Secretary. A book only ever becomes part of the suite for everyone
   // once a maintainer folds an accepted contribution into a future bundled release.
 
   // A real filename-safety guard, not just a comment claiming one exists - genuinely
@@ -1134,7 +1134,7 @@
     var html = "";
     html += '<div class="field"><label>Contribution status</label><p style="font-family:var(--sans);font-size:13.5px;color:var(--ink);">' +
       (summary.isNew ? "New tunebook" : "Revision to an existing bundled edition") + " \u2014 Edition Code <strong>" + esc(editionCode) + "</strong>" +
-      (baseline ? ", compared directly against what's currently bundled in this copy of Minutes" : "") + "</p></div>";
+      (baseline ? ", compared directly against what's currently bundled in this copy of Secretary" : "") + "</p></div>";
 
     if(isLevel3){
       html += '<div class="field"><label>Level 3 scholarly record</label>';
@@ -1231,7 +1231,7 @@
         publicationStatus: assembled.publicationStatus,
         internalNote: assembled.internalNote
       });
-      // fullTitle isn't part of the Level 3 book object at all (it's derived, Minutes-side
+      // fullTitle isn't part of the Level 3 book object at all (it's derived, Secretary-side
       // only) - keep the one already built from the Library rather than let the merge
       // silently drop it since assembled.book has no such key to overwrite it with.
       bookForExport.fullTitle = EZMinutesShared.buildFullTitle(assembled.book.titleProper, assembled.book.subtitle);
@@ -1298,7 +1298,7 @@
   // ---------------- missing-dependency banner ----------------
   if(typeof EZ_MINUTES_TUNEBOOK_LIBRARY === "undefined" || !EZ_MINUTES_TUNEBOOK_LIBRARY.works){
     document.getElementById("missingDepBanner").style.display = "block";
-    console.error("Minutes: tunebook-library.js failed to load — nothing to browse or edit until it is restored next to this file.");
+    console.error("Secretary: tunebook-library.js failed to load — nothing to browse or edit until it is restored next to this file.");
   }
 
   // ---------------- version footer ----------------
@@ -1440,7 +1440,7 @@
 
   // V79-03: a single dirty-bit plus a single "fingerprint at last save" could produce both
   // a false-clean state (export a real edit, immediately clear dirty, forget to actually
-  // replace the file - Minutes stays on the old Library with no warning) and a false
+  // replace the file - Secretary stays on the old Library with no warning) and a false
   // divergence warning (correctly replace the file, reload, and get told the bundled
   // Library "changed since this working copy was saved" - when the only thing that
   // changed is the user's own edit landing exactly where it should). Both were confirmed
@@ -1541,7 +1541,7 @@
 
     if(librarySyncState === "local-not-installed"){
       banner.style.cssText = "background:#8a6a2e;color:#fff;padding:10px 14px;border-radius:8px;font-family:var(--sans);font-size:13px;margin:0 0 14px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;";
-      banner.innerHTML = '<span><strong>This Tunebook Library has unsaved changes.</strong> Minutes will keep reading the older tunebook-library.js on disk until you save this one and replace it.</span>' +
+      banner.innerHTML = '<span><strong>This Tunebook Library has unsaved changes.</strong> Secretary will keep reading the older tunebook-library.js on disk until you save this one and replace it.</span>' +
         '<button type="button" id="libraryDirtyBannerExportBtn" class="small" style="background:#fff;color:#8a6a2e;border:none;">Save tunebook-library.js now</button>';
     } else {
       // true-divergence: the file on disk changed to something that's neither where this
@@ -1852,7 +1852,7 @@
         var importSaveOk = saveLibraryWorkingCopy();
         var importStatusMsg = "Loaded " + Object.keys(libraryData.works).length + " Work(s) and " + Object.keys(libraryData.editions).length + " Edition(s) from " + file.name + ".";
         importStatusMsg += importSaveOk
-          ? " Saved as this browser's working copy \u2014 Minutes will keep using the current tunebook-library.js on disk until you save and replace that file."
+          ? " Saved as this browser's working copy \u2014 Secretary will keep using the current tunebook-library.js on disk until you save and replace that file."
           : " Could not save it to this browser \u2014 it will be lost if you leave this page.";
         setLibraryStatus(importStatusMsg, !importSaveOk);
       } catch(err){
@@ -2315,7 +2315,7 @@
       return "  " + JSON.stringify(k) + ": " + jsVal(libraryData[k]);
     });
     return [
-      "// Minutes / Bibliographer — Tunebook Library",
+      "// Secretary / Bibliographer — Tunebook Library",
       "// Re-exported from Bibliographer " + TUNEBOOK_EDITOR_VERSION + " on " + new Date().toISOString().slice(0,10) + ".",
       "",
       'const EZ_MINUTES_TUNEBOOK_LIBRARY_VERSION = ' + JSON.stringify(libraryData.schemaVersion || "1") + ";",
@@ -2342,7 +2342,7 @@
   document.getElementById("exportLibraryBtn").addEventListener("click", function(){
     // V81 review, finding 3's own canonical-export gate: an invalid working copy (a
     // duplicate Work Code, say) could previously be serialized straight into the file
-    // Minutes itself will later load, with only a separate, optional "Run Validation"
+    // Secretary itself will later load, with only a separate, optional "Run Validation"
     // catching it - and only after the fact. Full Library validation now runs at the
     // moment of export, not left to the UI's disabled state alone (which nothing here
     // currently ties to this button anyway), and blocks the download outright on any
@@ -2826,7 +2826,7 @@
 
   function tfResolveOwnerObject(owner){
     // The one real fix R68-01 requires: a field is either genuinely owned by the
-    // Library (identity, publication metadata, page titles - everything Minutes itself
+    // Library (identity, publication metadata, page titles - everything Secretary itself
     // reads) or genuinely owned by the Level 3 file (scholarly enrichment nothing else
     // consumes). Each field/array now says which, and every read or write for it goes
     // through the SAME real object either way - never a separate copy that can drift.
@@ -3108,7 +3108,7 @@
   var tfExpandedSongs = {}; // module-level, keyed by page - persists across re-renders
 
   function renderTfContentsSection(body){
-    // Title is Library-owned (Minutes reads it from there); every enriched field stays
+    // Title is Library-owned (Secretary reads it from there); every enriched field stays
     // Level-3-owned. Pages are the union of both objects' own keys, not assumed identical -
     // real data currently matches exactly (P68-07), but nothing here should silently
     // assume that stays true forever.
@@ -3576,7 +3576,7 @@
     // same way the line above already does for the Level 3 side.
     if(lib && lib.editionId) currentLibraryEditionOriginal = JSON.parse(JSON.stringify(lib));
     statusEl.style.color = "var(--sage,#4a6d4a)";
-    var msg = (justLinked ? "This edition is now Level 3. " : "") + "Downloaded \u2014 replace the file in tunebook-files/ with this one to keep these edits. The Library working copy was also saved, but Minutes won\u2019t see any shared-field changes (title, page titles, and the like) until tunebook-library.js is exported and replaced too.";
+    var msg = (justLinked ? "This edition is now Level 3. " : "") + "Downloaded \u2014 replace the file in tunebook-files/ with this one to keep these edits. The Library working copy was also saved, but Secretary won\u2019t see any shared-field changes (title, page titles, and the like) until tunebook-library.js is exported and replaced too.";
     if(validation.warnings.length) msg += " Worth a look: " + validation.warnings.join(" ");
     statusEl.textContent = msg;
   });
@@ -3922,7 +3922,7 @@
   // One editable table covering every book still at Level 1 - a bare Work with no
   // Edition at all, or a real Level 1 Edition with no page index yet - scoped to the
   // bibliographic fields that have nothing to do with page data (Title Proper, Subtitle,
-  // Common Name, Compiler, Publication Year, Shape System, SHMHA Code), plus Minutes
+  // Common Name, Compiler, Publication Year, Shape System, SHMHA Code), plus Secretary
   // Visibility. Publisher and Place Published were removed from this grid on Kevin's own
   // direction - real Level 1 fields still, just not ones worth a column here - and
   // Minutes Visibility was added on the reverse direction: it used to be excluded on the

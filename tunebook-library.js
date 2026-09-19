@@ -1,4 +1,4 @@
-// Minutes / Tunebooks — Tunebook Library
+// Secretary / Bibliographer — Tunebook Library
 // Actively maintained directly in this file - not a periodic re-export from elsewhere.
 
 const EZ_MINUTES_TUNEBOOK_LIBRARY_VERSION = "1";
@@ -9617,8 +9617,7 @@ const EZ_MINUTES_TUNEBOOK_LIBRARY = {
         "24t": {"title":"Prospect of Heaven","firstLine":"The faithless world promiscuous flows","meter":"8.7.8.8.7","musicAttribution":{"credit":"A. Grambling"}},
         "25b": {"title":"Indian's Farewell","firstLine":"When shall we all meet again","meter":"7.7.7.7.7.7","musicAttribution":{"credit":"Wm. Walker"}},
         "25t": {"title":"Crucifixion","firstLine":"Saw ye my Saviour","meter":"7.7.7.7.9"},
-        "26b": {"title":"Carnsville","firstLine":"I love my blessed Saviour","meter":"7.7.7.6 D","musicAttribution":{"credit":"E. J. King"},"historicalNote":"CCEL indexes this as page 26; Hymnary uses 26b to distinguish the second tune on a shared page."},
-        "26t": {"title":"The Christian","firstLine":"I love my blessed Saviour","meter":"7.7.7.6 D","musicAttribution":{"credit":"E. J. King"}},
+        "26": {"title":"The Christian, or Carnsville","firstLine":"I love my blessed Saviour","meter":"7.7.7.6 D","musicAttribution":{"credit":"E. J. King"},"historicalNote":"Kevin's own check against the book itself, 2026-09-18: one tune, one set of lyrics, printed once on page 26 under two names — not a split page. CCEL indexed it as page 26; Hymnary's 26b mistook it for a second, distinct tune sharing the page. This Library previously followed Hymnary's split into 26t/26b in error."},
         "27b": {"title":"Ninety-Fifth","firstLine":"When I can read my title clear","meter":"8.6.8.6","musicAttribution":{"credit":"Colton"}},
         "27t": {"title":"America (Whitmore)","firstLine":"My soul, repeat his praise","meter":"6.6.8.6","musicAttribution":{"credit":"Whitmore"},"historicalNote":"CCEL heading: \"AMERICA\"; Hymnary title: \"AMERICA (Whitmore)\". CCEL prints composer as “Wetmore”; Hymnary gives “Whitmore.”"},
         "31b": {"title":"Suffield","firstLine":"Teach me the measure of my days","meter":"8.6.8.6"},
@@ -9637,8 +9636,7 @@ const EZ_MINUTES_TUNEBOOK_LIBRARY = {
         "53t": {"title":"Mutual Love","firstLine":"O when shall I see Jesus","meter":"7.6","musicAttribution":{"credit":"William Walker"}},
         "72b": {"title":"Invocation [1]","firstLine":"Rise, my soul, and stretch thy wings","meter":"7.6.7.6.7.7.7.6","historicalNote":"CCEL indexes this as page 72; Hymnary uses 72b to distinguish the second tune on a shared page."},
         "72t": {"title":"Georgia","firstLine":"Return, O God of love, return","meter":"8.6.8.6"},
-        "81b": {"title":"Farewell [2]","firstLine":"Come, all ye young people of every relation,","meter":"12.11","musicAttribution":{"credit":"More"}},
-        "81t": {"title":"Farewell [1]","firstLine":"Come, Christians, be valiant, our Jesus is near us","meter":"12.11","musicAttribution":{"credit":"More"}},
+        "81": {"title":"Farewell","firstLine":"Come, Christians, be valiant, our Jesus is near us","meter":"12.11","musicAttribution":{"credit":"More"},"historicalNote":"Kevin's own check against the book itself, 2026-09-18: one song, not a split page — the tune \"More\" carries two full sets of words printed together on page 81, the hymn's own eight-verse text and a second poem headed \"M. C. H. Davis's Experience.\" This Library previously miscataloged it as a split 81t/81b."},
         "84b": {"title":"Day of Judgment","firstLine":"The day of the Lord--the day of salvation","meter":"11.11.6.6.7.6"},
         "84t": {"title":"Salvation","firstLine":"Come, humble sinner, in whose breast","meter":"8.6.8.6","musicAttribution":{"credit":"Boyd"}},
         "89b": {"title":"Happy Land","firstLine":"There is a happy land","meter":"6.4.6.4.6.7.6.4","musicAttribution":{"credit":"Leonard P. Breedlove"}},
