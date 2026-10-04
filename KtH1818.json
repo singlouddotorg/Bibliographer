@@ -1,0 +1,907 @@
+{
+  "editionId": "e_KtH1818",
+  "workId": "w_KtH",
+  "editionCode": "KtH1818",
+  "editionIdentifierYear": "1818",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "The Kentucky Harmonist",
+    "publicationYear": "1818"
+  },
+  "states": [],
+  "scholarlyRecord": null,
+  "sources": [],
+  "relationships": [],
+  "publicationStatus": null,
+  "internalNote": "Built from Kevin's own per-song extraction CSV (kentucky_harmonist_1818_tunes.csv), 138 songs, pages 18-125 (pages 1-17 are this book's own front matter - rules and principles of composition, per the title page - with no song data to extract). First lines added in a follow-up upload (kentucky_harmonist_1818_tunes__1_.csv) - the original extraction didn't include them; this pass added firstLine to all 138 songs with no other field changes, confirmed by a full field-by-field diff before applying. No index cross-check has been done against this book's own printed index yet, unlike the multi-round verification done for some other Level 3 files this session - this remains a first-pass build from the extraction CSV alone.",
+  "songs": {
+    "18t": {
+      "title": "Amanda",
+      "meter": "L.M.",
+      "firstLine": "Death like an overflowing stream",
+      "musicAttribution": {
+        "credit": "Morgan"
+      }
+    },
+    "18b": {
+      "title": "Allsaints",
+      "meter": "L.M.",
+      "firstLine": "This life’s a dream, an empty show"
+    },
+    "19t": {
+      "title": "Amherst",
+      "meter": "P.M.",
+      "firstLine": "Ye boundless realms of joy, exalt your Maker’s name",
+      "textAttribution": {
+        "credit": "Tate & Brady"
+      },
+      "musicAttribution": {
+        "credit": "W. Billings"
+      }
+    },
+    "19b": {
+      "title": "Aylesbury",
+      "meter": "S.M.",
+      "firstLine": "The Lord my shepherd is, I shall be well supply’d",
+      "musicAttribution": {
+        "credit": "Cheetham"
+      }
+    },
+    "20": {
+      "title": "Archdale",
+      "meter": "C.M.",
+      "firstLine": "When God reveal’d his gracious name"
+    },
+    "21t": {
+      "title": "Abridge",
+      "meter": "C.M.",
+      "firstLine": "When all thy mercies, O my God"
+    },
+    "21b": {
+      "title": "Brookfield",
+      "meter": "L.M.",
+      "firstLine": "Show pity, Lord, O Lord forgive"
+    },
+    "22t": {
+      "title": "Bunker Hill",
+      "meter": "11 & 5",
+      "firstLine": "Why should vain mortals tremble at the sight of death and destruction",
+      "textAttribution": {
+        "credit": "N. Niles"
+      }
+    },
+    "22b": {
+      "title": "Buckingham",
+      "meter": "6 M.",
+      "firstLine": "Help, Lord, for men of virtue fail",
+      "musicAttribution": {
+        "credit": "Wm. Dale"
+      }
+    },
+    "23t": {
+      "title": "Bourbon",
+      "meter": "L.M.",
+      "firstLine": "’Twas on that dark, that doleful night"
+    },
+    "23b": {
+      "title": "Cambridge",
+      "meter": "C.M.",
+      "firstLine": "Jesus, I love thy glorious name",
+      "musicAttribution": {
+        "credit": "Dr. Randall"
+      }
+    },
+    "24t": {
+      "title": "Cookham",
+      "meter": "4s",
+      "firstLine": "Praise to God, immortal praise"
+    },
+    "24b": {
+      "title": "Canterbury",
+      "firstLine": "Why do we mourn departing friends",
+      "musicAttribution": {
+        "credit": "Blanks"
+      }
+    },
+    "25t": {
+      "title": "Carmel",
+      "meter": "L.M.",
+      "firstLine": "The Lord, how wond’rous are his ways"
+    },
+    "25b": {
+      "title": "Conquering Soldier",
+      "meter": "P.M.",
+      "firstLine": "O when shall I see Jesus"
+    },
+    "26t": {
+      "title": "Chester New",
+      "meter": "L.M.",
+      "firstLine": "He dies, the friend of sinners dies"
+    },
+    "26b": {
+      "title": "China",
+      "meter": "C.M.",
+      "firstLine": "Why do we mourn departing friends"
+    },
+    "27t": {
+      "title": "Castle Street",
+      "meter": "C.M.",
+      "firstLine": "Sweet is the work, my God, my King",
+      "musicAttribution": {
+        "credit": "Madan"
+      }
+    },
+    "27b": {
+      "title": "Consolation",
+      "meter": "C.M.",
+      "firstLine": "Once more, my soul, the rising day",
+      "musicAttribution": {
+        "credit": "Chapin"
+      }
+    },
+    "28t": {
+      "title": "Communion",
+      "meter": "C.M.",
+      "firstLine": "Jesus invites his saints",
+      "musicAttribution": {
+        "credit": "Weal"
+      }
+    },
+    "28b": {
+      "title": "Coleshill",
+      "meter": "C.M.",
+      "firstLine": "Lord, what is man, poor feeble man",
+      "musicAttribution": {
+        "credit": "Knby"
+      }
+    },
+    "29t": {
+      "title": "Christmas Hymn",
+      "firstLine": "A virgin unspotted, the prophets foretold"
+    },
+    "29b": {
+      "title": "Dalston",
+      "meter": "P.M. 6s, 8s",
+      "firstLine": "The Lord Jehovah reigns",
+      "musicAttribution": {
+        "credit": "Williams"
+      }
+    },
+    "30t": {
+      "title": "Devises",
+      "meter": "C.M.",
+      "firstLine": "With my whole heart I’ll raise my song",
+      "musicAttribution": {
+        "credit": "J. Tucker"
+      }
+    },
+    "30b": {
+      "title": "Dunstan",
+      "meter": "L.M.",
+      "firstLine": "Jesus shall reign where’er the sun"
+    },
+    "31t": {
+      "title": "Dumah",
+      "meter": "C.M.",
+      "firstLine": "My drowsy pow’rs, why sleep ye so"
+    },
+    "31b": {
+      "title": "Damascus",
+      "meter": "C.M.",
+      "firstLine": "My God, the spring of all my joys"
+    },
+    "32": {
+      "title": "Enfield",
+      "meter": "C.M.",
+      "firstLine": "Before the rosy dawn of day",
+      "musicAttribution": {
+        "credit": "Chandler"
+      }
+    },
+    "33t": {
+      "title": "Fairfield",
+      "meter": "C.M.",
+      "firstLine": "With rev’rence let the saints appear",
+      "musicAttribution": {
+        "credit": "Hitchcock"
+      }
+    },
+    "33b": {
+      "title": "Few Happy Matches",
+      "meter": "P.M. or 8, 6",
+      "firstLine": "Say, mighty love, and teach my song"
+    },
+    "34t": {
+      "title": "Fiducia",
+      "meter": "C.M.",
+      "firstLine": "I’m not asham’d to own my Lord",
+      "musicAttribution": {
+        "credit": "J. Robertson"
+      }
+    },
+    "34b": {
+      "title": "Funeral Thought",
+      "meter": "C.M.",
+      "firstLine": "Hark! from the tombs a doleful sound",
+      "musicAttribution": {
+        "credit": "J. Smith"
+      }
+    },
+    "35t": {
+      "title": "Georgia",
+      "meter": "C.M.",
+      "firstLine": "How vain are all things here below"
+    },
+    "35b": {
+      "title": "Greenfields",
+      "meter": "P.M.",
+      "firstLine": "How tedious and tasteless the hours"
+    },
+    "36t": {
+      "title": "Hotham",
+      "firstLine": "Jesus, lover of my soul"
+    },
+    "36b": {
+      "title": "Heavenly Spark",
+      "meter": "P.M.",
+      "firstLine": "Come on, my partners in distress"
+    },
+    "37t": {
+      "title": "Hallelujah",
+      "meter": "5 and 7",
+      "firstLine": "Come, thou fount of ev’ry blessing"
+    },
+    "37b": {
+      "title": "Hermit",
+      "firstLine": "’Tis night, and the landscape is lovely no more"
+    },
+    "38t": {
+      "title": "Irish",
+      "meter": "C.M.",
+      "firstLine": "Blest morning, whose young dawning rays",
+      "musicAttribution": {
+        "credit": "Williams"
+      }
+    },
+    "38b": {
+      "title": "Invitation",
+      "meter": "L.M.",
+      "firstLine": "Come hither, all ye weary souls"
+    },
+    "39t": {
+      "title": "Kingsbridge",
+      "meter": "L.M.",
+      "firstLine": "Lord, thou hast seen and search’d me through"
+    },
+    "39b": {
+      "title": "Kingswood",
+      "meter": "7s",
+      "firstLine": "Children of the heav’nly King"
+    },
+    "40": {
+      "title": "Lamentation",
+      "meter": "P.M.",
+      "firstLine": "The Son of man they did betray"
+    },
+    "41t": {
+      "title": "Liberty Hall",
+      "meter": "C.M.",
+      "firstLine": "Alas! and did my Saviour bleed",
+      "musicAttribution": {
+        "credit": "Chapin"
+      }
+    },
+    "41b": {
+      "title": "Litchfield",
+      "meter": "L.M.",
+      "firstLine": "How soft the words my Saviour speaks"
+    },
+    "42t": {
+      "title": "Macedonia",
+      "meter": "C.M.",
+      "firstLine": "Not from the dust afflictions grow"
+    },
+    "42b": {
+      "title": "Mear",
+      "meter": "C.M.",
+      "firstLine": "Sing to the Lord, ye distant lands"
+    },
+    "43": {
+      "title": "Mountain",
+      "meter": "C.M.",
+      "firstLine": "When some kind shepherd from his fold"
+    },
+    "44t": {
+      "title": "Morality",
+      "firstLine": "While beauty and youth are in their full prime"
+    },
+    "44b": {
+      "title": "Monmouth",
+      "meter": "8, 7, 8, 7",
+      "firstLine": "Come, thou fount of ev’ry blessing",
+      "musicAttribution": {
+        "credit": "Chapin"
+      }
+    },
+    "45t": {
+      "title": "Mount Vernon",
+      "meter": "C.M.",
+      "firstLine": "All hail the pow’r of Jesus’ name",
+      "musicAttribution": {
+        "credit": "Johnson"
+      }
+    },
+    "45b": {
+      "title": "New Canaan",
+      "meter": "C.M.",
+      "firstLine": "On Jordan’s stormy banks I stand"
+    },
+    "46t": {
+      "title": "Ninety-Third",
+      "meter": "S.M.",
+      "firstLine": "Come all harmonious tongues",
+      "musicAttribution": {
+        "credit": "L. Chapin"
+      }
+    },
+    "46b": {
+      "title": "New Salem",
+      "meter": "P.M.",
+      "firstLine": "O thou in whose presence my soul takes delight"
+    },
+    "47t": {
+      "title": "Old Hundred",
+      "meter": "L.M.",
+      "firstLine": "With one consent let all the earth",
+      "musicAttribution": {
+        "credit": "Martin Luther or Dr. Dowland"
+      }
+    },
+    "47b": {
+      "title": "Paris",
+      "meter": "L.M.",
+      "firstLine": "This spacious earth is all the Lord’s",
+      "musicAttribution": {
+        "credit": "Billings"
+      }
+    },
+    "48t": {
+      "title": "Peckham",
+      "meter": "S.M.",
+      "firstLine": "Behold the morning sun",
+      "musicAttribution": {
+        "credit": "J. Smith"
+      }
+    },
+    "48b": {
+      "title": "Portugal",
+      "meter": "L.M.",
+      "firstLine": "Lord, when thou didst ascend on high"
+    },
+    "49": {
+      "title": "Pleyel’s Hymn Second",
+      "meter": "L.M.",
+      "firstLine": "While thee I seek, protecting pow’r"
+    },
+    "50t": {
+      "title": "Poland",
+      "meter": "C.M.",
+      "firstLine": "God of my life, look gently down",
+      "musicAttribution": {
+        "credit": "Swan"
+      }
+    },
+    "50b": {
+      "title": "Quercy",
+      "meter": "L.M.",
+      "firstLine": "With all my pow’rs of heart and tongue"
+    },
+    "51t": {
+      "title": "Rochester",
+      "meter": "C.M.",
+      "firstLine": "Lord, in the morning thou shalt hear"
+    },
+    "51b": {
+      "title": "Rockbridge",
+      "meter": "L.M.",
+      "firstLine": "Far from my thoughts, vain world, begone"
+    },
+    "52t": {
+      "title": "Rockingham",
+      "meter": "C.M.",
+      "firstLine": "My God, what endless pleasures dwell"
+    },
+    "52b": {
+      "title": "Silver Street",
+      "meter": "S.M.",
+      "firstLine": "Come, sound his name abroad"
+    },
+    "53t": {
+      "title": "Suffield",
+      "meter": "C.M.",
+      "firstLine": "Teach me the measure of my days"
+    },
+    "53b": {
+      "title": "Sophronia",
+      "meter": "P.M. or 5 and 10",
+      "firstLine": "Forbear, I ask no more"
+    },
+    "54": {
+      "title": "St. Lawrence",
+      "firstLine": "Rejoice, the Lord is King"
+    },
+    "55": {
+      "title": "Springfield",
+      "meter": "P.M. 7, 8",
+      "firstLine": "Jesus drinks the bitter cup"
+    },
+    "56t": {
+      "title": "Salvation",
+      "meter": "C.M.",
+      "firstLine": "O joyful sound of gospel grace"
+    },
+    "56b": {
+      "title": "Silver Spring",
+      "meter": "C.M.",
+      "firstLine": "I, even I shall see his face",
+      "musicAttribution": {
+        "credit": "Morgan"
+      }
+    },
+    "57t": {
+      "title": "St. Thomas",
+      "meter": "S.M.",
+      "firstLine": "Shall wisdom cry aloud"
+    },
+    "57b": {
+      "title": "Sicily",
+      "meter": "C.M.",
+      "firstLine": "Jesus, with all thy saints above"
+    },
+    "58t": {
+      "title": "Triumph",
+      "meter": "5, 5, 8, 5, 8, 5, 6",
+      "firstLine": "Begone, unbelief, my Saviour is near",
+      "musicAttribution": {
+        "credit": "Hamilton"
+      }
+    },
+    "58b": {
+      "title": "The Indian Philosopher",
+      "meter": "P.M.",
+      "firstLine": "Why should our joys transform to pain"
+    },
+    "59t": {
+      "title": "Thirtieth",
+      "meter": "S.M.",
+      "firstLine": "And am I born to die"
+    },
+    "59b": {
+      "title": "Twenty-Fourth",
+      "meter": "C.M.",
+      "firstLine": "Salvation! O the joyful sound"
+    },
+    "60": {
+      "title": "Tilden",
+      "meter": "L.M.",
+      "firstLine": "This life’s a dream, an empty show"
+    },
+    "61t": {
+      "title": "Tribulation",
+      "meter": "C.M.",
+      "firstLine": "Lord, what a wretched land is this"
+    },
+    "61b": {
+      "title": "Unitia",
+      "meter": "P.M. or 5s & 11s",
+      "firstLine": "O tell me no more of this world’s vain store",
+      "musicAttribution": {
+        "credit": "Chapin"
+      }
+    },
+    "62t": {
+      "title": "Vernon",
+      "meter": "L.M.",
+      "firstLine": "Come, O thou traveller unknown"
+    },
+    "62b": {
+      "title": "Warren",
+      "meter": "S.M.",
+      "firstLine": "Let all our tongues be one",
+      "musicAttribution": {
+        "credit": "Lane"
+      }
+    },
+    "63t": {
+      "title": "Winchester",
+      "meter": "L.M.",
+      "firstLine": "My refuge is the God of love",
+      "musicAttribution": {
+        "credit": "Williams"
+      }
+    },
+    "63b": {
+      "title": "Winter",
+      "meter": "C.M.",
+      "firstLine": "His hoary frost, his fleecy snow",
+      "musicAttribution": {
+        "credit": "D. Reed"
+      }
+    },
+    "64t": {
+      "title": "Windham",
+      "meter": "L.M.",
+      "firstLine": "Broad is the road that leads to death",
+      "musicAttribution": {
+        "credit": "D. Reed"
+      }
+    },
+    "64b": {
+      "title": "Wells",
+      "meter": "L.M.",
+      "firstLine": "Life is the time to serve the Lord",
+      "musicAttribution": {
+        "credit": "Holdray"
+      }
+    },
+    "67t": {
+      "title": "America",
+      "meter": "S.M.",
+      "firstLine": "Our days are as the grass",
+      "musicAttribution": {
+        "credit": "Wetmore"
+      }
+    },
+    "67b": {
+      "title": "Amity",
+      "meter": "P.M. or 6s & 8s",
+      "firstLine": "How pleas’d and blest was I",
+      "musicAttribution": {
+        "credit": "Reed"
+      }
+    },
+    "68": {
+      "title": "Allsaints New",
+      "meter": "L.M.",
+      "firstLine": "O if my Lord would come and meet",
+      "musicAttribution": {
+        "credit": "Hall"
+      }
+    },
+    "69": {
+      "title": "Bridgewater",
+      "meter": "L.M.",
+      "firstLine": "From all who dwell below the skies",
+      "musicAttribution": {
+        "credit": "Edson"
+      }
+    },
+    "70": {
+      "title": "Bristol",
+      "meter": "L.M.",
+      "firstLine": "Sweet is the work, my God, my King",
+      "musicAttribution": {
+        "credit": "Swan"
+      }
+    },
+    "71t": {
+      "title": "Babylonian Captivity",
+      "meter": "P.M.",
+      "firstLine": "Along the banks where Babel’s current flows",
+      "musicAttribution": {
+        "credit": "Dare"
+      }
+    },
+    "71b": {
+      "title": "Bridgetown",
+      "meter": "S.M.",
+      "firstLine": "Grace! ’tis a charming sound",
+      "musicAttribution": {
+        "credit": "Dare"
+      }
+    },
+    "72": {
+      "title": "Ballstown",
+      "meter": "L.M.",
+      "firstLine": "Great God! attend while Zion sings",
+      "musicAttribution": {
+        "credit": "Shumway"
+      }
+    },
+    "73t": {
+      "title": "Canaan",
+      "meter": "C.M.",
+      "firstLine": "Unite, my roving thoughts, unite"
+    },
+    "73b": {
+      "title": "Concord",
+      "meter": "S.M.",
+      "firstLine": "The hill of Zion yields a thousand sacred sweets",
+      "musicAttribution": {
+        "credit": "Holden"
+      }
+    },
+    "74": {
+      "title": "Content",
+      "meter": "S.M.",
+      "firstLine": "Since God is all my trust"
+    },
+    "75": {
+      "title": "David’s Lamentation",
+      "firstLine": "David the king was grieved and moved"
+    },
+    "76": {
+      "title": "Delight",
+      "meter": "P.M. 6s, 4s",
+      "firstLine": "No burning heats by day",
+      "musicAttribution": {
+        "credit": "Coan"
+      }
+    },
+    "77t": {
+      "title": "Dauphin",
+      "meter": "S.M.",
+      "firstLine": "For life without thy love"
+    },
+    "77b": {
+      "title": "Evening Shade",
+      "meter": "S.M.",
+      "firstLine": "The day is past and gone"
+    },
+    "78": {
+      "title": "Eastford",
+      "meter": "L.M.",
+      "firstLine": "When marching to thy blest abode",
+      "musicAttribution": {
+        "credit": "French"
+      }
+    },
+    "79": {
+      "title": "Florida",
+      "meter": "S.M.",
+      "firstLine": "Let sinners take their course",
+      "musicAttribution": {
+        "credit": "Wetmore"
+      }
+    },
+    "80": {
+      "title": "Exhortation",
+      "meter": "L.M.",
+      "firstLine": "Now is the accepted hour",
+      "musicAttribution": {
+        "credit": "Doolittle"
+      }
+    },
+    "81": {
+      "title": "Greenfield",
+      "meter": "P.M. 6 lines 8",
+      "firstLine": "God is our refuge in distress",
+      "musicAttribution": {
+        "credit": "Edson"
+      }
+    },
+    "82": {
+      "title": "Greenwich",
+      "meter": "L.M.",
+      "firstLine": "Lord, what a thoughtless wretch was I",
+      "musicAttribution": {
+        "credit": "D. Reed"
+      }
+    },
+    "83": {
+      "title": "Huntington",
+      "meter": "L.M.",
+      "firstLine": "Lord, what a thoughtless wretch was I",
+      "musicAttribution": {
+        "credit": "Morgan"
+      }
+    },
+    "84": {
+      "title": "Jordan",
+      "meter": "C.M.",
+      "firstLine": "There is a land of pure delight",
+      "musicAttribution": {
+        "credit": "W. Billings"
+      }
+    },
+    "85t": {
+      "title": "Lenox",
+      "meter": "P.M. 6s, 7s",
+      "firstLine": "Blow ye the trumpet, blow",
+      "musicAttribution": {
+        "credit": "Edson"
+      }
+    },
+    "85b": {
+      "title": "Liberty",
+      "meter": "C.M.",
+      "firstLine": "Of tyranny we mourn"
+    },
+    "86": {
+      "title": "Majesty",
+      "meter": "C.M.",
+      "firstLine": "The Lord descended from above",
+      "musicAttribution": {
+        "credit": "Billings"
+      }
+    },
+    "87": {
+      "title": "Montgomery",
+      "meter": "C.M.",
+      "firstLine": "Enslav’d by sin and bound in chains"
+    },
+    "88": {
+      "title": "Mortality",
+      "meter": "C.M.",
+      "firstLine": "Stop down, my thoughts, that us’d to rise",
+      "musicAttribution": {
+        "credit": "Griswold"
+      }
+    },
+    "89t": {
+      "title": "Melody",
+      "meter": "C.M.",
+      "firstLine": "Sweet is the mem’ry of thy grace"
+    },
+    "89b": {
+      "title": "North Salem",
+      "meter": "C.M.",
+      "firstLine": "My soul, come meditate the day"
+    },
+    "90": {
+      "title": "New Jerusalem",
+      "meter": "C.M.",
+      "firstLine": "From the third heav’n where God resides",
+      "musicAttribution": {
+        "credit": "Ingalls"
+      }
+    },
+    "91": {
+      "title": "Newburgh",
+      "meter": "C.M.",
+      "firstLine": "Let ev’ry creature join",
+      "musicAttribution": {
+        "credit": "Munson"
+      }
+    },
+    "92t": {
+      "title": "Norwich",
+      "meter": "S.M.",
+      "firstLine": "My sorrows like a flood",
+      "musicAttribution": {
+        "credit": "Kibbard"
+      }
+    },
+    "92b": {
+      "title": "Ninety-Fifth",
+      "meter": "C.M.",
+      "firstLine": "When I can read my title clear",
+      "musicAttribution": {
+        "credit": "Colton"
+      }
+    },
+    "93t": {
+      "title": "New Durham",
+      "meter": "C.M.",
+      "firstLine": "Hark! from the tombs a doleful sound",
+      "musicAttribution": {
+        "credit": "Austin"
+      }
+    },
+    "93b": {
+      "title": "Northfield",
+      "meter": "C.M.",
+      "firstLine": "How long, dear Saviour, O how long",
+      "musicAttribution": {
+        "credit": "Ingalls"
+      }
+    },
+    "94": {
+      "title": "Ocean",
+      "meter": "C.M.",
+      "firstLine": "Thy works of glory, mighty Lord",
+      "musicAttribution": {
+        "credit": "Swan"
+      }
+    },
+    "95": {
+      "title": "Ode on Science",
+      "firstLine": "The morning sun shines from the east"
+    },
+    "97": {
+      "title": "Portuguese Hymn",
+      "meter": "P.M.",
+      "firstLine": "Hither ye faithful haste with songs of triumph"
+    },
+    "98": {
+      "title": "Repentance",
+      "meter": "C.M.",
+      "firstLine": "O if my soul was form’d for woe"
+    },
+    "99t": {
+      "title": "Russia",
+      "meter": "L.M.",
+      "firstLine": "False are the men of high degree"
+    },
+    "99b": {
+      "title": "Sutton",
+      "meter": "C.M.",
+      "firstLine": "Save me, O God, the swelling floods"
+    },
+    "100": {
+      "title": "Southwell",
+      "meter": "P.M. or 8, 6",
+      "firstLine": "’Tis finish’d, so the Redeemer said",
+      "musicAttribution": {
+        "credit": "Carpenter"
+      }
+    },
+    "102": {
+      "title": "Sherburn",
+      "meter": "C.M.",
+      "firstLine": "Songs of immortal praise belong",
+      "musicAttribution": {
+        "credit": "D. Reed"
+      }
+    },
+    "103": {
+      "title": "Symphony",
+      "meter": "P.M.",
+      "firstLine": "Behold the Judge descends, his guards are nigh",
+      "musicAttribution": {
+        "credit": "Morgan"
+      }
+    },
+    "104t": {
+      "title": "Williamstown",
+      "meter": "L.M.",
+      "firstLine": "Show pity, Lord, O Lord forgive",
+      "musicAttribution": {
+        "credit": "Brown"
+      }
+    },
+    "104b": {
+      "title": "Whitestown",
+      "meter": "C.M.",
+      "firstLine": "Awake my heart, arise my tongue",
+      "musicAttribution": {
+        "credit": "Williams"
+      }
+    },
+    "105": {
+      "title": "Denmark",
+      "meter": "L.M.",
+      "firstLine": "Before Jehovah’s awful throne",
+      "musicAttribution": {
+        "credit": "Dr. Madan"
+      }
+    },
+    "108": {
+      "title": "Easter Anthem",
+      "firstLine": "The Lord is risen indeed",
+      "musicAttribution": {
+        "credit": "Billings"
+      }
+    },
+    "111": {
+      "title": "Judgment Anthem",
+      "firstLine": "Hark, ye mortals, hear the trumpet",
+      "musicAttribution": {
+        "credit": "Morgan"
+      }
+    },
+    "119": {
+      "title": "Kedron",
+      "firstLine": "Thou sweet gliding Kedron by thy silver stream"
+    },
+    "121": {
+      "title": "Newyork Anthem",
+      "firstLine": "Vital spark of heavenly flame"
+    },
+    "125": {
+      "title": "Washington",
+      "meter": "P.M.",
+      "firstLine": "Our souls, by love together knit"
+    }
+  }
+}

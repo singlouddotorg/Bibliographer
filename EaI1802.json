@@ -1,0 +1,827 @@
+{
+  "editionId": "e_EaI1802",
+  "workId": "w_EaI",
+  "editionCode": "EaI1802",
+  "editionIdentifierYear": "1802",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "The Easy Instructor",
+    "publicationYear": "1802"
+  },
+  "states": [],
+  "scholarlyRecord": null,
+  "sources": [],
+  "relationships": [],
+  "publicationStatus": null,
+  "internalNote": "Built from Kevin's own per-song extraction CSV (EaI1802_cumulative_extraction.csv, corrected), 105 songs, pages 17-99 (front matter and rudiments pages 1-16 have no song data; a title index confirmed present but used only for cross-checking, not as a separate source). Neither placePublished nor publisher are printed on the supplied title page and remain unresolved. Publication year 1802 is confirmed by Kevin directly as a recorded fact, despite not being printed on the supplied title page itself. Two apparent gaps surfaced during review and were resolved directly with Kevin against the real, physical page images before this build: page 30 is bare (just \"Russia\"), not split - the small fragment beside it is Calvary's own continuation from page 29.3, which also prints a \"Lyric Poems\" label, noted on Calvary's own record rather than treated as a real, separate tune; and page 68 is likewise bare (just \"Sunday\"), with the fragment below it (headed \"Water\") being Still-Water's own continuation from page 67b, not an independent tune. Continuation fragments are not assigned separate rows throughout, consistent with the rest of this extraction. No index cross-check against the book's own title index has been done yet beyond the extraction's own use of it for spot-checking; this is a first-pass build from the corrected extraction CSV.",
+  "songs": {
+    "17": {
+      "title": "Funeral",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "E Flat",
+      "firstLine": "Why do we mourn departing friends?",
+      "verseCount": 1
+    },
+    "18t": {
+      "title": "Washington New",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "The God of glory sends his summons forth",
+      "verseCount": 1,
+      "historicalNote": "The lower portion of page 17 is headed \"Washington. New. Continued. Flat Key on A.\"; the principal title heading appears on page 18, which also agrees with the title index."
+    },
+    "18b": {
+      "title": "XL",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "I waited patient for the Lord, he bowed to hear my cry",
+      "verseCount": 1,
+      "historicalNote": "The tune page titles the piece \"XL\"; the title index lists it as \"40th\" on page 18."
+    },
+    "19": {
+      "title": "Sutton",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "E Flat",
+      "firstLine": "Behold the man three score and ten upon a dying bed",
+      "verseCount": 1
+    },
+    "20t": {
+      "title": "Connecticut",
+      "meter": "P. M.",
+      "key": "D",
+      "firstLine": "Let all ye nations fear, God that rules above;",
+      "verseCount": 1
+    },
+    "20b": {
+      "title": "Rochester",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "verseCount": 1
+    },
+    "21t": {
+      "title": "Ocean",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "Thy works of glory mighty Lord, That rule ye boustrous seam",
+      "verseCount": 1
+    },
+    "21b": {
+      "title": "Enfield",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Before ye rosy dawn of day to thee my God I'll sing",
+      "verseCount": 1
+    },
+    "22": {
+      "title": "Solitude",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "'Tis from the heart oppressed with grief, where pity may be found",
+      "verseCount": 1
+    },
+    "23t": {
+      "title": "Alvah",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Sweet is the work, my God, my King",
+      "verseCount": 1
+    },
+    "23b": {
+      "title": "Saints Repose",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Death is to us a sweet repose",
+      "verseCount": 1
+    },
+    "24": {
+      "title": "Wels",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "verseCount": 1
+    },
+    "25t": {
+      "title": "Miflin",
+      "timeSignature": "C",
+      "key": "E"
+    },
+    "25b": {
+      "title": "Mortality",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "E Flat",
+      "firstLine": "Stoop down, thou busy dust to rise, Converse awhile with death",
+      "verseCount": 1
+    },
+    "26": {
+      "title": "Middlebury",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Deep in our hearts let us record the deeper sorrows of our Lord",
+      "verseCount": 1
+    },
+    "27": {
+      "title": "Devotion",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Fly fly me riches fly me cares",
+      "verseCount": 1
+    },
+    "28": {
+      "title": "Caldwell",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "D",
+      "firstLine": "Sweet is the work my God my King",
+      "verseCount": 1
+    },
+    "29.1": {
+      "title": "Aylesbury",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "A Flat"
+    },
+    "29.2": {
+      "title": "Lebanon",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A Flat"
+    },
+    "29.3": {
+      "title": "Calvary",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "My tho’ts, that often mount ye skies",
+      "verseCount": 1,
+      "historicalNote": "The continuation onto page 30 also prints the label \"Lyric Poems,\" possibly indicating the text's source collection rather than a separate tune title."
+    },
+    "30": {
+      "title": "Russia",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "False are the men of high degree",
+      "verseCount": 1
+    },
+    "31t": {
+      "title": "Lennox",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Ye tribes of Adam join with heaven, & earth, & seas, & offer notes divine",
+      "verseCount": 1
+    },
+    "31b": {
+      "title": "Montgomery",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Early my God without delay I haste to seek thy face",
+      "verseCount": 1
+    },
+    "32": {
+      "title": "XXXIV",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Through all the changing scenes of life",
+      "verseCount": 1
+    },
+    "33t": {
+      "title": "Invitation",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Come ye sinners poor & needy",
+      "verseCount": 1
+    },
+    "33b": {
+      "title": "Greenfield",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "God is our refuge in distress",
+      "verseCount": 1
+    },
+    "34t": {
+      "title": "Bunker-Hill",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Why should vain mortals tremble at ye sight of Death",
+      "verseCount": 1
+    },
+    "34b": {
+      "title": "Mear",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G"
+    },
+    "35t": {
+      "title": "Haverhill",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "D Flat",
+      "firstLine": "Alas the brittle clay that built our bodies first",
+      "verseCount": 1
+    },
+    "35b": {
+      "title": "Kittery",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Our Father who in heaven art, all hallowed be thy name",
+      "verseCount": 1
+    },
+    "36": {
+      "title": "Death's Alarm",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "D Flat",
+      "firstLine": "The rising morning can't ensure that we shall end the day",
+      "verseCount": 1
+    },
+    "37t": {
+      "title": "Pennsylvania",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "G Flat",
+      "firstLine": "When shall thy lovely face be seen",
+      "verseCount": 1
+    },
+    "37b": {
+      "title": "Sapphick Ode",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Why should vain mortals tremble at the sight of death and destruction",
+      "verseCount": 1
+    },
+    "39": {
+      "title": "Southwell",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "'Tis finished The Redeemer, full of mercy, died",
+      "verseCount": 1
+    },
+    "40": {
+      "title": "Mount-Vernon",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "All hail ye pow’rs of Jesus name Let saints & angels fall",
+      "verseCount": 1
+    },
+    "41": {
+      "title": "Meditation",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "My soul come meditate the day",
+      "verseCount": 1
+    },
+    "42t": {
+      "title": "Nativity",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A"
+    },
+    "42b": {
+      "title": "Amwell",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G"
+    },
+    "43": {
+      "title": "Franklin",
+      "meter": "An Ode",
+      "timeSignature": "C",
+      "key": "G"
+    },
+    "44t": {
+      "title": "Sherburne",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "D",
+      "firstLine": "While shepherds watched their flocks by night",
+      "verseCount": 1
+    },
+    "44b": {
+      "title": "Bridgewater",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "O come, loud anthems &c"
+    },
+    "45t": {
+      "title": "Repentance",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "F Flat",
+      "firstLine": "O my soul was form’d for woe",
+      "verseCount": 1
+    },
+    "45b": {
+      "title": "Jordan",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "There is a land of pure delight",
+      "verseCount": 1
+    },
+    "47t": {
+      "title": "Symphony",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "B",
+      "firstLine": "Behold ye judge descends, his guards are nigh",
+      "verseCount": 1
+    },
+    "47b": {
+      "title": "Newport",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "B Flat",
+      "firstLine": "I send the joys of earth away tempt not the mind",
+      "verseCount": 1
+    },
+    "49t": {
+      "title": "Virginia",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "E Flat",
+      "firstLine": "Thy word's ye raging winds controul, & rule the boistrous deep",
+      "verseCount": 1
+    },
+    "49b": {
+      "title": "Solemnity",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "B Flat",
+      "firstLine": "That awful day will surely come",
+      "verseCount": 1
+    },
+    "50t": {
+      "title": "Sylvan Stream",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Rise pleasant trees with shade the brink",
+      "verseCount": 1
+    },
+    "50b": {
+      "title": "Albany",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Behold ye morning sun Begins his glorious way",
+      "verseCount": 1
+    },
+    "51t": {
+      "title": "Silver-Spring",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "B Flat",
+      "firstLine": "Where  in heav’n without my God",
+      "verseCount": 1
+    },
+    "51b": {
+      "title": "Wastina",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Thy face in hallowed strains be sung",
+      "verseCount": 1
+    },
+    "52": {
+      "title": "Sutton",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "F Flat",
+      "firstLine": "Save me O God ye swelling flood",
+      "verseCount": 1
+    },
+    "53t": {
+      "title": "C XXXVI",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Hast thou not giv’n thy word to save thy soul from death",
+      "verseCount": 1
+    },
+    "53b": {
+      "title": "Greenwich",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E Flat",
+      "firstLine": "Lord what a thoughtless wretch was I",
+      "verseCount": 1
+    },
+    "55t": {
+      "title": "Montague",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "D Flat",
+      "firstLine": "Now let our mournful songs record",
+      "verseCount": 1
+    },
+    "55b": {
+      "title": "Hopewell",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "What is our God? or who can tell",
+      "verseCount": 1
+    },
+    "56": {
+      "title": "Acton",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G Flat",
+      "verseCount": 1
+    },
+    "57t": {
+      "title": "Ashfield",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Hark! ye mortals, hear the trumpet",
+      "verseCount": 1
+    },
+    "57b": {
+      "title": "Plymouth",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "D",
+      "firstLine": "Unthinking wretch, how could’st thou hope to please",
+      "verseCount": 1
+    },
+    "59t": {
+      "title": "Vengeance",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Adore & tremble, for our God is a consuming fire",
+      "verseCount": 1
+    },
+    "59b": {
+      "title": "North Orange",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Jesus the holy child shall fit",
+      "verseCount": 1
+    },
+    "61t": {
+      "title": "Cumberland",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "The God of glory sends his summons forth",
+      "verseCount": 1
+    },
+    "61b": {
+      "title": "Creation",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Let ev’ry creature join",
+      "verseCount": 1
+    },
+    "63t": {
+      "title": "Shipwreck",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "F Flat",
+      "firstLine": "Sav’d from ye ocean & tempestuous skyes",
+      "verseCount": 1
+    },
+    "63b": {
+      "title": "Admonition",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "D Flat",
+      "firstLine": "Infinite grace, Almighty charms",
+      "verseCount": 1
+    },
+    "65t": {
+      "title": "Troy",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Come sound his praise abroad & hymns of glory sing",
+      "verseCount": 1
+    },
+    "65b": {
+      "title": "Lisbon",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "D Flat",
+      "firstLine": "Return O God of love; return",
+      "verseCount": 1
+    },
+    "66t": {
+      "title": "Essex",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "verseCount": 1
+    },
+    "66b": {
+      "title": "Topsham",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Blest morning whose young dawning rays",
+      "verseCount": 1
+    },
+    "67t": {
+      "title": "Sterling",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "D Flat",
+      "firstLine": "Think, mighty God on feble man"
+    },
+    "67b": {
+      "title": "Still-Water",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "firstLine": "Dark was ye deep, the waters lay Confus’d & drowned ye land",
+      "verseCount": 1
+    },
+    "68": {
+      "title": "Sunday",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "How did by heart rejoice to hear My friends devoutly say",
+      "verseCount": 1
+    },
+    "69t": {
+      "title": "Maryland",
+      "meter": "Hymn 110 D. W. S. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "And must this body die, This mortal frame decay?",
+      "verseCount": 1
+    },
+    "69b": {
+      "title": "Carlisle",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Deep in our hearts let us record the deeper sorrows of our Lord",
+      "verseCount": 1
+    },
+    "70t": {
+      "title": "Lisbon",
+      "meter": "R. M.",
+      "timeSignature": "C",
+      "key": "B",
+      "firstLine": "Come sound his praise abroad And hymns of glory sing",
+      "verseCount": 1
+    },
+    "70b": {
+      "title": "New Hingham",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "verseCount": 1
+    },
+    "71t": {
+      "title": "Bristol",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "The lofty pillars of the sky",
+      "verseCount": 1
+    },
+    "71b": {
+      "title": "Middletown",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Hail the day that saw him rise",
+      "verseCount": 1
+    },
+    "73t": {
+      "title": "Delight",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "E Flat",
+      "firstLine": "No hope, no help, no God but thine",
+      "verseCount": 1
+    },
+    "73b": {
+      "title": "Complaint",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E Flat",
+      "firstLine": "Show pity Lord, O Lord forgive",
+      "verseCount": 1
+    },
+    "75t": {
+      "title": "Entreaty",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "D Flat",
+      "firstLine": "O God of my salvation hear",
+      "verseCount": 1
+    },
+    "75b": {
+      "title": "Surprise",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "D Flat",
+      "firstLine": "Our life contains a thousand springs & dies if one be gone",
+      "verseCount": 1
+    },
+    "77": {
+      "title": "CXIX",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "E Flat",
+      "firstLine": "Thy word the raging winds controul",
+      "verseCount": 1
+    },
+    "78t": {
+      "title": "Granby",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Death like an overflowing steam, sweeps us away our life’s a dream"
+    },
+    "78b": {
+      "title": "Williamstown",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "G Flat",
+      "firstLine": "Shew pity, Lord O Lord forgive",
+      "verseCount": 1
+    },
+    "79t": {
+      "title": "Walpole",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "B Flat",
+      "firstLine": "Oh! if my soul was form’d for woe, how would I vent my sighs",
+      "verseCount": 1
+    },
+    "79b": {
+      "title": "Balloon",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E Flat",
+      "firstLine": "Behold I fall before thy face",
+      "verseCount": 1
+    },
+    "81": {
+      "title": "Venus",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "Behold the lofty sky",
+      "verseCount": 1
+    },
+    "82t": {
+      "title": "Amanda",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Death like an overflowing steam, sweeps us away our life’s a dream"
+    },
+    "82b": {
+      "title": "Jubilee",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Blow ye ye trumpet blow ye trumpet blow",
+      "verseCount": 1
+    },
+    "83t": {
+      "title": "Westminster",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Thou great and glorious Lord of all",
+      "verseCount": 1
+    },
+    "83b": {
+      "title": "Canajohary",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Jehova ‘tis a glorious wod!",
+      "verseCount": 1
+    },
+    "85": {
+      "title": "Avon",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "At anchor laid remote from home",
+      "verseCount": 1
+    },
+    "86": {
+      "title": "Federal Ode",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Hail columbia happy land",
+      "verseCount": 1
+    },
+    "87t": {
+      "title": "Indian Bard",
+      "meter": "Lyric Poems",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Why should our joys transform to pain",
+      "textAttribution": {
+        "credit": "Lyrick Poems"
+      },
+      "verseCount": 1
+    },
+    "87b": {
+      "title": "Stafford",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "See what a living Stone",
+      "verseCount": 1
+    },
+    "88": {
+      "title": "America",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "verseCount": 1
+    },
+    "89": {
+      "title": "American's Lamentation for Washington",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Moun ye sons of America, for your chief is gone",
+      "verseCount": 1
+    },
+    "91": {
+      "title": "Canaan",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Who shall inhabit",
+      "verseCount": 1
+    },
+    "92": {
+      "title": "Lancaster",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "O God my heart is fully bent",
+      "verseCount": 1
+    },
+    "93": {
+      "title": "Hillsborough",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "As on some lonely building top",
+      "verseCount": 1
+    },
+    "94t": {
+      "title": "Carolina",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "Why should we moun departing friends pr shake at deaths alarms",
+      "verseCount": 1
+    },
+    "94b": {
+      "title": "Norwich",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "A Flat",
+      "firstLine": "My sorrows like a flood",
+      "verseCount": 1
+    },
+    "95": {
+      "title": "The Horse & His Rider, Exodus XV",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "I will singsing sing unto the Lord, for he hath triumphed gloriously"
+    },
+    "99": {
+      "title": "Judgment Anthem",
+      "timeSignature": "C",
+      "firstLine": "Hark ye mortals, raise the trumpet"
+    }
+  }
+}

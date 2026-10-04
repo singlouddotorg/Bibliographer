@@ -1,0 +1,352 @@
+{
+  "editionId": "e_KsH1999",
+  "workId": "w_KsH",
+  "editionCode": "KsH1999",
+  "editionIdentifierYear": "1999",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "Keystone Harmony",
+    "compiler": "Gabriel Kastelle and Doron A. Henkin",
+    "placePublished": "Philadelphia, PA",
+    "publicationYear": "1999",
+    "shapeSystem": "4-shape"
+  },
+  "songs": {
+    "1": {
+      "title": "Rockbridge",
+      "firstLine": "Sweet is the work my God my King",
+      "meter": "L. M.",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "L. Chapin",
+        "year": "1812"
+      }
+    },
+    "2t": {
+      "title": "Liberty Hall",
+      "firstLine": "My soul forsakes her vain delights",
+      "meter": "C.M.",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "L. Chapin",
+        "year": "1812"
+      }
+    },
+    "2b": {
+      "title": "Bethel",
+      "firstLine": "Let Zion and her sons rejoice",
+      "meter": "C.M.",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "A. Chapin",
+        "year": "1812"
+      }
+    },
+    "3": {
+      "title": "Chester",
+      "firstLine": "Let tyrants shake their iron rod",
+      "meter": "L.M.",
+      "textAttribution": {
+        "credit": "Billings"
+      },
+      "musicAttribution": {
+        "credit": "Billings",
+        "year": "1778"
+      }
+    },
+    "4": {
+      "title": "Pennsylvania",
+      "firstLine": "When shall thy lovely face be seen",
+      "meter": "L.M.",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "Shumway",
+        "year": "1793"
+      }
+    },
+    "6": {
+      "title": "Stephens",
+      "firstLine": "From whence does this union arise",
+      "meter": "8sD",
+      "textAttribution": {
+        "credit": "Prim Bap. Hym. 1902"
+      },
+      "musicAttribution": {
+        "credit": "Daly",
+        "year": "1996"
+      }
+    },
+    "7": {
+      "title": "Hosannah",
+      "firstLine": "Hosannah to Jesus",
+      "meter": "P.M.",
+      "musicAttribution": {
+        "credit": "\"Chapen\"",
+        "year": "1820"
+      }
+    },
+    "8": {
+      "title": "Redeeming Love",
+      "firstLine": "Sweet rivers of redeeming love",
+      "meter": "C.M.",
+      "textAttribution": {
+        "credit": "Arr. Cagle"
+      },
+      "musicAttribution": {
+        "credit": "Cagle",
+        "year": "1967"
+      }
+    },
+    "9": {
+      "title": "Thirtieth (Golden Hill)",
+      "firstLine": "And am I born to die?",
+      "meter": "S.M.",
+      "textAttribution": {
+        "credit": "C. Wesley"
+      },
+      "musicAttribution": {
+        "credit": "A. Chapin",
+        "year": "1816"
+      }
+    },
+    "10": {
+      "title": "O Turn Ye",
+      "firstLine": "O turn ye . . . For why will ye die?",
+      "meter": "11s",
+      "musicAttribution": {
+        "credit": "Mansfield",
+        "year": "1848"
+      }
+    },
+    "11": {
+      "title": "Relly's Third",
+      "firstLine": "Canaan promised is before",
+      "meter": "P.M.",
+      "textAttribution": {
+        "credit": "Relly"
+      },
+      "musicAttribution": {
+        "credit": "Hutchinson",
+        "year": "1998"
+      }
+    },
+    "12": {
+      "title": "Glastonbury",
+      "firstLine": "How swiftly time's revolving wheels",
+      "meter": "C.M.",
+      "textAttribution": {
+        "credit": "OldBaptHymnal #450"
+      },
+      "musicAttribution": {
+        "credit": "Bruce",
+        "year": "1993"
+      }
+    },
+    "13": {
+      "title": "Bunker Hill",
+      "firstLine": "Why should vain mortals tremble",
+      "meter": "11,11,5",
+      "textAttribution": {
+        "credit": "Niles"
+      },
+      "musicAttribution": {
+        "credit": "Unknown",
+        "year": "1793?"
+      }
+    },
+    "14": {
+      "title": "Deluge",
+      "firstLine": "Our God is the Lord (of the wind) . . .",
+      "meter": "P.M.",
+      "textAttribution": {
+        "credit": "Composer"
+      },
+      "musicAttribution": {
+        "credit": "Kincade",
+        "year": "1997"
+      }
+    },
+    "15": {
+      "title": "Dunlap's Creek",
+      "firstLine": "My God, my portion and my love",
+      "meter": "C..M.",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "Lewis",
+        "year": "1813"
+      }
+    },
+    "16": {
+      "title": "Pennsylvania (new)",
+      "firstLine": "By Babel's streams we sat and wept",
+      "meter": "C.M.",
+      "musicAttribution": {
+        "credit": "Randall",
+        "year": "1999"
+      }
+    },
+    "18": {
+      "title": "Mount Hope",
+      "firstLine": "Now the time has come",
+      "meter": "P.M.",
+      "textAttribution": {
+        "credit": "Composer"
+      },
+      "musicAttribution": {
+        "credit": "Hertzler",
+        "year": "1998"
+      }
+    },
+    "20": {
+      "title": "The Lord's Prayer",
+      "firstLine": "Our Father who in heaven art",
+      "meter": "P.M",
+      "textAttribution": {
+        "credit": "Paraph. by Composer"
+      },
+      "musicAttribution": {
+        "credit": "Kunkel",
+        "year": "1998"
+      }
+    },
+    "23": {
+      "title": "Kathleen",
+      "firstLine": "When I survey the wondrous cross",
+      "meter": "L.M.",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "Morris",
+        "year": "1998"
+      }
+    },
+    "24": {
+      "title": "Kingsfold",
+      "firstLine": "Come, let us use the grace divine",
+      "meter": "C.M.D.",
+      "textAttribution": {
+        "credit": "C. Wesley"
+      },
+      "musicAttribution": {
+        "credit": "Tweedy",
+        "year": "1998"
+      }
+    },
+    "25": {
+      "title": "Invitation (Supplication)",
+      "firstLine": "O thou that hear'st when sinners cry",
+      "meter": "L.M.",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "[A] Chapin",
+        "year": "1816"
+      }
+    },
+    "26": {
+      "title": "Hymn of the Dunkers",
+      "firstLine": "Wake, sisters, wake! The day star shines",
+      "meter": "L.M.",
+      "textAttribution": {
+        "credit": "Whittier"
+      },
+      "musicAttribution": {
+        "credit": "Bayer",
+        "year": "1996"
+      }
+    },
+    "27t": {
+      "title": "Consolation",
+      "firstLine": "Come humble sinner in whose breast",
+      "meter": "C.M.",
+      "textAttribution": {
+        "credit": "Jones"
+      },
+      "musicAttribution": {
+        "credit": "L. Chapin",
+        "year": "1812"
+      }
+    },
+    "27b": {
+      "title": "Harrisburg",
+      "firstLine": "O Mensch von dieser eitlen Erd!",
+      "meter": "C.M.",
+      "textAttribution": {
+        "credit": "Eyer Hymnal"
+      },
+      "musicAttribution": {
+        "credit": "J. Eyer",
+        "year": "1839"
+      }
+    },
+    "28": {
+      "title": "Melody",
+      "firstLine": "O how I have longed",
+      "meter": "11's",
+      "textAttribution": {
+        "credit": "anon. (R. Allen coll.)"
+      },
+      "musicAttribution": {
+        "credit": "Davisson",
+        "year": "1825"
+      }
+    },
+    "29": {
+      "title": "Willow Grove",
+      "firstLine": "My drowsy powr's why sleep ye so?",
+      "meter": "C.M.",
+      "musicAttribution": {
+        "credit": "unattr. (Sower?)",
+        "year": "1832"
+      }
+    },
+    "30t": {
+      "title": "Brier Island",
+      "firstLine": "Ye tribes of Adam Join",
+      "meter": "H.M.",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "Henkin",
+        "year": "1996"
+      }
+    },
+    "30b": {
+      "title": "Forsaken",
+      "firstLine": "Must God forever cast us off",
+      "meter": "C.M.",
+      "textAttribution": {
+        "credit": "Watts"
+      },
+      "musicAttribution": {
+        "credit": "Kastelle",
+        "year": "1998"
+      }
+    },
+    "32": {
+      "title": "Thy Will be Done",
+      "firstLine": "Why should our tears in sorrow flow",
+      "meter": "C.M.D.",
+      "textAttribution": {
+        "credit": "Bathurst"
+      },
+      "musicAttribution": {
+        "credit": "McGraw",
+        "year": "1989"
+      }
+    }
+  }
+}

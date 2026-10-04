@@ -1,0 +1,1207 @@
+{
+  "editionId": "e_WRS1820",
+  "workId": "w_WRS",
+  "editionCode": "WRS1820",
+  "editionIdentifierYear": "1820",
+  "schemaVersion": "1",
+  "book": {
+    "titleProper": "Wyeth's Repository of Sacred Music",
+    "publicationYear": "1820"
+  },
+  "states": [],
+  "scholarlyRecord": null,
+  "sources": [],
+  "relationships": [],
+  "publicationStatus": null,
+  "internalNote": "Built from Kevin's own per-song extraction CSV (WRS1820_cumulative_extraction.csv), 149 songs, pages 18-131 - the second edition of Wyeth's Repository of Sacred Music, Part Second, compiled by John Wyeth and printed by him in Harrisburgh, Pennsylvania. This edition belongs under the new w_WRS Work, created directly with Kevin during this build: distinct from both w_WyR (\"Wyeth's Repository of Sacred Music\", Part First, 1810 - a genuinely separate compilation, not just an earlier edition of this same book) and w_WR2 (\"Wyeth's Repository, Part II\", credited to \"Lowens, Irving, ed.\" - likely a modern, scholarly facsimile/bibliographic catalog entry, not the original compilation this edition actually is). The extraction's own index audit found a real, confirmed discrepancy worth preserving here: the book's own printed title index lists \"Minister's Farewell\" on page 112, but the actual page 112 contains \"Providence\" (112t) and \"Hallelujah\" (112b) instead, with \"Providence\" omitted from the index entirely. The tune-page evidence itself was retained rather than the index's own listing, matching the extraction's own stated preference for what's actually printed on the page over what an index claims. No other gaps or open continuations were reported by the extraction. This is a first-pass build from the extraction CSV alone.",
+  "songs": {
+    "18t": {
+      "title": "Brewer",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "Now to the pow'r of God supreme, Be everlasting honors giv'n;",
+      "verseCount": 1
+    },
+    "18b": {
+      "title": "Sharon",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "Come, ye that love the Lord, And let our joys be known;",
+      "verseCount": 3
+    },
+    "19": {
+      "title": "Vermont",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "In vain we lavish out our lives, To gather empty wind,",
+      "verseCount": 2
+    },
+    "20.1": {
+      "title": "Consolation",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Once more, my soul, the rising day, Salutes thy waking eyes;",
+      "verseCount": 1
+    },
+    "20.2": {
+      "title": "Twenty-Fourth",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Salvation! oh the joyful sound, 'Tis pleasure to our ears;",
+      "verseCount": 1
+    },
+    "20.3": {
+      "title": "Fiducia",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "key": "G",
+      "firstLine": "Father! I long, I faint to see The place of thine abode;",
+      "verseCount": 1
+    },
+    "21t": {
+      "title": "Vernon",
+      "meter": "L. M.",
+      "timeSignature": "2/4",
+      "key": "E",
+      "firstLine": "Lord, what a heav'n of saving grace, Shines thro' the beauties of thy face;",
+      "verseCount": 1
+    },
+    "21b": {
+      "title": "Ninety-Fifth",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "When I can read my title clear, To mansions in the skies,",
+      "verseCount": 1
+    },
+    "22": {
+      "title": "Mount Zion",
+      "meter": "S. M.",
+      "timeSignature": "6/8",
+      "key": "C",
+      "firstLine": "The hill of Zion yields a thousand sacred sweets,",
+      "verseCount": 1
+    },
+    "23t": {
+      "title": "Canaan",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Unite my roving thoughts unite, In silence soft and sweet:",
+      "verseCount": 1
+    },
+    "23b": {
+      "title": "Egypt",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "My God, my life, my love. To thee, to thee I call;",
+      "verseCount": 1
+    },
+    "24t": {
+      "title": "Ninety-Third",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "key": "C",
+      "firstLine": "Raise your triumphant songs, To an immortal tune,",
+      "verseCount": 1
+    },
+    "24b": {
+      "title": "Mount-Pleasant",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "My God the spring of all my joys, The life of my delights;",
+      "verseCount": 1
+    },
+    "25t": {
+      "title": "Trumpet",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "He comes! he comes! the trumpets sound, And loudly rends the vast profound:",
+      "verseCount": 2
+    },
+    "25b": {
+      "title": "Isle of Wight",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Lord, shall we part with gold for dross, With solid good for show?",
+      "verseCount": 1
+    },
+    "26t": {
+      "title": "Meirton",
+      "meter": "6's & 9.",
+      "timeSignature": "2/4",
+      "key": "D",
+      "firstLine": "Come let us ascend, My companion and friend, To a taste of the banquet above!",
+      "verseCount": 6
+    },
+    "26b": {
+      "title": "Windsor",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Now, Lord, another of thy days I have on earth enjoy'd;",
+      "verseCount": 1
+    },
+    "27t": {
+      "title": "Gospel Trumpet",
+      "meter": "8's & 4.",
+      "timeSignature": "2/4",
+      "firstLine": "Hark! how the gospel trumpet sounds, Thro' all the earth the echo bounds;",
+      "verseCount": 4
+    },
+    "27b": {
+      "title": "Waterford",
+      "meter": "6's & 8.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "How pleas'd & bless'd was I, To hear the people cry:",
+      "verseCount": 1
+    },
+    "28t": {
+      "title": "Dawning Light",
+      "meter": "10's.",
+      "timeSignature": "C",
+      "key": "B",
+      "firstLine": "In boundless mercy, gracious Lord appear; Darkness dispel-the humble mourner cheer;",
+      "verseCount": 1
+    },
+    "28b": {
+      "title": "Twenty-Fifth",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "I lift my soul to God; My trust is in his name,",
+      "verseCount": 1
+    },
+    "29t": {
+      "title": "Plymouth-Dock",
+      "meter": "L. P. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Jesus how precious is thy name! The great Jehovah's darling Thou!",
+      "verseCount": 4
+    },
+    "29b": {
+      "title": "Shields",
+      "meter": "8 & 7.",
+      "timeSignature": "2/4",
+      "key": "A",
+      "firstLine": "Come Thou fount of every blessing, Tune my heart to sing thy grace;",
+      "verseCount": 3
+    },
+    "30t": {
+      "title": "Harmony",
+      "meter": "10's & 11's.",
+      "timeSignature": "3/2",
+      "key": "B",
+      "firstLine": "O what shall I do my Saviour to praise! So faithful and true,",
+      "verseCount": 6
+    },
+    "30b": {
+      "title": "Georgia",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "How vain are all things here below, How false and yet how fair!",
+      "verseCount": 1
+    },
+    "31t": {
+      "title": "Nativity",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Come let us lift our joyful eyes, Up to the courts above,",
+      "verseCount": 1
+    },
+    "31b": {
+      "title": "Williamstown",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Shew pity, Lord; O Lord forgive; Let a repenting rebel live;",
+      "verseCount": 1
+    },
+    "32t": {
+      "title": "Hamilton",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "God is the refuge of his saints, When storms of sharp distress invade;",
+      "verseCount": 1
+    },
+    "32b": {
+      "title": "Winchester",
+      "meter": "7's.",
+      "timeSignature": "2/4",
+      "key": "G",
+      "firstLine": "Who is this that comes from far, Clad in garments dipt in blood?",
+      "verseCount": 1
+    },
+    "33": {
+      "title": "St. Johns",
+      "meter": "8. 8. 6.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Begin, my soul, th' exalted lay, Let each enraptur'd thought obey,",
+      "verseCount": 1
+    },
+    "34": {
+      "title": "Schenectady",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "From all who dwell below the skies, Let the Creator's praise arise,",
+      "verseCount": 1
+    },
+    "35": {
+      "title": "Boston",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "B",
+      "firstLine": "Methinks I see a heav'nly hosts of angels on the wing;",
+      "verseCount": 2
+    },
+    "36": {
+      "title": "Phœbus",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "Lord, in the morning thou shalt hear, My voice ascending high,",
+      "verseCount": 1
+    },
+    "37": {
+      "title": "Gospel Trump",
+      "timeSignature": "2/4; C; 2/4",
+      "key": "G",
+      "firstLine": "Let ev'ry mortal ear attend, And ev'ry heart rejoice;",
+      "verseCount": 2,
+      "historicalNote": "Includes a printed symphony and the instruction: \"It is better to omit the Symphonies in schools, where there are no instruments to accompany the voices.\""
+    },
+    "38": {
+      "title": "Bellevue",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "Ye tribes of Adam join, With heav'n & earth & seas,",
+      "verseCount": 1
+    },
+    "39t": {
+      "title": "Babylonian Captivity",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "Along the banks were Babel's current flows, Our captive bands in deep despondence stray'd,",
+      "verseCount": 1
+    },
+    "39b": {
+      "title": "Millville",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "We praise the Lord who heard our cries",
+      "verseCount": 1
+    },
+    "40": {
+      "title": "Forster",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Ye weary heavy laden souls, Who are oppressed sore;",
+      "verseCount": 8
+    },
+    "41": {
+      "title": "Pilgrim's Farewell",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Farewell, Farewell, Farewell, my friends, I must be gone.",
+      "verseCount": 4
+    },
+    "42t": {
+      "title": "Faeton",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "O God of mercy hear my call, My load of guilt remove;",
+      "verseCount": 1
+    },
+    "42b": {
+      "title": "Glasgow",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "This life's a dream, an empty show, But the bright world to which I go,",
+      "verseCount": 2
+    },
+    "43t": {
+      "title": "Kedron",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Thou man of grief, remember me, Thou never canst thyself forget;",
+      "verseCount": 1
+    },
+    "43b": {
+      "title": "Bridge Town",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Grace! 'tis a charming sound, Harmonious to the ear;",
+      "verseCount": 1
+    },
+    "44": {
+      "title": "Fall of Babylon",
+      "timeSignature": "C; 3/2",
+      "key": "G",
+      "firstLine": "In Gabriel's hand a mighty, mighty stone, Lies a fair type of Babylon.",
+      "verseCount": 1
+    },
+    "45": {
+      "title": "Road's-Town",
+      "meter": "P. M.",
+      "timeSignature": "6/4",
+      "key": "A",
+      "firstLine": "Blessed are the sons of God, They are blest with Jesus' blood;",
+      "verseCount": 1
+    },
+    "46": {
+      "title": "Mount Hope",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "Hark! hark, a Savior's voice, Mountains & hills rebound,",
+      "textAttribution": {
+        "credit": "T. Odiorne"
+      },
+      "verseCount": 1,
+      "historicalNote": "Printed designation: A Duet."
+    },
+    "47t": {
+      "title": "Dismission",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "D",
+      "firstLine": "Lord, dismiss us with thy blessing, Fill our hearts with joy and peace;",
+      "verseCount": 1,
+      "historicalNote": "Air marked for female voices."
+    },
+    "47b": {
+      "title": "Old German",
+      "timeSignature": "3/4",
+      "key": "A",
+      "firstLine": "O tell me no more, Of this world's vain store, The time for such trifles with me now is o'er",
+      "verseCount": 1
+    },
+    "48": {
+      "title": "Redemption Anthem",
+      "timeSignature": "C; 3/2; C",
+      "key": "G",
+      "firstLine": "Hark! hark, glad tidings charm our ears, Angelic music fills the spheres,",
+      "verseCount": 1
+    },
+    "50": {
+      "title": "Missionary",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "B",
+      "firstLine": "When I can read my title clear To mansions in the skies,",
+      "verseCount": 1,
+      "historicalNote": "Header reads \"Sharp Key on B.\""
+    },
+    "51": {
+      "title": "Madison",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Great Shepherd of thine Israel, Who didst between the cherubs dwell,",
+      "verseCount": 1
+    },
+    "52": {
+      "title": "Wilmington",
+      "meter": "P. M.",
+      "timeSignature": "2/4; C; 2/4; C",
+      "key": "G",
+      "firstLine": "Hark! Hark! Hark, the herald angels sing; Glory! Glory to the new born King.",
+      "verseCount": 4
+    },
+    "55": {
+      "title": "Exhortation",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Now in the heat of youthful blood, Remember your Creator, God;",
+      "verseCount": 1
+    },
+    "56": {
+      "title": "Fidelia",
+      "meter": "C. M.",
+      "timeSignature": "C; 6/4; 3/2; 6/4; C; 3/2",
+      "key": "A",
+      "firstLine": "As on some lonely building top The sparrow tells her moan,",
+      "verseCount": 1
+    },
+    "57t": {
+      "title": "Middle Paxton",
+      "meter": "P. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "No burning heats by day, Nor blasts of ev'ning air, Shall take my health away, If God be with me there.",
+      "verseCount": 1
+    },
+    "57b": {
+      "title": "Woburn",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Firm was my health, my day was bright, And I presum'd 'twould ne'er be night; Fondly I said within my heart, Pleasure and peace shall ne'er depart.",
+      "verseCount": 1
+    },
+    "58": {
+      "title": "Christian Song",
+      "meter": "L. M.",
+      "timeSignature": "6/4",
+      "key": "D",
+      "firstLine": "Mine eyes are now closing to rest, My body must soon be remov'd, And mould'ring, lie buried in dust, No more to be envy'd or lov'd.",
+      "verseCount": 1
+    },
+    "59": {
+      "title": "Liberty",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "No more beneath th' oppressive hand Of tyrany we mourn; Behold, the smiling happy land, That freedom calls her own.",
+      "verseCount": 1
+    },
+    "60": {
+      "title": "Judgment Anthem",
+      "timeSignature": "C; 6/8",
+      "key": "E",
+      "firstLine": "Hark! Hark, ye mortals, hear the trumpet sounding loud the mighty roar,",
+      "verseCount": 1
+    },
+    "68t": {
+      "title": "Castle Street",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "key": "G",
+      "firstLine": "Sweet is the work, my God my King, To praise thy name give thanks & sing; To show thy love by morning light, And talk of all thy truth at night.",
+      "verseCount": 1
+    },
+    "68b": {
+      "title": "Warren",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Let all our tongues be one, to praise our God on high, Who from his bosom sent his Son To fetch us strangers nigh.",
+      "verseCount": 1
+    },
+    "69t": {
+      "title": "Content",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Since God is all my trust, A refuge always nigh. Why should I like a tim'rous bird, Why, &c. To distant mountains fly.",
+      "verseCount": 1
+    },
+    "69b": {
+      "title": "Walsal",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Alas! and did my Savior bleed? And did my Sov'reign die? Would he devote that sacred head, For such a wretch as I?",
+      "verseCount": 1
+    },
+    "70": {
+      "title": "Hundred & Forty-Eighth",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "key": "G",
+      "firstLine": "Loud hallelujahs to the Lord, From distant worlds where creatures dwell; Let heav'n begin the solemn word, And sound it dreadful down to hell.",
+      "verseCount": 1
+    },
+    "71": {
+      "title": "Landaff",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Let sinners take their course, And choose the road to death, But in the worship of my God, I'll spend my daily breath.",
+      "verseCount": 1
+    },
+    "72": {
+      "title": "Thanksgiving Anthem",
+      "timeSignature": "2/4; 3/4; 4/4",
+      "key": "C",
+      "firstLine": "O be joyful in the Lord, all ye lands, Serve the Lord with gladness,",
+      "verseCount": 1
+    },
+    "76t": {
+      "title": "Interrogation",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "E",
+      "firstLine": "Shall we go on to sin, Because thy grace abounds, Because thy grace abounds, Or crucify the Lord again, And open all his wounds?",
+      "verseCount": 1
+    },
+    "76b": {
+      "title": "Solitude",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "A",
+      "firstLine": "Come lead me to some lonely shade, Where turtles moan their loves; Tall shadows were for lovers made, And grief becomes the groves.",
+      "verseCount": 1
+    },
+    "77t": {
+      "title": "Boston",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "F",
+      "firstLine": "My trust is in my heav'nly friend, My hope in thee, my God; Rise, and my helpless life defend, From those that seek my blood.",
+      "verseCount": 1
+    },
+    "77b": {
+      "title": "Newmark",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "G",
+      "firstLine": "Come, holy Spirit, heav'nly Dove, With all thy quick'ning pow'rs Kindle a flame of sacred love, In these cold hearts of ours.",
+      "verseCount": 1
+    },
+    "78t": {
+      "title": "Sounding Joy",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "D",
+      "firstLine": "Joy to the earth the Savior reigns; Let men their songs employ; While fields & floods, rocks, hills and plains, repeat the sounding joy.",
+      "verseCount": 1
+    },
+    "78b": {
+      "title": "Dependence",
+      "meter": "S. M.",
+      "timeSignature": "2/4",
+      "key": "A",
+      "firstLine": "But I with all my care, Will lean upon the Lord; I'll cast my burdens on his arm, And rest upon his word.",
+      "verseCount": 1
+    },
+    "79t": {
+      "title": "Redeeming Grace",
+      "meter": "9 & 8",
+      "timeSignature": "2/4",
+      "key": "G",
+      "firstLine": "Come all who love my Lord and Master, And join good David I will tell, Far as the east from west is parted, So far my sins by dying love From me by faith are separated, Blest antipast of joys above.",
+      "verseCount": 3
+    },
+    "79b": {
+      "title": "Christmas Hymn",
+      "meter": "11's",
+      "timeSignature": "3/4",
+      "key": "G",
+      "firstLine": "A virgin unspotted the prophets foretold, Should bring forth a Savior which now we behold;",
+      "verseCount": 2
+    },
+    "80": {
+      "title": "Triumph",
+      "meter": "11's",
+      "timeSignature": "2/4",
+      "key": "C",
+      "firstLine": "'Tis done! lo they come, bright celestials descend, Saints, angels, and seraphs, their symphonies lend;",
+      "verseCount": 1
+    },
+    "81t": {
+      "title": "Davis",
+      "meter": "11 & 8",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "O thou in whose presence my soul takes delight, On whom in afflictions I call, My comfort by day and my song in the night, My hope my salvation, my all.",
+      "verseCount": 10
+    },
+    "81b": {
+      "title": "Twenty-Third Psalm",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "My shepherd is the living Lord, Now shall my wants be well supply'd: His providence and holy word, Become my safety and my guide.",
+      "verseCount": 1
+    },
+    "82": {
+      "title": "Mountain",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "When some kind shepherd from his fold Has lost a straying sheep, Thro' vales, o'er hills, he anxious roves, And climbs the mountains steep.",
+      "verseCount": 1
+    },
+    "83": {
+      "title": "Lamentation",
+      "meter": "L. M.",
+      "timeSignature": "C; 6/4",
+      "key": "E",
+      "firstLine": "When we our wearied limbs to rest, Sat down by proud Euphrate's stream, We wept, we wept, we wept with doleful thoughts opprest, And Zion was our mournful theme.",
+      "verseCount": 1
+    },
+    "84": {
+      "title": "Farewell Anthem",
+      "timeSignature": "C; 2/4; 6/8; C; 6/4; 3/2",
+      "key": "A",
+      "firstLine": "My friends, I am going a long and tedious journey Never to return; I am going a long journey never to return.",
+      "verseCount": 1
+    },
+    "87": {
+      "title": "Vergennes",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "G",
+      "firstLine": "My heart and flesh cry out for thee, While far from thine abode; When shall I tread thy courts and see, My Savior and my God?",
+      "verseCount": 1
+    },
+    "88": {
+      "title": "All Saints New",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "D",
+      "firstLine": "Oh! if my Lord would come and meet, My soul should stretch her wings in haste, Fly fearless thro' death's iron gate, Nor feel the terrors as she pass'd.",
+      "verseCount": 1
+    },
+    "89": {
+      "title": "Marcus Hook",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "C",
+      "firstLine": "Sweet is the mem'ry of thy grace, My God, my heav'nly King; Let age to age thy righteousness In sounds of glory sing.",
+      "verseCount": 1
+    },
+    "90t": {
+      "title": "Exhortation",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "F",
+      "firstLine": "Lord, in the morning thou shalt hear My voice ascending high; To thee will I direct my prayer, To thee lift up mine eye.",
+      "verseCount": 1
+    },
+    "90b": {
+      "title": "Hinsdale",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "G",
+      "firstLine": "Thou wilt reveal the paths of life, And raise me to thy throne; Thy courts immortal pleasures give, Thy presence joys unknown.",
+      "verseCount": 1
+    },
+    "91": {
+      "title": "Worcester",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "key": "F",
+      "firstLine": "How beauteous are their feet, Who stand on Zion's hill! Who bring salvation on their tongues, And words of peace reveal.",
+      "verseCount": 1
+    },
+    "92t": {
+      "title": "Northfield",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "C",
+      "firstLine": "How long, dear Savior, O how long, Shall this bright hour delay; Fly swifter round the wheel of time, And bring the welcome day.",
+      "verseCount": 1
+    },
+    "92b": {
+      "title": "Kingwood",
+      "meter": "7's",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "Children of the heav'nly King, As we journey let us sing; Sing our Savior's worthy praise, Glorious in his works and ways.",
+      "verseCount": 1
+    },
+    "93t": {
+      "title": "Pardoning Grace",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "From deep distress and troubled thoughts, To thee, my God, I rais'd my cries: If thou severely mark our faults, No flesh can stand before thine eyes.",
+      "verseCount": 1
+    },
+    "93b": {
+      "title": "Miles's Lane",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "All hail the pow'r of Jesus' name, Let saints and angels fall; Bring forth the royal diadem, And crown him Lord of all.",
+      "verseCount": 5
+    },
+    "94": {
+      "title": "Springhill",
+      "meter": "P. M.",
+      "timeSignature": "6/4",
+      "key": "G",
+      "firstLine": "The Lord into his garden's come, The spices yield a rich perfume, The lilies grow and thrive.",
+      "verseCount": 9
+    },
+    "95t": {
+      "title": "Rockbridge",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "C",
+      "firstLine": "Far from my thoughts vain world be gone, Let my relig'ous hours alone; Fain would my eyes my Savior see, I wait a visit, Lord, from thee.",
+      "verseCount": 1
+    },
+    "95b": {
+      "title": "Saint Michael's",
+      "meter": "P. M.",
+      "timeSignature": "3/2",
+      "key": "C",
+      "firstLine": "O praise ye the Lord, Prepare your glad voice, His praise in the great assembly to sing; In their great Creator let all men rejoice, And heirs of salvation be glad in their King.",
+      "verseCount": 1
+    },
+    "96": {
+      "title": "Invitation",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "D",
+      "firstLine": "Come my beloved haste away, Cut short the hours of thy delay, Fly like a youthful hart or roe, Over the hills where spices grow.",
+      "verseCount": 1
+    },
+    "97t": {
+      "title": "Rockingham",
+      "meter": "C. M.",
+      "timeSignature": "2/2",
+      "key": "A",
+      "firstLine": "Salvation! O the joyful sound, What pleasure to our ears; A sov'reign balm for ev'ry wound, A cordial for our fears.",
+      "verseCount": 1
+    },
+    "97b": {
+      "title": "Unitia",
+      "meter": "10. 11. 10. 11.",
+      "timeSignature": "2/4",
+      "key": "G",
+      "firstLine": "O tell me no more of this world's vain store, The time for such trifles with me now is o'er. A country I've found, where true joys abound, To dwell I'm determin'd on that happy ground.",
+      "verseCount": 1
+    },
+    "98t": {
+      "title": "Ganges",
+      "meter": "8. 8. 6.",
+      "timeSignature": "3/2",
+      "key": "D",
+      "firstLine": "Awak'd by Sinai's awful sound, My soul in guilt and thrall I found, And knew not where to go; O'erwhelm'd in sin, with anguish slain, The sinner must be born again, Or sink in endless wo.",
+      "verseCount": 7
+    },
+    "98b": {
+      "title": "Happiness",
+      "meter": "6. 6.",
+      "timeSignature": "3/4",
+      "key": "A",
+      "firstLine": "O how happy are they, Who the Savior obey, And have laid up their treasures above; Tongue can never express The sweet comfort and peace Of a soul in its earliest love.",
+      "verseCount": 1
+    },
+    "99": {
+      "title": "The Band of Love",
+      "meter": "Duetto",
+      "timeSignature": "6/4; 2/4",
+      "key": "G",
+      "firstLine": "Our souls by love together knit, Cemented mix'd in one; One hope, one heart, one mind, one voice, 'Tis heav'n on earth begun. Our hearts have burn'd while Jesus spoke, And glow'd with sacred fire. He stop'd, and talk'd, and fed, and bless'd, And fill'd th' enlarg'd desire. A Savior let creation sing, A Savior let all heaven ring, He's God with us, We feel him ours.",
+      "verseCount": 3
+    },
+    "100.1": {
+      "title": "Saint Johns",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "G",
+      "firstLine": "Where are the mourners saith the Lord, That wait and tremble at my word, That walk in darkness all the day, Come make my name your trust and stay.",
+      "verseCount": 1
+    },
+    "100.2": {
+      "title": "Power",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "D",
+      "firstLine": "Death like an overflowing stream, Sweeps us away; our life's a dream, An empty tale, a morning flow'r, Cut down and withered in an hour.",
+      "verseCount": 1
+    },
+    "100.3": {
+      "title": "Willington",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "key": "A",
+      "firstLine": "Show pity, Lord, O Lord forgive; Let a repenting rebel live; Are not thy mercies large and free; May not a sinner trust in thee.",
+      "verseCount": 1
+    },
+    "101.1": {
+      "title": "Adoration",
+      "meter": "C. M.",
+      "timeSignature": "2/2",
+      "key": "C",
+      "firstLine": "Thee we adore, eternal name, And humbly own to thee, How feeble is our mortal frame! What dying worms are we!",
+      "verseCount": 1
+    },
+    "101.2": {
+      "title": "New Canaan",
+      "meter": "C. M.",
+      "timeSignature": "2/4",
+      "key": "G",
+      "firstLine": "On Jordan's stormy banks I stand, And cast a wishful eye To Canaan's fair and happy land, Where my possessions lie.",
+      "verseCount": 1
+    },
+    "101.3": {
+      "title": "Sublimity",
+      "meter": "C. M.",
+      "timeSignature": "6/4",
+      "key": "A",
+      "firstLine": "Before Jehovah's awful throne, Ye nations bow with sacred joy, Know that the Lord is God alone, He can create and he destroy.",
+      "verseCount": 1
+    },
+    "102t": {
+      "title": "Friendship",
+      "meter": "8. 6. 8. 6. 8. 8. 8. 6.",
+      "timeSignature": "3/2",
+      "key": "G",
+      "firstLine": "Friendship to ev'ry willing mind, Opens a heav'nly treasure, There may the sons of sorrow find, Sources of real pleasure. See what employments men pursue, Then you will own my words are true—Friendship alone presents to view Sources of real pleasure.",
+      "verseCount": 5
+    },
+    "102b": {
+      "title": "Shields",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "G",
+      "firstLine": "Infinite grief! amazing wo, Behold my bleeding Lord; Hell and the Jews conspir'd his death, And us'd the Roman sword.",
+      "verseCount": 1
+    },
+    "103t": {
+      "title": "Morality",
+      "meter": "Duetto",
+      "timeSignature": "2/4",
+      "key": "G",
+      "firstLine": "While beauty and youth are in their full prime, And folly and fashion affect our whole time, O let not the phantom our wishes engage, Let us live so in youth that we blush not in age.",
+      "verseCount": 6
+    },
+    "103b": {
+      "title": "Communion",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "E",
+      "firstLine": "The King of heav'n his table spreads, And dainties crown the board; Not Paradise with all its joys, Could such delight afford.",
+      "verseCount": 1
+    },
+    "104.1": {
+      "title": "New Monmouth",
+      "meter": "8. 7. 8. 7.",
+      "timeSignature": "2/4",
+      "key": "A",
+      "firstLine": "Come thou fount of ev'ry blessing, Tune my heart to sing thy grace; Streams of mercy never ceasing, Call for songs of loudest praise.",
+      "verseCount": 1
+    },
+    "104.2": {
+      "title": "Perseverance",
+      "meter": "11's",
+      "timeSignature": "2/4",
+      "key": "A",
+      "firstLine": "Thy mercy, my God, is the theme of my song, The joy of my heart and the boast of my tongue; Thy free grace alone from the first to the last, Hath won my affections and bound my soul fast.",
+      "verseCount": 1
+    },
+    "104.3": {
+      "title": "Restoration",
+      "meter": "10 & 11.",
+      "timeSignature": "6/4",
+      "key": "A",
+      "firstLine": "Ye captives restor'd, and saints of the Lord, Who follow the Lamb and are led by his word; Let's read it and see if we can agree, And pray for the spirit our leader to be.",
+      "verseCount": 3
+    },
+    "105t": {
+      "title": "Consolation",
+      "meter": "8's 6 & 8's",
+      "timeSignature": "6/8",
+      "key": "A",
+      "firstLine": "Come on my partners in distress, My comrades thro the wilderness, Who still your bodies feel, A while forget your griefs and fears, And look beyond this vale of tears, To that celestial hill.",
+      "verseCount": 7
+    },
+    "105b": {
+      "title": "Vienna",
+      "timeSignature": "2/4",
+      "key": "A",
+      "firstLine": "Rise, O Lord our God, Hear our mournful cry; To the world our hearts By our senses chained. If thou dost not change us, All our hopes must die. Change our stubborn wills, Turn us and forgive; Make us hate our sins; Work in us repentance; Show to us the Savior; Say unto us live.",
+      "verseCount": 1
+    },
+    "106t": {
+      "title": "Mendon",
+      "timeSignature": "3/2",
+      "key": "A",
+      "firstLine": "My Redeemer, let me be Quite happy at thy feet, Still to know myself and thee, Be this my bitter sweet. Look upon my infant state, And with a father's yearnings bless, Don't thy ransom'd child forget, Nor leave him in distress.",
+      "verseCount": 1
+    },
+    "106b": {
+      "title": "The Transport",
+      "meter": "12 & 11.",
+      "timeSignature": "2/4",
+      "key": "C",
+      "firstLine": "Ye children of Jesus who're bound to the kingdom, Attune all your voices and help me to sing, Sweet anthems of praises to my loving Jesus, For he is my prophet, my priest and my king; When Jesus found me astray I was going, His love did surround me and sav'd me from ruin, He kindly embrac'd me and freely he bless'd me, And taught me aloud his sweet praises to sing.",
+      "verseCount": 7
+    },
+    "107": {
+      "title": "Sterling",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "key": "E",
+      "firstLine": "Come ye that love the Lord, And let our joys be known, Join in a song of sweet accord, And thus surround the throne. The sorrows of the mind Be banish'd from the place; Religion never was design'd To make our pleasures less.",
+      "verseCount": 1
+    },
+    "108t": {
+      "title": "Washington",
+      "meter": "L. M.",
+      "timeSignature": "6/8",
+      "key": "A",
+      "firstLine": "A soldier, Lord, thou hast me made, Thou art my captain, king and head, And under thee I still would fight—The fight of faith, all in thy sight. The cross all stain'd and hallow'd blood, The ensign of our cause in God, The soldier's heav'nly standard is; And I will fight for King Jesus.",
+      "verseCount": 4
+    },
+    "108b": {
+      "title": "Animation",
+      "meter": "8 & 7. with Chorus.",
+      "timeSignature": "3/2",
+      "key": "A",
+      "firstLine": "Come thou fount of every blessing, Tune my heart to sing thy grace; Streams of mercy never ceasing, Call for songs of loudest praise. O glory, glory, Hallelujah, Glory be to God who reigns on high.",
+      "verseCount": 1
+    },
+    "109t": {
+      "title": "Messiah",
+      "meter": "8 8 8 5 8 8 8 8 5",
+      "timeSignature": "C",
+      "key": "A",
+      "firstLine": "The Son of man they did betray, He was condemn'd and led away; Think, O my soul, that mournful day, Look on Mount Calvary! Behold him lamb-like led along, Surrounded by a wicked throng, Accused by each lying tongue, And thus the Lamb of God was hung, Upon the shameful tree.",
+      "verseCount": 8
+    },
+    "109b": {
+      "title": "Solicitude",
+      "meter": "11 & 8.",
+      "timeSignature": "2/4",
+      "key": "G",
+      "firstLine": "O thou in whose presence my soul takes delight, On whom in afflictions I call; My comfort by day and my song in the night, My hope, my salvation, my all.",
+      "verseCount": 1,
+      "historicalNote": "For the residue of this hymn, see page 81."
+    },
+    "110": {
+      "title": "Pastoral",
+      "meter": "L. P. M.",
+      "timeSignature": "3/2",
+      "key": "F",
+      "firstLine": "The Lord my pasture shall prepare, And feed me with a shepherd's care; His presence will my wants supply, And guard me with a watchful eye. My noon-day walks he will attend, And all my midnight hours defend.",
+      "verseCount": 1
+    },
+    "111t": {
+      "title": "Gallilee",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "C",
+      "firstLine": "Up to the hills where angels lie And living waters gently roll, Fain would my thoughts leap out and fly, But sin hangs heavy on my soul.",
+      "verseCount": 1
+    },
+    "111b": {
+      "title": "Africa",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "C",
+      "firstLine": "Now shall my inward joys arise, And burst into a song; Almighty love inspires my heart, And pleasure tunes my tongue.",
+      "verseCount": 1
+    },
+    "112t": {
+      "title": "Providence",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "A",
+      "firstLine": "What shall I render to my God, For all his kindness shown? My feet shall visit thine abode, My songs address thy throne.",
+      "musicAttribution": {
+        "credit": "C. Curtis"
+      },
+      "verseCount": 1
+    },
+    "112b": {
+      "title": "Hallelujah",
+      "meter": "8 & 7.",
+      "timeSignature": "3/2",
+      "key": "F",
+      "firstLine": "Come thou fount of ev'ry blessing, Tune my heart to sing thy grace; Streams of mercy never ceasing, Call for songs of loudest praise. Teach me some melodious sonnet, Sung by flaming tongues above; Praise the mount, O fix me on it, Mount of God's unchanging love.",
+      "verseCount": 1
+    },
+    "113t": {
+      "title": "Concert",
+      "meter": "8 & 7.",
+      "timeSignature": "2/4",
+      "key": "A",
+      "firstLine": "Come thou fount of ev'ry blessing, Tune my heart to sing thy grace, Streams of mercy ever flowing Call for songs of highest praise. Teach me some melodious sonnet, Sung by flaming tongues above; Praise the mount, O fix me on it, Mount of God's unchanging love.",
+      "verseCount": 1
+    },
+    "113b": {
+      "title": "Salford",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "A",
+      "firstLine": "Nor from the dust affliction grows, Nor troubles rise by chance; But we are born to cares and woes, A sad inheritance.",
+      "verseCount": 1
+    },
+    "114t": {
+      "title": "Seaman's Song",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "C",
+      "firstLine": "Would you behold the works of God, His wonders in the world abroad, Go with the mariner and trace The unknown regions of the seas.",
+      "verseCount": 1
+    },
+    "114b": {
+      "title": "German Hymn",
+      "meter": "L. M.",
+      "timeSignature": "3/2",
+      "key": "B",
+      "firstLine": "So fades the lovely blooming flow'r, Frail smiling solace of an hour! So soon our transient comforts fly, And pleasure only blooms to die.",
+      "verseCount": 1
+    },
+    "115": {
+      "title": "David's Lamentation",
+      "timeSignature": "2/4",
+      "key": "A",
+      "firstLine": "David the king was grieved and moved; he went to his chamber, his chamber and wept: And as he went, he wept, and said; O my son! O my son! Would to God I had died, would to God I had died, would to God I had died for thee, O Absalom, my son, my son.",
+      "verseCount": 1
+    },
+    "116": {
+      "title": "Lonsdale",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "The hill of Zion yields, A thousand sacred sweets, Before we reach the heav'nly fields Or walk the golden streets. Then let our songs abound, And ev'ry tear be dry, We're marching to Immanuel's ground To fairer worlds on high.",
+      "verseCount": 1
+    },
+    "117": {
+      "title": "Spaldwic",
+      "meter": "S. M.",
+      "timeSignature": "3/2",
+      "key": "A",
+      "firstLine": "Defend me Lord from shame, For still I trust in thee. As just and righteous is thy name, From dangers set me free.",
+      "verseCount": 1
+    },
+    "118": {
+      "title": "Sappho",
+      "meter": "11's & 5",
+      "timeSignature": "3/2",
+      "key": "C",
+      "firstLine": "When the fierce north wind, with his airy forces, Rears up the Baltic to a foaming fury, And the red lightning with a storm of hail, comes, Rushing amain down.",
+      "verseCount": 1
+    },
+    "119": {
+      "title": "Hermit",
+      "meter": "11.",
+      "timeSignature": "3/2",
+      "key": "E",
+      "firstLine": "'Tis night, and the landscape is lovely no more; For morn is approaching your charms to restore, I mourn, but ye woodlands I mourn not for you; Perfum'd with fresh fragrance and glitt'ring with dew; Nor yet for the ravage of winter I mourn, But when shall spring visit the mouldering urn! Kind nature the embryo blossoms shall save, O when shall it dawn on the night of the grave!",
+      "verseCount": 1
+    },
+    "120": {
+      "title": "Friendship",
+      "meter": "9's 8's & 6.",
+      "timeSignature": "2/4",
+      "key": "C",
+      "firstLine": "Ye simple souls that stray, Far from the paths of peace; That unfrequented way, To life and happiness; How long will ye your folly love, And throng the downward road, And hate the wisdom from above, And mock the sons of God.",
+      "verseCount": 4
+    },
+    "121t": {
+      "title": "Heavenly Union",
+      "meter": "8's.",
+      "timeSignature": "6/8",
+      "key": "G",
+      "firstLine": "Come, saints and sinners, hear me tell The wonders of Emmanuel, Who sav'd me from a burning hell, And brought my soul with him to dwell, And gave me heav'nly union.",
+      "verseCount": 10
+    },
+    "121b": {
+      "title": "Easter",
+      "timeSignature": "3/2",
+      "key": "G",
+      "firstLine": "He dies! the friend of sinners dies! Lo Salem's daughters weep around, A solemn darkness veils the skies; A sudden trembling shakes the ground. Come saints and drop a tear or two For him who groan'd beneath your load; He shed a thousand drops for you, A thousand drops of richest blood.",
+      "verseCount": 3
+    },
+    "124": {
+      "title": "Bethlehem",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "E",
+      "firstLine": "While shepherds watch'd their flocks by night, All seated on the ground, The angel of the Lord came down, And glory shone around.",
+      "verseCount": 1
+    },
+    "125": {
+      "title": "Participation",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "G",
+      "firstLine": "Jesus, with all thy saints above, My tongue would bear her part; Would sound aloud thy saving love, And sing thy bleeding heart.",
+      "verseCount": 1
+    },
+    "126t": {
+      "title": "Hollis",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "D",
+      "firstLine": "My soul come meditate the day, And think how near it stands, When thou must quit this house of clay, When thou, &c.",
+      "verseCount": 1
+    },
+    "126b": {
+      "title": "Silver-Street",
+      "meter": "S. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Come, ye who love the Lord, And let our joys be known, Join in a song with sweet accord, And thus surround the throne.",
+      "verseCount": 1
+    },
+    "127": {
+      "title": "Redeeming Love",
+      "meter": "7's.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Now begin the heav'nly theme, Sing aloud in Jesus' name; Ye, who his salvation prove, Triumph in redeeming love.",
+      "verseCount": 4
+    },
+    "128": {
+      "title": "Plainfield",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Let him to whom we now belong, His sov'reign right assert, And take up ev'ry thankful song, And ev'ry loving heart. He justly claims us for his own, Who bo't us with a price! The christian lives to Christ alone, To Christ alone he dies.",
+      "verseCount": 1
+    },
+    "129": {
+      "title": "Cowper",
+      "meter": "L. M.",
+      "timeSignature": "C",
+      "key": "G",
+      "firstLine": "Forgive the song that falls so low Beneath the gratitude I owe; It means thy praise however poor, An angel's song can do no more.",
+      "verseCount": 1
+    },
+    "130t": {
+      "title": "Trinity",
+      "meter": "C. M.",
+      "timeSignature": "3/2",
+      "key": "F",
+      "firstLine": "Now shall my head be lifted high, Above my foes around; And songs of joy and victory Within thy temple sound.",
+      "verseCount": 1
+    },
+    "130b": {
+      "title": "Islington",
+      "meter": "L. M.",
+      "timeSignature": "3/4",
+      "key": "C",
+      "firstLine": "This life's a dream an empty show, But the bright world to which I go, Hath joys substantial & sincere, When shall I wake, When &c. And find me there.",
+      "verseCount": 1
+    },
+    "131t": {
+      "title": "Omega",
+      "meter": "C. M.",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "My Savior, my almighty friend, When I begin thy praise, Where will the growing numbers end, The numbers of thy grace? Awake, awake my tuneful pow'rs With this delightful song; I'll entertain the darkest hours, Nor think the season long.",
+      "verseCount": 1
+    },
+    "131b": {
+      "title": "Doxology",
+      "timeSignature": "C",
+      "key": "C",
+      "firstLine": "Now unto the King eternal, immortal, invisible, the only wise God, Be honor, and glory, thro Jesus Christ, forever & ever, amen.",
+      "verseCount": 1
+    }
+  }
+}
